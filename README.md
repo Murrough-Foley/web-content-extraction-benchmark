@@ -35,14 +35,12 @@ Results of evaluation on **1,507 modern web pages** (January 2025):
 | Extractor | F1 Score | Precision | Recall | With% ↑ | Without% ↓ |
 |-----------|----------|-----------|--------|---------|------------|
 | **[rs-trafilatura](https://github.com/Murrough-Foley/rs-trafilatura)** | **0.688** | 0.622 | **0.870** | **56.8%** | 6.6% |
-| [trafilatura](https://github.com/adbar/trafilatura) | 0.657 | 0.616 | 0.818 | 55.9% | **5.9%** |
+| [trafilatura](https://github.com/adbar/trafilatura) | 0.657 | 0.616 | 0.818 | 55.9% | **5.6%** |
 | [dom-smoothie](https://crates.io/crates/dom-smoothie) | 0.654 | 0.604 | 0.823 | 54.8% | 5.6% |
 | [dom-content-extraction](https://crates.io/crates/dom_content_extraction) | 0.605 | 0.556 | 0.814 | 51.5% | 17.3% |
 | [boilerpy3](https://github.com/jmriebold/BoilerPy3) (DefaultExtractor) | 0.602 | 0.543 | 0.789 | 50.9% | 13.6% |
 | [boilerpy3](https://github.com/jmriebold/BoilerPy3) (ArticleExtractor) | 0.584 | **0.574** | 0.700 | 41.7% | 7.5% |
 | [beautifulsoup](https://www.crummy.com/software/BeautifulSoup/) | 0.576 | 0.554 | 0.745 | 38.8% | 8.9% |
-| [nanohtml2text](https://crates.io/crates/nanohtml2text) | 0.536 | 0.413 | 0.908 | 55.7% | 57.7% |
-| [fast-html2md](https://crates.io/crates/fast_html2md) | 0.527 | 0.406 | 0.891 | 49.7% | 49.9% |
 | [readability-lxml](https://github.com/buriy/python-readability) | 0.503 | 0.399 | 0.834 | 36.0% | 12.0% |
 
 **Metric explanations:**
@@ -55,10 +53,9 @@ Results of evaluation on **1,507 modern web pages** (January 2025):
 ### Key Findings
 
 1. **rs-trafilatura achieves the highest F1 score (0.688)** among tested extractors, with excellent recall (87%)
-2. **trafilatura (Python)** follows closely with F1 of 0.657 and the lowest boilerplate leakage (5.9%)
+2. **trafilatura (Python)** follows closely with F1 of 0.657 and the lowest boilerplate leakage (5.6%)
 3. **Rust-based extractors** (rs-trafilatura, dom-smoothie, dom-content-extraction) show competitive performance
-4. **Full-text extractors** (nanohtml2text, fast-html2md) have high recall but poor precision—they extract too much boilerplate
-5. **Modern web is harder**: All extractors score lower on 2025 web pages compared to legacy benchmarks
+4. **Modern web is challenging**: All extractors score lower on 2025 web pages compared to legacy benchmarks
 
 ---
 
@@ -190,8 +187,6 @@ The following content extraction libraries have been evaluated on this benchmark
 | **rs-trafilatura** | Rust port of trafilatura | [rs-trafilatura](https://github.com/Murrough-Foley/rs-trafilatura) |
 | **dom-smoothie** | Readability-based extraction | [dom-smoothie](https://crates.io/crates/dom-smoothie) |
 | **dom_content_extraction** | CETR/CETD algorithm implementation | [dom_content_extraction](https://crates.io/crates/dom_content_extraction) |
-| **nanohtml2text** | Lightweight HTML to text converter | [nanohtml2text](https://crates.io/crates/nanohtml2text) |
-| **fast_html2md** | HTML to Markdown converter | [fast_html2md](https://crates.io/crates/fast_html2md) |
 
 ### Other Notable Libraries (Not Yet Benchmarked)
 
