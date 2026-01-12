@@ -6,7 +6,7 @@
 [![Python 3.6+](https://img.shields.io/badge/Python-3.6+-green.svg)](https://www.python.org/)
 [![Dataset: 1,507 pages](https://img.shields.io/badge/Dataset-1%2C507%20pages-orange.svg)](#dataset)
 
-This benchmark provides **1,507 modern web pages** (collected in 2025) with AI-generated ground truth annotations for evaluating article body extraction quality. It uses the same evaluation methodology as the widely-cited [ScrapingHub Article Extraction Benchmark](https://github.com/scrapinghub/article-extraction-benchmark), enabling direct comparison while providing 8× more test pages from the modern web.
+This benchmark provides **1,507 modern web pages** (collected in 2026) with AI-generated ground truth annotations for evaluating article body extraction quality. It uses the same evaluation methodology as the widely-cited [ScrapingHub Article Extraction Benchmark](https://github.com/scrapinghub/article-extraction-benchmark), enabling direct comparison while providing 8× more test pages from the modern web.
 
 ---
 
@@ -30,7 +30,7 @@ This benchmark provides **1,507 modern web pages** (collected in 2025) with AI-g
 
 ## Results
 
-Results of evaluation on **1,507 modern web pages** (January 2025):
+Results of evaluation on **1,507 modern web pages** (January 2026):
 
 | Extractor | F1 Score | Precision | Recall | With% ↑ | Without% ↓ |
 |-----------|----------|-----------|--------|---------|------------|
@@ -55,9 +55,9 @@ Results of evaluation on **1,507 modern web pages** (January 2025):
 1. **rs-trafilatura achieves the highest F1 score (0.688)** on this modern web benchmark, with excellent recall (87%)
 2. **trafilatura (Python)** follows closely with F1 of 0.657 and the lowest boilerplate leakage (5.6%)
 3. **Rust-based extractors** (rs-trafilatura, dom-smoothie, dom-content-extraction) show competitive performance
-4. **Modern web is challenging**: All extractors score lower on 2025 web pages compared to legacy benchmarks
+4. **Modern web is challenging**: All extractors score lower on 2026 web pages compared to legacy benchmarks
 
-> **Note on legacy HTML:** On the [ScrapingHub benchmark](https://github.com/scrapinghub/article-extraction-benchmark) (184 pages from 2019), **trafilatura (Python) achieves F1 of 0.958**, outperforming most other libraries on legacy web pages. The modern web benchmark presented here tests against 2025 design patterns, which pose different challenges. We recommend evaluating extractors on both benchmarks for comprehensive assessment.
+> **Note on legacy HTML:** On the [ScrapingHub benchmark](https://github.com/scrapinghub/article-extraction-benchmark) (184 pages from 2019), **trafilatura (Python) achieves F1 of 0.958**, outperforming most other libraries on legacy web pages. The modern web benchmark presented here tests against 2026 design patterns, which pose different challenges. We recommend evaluating extractors on both benchmarks for comprehensive assessment.
 
 ---
 
@@ -92,7 +92,7 @@ my-extractor             0.725 +/- 0.009  0.698 +/- 0.011  0.754 +/- 0.008  0.14
 |----------|-------|
 | **Total pages** | 1,507 |
 | **Unique domains** | 1,507 (100% diverse) |
-| **Collection date** | 2025 |
+| **Collection date** | 2026 |
 | **Ground truth method** | AI-generated with quality review |
 | **HTML storage** | Gzip-compressed |
 | **Total size** | ~83 MB |
@@ -126,7 +126,6 @@ Pages were carefully filtered to ensure benchmark quality:
 - ✅ **Included**: Article pages with substantial main content
 - ❌ **Excluded**: Category/archive pages, product listings, directory pages
 - ❌ **Excluded**: Pages with very short content (<500 characters)
-- ❌ **Excluded**: Pages where extraction consistently failed
 
 ---
 
@@ -281,10 +280,10 @@ This benchmark follows the methodology established by [ScrapingHub's Article Ext
 
 ### Side-by-Side Comparison
 
-| Aspect | ScrapingHub (2019) | This Benchmark (2025) |
+| Aspect | ScrapingHub (2019) | This Benchmark (2026) |
 |--------|--------------------|-----------------------|
 | **Number of pages** | 184 | **1,507** |
-| **Collection year** | 2019 | **2025** |
+| **Collection year** | 2019 | **2026** |
 | **Unique domains** | ~100 | **1,507** |
 | **Ground truth method** | Manual annotation | AI + quality review |
 | **Evaluation metrics** | P/R/F1/Accuracy | P/R/F1/Accuracy + snippets |
@@ -299,7 +298,7 @@ This benchmark follows the methodology established by [ScrapingHub's Article Ext
 - Good for comparing against historical results
 
 **This Benchmark:**
-- Modern web pages (2025 design patterns)
+- Modern web pages (2026 design patterns)
 - 8× larger dataset for statistical significance
 - Tests against contemporary challenges (SPAs, paywalls, cookie banners)
 - Snippet validation catches edge cases
@@ -327,7 +326,7 @@ A naive approach extracting all text will capture far more noise than signal. So
 
 The web has evolved significantly since 2019:
 
-| Challenge | 2019 | 2025 |
+| Challenge | 2019 | 2026 |
 |-----------|------|------|
 | **JavaScript frameworks** | jQuery, basic React | Next.js, complex SPAs |
 | **Layout patterns** | Simple grids | CSS Grid, Flexbox, containers |
@@ -336,11 +335,11 @@ The web has evolved significantly since 2019:
 | **AI-generated content** | Minimal | Increasingly common |
 | **Dark patterns** | Few | Newsletter popups, notification requests |
 
-**Extractors optimized for 2019 web pages may struggle with 2025 patterns.** This benchmark provides a modern testbed.
+**Extractors optimized for 2019 web pages may struggle with 2026 patterns.** This benchmark provides a modern testbed.
 
 ### Key Features
 
-- ✅ **Modern dataset**: 1,507 pages from 2025
+- ✅ **Modern dataset**: 1,507 pages from 2026
 - ✅ **Diverse sources**: Every page from a unique domain
 - ✅ **Zero dependencies**: Evaluation uses only Python standard library
 - ✅ **Industry-standard metrics**: Compatible with ScrapingHub methodology
@@ -429,10 +428,10 @@ You are free to:
 If you use this benchmark in your research or development, please cite:
 
 ```bibtex
-@misc{web-content-extraction-benchmark-2025,
+@misc{web-content-extraction-benchmark-2026,
   title={Web Content Extraction Benchmark},
   author={Foley, Murrough},
-  year={2025},
+  year={2026},
   url={https://github.com/Murrough-Foley/web-content-extraction-benchmark},
   note={A benchmark dataset of 1,507 modern web pages for evaluating content extraction algorithms}
 }
