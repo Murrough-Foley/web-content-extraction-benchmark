@@ -37,6 +37,8 @@ Results of evaluation on **1,507 modern web pages** (January 2026):
 | **[rs-trafilatura](https://github.com/Murrough-Foley/rs-trafilatura)** | **0.688** | 0.622 | **0.870** | **56.8%** | 6.6% |
 | [trafilatura](https://github.com/adbar/trafilatura) | 0.657 | 0.616 | 0.818 | 55.9% | **5.6%** |
 | [dom-smoothie](https://crates.io/crates/dom-smoothie) | 0.654 | 0.604 | 0.823 | 54.8% | 5.6% |
+| [go-trafilatura](https://github.com/markusmobius/go-trafilatura) | 0.620 | 0.537 | 0.733 | 56.5% | 6.3% |
+| [go-readability](https://github.com/go-shiori/go-readability) | 0.608 | 0.521 | 0.729 | 55.1% | 6.0% |
 | [dom-content-extraction](https://crates.io/crates/dom_content_extraction) | 0.605 | 0.556 | 0.814 | 51.5% | 17.3% |
 | [boilerpy3](https://github.com/jmriebold/BoilerPy3) (DefaultExtractor) | 0.602 | 0.543 | 0.789 | 50.9% | 13.6% |
 | [boilerpy3](https://github.com/jmriebold/BoilerPy3) (ArticleExtractor) | 0.584 | **0.574** | 0.700 | 41.7% | 7.5% |
@@ -189,12 +191,17 @@ The following content extraction libraries have been evaluated on this benchmark
 | **dom-smoothie** | Readability-based extraction | [dom-smoothie](https://crates.io/crates/dom-smoothie) |
 | **dom_content_extraction** | CETR/CETD algorithm implementation | [dom_content_extraction](https://crates.io/crates/dom_content_extraction) |
 
+### Go Libraries
+
+| Library | Description | GitHub |
+|---------|-------------|--------|
+| **go-trafilatura** | Go port of trafilatura | [markusmobius/go-trafilatura](https://github.com/markusmobius/go-trafilatura) |
+| **go-readability** | Go port of Readability.js | [go-shiori/go-readability](https://github.com/go-shiori/go-readability) |
+
 ### Other Notable Libraries (Not Yet Benchmarked)
 
 | Library | Language | GitHub |
 |---------|----------|--------|
-| **go-trafilatura** | Go | [markusmobius/go-trafilatura](https://github.com/markusmobius/go-trafilatura) |
-| **go-readability** | Go | [go-shiori/go-readability](https://github.com/go-shiori/go-readability) |
 | **Readability.js** | JavaScript | [mozilla/readability](https://github.com/mozilla/readability) |
 | **newspaper4k** | Python | [AndyTheFactory/newspaper4k](https://github.com/AndyTheFactory/newspaper4k) |
 | **news-please** | Python | [fhamborg/news-please](https://github.com/fhamborg/news-please) |
