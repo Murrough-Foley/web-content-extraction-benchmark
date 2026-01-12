@@ -52,10 +52,12 @@ Results of evaluation on **1,507 modern web pages** (January 2025):
 
 ### Key Findings
 
-1. **rs-trafilatura achieves the highest F1 score (0.688)** among tested extractors, with excellent recall (87%)
+1. **rs-trafilatura achieves the highest F1 score (0.688)** on this modern web benchmark, with excellent recall (87%)
 2. **trafilatura (Python)** follows closely with F1 of 0.657 and the lowest boilerplate leakage (5.6%)
 3. **Rust-based extractors** (rs-trafilatura, dom-smoothie, dom-content-extraction) show competitive performance
 4. **Modern web is challenging**: All extractors score lower on 2025 web pages compared to legacy benchmarks
+
+> **Note on legacy HTML:** On the [ScrapingHub benchmark](https://github.com/scrapinghub/article-extraction-benchmark) (184 pages from 2019), **trafilatura (Python) achieves F1 of 0.958**, outperforming most other libraries on legacy web pages. The modern web benchmark presented here tests against 2025 design patterns, which pose different challenges. We recommend evaluating extractors on both benchmarks for comprehensive assessment.
 
 ---
 
