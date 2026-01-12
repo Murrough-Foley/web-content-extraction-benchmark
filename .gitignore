@@ -1,0 +1,7 @@
+# Ignore prediction outputs (users add their own)
+output/*.json
+!output/_example_format.json
+
+# Python
+__pycache__/
+*.pyc
