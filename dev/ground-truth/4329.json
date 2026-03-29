@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://lovingpetsproducts.com/?srsltid=AfmBOoqgG7LKufQPV8tqwe-Kuk9dW6PSLpmw3kfZ8yLVB2naoIS2ZT6s",
+  "file_id": "4329",
+  "ground_truth": {
+    "title": "Dog Treats, Bowls & Accessories",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Featured Products\n\nNatural Value\n\nNatural Value Chicken Dental Sticks for Toy / Small (10 Pack)\n\n$1.49\n\nDolce\n\nDolce Bamboo Dog Bowls (3 Colors, 2 Styles & 3 Sizes)\n\n$8.99\n\nCorsa\n\nCorsa Bowls (5 Colors, 3 Sizes)\n\n$8.49\n\nBella Pet Mats\n\nPet Food & Water Mats (9 Styles)\n\n$8.99\n\nBROWSE OUR PRODUCTS BY INGREDIENT",
+    "with": [
+      "Natural Value Chicken Dental Sticks for Toy / Small (10 Pack)",
+      "Dolce Bamboo Dog Bowls (3 Colors, 2 Styles & 3 Sizes)"
+    ],
+    "without": [
+      "Dog Bowls & Diners",
+      "Single Bowls",
+      "Travel Feeders",
+      "Jan 7th 2026 read more",
+      "110 Melrich Rd, Suite 4Cranbury , NJ 08512United States Of A"
+    ],
+    "main_content_markdown": "## Featured Products\n\nNatural Value\n\n#### [Natural Value Chicken Dental Sticks for Toy / Small (10 Pack)](https://lovingpetsproducts.com/3-oz-small-dental-sticks/)\n\n$1.49\n\nDolce\n\n#### [Dolce Bamboo Dog Bowls (3 Colors, 2 Styles & 3 Sizes)](https://lovingpetsproducts.com/dolce-bamboo/)\n\n$8.99\n\nCorsa\n\n#### [Corsa Bowls (5 Colors, 3 Sizes)](https://lovingpetsproducts.com/corsa-bowls/)\n\n$8.49\n\nBella Pet Mats\n\n#### [Pet Food & Water Mats (9 Styles)](https://lovingpetsproducts.com/woof-with-multi-paws-fashion-mat/)\n\n$8.99\n\n## BROWSE OUR PRODUCTS BY INGREDIENT"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "collection"
+  }
+}

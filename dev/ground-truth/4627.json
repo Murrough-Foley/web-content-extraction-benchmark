@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.ghorba.org/trails/",
+  "file_id": "4627",
+  "ground_truth": {
+    "title": "Trails",
+    "author": null,
+    "publish_date": "2023-07-12",
+    "main_content": "Trails\n\nGreater Houston Off-Road Biking Association (GHORBA) is dedicated to advocating for, building, maintaining, and riding local off-road trails.\n\nAnthills MTB\n\nDifficulty: Intermediate to advanced\nLength: 5 miles\nTrail Steward(s): \"Shredder\" Dave Ruiz\n\nBurroughs Park\n\nDifficulty: Beginner\nLength: 5 miles\nTrail Steward(s): Ricardo Valdez\n\nCarl Barton\n\nDifficulty: Beginner\nLength: 3.5 miles\nTrail Steward(s): John Martin\n\nCypress Creek MTB\n\nDifficulty: Intermediate w/ beginner route\nLength: 10 miles\nTrail Steward: Scott Dammitt\n\nHuntsville State Park\n\nDifficulty: Beginner to Intermediate\nLength: 15.5 miles\nTrail Steward(s): Jeff Kraft\n\nDouble Lake\n\nDifficulty: Beginner to Intermediate\nLength: 18 miles\nTrail Steward(s): Jim Mackey\n\nLake Houston Wilderness Park\n\nDifficulty: Beginner\nLength: 10 miles\nTrail Steward(s): Position available\n\nJack Brooks\n\nDifficulty: Intermediate\nLength: 6.5 miles\nTrail Steward(s): Steve Booker\n\nTimberlane\n\nDifficulty: Beginner\nLength: 4 miles\nTrail Steward(s): Paul Schulz\n\nMemorial Park\n\nDifficulty: Beginner\nLength: 6 miles\nTrail Steward(s): Matthew Pridgen",
+    "with": [
+      "Greater Houston Off-Road Biking Association (GHORBA) is dedicated to advocating for, building, maintaining, and riding local off-road trails.",
+      "Difficulty: Intermediate w/ beginner route",
+      "Trail Steward(s): Position available",
+      "Trail Steward(s): \"Shredder\" Dave Ruiz"
+    ],
+    "without": [
+      "View Trailforks Map",
+      "Skip to content",
+      "Sugar Land Classic"
+    ],
+    "main_content_markdown": "# Trails\n\nGreater Houston Off-Road Biking Association (GHORBA) is dedicated to advocating for, building, maintaining, and riding local off-road trails.\n\n## Anthills MTB\n\nDifficulty: Intermediate to advanced\nLength: 5 miles\nTrail Steward(s): \"Shredder\" Dave Ruiz\n\n## Burroughs Park\n\nDifficulty: Beginner\nLength: 5 miles\nTrail Steward(s): Ricardo Valdez\n\n## Carl Barton\n\nDifficulty: Beginner\nLength: 3.5 miles\nTrail Steward(s): John Martin\n\n## Cypress Creek MTB\n\nDifficulty: Intermediate w/ beginner route\nLength: 10 miles\nTrail Steward: Scott Dammitt\n\n## Huntsville State Park\n\nDifficulty: Beginner to Intermediate\nLength: 15.5 miles\nTrail Steward(s): Jeff Kraft\n\n## Double Lake\n\nDifficulty: Beginner to Intermediate\nLength: 18 miles\nTrail Steward(s): Jim Mackey\n\n## Lake Houston Wilderness Park\n\nDifficulty: Beginner\nLength: 10 miles\nTrail Steward(s): Position available\n\n## Jack Brooks\n\nDifficulty: Intermediate\nLength: 6.5 miles\nTrail Steward(s): Steve Booker\n\n## Timberlane\n\nDifficulty: Beginner\nLength: 4 miles\nTrail Steward(s): Paul Schulz\n\n## Memorial Park\n\nDifficulty: Beginner\nLength: 6 miles\nTrail Steward(s): Matthew Pridgen"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "article"
+  }
+}

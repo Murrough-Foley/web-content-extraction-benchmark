@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.bcbs.com/explore-affordable-health-plans/individual-family-health-insurance",
+  "file_id": "0326",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "healthcare",
+        "insurance",
+        "landing-page",
+        "blue-cross-blue-shield"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Individual Health – Family Medical Insurance",
+    "author": null,
+    "publish_date": null,
+    "main_content": "We understand choosing the right health insurance for you and your family is an important decision. Let us help you find the individual or family health insurance plan that's right for you.\n\nVisit your local Blue Cross and Blue Shield (BCBS) company website to explore your coverage options.\n\nFind the Local Health Insurance Option That Meets Your Needs\n\nBCBS has been a trusted provider for 90+ years. We've taken care of families just like yours all across the country. Enter your ZIP Code and let us help you find the insurance plan that's right for you.\n\nDistinguished Health Care\n\nBlue Distinction® Specialty Care programs help connect you with high quality doctors and hospitals that provide exceptional patient care. Feel confident in your health plan choice, knowing you’re getting quality care that’s right for you.\n\nMember Discounts\n\nBCBS members have access to exclusive discounts on health and wellness products and services.\n\nNeed Global Coverage?\n\nBlue Cross Blue Shield Global Solutions℠ provides a full range of health care coverage solutions for people who live, work and travel internationally.",
+    "with": [
+      "We understand choosing the right health insurance for you and your family is an important decision.",
+      "BCBS has been a trusted provider for 90+ years.",
+      "Enter your ZIP Code and let us help you find the insurance plan that's right for you.",
+      "BCBS members have access to exclusive discounts on health and wellness products and services."
+    ],
+    "without": [
+      "About Us",
+      "Contact",
+      "Cookie Policy",
+      "Privacy Policy"
+    ],
+    "main_content_markdown": "We understand choosing the right health insurance for you and your family is an important decision. Let us help you find the individual or family health insurance plan that's right for you.\n\nVisit your local Blue Cross and Blue Shield (BCBS) company website to explore your coverage options.\n\n## Find the Local Health Insurance Option That Meets Your Needs\n\nBCBS has been a trusted provider for 90+ years. We've taken care of families just like yours all across the country. Enter your ZIP Code and let us help you find the insurance plan that's right for you.\n\n## Distinguished Health Care\n\nBlue Distinction® Specialty Care programs help connect you with high quality doctors and hospitals that provide exceptional patient care. Feel confident in your health plan choice, knowing you're getting quality care that's right for you.\n\n## Member Discounts\n\nBCBS members have access to exclusive discounts on health and wellness products and services.\n\n## Need Global Coverage?\n\nBlue Cross Blue Shield Global SolutionsSM provides a full range of health care coverage solutions for people who live, work and travel internationally."
+  }
+}

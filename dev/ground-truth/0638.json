@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.deathwishcoffee.com/collections/coffee",
+  "file_id": "0638",
+  "ground_truth": {
+    "title": "Fair Trade & Organic Coffee",
+    "author": "",
+    "publish_date": null,
+    "main_content": "51 products\n\nChocolate Hazelnut Coffee\n$19.99\n\nChocolate Hazelnut Single-Serve Pods\n$15.99\n\nDark Roast Coffee\n$19.99\n\nDark Roast Single-Serve Pods\n$15.99\n\nCoconut Caramel Single-Serve Pods\n$12.99\n\nVanilla Latte 12-Pack\n$47.88\n\nBlueberry Coffee\n$19.99\n\nBlueberry Single-Serve Pods\n$15.99\n\nEspresso Roast Coffee\n$19.99\n\nEspresso Roast Single-Serve Pods\n$15.99\n\nMocha Latte 12-Pack\n$47.88\n\nVanilla Coffee\n$19.99\n\nVanilla Single-Serve Pods\n$15.99\n\nMedium Roast Coffee\n$19.99\n\nMedium Roast Single-Serve Pods\n$15.99\n\nOriginal Latte 12-Pack\n$47.88\n\nValhalla Java Odinforce Blend\n$15.99\n\nValhalla Java Single-Serve Pods\n$15.99\n\nDouble Indulgence Ground Bundle\n$39.98\n\nDouble Indulgence Single-Serve Pod Bundle\n$31.98",
+    "with": [
+      "51 products",
+      "Chocolate Hazelnut Coffee",
+      "Dark Roast Single-Serve Pods",
+      "Valhalla Java Odinforce Blend",
+      "Double Indulgence Ground Bundle"
+    ],
+    "without": [
+      "SUBSCRIBE + SAVE 40% OFF CANNED LATTES",
+      "GET WIRED WITH US",
+      "End of the road, jack.",
+      "Filter and sort"
+    ],
+    "main_content_markdown": "51 products\n\n[Chocolate Hazelnut Coffee](/products/chocolate-hazelnut-coffee)\n$19.99\n\n[Chocolate Hazelnut Single-Serve Pods](/products/chocolate-hazelnut-death-cups)\n$15.99\n\n[Dark Roast Coffee](/products/death-wish-coffee)\n$19.99\n\n[Dark Roast Single-Serve Pods](/products/death-cups)\n$15.99\n\n[Coconut Caramel Single-Serve Pods](/products/coconut-caramel-single-serve-pods)\n$12.99\n\n[Vanilla Latte 12-Pack](/products/vanilla-latte-12-pack)\n$47.88\n\n[Blueberry Coffee](/products/blueberry-coffee)\n$19.99\n\n[Blueberry Single-Serve Pods](/products/blueberry-single-serve-coffee-pods)\n$15.99\n\n[Espresso Roast Coffee](/products/espresso-roast-coffee)\n$19.99\n\n[Espresso Roast Single-Serve Pods](/products/espresso-roast-death-cups)\n$15.99\n\n[Mocha Latte 12-Pack](/products/mocha-latte-12-pack)\n$47.88\n\n[Vanilla Coffee](/products/vanilla-coffee)\n$19.99\n\n[Vanilla Single-Serve Pods](/products/vanilla-death-cups)\n$15.99\n\n[Medium Roast Coffee](/products/medium-roast)\n$19.99\n\n[Medium Roast Single-Serve Pods](/products/medium-roast-death-cups)\n$15.99\n\n[Original Latte 12-Pack](/products/original-latte-12-pack)\n$47.88\n\n[Valhalla Java Odinforce Blend](/products/valhalla-java-odin-force-blend)\n$15.99\n\n[Valhalla Java Single-Serve Pods](/products/odin-cups)\n$15.99\n\n[Double Indulgence Ground Bundle](/products/double-indulgence-ground-bundle)\n$39.98\n\n[Double Indulgence Single-Serve Pod Bundle](/products/double-indulgence-death-cup-bundle)\n$31.98"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": []
+    }
+  }
+}

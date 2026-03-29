@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.iie.org/scholarships-programs/",
+  "file_id": "5248",
+  "ground_truth": {
+    "title": "Find a Scholarship or Program",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Featured Program\n\nThe Language Flagship\n\nThe Language Flagship is a multiyear program designed to guide talented undergraduate students enrolled full-time at a Flagship college or university in any major(s) toward graduating with professional-level proficiency in a language critical to U.S. national security\n\nShowing 271 Results\n\nGoing Global through the Global Citizens Project Scholars program\n\nAbout\n\nIIE congratulates Northern Arizona University on receipt of the 2024 Andrew Heiskell Award for Innovation in International Education. The University widened access to international education by designing the Global Citizen Project Scholars (GCPS) program, which pools financial and administrative support from throughout campus to make international education economically accessible to all. As a benefit of receiving the Heiskell […]\n\nThe LMU Gilman Incentive Grant (GIG): A Bridge to Global Learning\n\nAbout\n\nIIE congratulates the Loyola Marymount University (LMU) on receipt of the 2024 Andrew Heiskell Award for Innovation in International Education. The University’s Gilman Incentive Grant represents a novel model to incentivize students and support their applications to the Gilman Scholarship. As a benefit of receiving the Heiskell Awards, IIE is publishing guest entries from each recipient institution. How does […]\n\nRenewing a Partnership With Data Science for Social Good\n\nAbout\n\nUNC-Chapel Hill and Eberhart Karls Universität Tübingen Created a Seed Fund for Joint Research on Emerging Technologies IIE congratulates the University of North Carolina at Chapel Hill on receipt of the 2024 Andrew Heiskell Award for Innovation in International Education. The University’s Data Science and Society Collaboration with Eberhard Karls Universität Tübingen funds multidisciplinary research […]\n\nResilience and Hope: The Fulbright Journeys of Two Ukrainian Scholars\n\nAbout\n\npictured above: Dr. Svitlana Babiichuk with her late husband, Yaroslav. Determined to Continue Their Work, Scholars Apply for the Fulbright Program Amid War In the face of adversity, the human spirit finds remarkable ways to persevere and triumph. Two recent Fulbright awardees from Ukraine — Dr. Svitlana Babiichuk and Dr. Ihor Serdyuk — exemplify courage, […]\n\nConnecting U.S. and German Students Through Virtual Exchanges and Summer School\n\nAbout\n\nYou never know what might come from a conversation with like-minded colleagues at a pub in Berlin… IIE congratulates Iowa State University on receipt of the 2024 Andrew Heiskell Award for Innovation in International Education. Designed to remove barriers to international educational exchange, the University’s Virtual Exchange+ Transatlantic Summer School empowers U.S. and German students […]\n\nAfter the Fall: One Scholar’s Journey to Safety and Scholarship\n\nAbout\n\nDr. Sharif Hozoori was forced to flee after the Taliban promised to “clear” universities of people dedicated to international education. Three years ago, Dr. Sharif Hozoori was living in Kabul with a growing family and fulfilling career as a vice chancellor at Afghanistan University. But on August 15, 2021, the city he called home had […]\n\nSudan in Focus: “Time Is Of The Essence If We Are To Avoid Lasting Negative Impact”\n\nAbout\n\nIIE Scholar Rescue Fund Supports Academics Threatened by Humanitarian Crisis in Sudan “April 14, 2023, is a date I will never forget. My family and I embarked on what we believed would be an ordinary day in Khartoum, my beloved city. It was a hot midday, and we were in the midst of shopping for […]\n\nThinking of Studying Abroad? Get Your Passport First!\n\nAbout\n\nFor Passport Awareness Month, the U.S. Department of State’s Bureau of Consular Affairs is providing tips for first-time and repeat travelers alike. September is Passport Awareness Month. As you start to dream about your study abroad plans or your next international vacation, make sure to have a valid passport in hand. Even if your travel […]",
+    "with": [
+      "Going Global through the Global Citizens Project Scholars program",
+      "Renewing a Partnership With Data Science for Social Good",
+      "After the Fall: One Scholar’s Journey to Safety and Scholarship",
+      "Thinking of Studying Abroad? Get Your Passport First!"
+    ],
+    "without": [
+      "IIE Websites Terms and Conditions",
+      "Scholarships and Fellowships",
+      "Training and Capacity Building",
+      "Contact Us"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

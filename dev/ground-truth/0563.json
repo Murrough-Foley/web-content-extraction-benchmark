@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.reddit.com/r/Cooking/comments/1rl0nt4/enameled_cast_iron_pan_and_metal/",
+  "file_id": "0563",
+  "ground_truth": {
+    "title": "Enameled Cast Iron Pan and Metal",
+    "author": "EuroStepJam",
+    "publish_date": null,
+    "main_content": "Enameled Cast Iron Pan and Metal\n\nSo reading up these pans - they seem to be safe from a toxicity perspective but one catch - it seems you shouldn't use metal utensils on them as it can scratch the enamel. True? If so, what do people use as utensils if trying to eliminate plastics in the kitchen? Like ceramic or wooden turners? I make a lot of smash burgers and you really need to scrape well to turn them over so I don't want anything flimsy. Any suggestions?",
+    "with": [
+      "Enameled Cast Iron Pan and Metal",
+      "So reading up these pans - they seem to be safe from a toxicity perspective but one catch",
+      "it seems you shouldn't use metal utensils on them as it can scratch the enamel",
+      "Like ceramic or wooden turners?",
+      "I make a lot of smash burgers and you really need to scrape well to turn them over"
+    ],
+    "without": [
+      "Open navigation",
+      "Go to Reddit Home",
+      "Get the Reddit app",
+      "Skip to main content"
+    ],
+    "main_content_markdown": "# Enameled Cast Iron Pan and Metal\n\nSo reading up these pans - they seem to be safe from a toxicity perspective but one catch - it seems you shouldn't use metal utensils on them as it can scratch the enamel. True? If so, what do people use as utensils if trying to eliminate plastics in the kitchen? Like ceramic or wooden turners? I make a lot of smash burgers and you really need to scrape well to turn them over so I don't want anything flimsy. Any suggestions?"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": []
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.nutsvolts.com/magazine/category/electronic-gadgets",
+  "file_id": "4508",
+  "ground_truth": {
+    "title": "Electronic Gadgets",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Understanding How Electronic Pacemakers Work\n\nGet introduced to the field of biomedical engineering by learning the basics of how cardiac pacemakers work and seeing how to construct a primitive, functioning cardiac pacemaker using an Arduino microcontroller.\n\nBuild a Simple Simon Game Using a Flea-Scope\n\nUsing a Flea-Scope™ board running StickOS® BASIC, it’s possible to quickly build a Simple Simon game in minutes at home, using nothing but a soldering iron and a web browser!\n\nThe Big Bang Z-Pinch Machine\n\nDo you like doing science experiments? I don’t mean vinegar and baking soda volcanoes. I mean building a real scientific apparatus that uses a Z-pinch effect to squeeze the daylights out of a soda can in the blink of an eye. KA-BANG!!!\n\nBuild a Three-Phase Compass Motor\n\nThis working three-phase motor can be created on a breadboard for under $15 in parts. The motor can be used to explore the motor concepts and theory used in electric vehicles.\n\nA Realistic Fake Car Alarm “Blinky” Light\n\nMost of us have seen the car alarm “blinky” light through a vehicle’s window. However, a fake light is easy to differentiate from the real thing in the way it operates. The fake LED would blink constantly, while the “real thing” would blink only once every few seconds. Here’s a circuit to make the fake more realistic.\n\nBuild a Laser Alignment System for Your Telescope\n\nThere are several key steps to setting up a telescope. Some people use a compass and a broomstick to align their telescope. In this article, I’ll show you how to build a laser alignment circuit to easily align your telescope mount/tripod with “True North.”\n\nCoffee Cup Warmer for the Workbench\n\nThis article addresses the subject of semiconductor-based temperature measurement. The theory is developed in a general way and then applied to the construction of a device useful to those of us who spend many hours at our workbench or desk. It’s hoped that the presentation is such as to suggest to the reader many possible variations and other applications.",
+    "with": [
+      "Get introduced to the field of biomedical engineering by learning the basics of ",
+      "Using a Flea-Scope™ board running StickOS® BASIC, it’s possible to quickly build",
+      "Most of us have seen the car alarm “blinky” light through a vehicle’s window. Ho",
+      "There are several key steps to setting up a telescope. Some people use a compass"
+    ],
+    "without": [
+      "Privacy Policy",
+      "Terms & Conditions",
+      "Copyright Statement",
+      "SubscriptionSubscribe to Nuts & VoltsIt's easy -Just click t",
+      "ProjectsElectronic Gadgets"
+    ],
+    "main_content_markdown": "#### [Understanding How Electronic Pacemakers Work](https://www.nutsvolts.com/magazine/article/understanding-how-electronic-pacemakers-work)\n\nGet introduced to the field of biomedical engineering by learning the basics of how cardiac pacemakers work and seeing how to construct a primitive, functioning cardiac pacemaker using an Arduino microcontroller.\n\n#### [Build a Simple Simon Game Using a Flea-Scope](https://www.nutsvolts.com/magazine/article/build-a-simple-simon-game-using-a-flea-scope)\n\nUsing a Flea-Scope\u2122 board running StickOS\u00ae BASIC, it\u2019s possible to quickly build a Simple Simon game in minutes at home, using nothing but a soldering iron and a web browser!\n\n#### [The Big Bang Z-Pinch Machine](https://www.nutsvolts.com/magazine/article/the-big-bang-z-pinch-machine)\n\nDo you like doing science experiments? I don\u2019t mean vinegar and baking soda volcanoes. I mean building a real scientific apparatus that uses a Z-pinch effect to squeeze the daylights out of a soda can in the blink of an eye. KA-BANG!!!\n\n#### [Build a Three-Phase Compass Motor](https://www.nutsvolts.com/magazine/article/build-a-three-phase-compass-motor)\n\nThis working three-phase motor can be created on a breadboard for under $15 in parts. The motor can be used to explore the motor concepts and theory used in electric vehicles.\n\n#### [A Realistic Fake Car Alarm \u201cBlinky\u201d Light](https://www.nutsvolts.com/magazine/article/a-realistic-fake-car-alarm-blinky-light)\n\nMost of us have seen the car alarm \u201cblinky\u201d light through a vehicle\u2019s window. However, a fake light is easy to differentiate from the real thing in the way it operates. The fake LED would blink constantly, while the \u201creal thing\u201d would blink only once every few seconds. Here\u2019s a circuit to make the fake more realistic.\n\n#### [Build a Laser Alignment System for Your Telescope](https://www.nutsvolts.com/magazine/article/build-a-laser-alignment-system-for-your-telescope)\n\nThere are several key steps to setting up a telescope. Some people use a compass and a broomstick to align their telescope. In this article, I\u2019ll show you how to build a laser alignment circuit to easily align your telescope mount/tripod with \u201cTrue North.\u201d\n\n#### [Coffee Cup Warmer for the Workbench](https://www.nutsvolts.com/magazine/article/coffee-cup-warmer-for-the-workbench)\n\nThis article addresses the subject of semiconductor-based temperature measurement. The theory is developed in a general way and then applied to the construction of a device useful to those of us who spend many hours at our workbench or desk. It\u2019s hoped that the presentation is such as to suggest to the reader many possible variations and other applications."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "collection"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "2.0",
+  "url": "https://dubois.psu.edu/CUE-WhatToExpectAtTutoringSessions",
+  "file_id": "0139",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "education",
+        "tutoring",
+        "guide",
+        "student-services"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "What to Expect at Tutoring Sessions",
+    "author": null,
+    "publish_date": null,
+    "main_content": "What to Expect\n\nThe CUE is designed to provide a student-friendly, helpful, and positive atmosphere to all students who would like assistance with better understanding class material. Tutors are excited to work with both students who are doing very well in class but hope to do even better and students who are not doing as well who may be in danger of not passing the class. Their goal is to provide successful individual assistance to all students.\n\nWhen you schedule a tutoring session, you will be assigned to an available tutor. When you come for your appointment, you will work individually, one on one, with that tutor, unless you have agreed to be involved in a group session. Your tutoring session will occur at a table in the CUE unless you require special accommodations (quiet location, etc). Special accommodations must be set up through the CUE Coordinator, Jordan Rummel.\n\nThe tutor will begin by going over with you the material you are currently studying. He/she may ask questions and seek further information to clarify exactly what you need assistance with. Once the tutor has assessed where assistance is needed, he will begin the explanations or examples that will help you gain a greater understanding of the material. The tutor may re-explain the material to you, demonstrate the material in some way, or even give you practice problems and exams to ensure that you understand the material. Often, just discussing the material with someone else helps to solidify your knowledge of that material.\n\nTutors will not complete homework for you or \"correct\" papers. They will, however, answer specific questions or provide other examples similar to your homework to help guide you through the process.\n\nTutoring sessions may range from five minutes to one hour. Most sessions last between 30 and 45 minutes.\n\nIf a student chooses, the class professor may be notified that the student has visited the CUE for assistance.\n\nWhat to Bring\n\nIt is important that students bring both their book and their notes for the class that is being discussed. Students should already have reviewed the material and have developed questions about the material that they need answered. It is not helpful to tell a tutor that the entire chapter makes no sense; it is better to explain specifically what is not understood.\n\nWe also ask that students come as soon as problems arise rather than waiting until they are hopelessly confused. Students should seek help consistently when the need arises. In addition, students should show up for appointments or notify the CUE if they must cancel an appointment, so that another student may be scheduled in that slot.",
+    "with": [
+      "The CUE is designed to provide a student-friendly, helpful, and positive atmosphere to all students who would like assistance with better understanding class material.",
+      "When you schedule a tutoring session, you will be assigned to an available tutor. When you come for your appointment, you will work individually, one on one, with that tutor, unless you have agreed to be involved in a group session.",
+      "Tutors will not complete homework for you or \"correct\" papers. They will, however, answer specific questions or provide other examples similar to your homework to help guide you through the process.",
+      "If a student chooses, the class professor may be notified that the student has visited the CUE for assistance.",
+      "It is important that students bring both their book and their notes for the class that is being discussed. Students should already have reviewed the material and have developed questions about the material that they need answered."
+    ],
+    "without": [
+      "Skip to main content",
+      "Report a Concern",
+      "Campus Transition",
+      "1 College Place"
+    ],
+    "main_content_markdown": "## What to Expect\n\nThe CUE is designed to provide a student-friendly, helpful, and positive atmosphere to all students who would like assistance with better understanding class material. Tutors are excited to work with both students who are doing very well in class but hope to do even better and students who are not doing as well who may be in danger of not passing the class. Their goal is to provide successful individual assistance to all students.\n\nWhen you schedule a tutoring session, you will be assigned to an available tutor. When you come for your appointment, you will work individually, one on one, with that tutor, unless you have agreed to be involved in a group session. Your tutoring session will occur at a table in the CUE unless you require special accommodations (quiet location, etc). Special accommodations must be set up through the CUE Coordinator, Jordan Rummel.\n\nThe tutor will begin by going over with you the material you are currently studying. He/she may ask questions and seek further information to clarify exactly what you need assistance with. Once the tutor has assessed where assistance is needed, he will begin the explanations or examples that will help you gain a greater understanding of the material. The tutor may re-explain the material to you, demonstrate the material in some way, or even give you practice problems and exams to ensure that you understand the material. Often, just discussing the material with someone else helps to solidify your knowledge of that material.\n\nTutors will not complete homework for you or \"correct\" papers. They will, however, answer specific questions or provide other examples similar to your homework to help guide you through the process.\n\nTutoring sessions may range from five minutes to one hour. Most sessions last between 30 and 45 minutes.\n\nIf a student chooses, the class professor may be notified that the student has visited the CUE for assistance.\n\n## What to Bring\n\nIt is important that students bring both their book and their notes for the class that is being discussed. Students should already have reviewed the material and have developed questions about the material that they need answered. It is not helpful to tell a tutor that the entire chapter makes no sense; it is better to explain specifically what is not understood.\n\nWe also ask that students come as soon as problems arise rather than waiting until they are hopelessly confused. Students should seek help consistently when the need arises. In addition, students should show up for appointments or notify the CUE if they must cancel an appointment, so that another student may be scheduled in that slot."
+  }
+}

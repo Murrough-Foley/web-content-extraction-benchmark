@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.focalboard.com/",
+  "file_id": "5659",
+  "ground_truth": {
+    "title": "Open source project management for technical teams",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Keep everything and everyone on track.\n\nOver 13k stars on GitHub and counting!\n\nAccelerate productivity\n\nCentralize, plan, and track all your work in one place. Focalboard helps your organization maintain a single source of truth, so your teams stay aligned to complete tasks, reach milestones, and achieve their goals.\n\nOrganize and visualize work, your way\n\nWork in the way that suits you best. Manage all your tasks on a Kanban, table, gallery, and calendar view. Focus on the highest priority items with board filters, and save an unlimited number of filtered views for quick access later.\n\nAlign your teams with real-time collaboration\n\nKeep everyone in sync with card comments, @mention teammates to get their attention, and set board permissions to share your board with the entire team or specific individuals.\n\nTons of templates to get you started\n\nGet started fast with our pre-built templates or create a fully custom board from scratch.\n\n¯\nProject Tasks\n\nContent Calendar\n\n³\nCompany Goals & OKRs\n\nº\nRoadmap\n\n©\nMeeting Agenda\n\nWelcome to Focalboard\n\nFeature Highlights\n\nUnlimited boards\n\nGroup, filter, and sort tasks\n\nFile sharing\n\nUnlimited custom attributes\n\nCustomizable templates\n\nMeeting notes\n\nProject cards & tasks\n\nArchiving & back-up snapshots\n\nPriority labeling\n\nUser permissions\n\nTeam and direct messaging\n\nMulti-team views\n\nFocalboard is 100% open source\n\nFocalboard is an open source alternative to tools like Asana, Trello, and Notion. Check out the source code on GitHub, and contribute to the future of this project. Join the discussion on the Mattermost community to interact with other Mattermost and Focalboard contributors and users.",
+    "with": [
+      "Work in the way that suits you best. Manage all your tasks on a Kanban, table, g",
+      "Align your teams with real-time collaboration",
+      "Get started fast with our pre-built templates or create a fully custom board fro",
+      "Focalboard is an open source alternative to tools like Asana, Trello, and Notion"
+    ],
+    "without": [
+      "Contribute",
+      "Help Docs",
+      "Feedback"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "hint",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "service"
+  }
+}

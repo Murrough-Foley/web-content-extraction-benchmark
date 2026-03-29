@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://makersmarket.us/?srsltid=AfmBOopgXdrUFL5flk2Y7-GxtiMzJsvPnxU5ngmxw-8_iG0DK-buVCiV",
+  "file_id": "4852",
+  "ground_truth": {
+    "title": "Rebuilding the Legacy of American Made",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Makers Market is a return to the good ol’ days\nin a brand new way…\n\nIn our quest to bring you the best in handcrafted, we have vetted each product to ensure it is well-designed, long-lasting, and either organic, sustainable or ethically produced: products that honor the ideals of American craftsmanship, products that are modern but heritage-inspired, and products inspired by the heart and soul of an emerging maker. \n\nThere is currently an exciting resurgence in American making that is both steeped in tradition and relevant to the modern world. At Makers Market, we’re weaving the legacy of American-made goods back together, one story at a time.\n\nWelcome! Join our mission to Rebuild the Legacy of American Made.\n\nNew Picks & Trending\n\nMaker:\n\n$135.00\n\nMaker:\n\n$22.00\n\nMaker:\n\n$26.99\n\nMaker:\n\n$42.00\n\nMaker:\n\n$425.00\n\nMaker:\n\n$165.00\n\nMaker:\n\n$48.00\n\nMaker:\n\n$99.00\n\nMaker:\n\n$28.00\n\nFollow Our Journey",
+    "with": [
+      "Makers Market is a return to the good ol’ days",
+      "There is currently an exciting resurgence in American making that is both steepe",
+      "Welcome! Join our mission to Rebuild the Legacy of American Made."
+    ],
+    "without": [
+      "Newsletter",
+      "About Us",
+      "Contact"
+    ],
+    "main_content_markdown": "**Makers Market is a return to the good ol’ days**\n**in a brand new way…**\n\nIn our quest to bring you the best in handcrafted, we have vetted each product to ensure it is well-designed, long-lasting, and either organic, sustainable or ethically produced: products that honor the ideals of American craftsmanship, products that are modern but heritage-inspired, and products inspired by the heart and soul of an emerging maker. \n\nThere is currently an exciting resurgence in American making that is both steeped in tradition and relevant to the modern world. At Makers Market, we’re weaving the legacy of American-made goods back together, one story at a time.\n\n**Welcome! Join our mission to Rebuild the Legacy of American Made.**\n\n## New Picks & Trending\n\nMaker:\n\n*$135.00*\n\nMaker:\n\n*$22.00*\n\nMaker:\n\n*$26.99*\n\nMaker:\n\n*$42.00*\n\nMaker:\n\n*$425.00*\n\nMaker:\n\n*$165.00*\n\nMaker:\n\n*$48.00*\n\nMaker:\n\n*$99.00*\n\nMaker:\n\n*$28.00*\n\n## Follow Our Journey"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  }
+}

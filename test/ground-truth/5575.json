@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.workingmomsbalance.com/",
+  "file_id": "5575",
+  "ground_truth": {
+    "title": "Working Mom's Balance",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Episode 33: How to Build Habits that Change Your Life\n\nEpisode 32: How to Improve Your Mood\n\nEpisode 31: A Process to Reset and Get Out of a Funk\n\nHow to Start a Mommy and Me Journal\n\nWhy You Should Embrace the Hard Things\n\n4 Life Lessons I learned from completing 4 Half Marathons\n\nMy Experience Running Every Day for a Year\n\nMy Honest Review of Green Chef Meal Delivery Service\n\n101 Ways to Practice Self Care\n\nWhat Does It Mean to Take Delight in the Lord?\n\nFinding Life in the Midst of Death\n\nWhen You Feel Like You're Failing at Everything\n\n50 Totally Free Self-Care Activities\n\nFour Dimensions of Health\n\nNot good enough\n\n8 Key Areas to Explore When Life Feels Out of Balance\n\nTackling Books with the KonMari Method",
+    "with": [
+      "Episode 33: How to Build Habits that Change Your Life",
+      "101 Ways to Practice Self Care",
+      "What Does It Mean to Take Delight in the Lord?",
+      "8 Key Areas to Explore When Life Feels Out of Balance"
+    ],
+    "without": [
+      "mc4wp_form",
+      "Affiliate Disclosure",
+      "Privacy Policy",
+      "Archives"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "article"
+  }
+}

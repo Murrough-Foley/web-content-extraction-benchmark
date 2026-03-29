@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "url": "https://beconnected.esafety.gov.au/topic-library/computer-basics-for-beginners/what-is-a-smartphone",
+  "file_id": "2157",
+  "ground_truth": {
+    "title": "What is a smartphone?",
+    "author": null,
+    "publish_date": null,
+    "main_content": "This course will teach you what a smartphone is and how to use one. It is designed for those who are new to using a smartphone.\n\nWelcome to \"What is a smartphone?\". In this video, we'll explore smartphones, and what you can do with them. A smartphone is a lot like a tablet computer, but small enough to fit in your pocket and able to make or receive calls. There are two main types of smartphone: Android and Apple iPhone. They look similar and do the same things, just a bit differently. Like a tablet, a smartphone has a battery inside. It can last several hours before running out of power. Connecting the smartphone to mains power lets you recharge the battery. There'll be a power switch for turning the screen on and off, and a small microphone that picks up your voice when on a phone call. Smartphones often have a large screen. Like a tablet, this is a touchscreen, and you do most things, including making phone calls, by tapping it with your finger. The main screen of a smartphone is called the home screen, just like on a tablet. It has a lot of small symbols called applications, or apps for short. Apps are small computer programs that let you do a range of things on your smartphone. There are apps for games, the weather or listening to the radio. But you don't need any apps to make or receive calls. To make a call, tap the phone button. A number pad will appear. Tap in the number with your finger, then press the call button.\n\nActivities\n\n- Get to know your smartphone (6 min)\n- Using your smartphone (6 min)\n- Selecting a mobile plan that's right for you (5 min)",
+    "with": [
+      "A smartphone is a lot like a tablet computer, but small enough to fit in your pocket and able to make or receive calls.",
+      "There are two main types of smartphone: Android and Apple iPhone.",
+      "The main screen of a smartphone is called the home screen, just like on a tablet.",
+      "But you don't need any apps to make or receive calls.",
+      "There'll be a power switch for turning the screen on and off, and a small microphone that picks up your voice when on a phone call."
+    ],
+    "without": [
+      "Join / Sign in",
+      "Toggle navigation",
+      "Subscribe to the Be Connected newsletter",
+      "Disclaimer & copyright"
+    ],
+    "main_content_markdown": "This course will teach you what a smartphone is and how to use one. It is designed for those who are new to using a smartphone.\n\nWelcome to \"[What is a smartphone?](https://beconnected.esafety.gov.au/topic-library/computer-basics-for-beginners/what-is-a-smartphone)\". In this video, we'll explore smartphones, and what you can do with them. A smartphone is a lot like a tablet computer, but small enough to fit in your pocket and able to make or receive calls. There are two main types of smartphone: Android and Apple iPhone. They look similar and do the same things, just a bit differently. Like a tablet, a smartphone has a battery inside. It can last several hours before running out of power. Connecting the smartphone to mains power lets you recharge the battery. There'll be a power switch for turning the screen on and off, and a small microphone that picks up your voice when on a phone call. Smartphones often have a large screen. Like a tablet, this is a touchscreen, and you do most things, including making phone calls, by tapping it with your finger. The main screen of a smartphone is called the home screen, just like on a tablet. It has a lot of small symbols called applications, or apps for short. Apps are small computer programs that let you do a range of things on your smartphone. There are apps for games, the weather or listening to the radio. But you don't need any apps to make or receive calls. To make a call, tap the phone button. A number pad will appear. Tap in the number with your finger, then press the call button.\n\n## Activities\n\n- Get to know your smartphone (6 min)\n- Using your smartphone (6 min)\n- Selecting a mobile plan that's right for you (5 min)"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": "",
+      "tags": [
+        "pool-import",
+        "verified"
+      ]
+    }
+  }
+}

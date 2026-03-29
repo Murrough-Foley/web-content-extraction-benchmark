@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.bulova.com/global/",
+  "file_id": "4435",
+  "ground_truth": {
+    "title": "Bulova Official International Site",
+    "author": null,
+    "publish_date": null,
+    "main_content": "A Legacy of Boldness\n\nCelebrating 150 Years of Bulova\n\nTrailblazing. Innovation. Precision. For 150 years, Bulova has stayed true to these pillars of excellence. Join us in celebrating our rich legacy as the oldest American watchmaker, proudly established in NYC.\n\nBold Announcement\n\nBulova & Marc Anthony\n\nAn iconic collaboration of fine watches, rich music, and luxury design in an exclusive partnership.\n\nHistory is Made Again\n\nNew Lunar Pilot Meteorite\n\nDefy the rules of space and time with the latest addition to the Lunar Pilot collection: the new Limited Edition Lunar Pilot Meteorite Chronograph. The inspired design features original elements and a genuine Muonionalusta meteorite dial—meaning, no two dials are alike.\n\nLimited to 5,000 pieces worldwide.\n\nArchive Series\n\nOceanographer GMT Automatic\n\nThe new 4-hand GMT dial features an automatic movement and allows ease of setting the watch to two time zones without affecting accuracy.\n\nLADIES COLLECTION\n\nDazzle with bold, sophisticated timepieces.\n\nA Timeless Elegance\n\nIntroducing the Wilton GMT Automatic\n\nFor the sophisticated traveler – allowing the wearer to easily set their 'home' and 'local' times.\n\nMarine Star\n\nHeritage-Inspired Timepieces\n\nVintage Appeal\n\nThe Archive Series\n\nThe re-imagination of our most nostalgic models, infused with modern elements.\n\nBulova Museum\n\nThe faces of many firsts. Bulova recognizes and celebrates the extraordinary individuals who pioneered movements, pushed boundaries and challenged the status quo.",
+    "with": [
+      "An iconic collaboration of fine watches, rich music, and luxury design in an exc",
+      "Defy the rules of space and time with the latest addition to the Lunar Pilot col",
+      "For the sophisticated traveler – allowing the wearer to easily set their 'home' ",
+      "The re-imagination of our most nostalgic models, infused with modern elements."
+    ],
+    "without": [
+      "Shop All Men's",
+      "BackMen'sShop All Men'sArchive SeriesAutomaticClassicCrystal"
+    ],
+    "main_content_markdown": "A Legacy of Boldness\n\nCelebrating 150 Years of Bulova\n\nTrailblazing. Innovation. Precision. For 150 years, Bulova has stayed true to these pillars of excellence. Join us in celebrating our rich legacy as the oldest American watchmaker, proudly established in NYC.\n\nBold Announcement\n\nBulova & Marc Anthony\n\nAn iconic collaboration of fine watches, rich music, and luxury design in an exclusive partnership.\n\nHistory is Made Again\n\nNew Lunar Pilot Meteorite\n\nDefy the rules of space and time with the latest addition to the Lunar Pilot collection: the new Limited Edition Lunar Pilot Meteorite Chronograph. The inspired design features original elements and a genuine Muonionalusta meteorite dial\u2014meaning, no two dials are alike.\n\nLimited to 5,000 pieces worldwide.\n\nArchive Series\n\nOceanographer GMT Automatic\n\nThe new 4-hand GMT dial features an automatic movement and allows ease of setting the watch to two time zones without affecting accuracy.\n\nLADIES COLLECTION\n\nDazzle with bold, sophisticated timepieces.\n\nA Timeless Elegance\n\nIntroducing the Wilton GMT Automatic\n\nFor the sophisticated traveler \u2013 allowing the wearer to easily set their 'home' and 'local' times.\n\nMarine Star\n\nHeritage-Inspired Timepieces\n\n#### Vintage Appeal\n\nThe Archive Series\n\n###### The re-imagination of our most nostalgic models, infused with modern elements.\n\nBulova Museum\n\nThe faces of many firsts. Bulova recognizes and celebrates the extraordinary individuals who pioneered movements, pushed boundaries and challenged the status quo."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "article"
+  }
+}

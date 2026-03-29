@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.producthunt.com/",
+  "file_id": "2914",
+  "ground_truth": {
+    "title": "Top Products Launching Today",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Top Products Launching Today\n\nFor the first 4 hours of the day, we're hiding upvotes to help every product get a chance to catch your interest. Read more\n\nClean up your music library\n\nVibe Marketplace by Greta\n\nSell what you ship, instantly\n\nFreelance • No-Code • Vibe coding\n\nA Mac application to keep your code reviews organized!\n\nProductivity • Developer Tools • GitHub\n\nGenerate viral social & chat mockups in seconds with AI.\n\nDesign Tools • Marketing • Artificial Intelligence\n\nHelping companies easily get the AI tools they need\n\nProductivity • Developer Tools • Artificial Intelligence\n\nSee all of today's products",
+    "with": [
+      "Top Products Launching Today",
+      "For the first 4 hours of the day, we're hiding upvotes to help every product get a chance to catch your interest.",
+      "Sell what you ship, instantly",
+      "Productivity • Developer Tools • GitHub",
+      "Helping companies easily get the AI tools they need"
+    ],
+    "without": [
+      "Welcome to Product Hunt!",
+      "Get the best of Product Hunt, directly in your inbox",
+      "Launch archive",
+      "Best Products"
+    ],
+    "main_content_markdown": "# Top Products Launching Today\n\nFor the first 4 hours of the day, we're hiding upvotes to help every product get a chance to catch your interest. [Read more](https://www.producthunt.com/stories/let-s-talk-about-spam)\n\nClean up your music library\n\n[Vibe Marketplace by Greta](https://www.producthunt.com/products/gretabyquestera)\n\nSell what you ship, instantly\n\n[Freelance](/topics/freelance) • [No-Code](/topics/no-code) • [Vibe coding](/topics/vibe-coding)\n\nA Mac application to keep your code reviews organized!\n\n[Productivity](/topics/productivity) • [Developer Tools](/topics/developer-tools) • [GitHub](/topics/github)\n\nGenerate viral social & chat mockups in seconds with AI.\n\n[Design Tools](/topics/design-tools) • [Marketing](/topics/marketing) • [Artificial Intelligence](https://www.producthunt.com/topics/artificial-intelligence)\n\nHelping companies easily get the AI tools they need\n\nProductivity • Developer Tools • [Artificial Intelligence](https://www.producthunt.com/topics/artificial-intelligence)\n\nSee all of today's products"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

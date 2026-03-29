@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.anthropologie.com/collection-decorative-candles",
+  "file_id": "4736",
+  "ground_truth": {
+    "title": "Decorative Candles",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Espresso Martini Glass Candle\n$24.50\n\nRomy Clover Floral Fresh Grass & Hyacinth Glass Lidded Candle\n$23.80\n\nDavie Ocho Candle Co. Eye Decorative Shaped Wax Candle\n$66.00 – $165.00\n\nSpring Bunny Floral Lemon Blossom Figural Glass Candle\n$22.40\n\nDirty Martini Glass Candle\n$35.00\n\nDamson Madder Gourmand Caramel Cafe Figural Ceramic Candle\n$26.60\n\nSpring Swan Floral Fresh Grass & Hyacinth Figural Glass Candle\n$34.00\n\nRomy Fruity Strawberry and Blonde Wood Glass Candle\n$38.00\n\nDavie Ocho Cowboy Hat Decorative Candle\n$140.00\n\nOaxacan Floral Taper Candle, Large\n$68.00\n\nNata Penne Pasta Shaped Wax Candle\n$24.00\n\nRuffle Top Fruity Orange Blossom & Santal Glass Candle\n$28.00\n\nNata Coffee Beans Shaped Wax Candle\n$18.00\n\nDotted Rim Floral Peony Blush Glass Candle\n$34.00\n\nNata Tagliatelle Pasta Shaped Wax Candle\n$24.00\n\nPaddywax Gourmand Smoked Pistachio Ceramic Cowboy Boot Candle\n$32.00\n\nNata Rigatoni Pasta Shaped Decorative Candle\n$23.00\n\nNata Butter Shaped Decorative Candle\n$20.00\n\nDavie Ocho Cowboy Boot Decorative Candle\n$125.00\n\nDavie Ocho Candle Co Doodle Decorative Shaped Wax Candle\n$48.00\n\nNata Farfalle Pasta Shaped Decorative Candle\n$23.00\n\nRuffle Top Fruity Hibiscus & Pink Guava Glass Candle\n$38.00",
+    "with": [
+      "Espresso Martini Glass Candle",
+      "Davie Ocho Candle Co. Eye Decorative Shaped Wax Candle",
+      "Nata Penne Pasta Shaped Wax Candle",
+      "Paddywax Gourmand Smoked Pistachio Ceramic Cowboy Boot Candle",
+      "Ruffle Top Fruity Hibiscus & Pink Guava Glass Candle"
+    ],
+    "without": [
+      "Filter & Sort",
+      "Add to Bag",
+      "Add to Wishlist"
+    ],
+    "main_content_markdown": "## [Espresso Martini Glass Candle](/shop/espresso-martini-glass-candle?color=020)\n$24.50\n\n## [Romy Clover Floral Fresh Grass & Hyacinth Glass Lidded Candle](/shop/romy-clover-floral-fresh-grass-hyacinth-glass-lidded-candle?color=030)\n$23.80\n\n## [Davie Ocho Candle Co. Eye Decorative Shaped Wax Candle](/shop/davie-ocho-candle-co-eye-decorative-shaped-wax-candle2?color=010)\n$66.00 \u2013 $165.00\n\n## [Spring Bunny Floral Lemon Blossom Figural Glass Candle](/shop/spring-bunny-floral-lemon-blossom-figural-glass-candle?color=072)\n$22.40\n\n## [Dirty Martini Glass Candle](/shop/dirty-martini-glass-candle?color=100)\n$35.00\n\n## [Damson Madder Gourmand Caramel Cafe Figural Ceramic Candle](/shop/damson-madder-gourmand-caramel-cafe-figural-ceramic-candle?color=010)\n$26.60\n\n## [Spring Swan Floral Fresh Grass & Hyacinth Figural Glass Candle](/shop/spring-swan-floral-fresh-grass-hyacinth-figural-glass-candle?color=010)\n$34.00\n\n## [Romy Fruity Strawberry and Blonde Wood Glass Candle](/shop/romy-fruity-strawberry-and-blonde-wood-glass-candle?color=060)\n$38.00\n\n## [Davie Ocho Cowboy Hat Decorative Candle](/shop/davie-ocho-cowboy-hat-decorative-candle?color=010)\n$140.00\n\n## [Oaxacan Floral Taper Candle, Large](/shop/oaxacan-floral-taper-candle-large?color=011)\n$68.00\n\n## [Nata Penne Pasta Shaped Wax Candle](/shop/nata-penne-pasta-shaped-wax-candle?color=072)\n$24.00\n\n## [Ruffle Top Fruity Orange Blossom & Santal Glass Candle](/shop/ruffle-top-fruity-orange-blossom-santal-glass-candle?color=080)\n$28.00\n\n## [Nata Coffee Beans Shaped Wax Candle](/shop/nata-coffee-beans-shaped-wax-candle?color=020)\n$18.00\n\n## [Dotted Rim Floral Peony Blush Glass Candle](/shop/dotted-rim-floral-peony-blush-glass-candle?color=066)\n$34.00\n\n## [Nata Tagliatelle Pasta Shaped Wax Candle](/shop/nata-tagliatelle-pasta-shaped-wax-candle?color=072)\n$24.00\n\n## [Paddywax Gourmand Smoked Pistachio Ceramic Cowboy Boot Candle](/shop/paddywax-gourmand-smoked-pistachio-ceramic-cowboy-boot-candle?color=010)\n$32.00\n\n## [Nata Rigatoni Pasta Shaped Decorative Candle](/shop/nata-rigatoni-pasta-shaped-decorative-candle?color=072)\n$23.00\n\n## [Nata Butter Shaped Decorative Candle](/shop/nata-butter-shaped-decorative-candle?color=060)\n$20.00\n\n## [Davie Ocho Cowboy Boot Decorative Candle](/shop/davie-ocho-cowboy-boot-decorative-candle?color=010)\n$125.00\n\n## [Davie Ocho Candle Co Doodle Decorative Shaped Wax Candle](/shop/davie-ocho-candle-co-doodle-decorative-shaped-wax-candle?color=224)\n$48.00\n\n## [Nata Farfalle Pasta Shaped Decorative Candle](/shop/nata-farfalle-pasta-shaped-decorative-candle?color=072)\n$23.00\n\n## [Ruffle Top Fruity Hibiscus & Pink Guava Glass Candle](/shop/ruffle-top-fruity-hibiscus-pink-guava-glass-candle?color=066)\n$38.00"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  }
+}

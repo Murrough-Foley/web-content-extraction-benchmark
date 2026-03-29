@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.uclahealth.org/news/article/the-link-between-exercise-and-mental-health",
+  "file_id": "4060",
+  "ground_truth": {
+    "title": "The Link Between Exercise and Mental Health",
+    "author": null,
+    "publish_date": "2018-10-17",
+    "main_content": "A new study suggests moderate exercise is not just good for your body but improves mental health as well. Researchers concluded this after analyzing the responses of 1.2 million adults who participated in a Centers for Disease Control and Prevention (CDC) survey.\n\nPhysical activity improves mental health\n\nThe study, which appeared in the peer-reviewed medical journal The Lancet Psychiatry, examined survey results from 2011, 2013 and 2015. Researchers found that, on average, a person has 3.4 poor mental health days per month.\n\nBut among those who exercise, the number of poor mental health days dropped by more than 40 percent. Exercise may change the way the brain functions, which could account for the decrease in depression or anxiety.\n\nThe study describes “poor mental health” as:\n- Stress\n- Depression\n- Emotional concerns\n\nMood-altering benefits of exercise\n\nAfter analyzing the results, researchers concluded that three to five 45-minute exercise sessions a week delivered optimal mental health benefits.\n\nIt’s possible to get too much exercise and not see these benefits. At the three-hour exercise mark, people had worse mental health compared to the non-exercising population. Researchers hypothesize that those who favor marathon-length workouts may:\n- Have an underlying mental health condition, such as obsessive behavior\n- Be overexerting themselves, which causes exhaustion and affects mood\n\nFitness types for mental health gains\n\nAccording to researchers, the activities that showed the most substantial benefits include:\n- Team sports\n- Cycling\n- Aerobic and gym activities\n\nThese less rigorous activities were still helpful:\n- Household chores\n- Carpentry\n- Child care\n\nMindfulness-based activities like yoga and tai chi, though lower impact, delivered more mental health benefits than walking.",
+    "with": [
+      "analyzing the responses of 1.2 million adults who participated in a Centers for Disease Control",
+      "three to five 45-minute exercise sessions a week delivered optimal mental health benefits",
+      "According to researchers, the activities that showed the most substantial benefits include",
+      "Mindfulness-based activities like yoga and tai chi, though lower impact"
+    ],
+    "without": [
+      "UCLA Health Home",
+      "Cancer Center",
+      "Hospitals & Clinics",
+      "School of Medicine",
+      "myUCLAhealth"
+    ],
+    "main_content_markdown": "A new study suggests moderate exercise is not just good for your body but improves mental health as well. Researchers concluded this after analyzing the responses of 1.2 million adults who participated in a Centers for Disease Control and Prevention (CDC) survey.\n\n## Physical activity improves mental health\n\nThe [study](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366%2818%2930227-X/fulltext), which appeared in the peer-reviewed medical journal The Lancet Psychiatry, examined survey results from 2011, 2013 and 2015. Researchers found that, on average, a person has 3.4 poor mental health days per month.\n\nBut among those who exercise, the number of poor mental health days dropped by more than 40 percent. Exercise may change the way the brain functions, which could account for the decrease in depression or anxiety.\n\nThe study describes “poor mental health” as:\n- Stress\n- Depression\n- Emotional concerns\n\n## Mood-altering benefits of exercise\n\nAfter analyzing the results, researchers concluded that three to five 45-minute exercise sessions a week delivered optimal mental health benefits.\n\nIt’s possible to get too much exercise and not see these benefits. At the three-hour exercise mark, people had worse mental health compared to the non-exercising population. Researchers hypothesize that those who favor marathon-length workouts may:\n- Have an underlying mental health condition, such as obsessive behavior\n- Be overexerting themselves, which causes exhaustion and affects mood\n\n## Fitness types for mental health gains\n\nAccording to researchers, the activities that showed the most substantial benefits include:\n- Team sports\n- Cycling\n- Aerobic and gym activities\n\nThese less rigorous activities were still helpful:\n- Household chores\n- Carpentry\n- Child care\n\nMindfulness-based activities like yoga and tai chi, though lower impact, delivered more mental health benefits than walking."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "article"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://collectionbuilder.github.io/cb-docs/docs/config/",
+  "file_id": "5456",
+  "ground_truth": {
+    "title": "Site Config",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Initial Site Configuration\n\nThe file “_config.yml” is used to configure the core features of your CollectionBuilder site. This section will take you through the configuration options you can enable by editing this file.\n\nCB’s configuration options are made up of key-value pairs written in YAML.\n\nFor example, below is the option “title”:\n\n# title of site appears in banner\ntitle: Example Site Title\n\nFirst, note the line proceeded by a # hash in the example above–everything following the hash is a comment in YAML. CollectionBuilder’s “_config.yml” uses a bunch of comments to divide the content into sections and to explain how to fill in the values–be sure to read the comments for tips and examples!\n\nIn the example, title: is the “key” of the key-value pair. YAML keys are a string followed by a colon: and a space–after which follows the value.\n\nTemplate Values\n\nWhen you start fresh from the CB template, placeholder values fill all the options, providing you a working example. So to begin configuring and customizing your site, open the “_config.yml” file in the base of your project repository and replace the placeholder values with new ones for your project, following the example.\n\nSome options are “commented out”, i.e. have # in front of them to make them inactive. To enable these, you would need to uncomment the line, which requires you to delete the # and space in front of the value.\n\nThe docs in the following pages address the details of what goes in the values.\n\nCommon YAML Errors\n\nYAML is very picky about tiny details of spaces and indentation! If you have incorrect YAML in your “_config.yml”, your Jekyll project won’t build and you’ll get mysterious error messages.\n\nCarefully check over your “_config.yml” for these common errors:\nSpace in front of key – the key needs to start the line, no spaces in front! This can be hard to see. If you uncomment an option, be sure to delete that extra space in front.\nNo space after colon – the key needs to be followed by exactly colon + space:. If you don’t put a space before the starting the value, you’ll get an error.\nQuote values that have a colon – if your value contains a colon:, be sure to put quotes \" around the full value!\n\nThe “_config.yml” file serves as the main configuration file standard in all Jekyll projects. Some values are related to technical details specific to Jekyll. The rest are the important values that will populate the template elements of your collection site–for example, the site title and organization name that will appear in the header and footer of every page.",
+    "with": [
+      "CB’s configuration options are made up of key-value pairs written in YAML.",
+      "In the example, title: is the “key” of the key-value pair. YAML keys are a strin",
+      "Carefully check over your “_config.yml” for these common errors:",
+      "Quote values that have a colon – if your value contains a colon:, be sure to put"
+    ],
+    "without": [
+      "CollectionBuilder Docs",
+      "Walkthroughs",
+      "Sheets Walkthrough",
+      "CollectionBuilder on GitHub"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "reviewed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "documentation"
+  }
+}

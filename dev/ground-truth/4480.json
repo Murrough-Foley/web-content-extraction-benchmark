@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://mailchimp.com/",
+  "file_id": "4480",
+  "ground_truth": {
+    "title": "Email & SMS Marketing Platform",
+    "author": null,
+    "publish_date": null,
+    "main_content": "THE #1 AI-POWERED EMAIL MARKETING AND AUTOMATIONS PLATFORM*\n\nData-driven marketing without the complexity\n\nMaximize ROI with easy-to-use marketing analytics, automations, and AI tools.\n\nMailchimp has a four and half star rating\n\n*Based on 24,900+ reviews across\n\nBusinesses like yours are growing faster—and stressing less\n\nLearn about email marketing\n\nSee what Mailchimp can do for e-commerce\n\nFind out how easy it is to switch\n\nMarketing that delivers results\n\nFor 24 years, Mailchimp has helped millions of businesses get more opens, clicks, and sales.\n\n97% more clicks\n\nCustomers saw up to 97% higher click rates when they used both email & SMS.*\n\nSee up to 30x ROI\n\nE-commerce businesses see up to 30x ROI* using Mailchimp’s Standard Plan.\n\n99% delivery rate\n\nCustomers experience 99.99% transactional email delivery rates.*\n\nUse powerful AI tools\n\nOur customers have sent over 9.8 billion emails with AI-generated content.*\n\nTry our Standard plan for free!\n\nFind out why customers see up to 24x ROI* using the Standard plan with a risk-free 14-day trial†. Cancel or downgrade to our Essentials or basic Free plans at any time.\n\nGet 15% off our Standard plan\n\nBusinesses with 10,000+ contacts can save 15% on their first 12 months.† Keep your discount if you change to Premium or Essentials. Cancel or downgrade to our basic Free plan at any time.\n\nGenerative AI features\n\nActionable insights into audience growth and conversion funnels\n\nEnhanced automations\n\nCustom-coded email templates\n\nCustomizable Popup forms\n\nPersonalized onboarding\n\nStandard\n\nSend up to 6,000 emails each month. Send up to 100 emails risk-free—no credit card required. Save a payment method to unlock 5,900 sends for the rest of your free trial.\n\nNeed to manage more contacts? Get in touch to learn about custom plans.\n\nFree\nfor 14 days\n\nThen, starts at\n\n€17.62 /month†\nper month†\n\n€\n\n17\n\n62\n\n/mo for 12 months\n\nper month for 12 months\n\nThen, starts at\n\n/month†\n\nper month†\n\n •\nSave 15% for 12 months\n\nMailchimp is GDPR-compliant\n\nMailchimp helps you achieve data security and privacy standards for your customers.\n\nPlus support for 300+ Integrations\n\nMillions of users trust us with their email marketing. You can too.",
+    "with": [
+      "Data-driven marketing without the complexity",
+      "E-commerce businesses see up to 30x ROI* using Mailchimp’s Standard Plan.",
+      "Businesses with 10,000+ contacts can save 15% on their first 12 months.† Keep yo",
+      "Mailchimp helps you achieve data security and privacy standards for your custome"
+    ],
+    "without": [
+      "See what’s new",
+      "Restaurants",
+      "Entertainment + Leisure",
+      "Cookie Preferences"
+    ],
+    "main_content_markdown": "THE #1 AI-POWERED EMAIL MARKETING AND AUTOMATIONS PLATFORM*\n\n# Data-driven marketing without the complexity\n\nMaximize ROI with easy-to-use marketing analytics, automations, and AI tools.\n\nMailchimp has a four and half star rating\n\n*Based on **24,900+** reviews across\n\n## Businesses like yours are growing faster—and stressing less\n\n[Learn about email marketing](https://mailchimp.com/solutions/email-marketing-platform/)\n\n[See what Mailchimp can do for e-commerce](https://mailchimp.com/solutions/ecommerce-marketing-tools/)\n\n[Find out how easy it is to switch](https://mailchimp.com/switch-to-mailchimp/)\n\n## Marketing that delivers results\n\nFor 24 years, Mailchimp has helped millions of businesses get more opens, clicks, and sales.\n\n### 97% more clicks\n\nCustomers saw up to 97% higher click rates when they used both email & SMS.*\n\n### See up to 30x ROI\n\nE-commerce businesses see up to 30x ROI* using Mailchimp’s Standard Plan.\n\n### 99% delivery rate\n\nCustomers experience 99.99% transactional email delivery rates.*\n\n### Use powerful AI tools\n\nOur customers have sent over 9.8 billion emails with AI-generated content.*\n\n## Try our Standard plan for *free*!\n\nFind out why customers see up to 24x ROI* using the Standard plan with a risk-free 14-day trial†. Cancel or downgrade to our [Essentials](https://mailchimp.com/pricing/marketing/compare-plans/) or basic Free plans at any time.\n\n## Get *15% off* our Standard plan\n\nBusinesses with 10,000+ contacts can save 15% on their first 12 months.† Keep your discount if you change to [Premium](https://mailchimp.com/pricing/premium-details/) or [Essentials](https://mailchimp.com/pricing/marketing/compare-plans/). Cancel or downgrade to our basic Free plan at any time.\n\nGenerative AI features\n\nActionable insights into audience growth and conversion funnels\n\nEnhanced automations\n\nCustom-coded email templates\n\nCustomizable Popup forms\n\nPersonalized onboarding\n\n## Standard\n\nSend up to 6,000 emails each month. Send up to 100 emails risk-free—no credit card required. Save a payment method to unlock 5,900 sends for the rest of your free trial.\n\nNeed to manage more contacts? Get in touch to learn about custom plans.\n\nFree\nfor 14 days\n\nThen, starts at\n\n€17.62 /month†\nper month†\n\n€\n\n17\n\n62\n\n/mo for 12 months\n\nper month for 12 months\n\nThen, starts at\n\n**/month†**\n\nper month†\n\n •\nSave 15% for 12 months\n\n## Mailchimp is GDPR-compliant\n\nMailchimp helps you achieve data security and privacy standards for your customers.\n\n## Plus support for 300+ Integrations\n\n## Millions of users trust us with their email marketing. You can too."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "service"
+  }
+}

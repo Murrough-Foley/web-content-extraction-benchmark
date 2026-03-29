@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.techgearlab.com/topics/cool-gadgets/best-electric-scooter",
+  "file_id": "4677",
+  "ground_truth": {
+    "title": "The Best Electric Scooters",
+    "author": "Chris McNamara",
+    "publish_date": "2025-05-06",
+    "main_content": "The ideal scooter offers a perfect blend of speed, range, and portability tailored to your daily commuting needs.\n\nMy team and I have spent the last 8 years buying and riding over 45 models. I measure every scooter's speed, range, and handling throughout bumps, bike paths, and hills. I also measure how easily they fold and integrate into your daily routine.\n\nAfter countless hours of pushing each model to the limits, the best scooter for most people is the Niu Kqi3 Max, which has incredible range, comfort, and braking and is currently available at an incredible price.\n\nIf you want the ultimate in speed and hill climbing and can spend a little more, nothing touches the Segway Ninebot MAX G3.\n\nIf you want a lighter scooter for even less money, the Maxshot V1 is the best budget scooter. It is not as comfortable, especially on longer rides, but it works great for trips less than a mile.\n\nIf you are looking for the best \"last mile\" commuting solution, also see our folding electric bike review. They are typically more expensive than scooters and less compact, but they offer better handling, especially at higher speeds.\n\nEditor's Note: On May 6, 2025, I added a new top performer, the Segway Ninebot MAX G3, as well as a lower-end model I don't recommend.",
+    "with": [
+      "My team and I have spent the last 8 years buying and riding over 45 models. I measure every scooter's speed, range, and handling throughout bumps, bike paths, and hills.",
+      "After countless hours of pushing each model to the limits, the best scooter for most people is the Niu Kqi3 Max, which has incredible range, comfort, and braking",
+      "If you want a lighter scooter for even less money, the Maxshot V1 is the best budget scooter.",
+      "Editor's Note: On May 6, 2025, I added a new top performer, the Segway Ninebot MAX G3, as well as a lower-end model I don't recommend."
+    ],
+    "without": [
+      "All Electronics",
+      "Batteries & Chargers",
+      "Buying Advice"
+    ],
+    "main_content_markdown": "The ideal scooter offers a perfect blend of speed, range, and portability tailored to your daily commuting needs.\n\nMy team and I have spent the last 8 years buying and riding over 45 models. I measure every scooter's speed, range, and handling throughout bumps, bike paths, and hills. I also measure how easily they fold and integrate into your daily routine.\n\nAfter countless hours of pushing each model to the limits, the best scooter for most people is the Niu Kqi3 Max, which has incredible range, comfort, and braking and is currently available at an incredible price.\n\nIf you want the ultimate in speed and hill climbing and can spend a little more, nothing touches the Segway Ninebot MAX G3.\n\nIf you want a lighter scooter for even less money, the Maxshot V1 is the best budget scooter. It is not as comfortable, especially on longer rides, but it works great for trips less than a mile.\n\nIf you are looking for the best \"*last mile*\" commuting solution, also see our [folding electric bike](https://www.outdoorgearlab.com/topics/biking/best-folding-electric-bike) review. They are typically more expensive than scooters and less compact, but they offer better handling, especially at higher speeds.\n\n*Editor's Note: On May 6, 2025, I added a new top performer, the Segway Ninebot MAX G3, as well as a lower-end model I don't recommend.*"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "article"
+  }
+}

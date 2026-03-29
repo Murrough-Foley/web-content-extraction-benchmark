@@ -1,0 +1,29 @@
+{
+  "schema_version": "2.0",
+  "url": "https://beersmith.com/forum/index.php?forums/recipes.3/",
+  "file_id": "5024",
+  "ground_truth": {
+    "title": "Recipes",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Recipes\n\nBeer Recipes and Style Discussion\n\nLOOKING FOR BASIC BRITTISH ISLES RECIPES\nRecipe Discussion Board and BeerSmithRecipes Depository\nBLAAND EXPERIMENT Done\nHouse Ale MkII (Aussie Ale)\nI cant see the recipes for print or pdf or in the screen\nIndia Pale Lager?\nThe Original Russian Imperial Stout\nWhat makes a good summer beer?\nCould not download recipe from the server\nIs it to early to SMaSH?\nArtificial Intelligence Beer\nHas anyone made City Steading Brews' \"Dark Oak Stout\"?\nTOAST BEER\nAyinger Celebrator Clone\nMy first starter\nToasted Kolsch\nIs a SMaSH still a SMaSH if . . .\nSake SMaSH BiaB recipe - How does it look?\nChocolate Chili Stout\nFour Ron Pattinson Recipes\nCBD infused beer\nSession IPA Brewing Tips?\nRandom Recipes to Share\nRandom Recipes to Share #2\nRecipe recommendation for skill builder\nCook time for a 10 lb brisket?\n1930's Texas Hill Country Beer Recipe\nRecipe way off on brew day",
+    "with": [
+      "Beer Recipes and Style Discussion",
+      "LOOKING FOR BASIC BRITTISH ISLES RECIPES",
+      "BLAAND EXPERIMENT Done"
+    ],
+    "without": [
+      "Search forums",
+      "New posts"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "forum"
+  }
+}

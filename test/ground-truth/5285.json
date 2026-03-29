@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.artnet.com/events/",
+  "file_id": "5285",
+  "ground_truth": {
+    "title": "Events",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Browse a curated selection of events from around the world, including gallery openings, upcoming auctions, museum exhibitions, and more.\n\nReceptors\n\nMar 6–Apr 18, 2026\n\nKiang Malingue\n\nNew York\n\n100 Years of Wallace Berman\n\nFeb 18–Apr 25, 2026\n\nMichael Kohn Gallery\n\nLos Angeles\n\nArlene Gottfried | Young & Old\n\nCLAMP\n\nNew York\n\nAnima Mundi\n\nJack Shainman Gallery\n\nNew York\n\nSkinnin' The Game\n\nSundaram Tagore Gallery\n\nNew York\n\nRance Jones: Watercolors\n\nForum Gallery Inc.\n\nNew York\n\nI Surprise Myself\n\nTraver Gallery\n\nSeattle\n\nsense of place\n\nElizabeth Leach Gallery\n\nPortland\n\nAffordable Art Fair\n\nMar 18, 2026\n\nNew York",
+    "with": [
+      "100 Years of Wallace Berman",
+      "Arlene Gottfried | Young & Old",
+      "Rance Jones: Watercolors",
+      "sense of place"
+    ],
+    "without": [
+      "Newsletter Signup",
+      "Privacy Policy",
+      "Price Database",
+      "Market Alerts"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

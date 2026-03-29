@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.ward4mke.com/",
+  "file_id": "5264",
+  "ground_truth": {
+    "title": "Milwaukee Coworking Space: Ward4",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Where driven professionals\n\nwork together in an innovative\n\ncommunity.\n\nWard4 provides amazing office and coworking spaces to entrepreneurs, start-ups, venture capital-backed companies, small to mid-sized businesses, global corporations and innovative technologists. An alternative to traditional commercial office space, Ward4 provides companies a powerful operating platform combining the best tech connectivity with corporate spaces that are industrial, collaborative and full of community.\n\nWorkspace\n\nSpecialized, flexible office spaces designed to fit your business. Private suites, private offices, individual memberships and conference rooms are offered. Scale up or down as your business needs change.\n\nLearn More →\n\nEvents\n\nOur unique and innovative spaces make Ward4 the ideal location for events ranging from private meetings, staff meetings and corporate events to simply networking over cocktails.\n\nBook An Event→\n\nCommunity\n\nThe physical space and our members themselves both create a driven and innovative community bursting with entrepreneurial spirit. A lighthouse for innovation, and a destination in Milwaukee's growing tech scene.\n\nOur Members→\n\nMember Benefits\n\nOur members enjoy 24/7 access to the space along with all amenities necessary to become a part of Milwaukee's thriving entrepreneurial ecosystem.\n\nWhat's included→",
+    "with": [
+      "Specialized, flexible office spaces designed to fit your business.",
+      "The physical space and our members themselves both create a driven and innovative community",
+      "Our members enjoy 24/7 access to the space",
+      "Ward4 provides amazing office and coworking spaces to entrepreneurs"
+    ],
+    "without": [
+      "Our Mission",
+      "Back to Top",
+      "Ward4, 313 North Plankinton Avenue, Milwaukee, WI, 53203, United States"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "url": "https://frenck.dev/the-chaos-begins-building-my-home-assistant-smart-home-from-scratch",
+  "file_id": "0487",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "technology",
+        "smart-home",
+        "home-assistant",
+        "personal-blog"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "The chaos begins: Building my Home Assistant smart home from scratch",
+    "author": "Franck Nijhof",
+    "publish_date": "2025-12-18",
+    "main_content": "We got the keys 48 hours ago. The house is full of boxes, our stuff is everywhere, and I have absolutely no idea how half the smart home equipment already installed actually works.\n\nPerfect.\n\nThis is the first video in my new series where I'm documenting the entire journey of building out a Home Assistant smart home from scratch. No polished \"here's my finished setup\" content. Just the real process: the decisions, the discoveries, the mystery devices, and every spectacular failure along the way.\n\nWhat am I working with?\n\nThe previous owner left behind some interesting gear. There's a full Philips Hue outdoor lighting setup in the garden (with a single remote controlling everything), 40 solar panels on the roof with a SolarEdge inverter I need to claim ownership of, and a jacuzzi with a Gecko control system that I'm determined to monitor through Home Assistant.\n\nBut here's where it gets fun: I found two thermostats in the living room controlling... something. The floor heating has a wireless Watts remote that I have no idea which room it's assigned to. There's a heat pump, multiple air conditioning units with missing remotes, and a mysterious \"Hunter HC\" box in the electrical closet and one that has a Bluetooth logo.\n\nOh, and the networking situation? The electrician is coming Friday because the fusebox area is, in my professional technical opinion, a huge mess.\n\nThe real journey starts now\n\nI'm tackling this the way anyone would: by walking around with a camera, pointing at things, and saying \"I need to figure out what this does\". Watch the video above to see the full tour, including all the mystery devices, the chaos of moving boxes, and my initial thoughts on what to automate first.\n\nWhat would you tackle first in this setup? Drop your thoughts in the YouTube comments. I'm genuinely curious what priorities you'd set with this much smart home potential and this many unknowns.\n\nCES is coming up in January, so I'll be bringing back inspiration and ideas. But for now, it's time to unpack, set up my (Wi-Fi) network, and start figuring out how all these systems actually work.\n\n../Frenck",
+    "with": [
+      "We got the keys 48 hours ago. The house is full of boxes, our stuff is everywhere, and I have absolutely no idea how half the smart home equipment already installed actually works.",
+      "The previous owner left behind some interesting gear. There's a full Philips Hue outdoor lighting setup in the garden (with a single remote controlling everything), 40 solar panels on the roof with a SolarEdge inverter I need to claim ownership of, and a jacuzzi with a Gecko control system that I'm determined to monitor through Home Assistant.",
+      "Oh, and the networking situation? The electrician is coming Friday because the fusebox area is, in my professional technical opinion, a huge mess.",
+      "CES is coming up in January, so I'll be bringing back inspiration and ideas. But for now, it's time to unpack, set up my (Wi-Fi) network, and start figuring out how all these systems actually work."
+    ],
+    "without": [
+      "Share this article:",
+      "Copyright © Franck Nijhof. All rights reserved.",
+      "Subscribe to Frenck's newsletter and stay updated.",
+      "Don't miss anything. Get all the latest posts delivered straight to your inbox. It's free!"
+    ],
+    "main_content_markdown": "We got the keys 48 hours ago. The house is full of boxes, our stuff is everywhere, and I have absolutely no idea how half the smart home equipment already installed actually works.\n\nPerfect.\n\nThis is the first video in my new series where I'm documenting the entire journey of building out a Home Assistant smart home from scratch. No polished \"here's my finished setup\" content. Just the real process: the decisions, the discoveries, the mystery devices, and every spectacular failure along the way.\n\n## What am I working with?\n\nThe previous owner left behind some interesting gear. There's a full Philips Hue outdoor lighting setup in the garden (with a single remote controlling everything), 40 solar panels on the roof with a SolarEdge inverter I need to claim ownership of, and a jacuzzi with a Gecko control system that I'm determined to monitor through Home Assistant.\n\nBut here's where it gets fun: I found *two* thermostats in the living room controlling... something. The floor heating has a wireless Watts remote that I have no idea which room it's assigned to. There's a heat pump, multiple air conditioning units with missing remotes, and a mysterious \"Hunter HC\" box in the electrical closet and one that has a Bluetooth logo.\n\nOh, and the networking situation? The electrician is coming Friday because the fusebox area is, in my professional technical opinion, a huge mess.\n\n## The real journey starts now\n\nI'm tackling this the way anyone would: by walking around with a camera, pointing at things, and saying \"I need to figure out what this does\". Watch the video above to see the full tour, including all the mystery devices, the chaos of moving boxes, and my initial thoughts on what to automate first.\n\n**What would you tackle first in this setup?** Drop your thoughts in the YouTube comments. I'm genuinely curious what priorities you'd set with this much smart home potential and this many unknowns.\n\nCES is coming up in January, so I'll be bringing back inspiration and ideas. But for now, it's time to unpack, set up my (Wi-Fi) network, and start figuring out how all these systems actually work.\n\n../Frenck"
+  }
+}

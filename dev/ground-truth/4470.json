@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.nationalbusinessfurniture.com/t/mesh-office-chair?srsltid=AfmBOop6kxBM_Tcldqc8B_NzIDFwlV599loNEl2SZK8mH2ugO1m1ktPG",
+  "file_id": "4470",
+  "ground_truth": {
+    "title": "Mesh Office Chair",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Mesh office chair built for the ways you live and work. Shop a wide selection of high-quality products backed by a Lifetime Guarantee.",
+    "main_content_markdown": "Mesh office chair built for the ways you live and work. Shop a wide selection of high-quality products backed by a Lifetime Guarantee.",
+    "with": [
+      "Mesh office chair",
+      "Lifetime Guarantee"
+    ],
+    "without": [
+      "L-Shaped Desks",
+      "Office Desks",
+      "Office Sets & Suites",
+      "Join our mailing list",
+      "Email Address",
+      "Sign In",
+      "Create an Account",
+      "Toggle Nav"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "reviewed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "collection"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.viewsonic.com/us/products/shop/monitors/elite-gaming-monitors.html?srsltid=AfmBOoq7xqbPKnECKFdKzv8LW42FV7pJtSRDrRCKnPc1pUwy6s8YtzvD",
+  "file_id": "4495",
+  "ground_truth": {
+    "title": "Gaming Monitors",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Gaming\n\nGaming Monitors\n\nViewSonic 27\" Switchable Refresh Rate Gaming Monitor with 288Hz at FHD and 144Hz at 4K | VX2730D-4K\n\n$279.99\n\nViewSonic 34\" 21:9 Curved 1440p 1ms 180Hz Gaming Monitor with FreeSync Premium | VX3418C-2K\n\n$299.99\n\nViewSonic 32\" Curved 1440p 1ms 180Hz Gaming Monitor with FreeSync | VX3228C-2K\n\n$229.99\n\nViewSonic 17.3'' Portable 1080p 144Hz IPS Gaming Monitor with FreeSync and 60W USB-C | VX1754\n\n$199.99\n\nViewSonic 15.6'' Portable 1080p 144Hz IPS Gaming Monitor with FreeSync and 60W USB-C | VX1654\n\n$169.99\n\nViewSonic 34'' 1440p 1ms 165Hz Ergonomic Gaming Monitor with FreeSync Premium | VX3418-2K\n\n$319.99\n\nViewSonic 27\" 1080p 1ms 120Hz (OC) IPS Gaming Monitor with USB-C | VX2716A\n\n$139.99\n\nViewSonic 24\" 1080p 180Hz 0.5ms Gaming Monitor with FreeSync | VX2428A\n\n$129.99\n\nViewSonic 24\" 1080p 1ms 120Hz (OC) IPS Gaming Monitor with USB-C | VX2416A\n\n$119.99\n\nViewSonic 25\" 1080p 0.5ms 280Hz Gaming Monitor with Advanced Ergonomics, FreeSync Premium, G-Sync Compatible, and USB-C | XG2536\n\n$279.99\n\nViewSonic 27\" 1440p 0.5ms 240Hz Gaming Monitor with Advanced Ergonomics, FreeSync Premium, G-Sync Compatible, and USB-C | XG2736-2K\n\n$319.99\n\nViewSonic 27\" 1080p 0.5ms 180Hz Gaming Monitor with IPS, Advanced Ergonomics, FreeSync Premium, and G-Sync Compatible | VX2728J\n\n$179.99\n\nViewSonic 27\" 1440p 0.5ms 180Hz Gaming Monitor with IPS, Advanced Ergonomics, FreeSync Premium, and G-Sync Compatible | VX2728J-2K\n\n$189.99\n\nViewSonic 32\" Curved 1440p 1ms 180Hz Gaming Monitor with FreeSync Premium | VX3218C-2K\n\n$219.99\n\nViewSonic 24\" Curved 1080p 1ms 180Hz Gaming Monitor with FreeSync Premium | VX2418C\n\n$119.99\n\nViewSonic 32\" Curved 1080p 1ms 180Hz Gaming Monitor with FreeSync Premium | VX3218-PC-MHD\n\n$189.99\n\nViewSonic 27\" 1080p 1ms 180Hz Gaming Monitor with FreeSync | VX2718-P-MHD\n\n$169.99\n\nViewSonic 27\" Curved 1080p 1ms 200Hz Gaming Monitor with FreeSync Premium | VX2718-PC-MHD\n\n$159.99\n\nViewSonic 27\" Curved 1440p 1ms 180Hz Gaming Monitor with FreeSync Premium | VX2718-2KPC-MHD\n\n$179.99\n\nViewSonic 27\" 1440p OLED 0.03ms 240Hz Gaming Monitor with FreeSync Premium, HDMI 2.1 | VX2738-2K-OLED\n\n$449.99\n\nOut of stock\n\nVX2729 - 27\" 1080p 200Hz 1ms Gaming Monitor with AMD FreeSync Premium\n\nVX2429 - 24\" 1080p 200Hz 1ms Gaming Monitor with AMD FreeSync Premium",
+    "with": [
+      "ViewSonic 34\" 21:9 Curved 1440p 1ms 180Hz Gaming Monitor with FreeSync Premium |",
+      "ViewSonic 24\" 1080p 180Hz 0.5ms Gaming Monitor with FreeSync | VX2428A",
+      "ViewSonic 24\" Curved 1080p 1ms 180Hz Gaming Monitor with FreeSync Premium | VX24",
+      "VX2729 - 27\" 1080p 200Hz 1ms Gaming Monitor with AMD FreeSync Premium"
+    ],
+    "without": [
+      "Sign Up for Our Newsletter:",
+      "Sign Up for Newsletter",
+      "Customer Service"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "collection"
+  }
+}

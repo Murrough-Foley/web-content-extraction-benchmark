@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.etsy.com/market/handmade_wallet",
+  "file_id": "4204",
+  "ground_truth": {
+    "title": "Handmade Wallet",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Handmade Wallet\n\n1,000+ relevant results, with ads\n\nPersonalised Men's Wallet, Genuine Soft Black Leather Wallet, Personalized Engraved Father's Day Gift for Him, Boyfriend, Dad, Husband\n\nHandmade Genuine Leather Wallet for Men, Personalized Leather Wallet, Christmas Gift for Dad or Husband, Boyfriend, Christmas Gift Idea\n\nLeather AirTag Wallet: Slim & Minimalist Card Holder with Personalization, Handmade Italian Leather Purse\n\nFully Customizable Leather Cash Wallet, Handmade and Minimalist, Front Pocket, Flap Wallet, Anniversary Gift\n\nHandmade Leather Bifold Wallet: Personalized Front Pocket Card Holder\n\nLeather Wallet for Men, Genuine Leather Bifold Wallet, Handmade Minimalist Slim Wallet, Gift for Him\n\nRanch Wallet | Handmade leather wallet card holder made with vegetable tanned full grain Italian leather | Made in Finland\n\nMinimalist leather wallet for men, card holder for women, slim wallet, men's wallet, women's wallet, Classic Brown coin purse, perfect gift",
+    "with": [
+      "1,000+ relevant results, with ads",
+      "Handmade Leather Bifold Wallet: Personalized Front Pocket Card Holder",
+      "Ranch Wallet | Handmade leather wallet card holder made with vegetable tanned full grain Italian leather | Made in Finland",
+      "Leather Wallet for Men, Genuine Leather Bifold Wallet, Handmade Minimalist Slim Wallet, Gift for Him",
+      "Fully Customizable Leather Cash Wallet, Handmade and Minimalist, Front Pocket, Flap Wallet, Anniversary Gift"
+    ],
+    "without": [
+      "Please enter a valid email address.",
+      "You've been successfully signed up!",
+      "Great! We've sent you an email to confirm your subscription.",
+      "Best of Easter",
+      "Create new collection"
+    ],
+    "main_content_markdown": "# Handmade Wallet\n\n1,000+ relevant results, with ads\n\n## Personalised Men's Wallet, Genuine Soft Black Leather Wallet, Personalized Engraved Father's Day Gift for Him, Boyfriend, Dad, Husband\n\n## Handmade Genuine Leather Wallet for Men, Personalized Leather Wallet, Christmas Gift for Dad or Husband, Boyfriend, Christmas Gift Idea\n\n## Leather AirTag Wallet: Slim & Minimalist Card Holder with Personalization, Handmade Italian Leather Purse\n\n## Fully Customizable Leather Cash Wallet, Handmade and Minimalist, Front Pocket, Flap Wallet, Anniversary Gift\n\n## Handmade Leather Bifold Wallet: Personalized Front Pocket Card Holder\n\n## Leather Wallet for Men, Genuine Leather Bifold Wallet, Handmade Minimalist Slim Wallet, Gift for Him\n\n## Ranch Wallet | Handmade leather wallet card holder made with vegetable tanned full grain Italian leather | Made in Finland\n\n## Minimalist leather wallet for men, card holder for women, slim wallet, men's wallet, women's wallet, Classic Brown coin purse, perfect gift"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  }
+}

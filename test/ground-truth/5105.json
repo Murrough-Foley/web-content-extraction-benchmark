@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://forum.ascendacoustics.com/home/forum/ascend-acoustics-discussions/loudspeakers-subwoofers-accessories-electronics/6898-home-theater-speaker-recommendations",
+  "file_id": "5105",
+  "ground_truth": {
+    "title": "Home Theater Speaker Recommendations",
+    "author": null,
+    "publish_date": "2024-04-16",
+    "main_content": "Hello all!\n\nI'm pretty new to the home theater/audiophile world and still have a lot to learn but I'm looking to upgrade my existing HT setup to something that I won't have to upgrade for a long while. This setup is currently used for movies, music, video games. After a few weeks of research and reading reviews, I've decided to go with speakers from Ascend Acoustics*!\n\nI plan on upgrading over time and am wanting to start with my LR first. My setup currently consists of the following:\nReceiver: Denon S540BT (5.2 70W)\n\nLR: Infinity R253 Towers\n\nC: Infinity RC252\n\nSurrounds: Bose161\n\nSubwoofer: SVS PB-2000 Pro**\n\nHere is some information on the room itself:\nThe HT room is in my basement and is 14x27x8\n\nThe TV is mounted on the wall\n\nThe LR speakers are about 8 feet apart from one another\n\nThe primary listening seat is about 8 feet from the LCR speakers\n\nThe Left speaker is in front of a drywall wall and is next to an opening that goes into another area in the basement\n\nThe Center speaker is sitting on top of a TV console\n\nThe Right speaker is in a corner with a drywall wall and a window that is covered with an insulating curtain\n\nI'm currently trying to decide between the Sierra LX's or the ELX Towers for LR. I have never owned a pair of bookshelf speakers and am a little worried about the room being too large for them. Given the large size of the room, 8-ft distance from LCR, and the subwoofer that I have, which would be preferred?\n\nAs for the center, I need to do a bit more research between 2-way and 3-way. My first thought is \"bigger number is better so I should go with a 3-way speaker\". I'm assuming that if I were to go with the LX's then a 3rd LX for the center would be preferred, correct? Or Would the LX's pair better with a 3-way center? If I go with the ELX Towers, would the ELX Horizon be the recommended center?\n\nFor the surrounds, I'm not sure which way to go. Would the Sierra LX's be overkill?\n\nIf there's any additional information or clarifications needed or if I'm generally misunderstanding something, please let me know!\n\nThank you!\n\n- Greg\n\n*I've decided to go with Ascend both after seeing how high the Sierra LX's ranked on this speaker recommendations list on the Audio Science Review forums and after seeing how involved the owner is on these forums\n\n**This was recently upgraded and will not be upgraded\n\nracrawford65\n\nI own both the LX and the Towers (originally version 1 with RAAL but upgraded to ELXv2 with RAAL). IMO, you can't go wrong with either product. When I first got the LX's, I put them in my main system for a few weeks. My room is 16x12x12, but open to rear (16x12x12) and left side (~20x22x11). I sit about 9' from the speakers. The LX were fine here. That said, considering your room size, the dedicated midrange, and the higher efficiency, I'd go with the Towers if your budget permits. In my case, I prefer the RAAL to the Titan tweeter, even with rock/metal music (which is what I generally listen to). The Towers are Ascend's top of the line speaker and you won't ask yourself what if?\n\nIn either case (LX or Towers), I'd go with the Horizon center as the center is key to HT/movies. I started with an S2 as center (with S2 as LR, as well), moved to the Duo center, and then to the Horizon. Each was a step up, with the Horizon being a very big jump.\n\nAs to surrounds (or ATMOS), in my use case they are primarily for movies as I don't generally listen to MC music. So, I'm in the \"don't have to be expensive\" camp for surrounds or Atmos. Originally, I was using HTM200's as surrounds (and added as ATMOS), When I moved to the Towers, I moved the S2's to surround duty (and upgraded these to S2EXv2). That said, the HTM's worked great as surrounds and could have easily kept them. What I like about the HTM is that I could mount them directly on the wall.\n\nIn the end, I'd strongly suggest calling Dina/Dave at Ascend to discuss your room, system, listening habits, etc. to get their recommendation. They'll give you a straight answer without any upsell.\n\ndavef\n\nHi Greg,\n\nMy sincere apologies as I missed this post. Did you reach out to us directly? Have we answered all of your questions?\n\nThanks in advance!",
+    "with": [
+      "I plan on upgrading over time and am wanting to start with my LR first. My setup",
+      "The primary listening seat is about 8 feet from the LCR speakers",
+      "As for the center, I need to do a bit more research between 2-way and 3-way. My ",
+      "*I've decided to go with Ascend both after seeing how high the Sierra LX's ranke",
+      "I'd go with the Horizon center as the center is key to HT/movies"
+    ],
+    "without": [
+      "Forgot password or user name?",
+      "Speaker pairs",
+      "Center speakers",
+      "Today's Posts"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "forum"
+  }
+}

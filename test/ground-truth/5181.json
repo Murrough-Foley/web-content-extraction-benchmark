@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "url": "https://english.stackexchange.com/questions/589331/sentence-grammar-usage-as",
+  "file_id": "5181",
+  "ground_truth": {
+    "title": "Sentence grammar usage \"as\"",
+    "author": null,
+    "publish_date": "2022-05-24",
+    "main_content": "He was exposed as lacking in intelligence.\n\nI'm writing this sentence but I feel there is something amiss with the grammar, but I can't tell exactly why or where. Something to do with \"as\" I suspect.\n\nAny help would be appreciated thank you.\n\n1 Answer\n\nThe sentence is correct as far as I can see. Depending on the context, we could come up with less ambiguous sentences that share the same meaning.",
+    "with": [
+      "He was exposed as lacking in intelligence.",
+      "The sentence is correct as far as I can see. Depending on the context, we could "
+    ],
+    "without": [
+      "Start here for a quick overview of the site",
+      "Hot Network Questions",
+      "Skip to main content",
+      "Stack Exchange Network"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "forum"
+  }
+}

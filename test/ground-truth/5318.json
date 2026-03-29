@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "url": "https://soca-fbc.org/",
+  "file_id": "5318",
+  "ground_truth": {
+    "title": "Home - SOCA-FBC",
+    "author": null,
+    "publish_date": null,
+    "main_content": "SOCA Adoptables\n\nSaving Our Companion Animals – Fort Bend County\n\nSOCA – FBC is a non-profit, 501c3 organization run solely by volunteers dedicated to saving and improving the lives of companion animals.\nSOCA Adoptables\n\nOur Mission\n\nSaving Our Companion Animals – Fort Bend County (SOCA-FBC) is a nonprofit, 501(c)(3) organization. SOCA-FBC is dedicated to saving and improving the lives of companion animals and promoting responsible pet ownership in Fort Bend County, TX. Our 100% volunteer organization helps sick/injured animals, urgent or needy shelter pets, and community animals needing to be re-homed. We render assistance to our local shelters. We believe that becoming a community that cares for its pets starts with Education, Assistance and Accountability. We rely 100% on contributions from the public and your generous support in providing foster homes for the pets in need.\n\nVolunteer Opportunities\n\nSOCA is seeking a Volunteer Events Coordinator – someone who is interested in helping SOCA get our foster cats and dogs adopted.\n\nThis is an administrative role that requires effective communication and coordination, Facebook basics, as well as collage making.\n\nContact us today to learn more about this opportunity!",
+    "with": [
+      "SOCA – FBC is a non-profit, 501c3 organization run solely by volunteers",
+      "Saving Our Companion Animals – Fort Bend County (SOCA-FBC) is a nonprofit",
+      "This is an administrative role that requires effective communication and coordination",
+      "Contact us today to learn more about this opportunity"
+    ],
+    "without": [
+      "Barn and Shop Cats",
+      "Foster or Volunteer"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

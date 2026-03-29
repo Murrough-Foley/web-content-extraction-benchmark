@@ -1,0 +1,23 @@
+{
+  "schema_version": "2.0",
+  "url": "https://wornwear.patagonia.com/collections/womens-insulated-down-jackets",
+  "file_id": "4750",
+  "ground_truth": {
+    "title": "Women's Used & Second Hand Insulated & Down Jackets",
+    "author": null,
+    "publish_date": null,
+    "main_content": "",
+    "with": [],
+    "without": []
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product",
+    "spa": true
+  }
+}

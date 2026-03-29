@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://users.rust-lang.org/t/is-changing-the-msrv-a-non-breaking-change-since-the-rust-2024-edition/138416",
+  "file_id": "0504",
+  "ground_truth": {
+    "title": "Is changing the MSRV a non-breaking change since the Rust 2024 Edition?",
+    "author": "sorairolake",
+    "publish_date": "2026-02-20",
+    "main_content": "sorairolake\nFebruary 20, 2026, 4:55pm\n\nFor example, the rust-version field of the getrandom crate v0.4.0 is 1.85 and the edition field is 2024. Therefore, the MSRV of any crate that depends on this crate is also 1.85.\n\nSince the MSRV aware resolver has been implicitly enabled since the Rust 2024 Edition stabilized in Rust 1.85.0, can we assume that the MSRV change is a non-breaking change?\n\nShould we also assume that someone is using an older edition or has intentionally disabled the MSRV aware resolver?\n\nBurntSushi\nFebruary 20, 2026, 5:07pm\n\nBumping MSRV has never been broadly considered as a semver breaking change.\n\nThere are some projects who treat it as such, but they are the minority.\n\nnewpavlov\nFebruary 20, 2026, 6:49pm\n\nAs a getrandom maintainer, I would like to confirm that your understanding is correct. The crate no longer considers MSRV bump being a breaking change, so going forward it could be done in patch releases. The same applies to the new releases of RustCrypto crates as well.\n\nPersonally, for crates which followed the strict MSRV policy I prefer to release new breaking releases with edition set to 2024 and relax the policy to fully rely on the MSRV-aware resolver. So you can not use \"an older edition\" and if you disable the resolver then any breakage caused by MSRV incompatibilities is your responsibility.\n\nepage\nFebruary 20, 2026, 11:05pm\n\nSomething to keep in mind with this discussion is that the config field to opt-in to the MSRV-aware resolver does not require an MSRV bump to set. Generally people develop on a recent version but happen to also support older versions or deploy with an older version and they can fully leverage the MSRV-aware resolver in these cases.",
+    "main_content_markdown": "sorairolake\nFebruary 20, 2026, 4:55pm\n\nFor example, the `rust-version` field of the [`getrandom`](https://crates.io/crates/getrandom/0.4.0) crate v0.4.0 is 1.85 and the `edition` field is 2024. Therefore, the MSRV of any crate that depends on this crate is also 1.85.\n\nSince the MSRV aware resolver has been implicitly enabled since the Rust 2024 Edition stabilized in Rust 1.85.0, can we assume that the MSRV change is a non-breaking change?\n\nShould we also assume that someone is using an older edition or has intentionally disabled the MSRV aware resolver?\n\nBurntSushi\nFebruary 20, 2026, 5:07pm\n\nBumping MSRV has never been broadly considered as a semver breaking change.\n\nThere are some projects who treat it as such, but they are the minority.\n\nnewpavlov\nFebruary 20, 2026, 6:49pm\n\nAs a `getrandom` maintainer, I would like to confirm that your understanding is correct. The crate no longer considers MSRV bump being a breaking change, so going forward it could be done in patch releases. The same applies to the new releases of RustCrypto crates as well.\n\nPersonally, for crates which followed the strict MSRV policy I prefer to release new breaking releases with `edition` set to 2024 and relax the policy to fully rely on the MSRV-aware resolver. So you can not use \"an older edition\" and if you disable the resolver then any breakage caused by MSRV incompatibilities is your responsibility.\n\nepage\nFebruary 20, 2026, 11:05pm\n\nSomething to keep in mind with this discussion is that the config field to opt-in to the MSRV-aware resolver does not require an MSRV bump to set. Generally people develop on a recent version but happen to also support older versions or deploy with an older version and they can fully leverage the MSRV-aware resolver in these cases.",
+    "with": [
+      "the rust-version field of the getrandom crate v0.4.0 is 1.85 and the edition field is 2024",
+      "Since the MSRV aware resolver has been implicitly enabled since the Rust 2024 Edition stabilized in Rust 1.85.0",
+      "Bumping MSRV has never been broadly considered as a semver breaking change.",
+      "There are some projects who treat it as such, but they are the minority.",
+      "As a getrandom maintainer, I would like to confirm that your understanding is correct."
+    ],
+    "without": [
+      "The Rust Programming Language Forum",
+      "Related topics",
+      "Log In",
+      "Terms of Service"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": []
+    }
+  }
+}

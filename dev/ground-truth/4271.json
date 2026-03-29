@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://thriveagency.com/portfolio-work/",
+  "file_id": "4271",
+  "ground_truth": {
+    "title": "Website Design Portfolio",
+    "author": null,
+    "publish_date": "2023-06-12",
+    "main_content": "All\nNutrition\nBusiness by Trade\nFinance and Legal\nHealthcare\nNon-Profit Designs\nEducation\nTechnology\nEntertainment\n\nExperience Real Results.\n\nPartner with Thrive Internet Marketing Agency and scale your business.\n\nIn a hurry? Give us a call now at 866-908-4748\n\nBy submitting your phone number, you agree to receiving texts from Thrive Ideas.",
+    "with": [
+      "Partner with Thrive Internet Marketing Agency and scale your business.",
+      "In a hurry? Give us a call now at 866-908-4748",
+      "By submitting your phone number, you agree to receiving texts from Thrive Ideas."
+    ],
+    "without": [
+      "Services Menu",
+      "Digital Marketing",
+      "Digital Marketing Strategy Development",
+      "Franchise Digital Marketing"
+    ],
+    "main_content_markdown": "All\nNutrition\nBusiness by Trade\nFinance and Legal\nHealthcare\nNon-Profit Designs\nEducation\nTechnology\nEntertainment\n\n##### Experience Real Results.\n\nPartner with Thrive Internet Marketing Agency and scale your business.\n\nIn a hurry? Give us a call now at [866-908-4748](tel:+866-908-4748)\n\nBy submitting your phone number, you agree to receiving texts from Thrive Ideas."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "service"
+  }
+}

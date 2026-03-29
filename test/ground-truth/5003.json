@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.folio3.com/mobile/",
+  "file_id": "5003",
+  "ground_truth": {
+    "title": "Top Mobile App Development Services Company US",
+    "author": null,
+    "publish_date": null,
+    "main_content": "We are a leading mobile app development company\n\nFor the past decade we have been creating high performance, feature-packed mobile applications for iOS & Android. As an expert in mobile application development services, Folio3 can create the right app that will meet all your business and industry needs.\n\nWe develop great\nmobile apps for great brands\n\nFull Spectrum Mobile App Development Services\n\nWe understand your challenges across business functions and recognize your company values. Our aim is to bring your ideas to life through our full-spectrum mobile app development services combined with our extensive industry experience that covers a wide array of industries with an international client base, predominantly in the USA and UK. Our mobile app development services include:\n\nNative Mobile Apps\n\nCross Platform Apps\n\nEmerging Technologies\n\nOther Services\n\nReach out to us\n\nHave An Idea For An App, Talk To Us Today\nFor a Free Consultation!\n\nCase Study\n\nCase Study\n\nCase Study\n\nSuccess Stories\n\nWe help start ups build, sell and scale with our partners\n\nIndustries we serve\n\nWe cater to the mobile app development needs of clients cutting through a range of industries spread across continents. Our extensive experience in delivering mobile app development services, has given us the opportunity to work with brands on key industry issues and build efficient industry through smart apps.\n\n01\n\nAutomotive\nRead\n\n02\n\nRetail\nRead\n\n03\n\nHealthcare\nRead\n\n04\n\nManufacturing\nRead\n\n05\n\nLogistics\nRead\n\n06\n\nAgriculture\nRead\n\n07\n\nPharmaceuticals & life sciences\nRead\n\n08\n\nEducation\nRead",
+    "with": [
+      "For the past decade we have been creating high performance, feature-packed mobil",
+      "We cater to the mobile app development needs of clients cutting through a range",
+      "Automotive",
+      "Pharmaceuticals & life sciences"
+    ],
+    "without": [
+      "Apps Discovery Services",
+      "Team Augmentation"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "service"
+  }
+}

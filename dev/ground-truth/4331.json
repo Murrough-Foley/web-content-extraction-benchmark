@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.topuniversities.com/university-subject-rankings/computer-science-information-systems",
+  "file_id": "4331",
+  "ground_truth": {
+    "title": "QS World University Rankings for Computer Science and Information Systems 2025",
+    "author": "Keshala Jayawickrama",
+    "publish_date": "2026-03-05",
+    "main_content": "Discover the top universities around the world for studying computer science & information systems according to the QS World University Rankings by Subject.\n\nOver 800 universities have been included in our ranking of the top computer science & information systems degrees. While the top three universities are all based in the US, Singapore, the UK and Switzerland are all represented at least once among the top 10.\n\nUniversitat Autónoma de Barcelona is the highest-ranked new entrant this year, debuting in the ranking at joint 175th, making it the fourth best university in Spain for computer science.",
+    "with": [
+      "Over 800 universities have been included in our ranking of the top computer science",
+      "Discover the top universities around the world for studying computer science &",
+      "Universitat Autónoma de Barcelona is the highest-ranked new entrant this year"
+    ],
+    "without": [
+      "Rankings Overview",
+      "QS Sustainability Rankings",
+      "Unlock advanced filters by Registering for free!",
+      "Use our tool to find your perfect course",
+      "Register for free site membership",
+      "Sort by",
+      "Results per page"
+    ],
+    "main_content_markdown": "Discover the top universities around the world for studying computer science & information systems according to the QS World University Rankings by Subject.\n\nOver 800 universities have been included in our ranking of the top computer science & information systems degrees. While the top three universities are all based in the US, Singapore, the UK and Switzerland are all represented at least once among the top 10.\n\nUniversitat Autónoma de Barcelona is the highest-ranked new entrant this year, debuting in the ranking at joint 175th, making it the fourth best university in Spain for computer science."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "high",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

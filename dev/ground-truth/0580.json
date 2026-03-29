@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.allbirds.com/products/mens-wool-runners",
+  "file_id": "0580",
+  "ground_truth": {
+    "title": "Men's Wool Runner",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Men's Wool Runner\n\nTHE DETAILS\n\nA true original, our Wool Runner combines soft Merino wool with cloud-like comfort.\n\nMATERIALLY BETTER\n\nOur responsibly-sourced Merino wool provides a cozy fit that's soft and itch-free on the inside and durable on the outside, while a sugarcane-based SweetFoam midsole offers cushy support for all-day wear.\n\nWASH & CARE\n\nThis shoe is washing machine approved. Just remove the insoles and laces and hand wash them separately to keep every step as fresh as the first.\n\nBEHIND THE DESIGN\n\nClassic Casual\nFrom trips to the store, dinner with friends, or just taking a walk, consider this your everyday go-to.\n\nSOFT WOOL\nSuperfine fibers have a luxurious feel and help regulate temperature.\n\nODOR MINIMIZING\nNaturally anti-microbial, wool locks away moisture to maximize freshness.\n\nSUPPORTIVE\nOur proprietary sugarcane-based SweetFoam midsole is both sturdy and super soft.\n\nRESPONSIBLY SOURCED\nOur wool meets high standards of animal welfare, environmental care, and social sustainability.",
+    "with": [
+      "A true original, our Wool Runner combines soft Merino wool with cloud-like comfort",
+      "responsibly-sourced Merino wool provides a cozy fit",
+      "sugarcane-based SweetFoam midsole offers cushy support",
+      "This shoe is washing machine approved",
+      "Superfine fibers have a luxurious feel and help regulate temperature"
+    ],
+    "without": [
+      "Add to Cart",
+      "Select A Size",
+      "Free Shipping on Orders over $75",
+      "Notify Me"
+    ],
+    "main_content_markdown": "# Men's Wool Runner\n\n### THE DETAILS\n\nA true original, our Wool Runner combines soft Merino wool with cloud-like comfort.\n\n### MATERIALLY BETTER\n\nOur responsibly-sourced Merino wool provides a cozy fit that's soft and itch-free on the inside and durable on the outside, while a sugarcane-based SweetFoam midsole offers cushy support for all-day wear.\n\n### WASH & CARE\n\nThis shoe is [washing machine approved.](https://www.allbirds.com/pages/shoe-care) Just remove the insoles and laces and hand wash them separately to keep every step as fresh as the first.\n\nBEHIND THE DESIGN\n\nClassic Casual\nFrom trips to the store, dinner with friends, or just taking a walk, consider this your everyday go-to.\n\n## SOFT WOOL\nSuperfine fibers have a luxurious feel and help regulate temperature.\n\n## ODOR MINIMIZING\nNaturally anti-microbial, wool locks away moisture to maximize freshness.\n\n## SUPPORTIVE\nOur proprietary sugarcane-based SweetFoam midsole is both sturdy and super soft.\n\n## RESPONSIBLY SOURCED\nOur wool meets high standards of animal welfare, environmental care, and social sustainability."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": []
+    }
+  }
+}

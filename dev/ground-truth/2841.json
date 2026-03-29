@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.airtable.com/",
+  "file_id": "2841",
+  "ground_truth": {
+    "title": "Airtable: Build Enterprise-ready AI Workflows, Apps & Agents",
+    "author": null,
+    "publish_date": null,
+    "main_content": "All your teams, all their workflows—connected in one workspace\n\nBuild AI-powered workflows that unify data, maximize collaboration, and set your teams up for long-term success. No code required.\n\nTrusted by 500,000 leading teams\n\nSophisticated workflows in minutes, not months\n\nProduction apps at prototype speed\n\nStreamline your team's critical data through conversational building. Generate apps with Airtable's best-in-class no-code components—no technical expertise required.\n\nDon't just ask AI. Deploy it.\n\nEmbed intelligence into every workflow—Airtable agents think dynamically across thousands of records and orchestrate actions across your entire operation.\n\nSay hello to Omni\n\nUse it to build any enterprise-grade applications with your data. The possibilities are endless.\n\nThe power of AI with the industrial-grade platform your business demands\n\nScalable infrastructure\n- HyperDB with record limits in the hundreds of millions\n- Scale workflows to tens of thousands of users\n- Use AI models from leading providers (OpenAI, Gemini, Llama, Anthropic, and more)\n\nFlexible administration\n- Admin roles, robust permissions, fine-grained RBAC\n- Fine-grained controls to enable AI\n- Programmatic provisioning and de-provisioning\n- IDP synced groups\n\nSecurity and compliance\n- ISO, HIPAA, SOC 2\n- No customer data retained or used to train AI models\n- Models run fully in Airtable's AWS environment\n- EKM, data loss prevention, audit logs, e-discovery\n- European and Australian data residency support\n\nThe path to 10x every person in your organization\n\nUse cases and templates to activate AI in your workflows\n\nRead this brief and generate 10 campaign ideas for our summer launch.\nGather intel on all event invitees to help me personalize outreach.\nWhat are customers saying about our competitors and where are our biggest opportunities?\nRun language translation on 500 assets and check for local regulation requirements.\n\nResources to inspire\n\nBuilders & Breakthroughs\nHear from top product leaders as they share the pivotal insights and decisions behind building great products—hosted by Airtable CEO Howie Liu.\n\nThe 2026 AI guide for marketers\nLearn how to prep your marketing organization for AI integration and layer Airtable across your most critical marketing workflows.\n\nIn action: Airtable ProductCentral\nSee how Airtable ProductCentral delivers a complete view of product investments at every altitude, infusing AI at each step of the product development process.\n\n\"Airtable makes it easy to deliver AI insights to every team quickly and without complex builds.\"\nAngela Yanes\nDirector of Product Operations, eBay\n\nStart building with Airtable\n\nTeams at over 500,000 forward-thinking organizations use Airtable every day. Join them.",
+    "with": [
+      "Build AI-powered workflows that unify data, maximize collaboration, and set your teams up for long-term success.",
+      "HyperDB with record limits in the hundreds of millions",
+      "No customer data retained or used to train AI models",
+      "Airtable makes it easy to deliver AI insights to every team quickly and without complex builds."
+    ],
+    "without": [
+      "Unlock the power of a next-gen app-building platform",
+      "Add real-time messaging to your workflows",
+      "Get the Airtable app for desktop and mobile",
+      "Explore the platform"
+    ],
+    "main_content_markdown": "All your teams, all their workflows-connected in one workspace\n\nBuild AI-powered workflows that unify data, maximize collaboration, and set your teams up for long-term success. No code required.\n\n## Trusted by 500,000 leading teams\n\n## Sophisticated workflows in minutes, not months\n\n### Production apps at prototype speed\n\nStreamline your team's critical data through conversational building. Generate apps with Airtable's best-in-class no-code components-no technical expertise required.\n\nDon't just ask AI. Deploy it.\n\nEmbed intelligence into every workflow-Airtable agents think dynamically across thousands of records and orchestrate actions across your entire operation.\n\n## Say hello to Omni\n\nUse it to build any enterprise-grade applications with your data. The possibilities are endless.\n\n## The power of AI with the industrial-grade platform your business demands\n\n**Scalable infrastructure**\n- HyperDB with record limits in the hundreds of millions\n- Scale workflows to tens of thousands of users\n- Use AI models from leading providers (OpenAI, Gemini, Llama, Anthropic, and more)\n\n**Flexible administration**\n- Admin roles, robust permissions, fine-grained RBAC\n- Fine-grained controls to enable AI\n- Programmatic provisioning and de-provisioning\n- IDP synced groups\n\n**Security and compliance**\n- ISO, HIPAA, SOC 2\n- No customer data retained or used to train AI models\n- Models run fully in Airtable's AWS environment\n- EKM, data loss prevention, audit logs, e-discovery\n- European and Australian data residency support\n\n## The path to 10x every person in your organization\n\nUse cases and templates to activate AI in your workflows\n\nRead this brief and generate 10 campaign ideas for our summer launch.\nGather intel on all event invitees to help me personalize outreach.\nWhat are customers saying about our competitors and where are our biggest opportunities?\nRun language translation on 500 assets and check for local regulation requirements.\n\nResources to inspire\n\nBuilders & Breakthroughs\nHear from top product leaders as they share the pivotal insights and decisions behind building great products-hosted by Airtable CEO Howie Liu.\n\nThe 2026 AI guide for marketers\nLearn how to prep your marketing organization for AI integration and layer Airtable across your most critical marketing workflows.\n\nIn action: Airtable ProductCentral\nSee how Airtable ProductCentral delivers a complete view of product investments at every altitude, infusing AI at each step of the product development process.\n\n\"Airtable makes it easy to deliver AI insights to every team quickly and without complex builds.\"\nAngela Yanes\nDirector of Product Operations, eBay\n\nStart building with Airtable\n\nTeams at over 500,000 forward-thinking organizations use Airtable every day. Join them."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

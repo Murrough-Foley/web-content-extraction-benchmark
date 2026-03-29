@@ -1,0 +1,38 @@
+{
+  "schema_version": "2.0",
+  "url": "https://gamerant.com/gaming/",
+  "file_id": "0264",
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "gaming",
+        "news",
+        "listing",
+        "articles"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Gaming News",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Gaming News - The biggest video game news, rumors, previews, and info about the PC, PlayStation, Xbox, Nintendo, & mobile titles you play.\n\nFeatured articles:\n\nFinal Fantasy 14 Is Being Hit With DDoS Attacks Yet Again\n\n\"If I Had to Give a Realistic Estimate...\" Toby Fox Gives Update on Deltarune Progress\n\nBattlefield 6 Teases What Exactly It Has in Store for Fans With Its 2026 Updates\n\nSony is Acquiring a Beloved Franchise That First Started 75 Years Ago to the Tune of $457 Million\n\nYooka-Replaylee's Retail Edition Is A Collector's Dream\n\n'I Really Needed It While I Played It' Ghost of Yotei's Erika Ishii Reveals Their Top 3 Games of All Time\n\nPC Gamers are in for a Bumpy Ride: Micron Says RAM Shortage Could Last Beyond 2026\n\nMarathon Art Director Leaves Bungie Just 3 Months Before the Extraction Shooter's Official Launch\n\n'This is Why We Make Games' Ghost of Yotei's Erika Ishii Picks Their Game of the Year for 2025, And It Wasn't Expedition 33\n\nEpic Games Store Users Only Have 24 Hours to Claim the December 19 Free Game\n\nGhost of Yotei's Erika Ishii Ideal Game Studio Would Take a Page Out of the Dropout Playbook\n\nGenshin Impact Second Half Banners for Version 6.2 Are Great News for Natlan Fans\n\nOverwatch 2 December 18 Update Includes Vendetta Nerf, Stadium Adjustments, and Aim Assist Changes\n\nSteam Winter Sale 2025 is Live Now and Here Are the Best Deals\n\nAnother Blow to PC Gaming: Nvidia May Be Looking to Cut GPU Production Thanks to the Ongoing RAM Crisis\n\nAn Award-Winning PlayStation Studio is Reportedly Already Crunching on a Game That Won't Be Out Until 2027\n\nSteam Users Have Until December 21 to Claim 2 More Games Completely Free of Charge\n\nNew Borderlands 4 Event Features Absurd Legendary Drop Rates For the Holiday Season\n\nAfter 15 Years, Nintendo Finally Wins Wii Lawsuit\n\nStardew Valley Creator ConcernedApe Comments on Update 1.7 and Nintendo Switch 2 Port\n\nGOTY Contender Rushes to the Defense of Baldur's Gate 3 Studio Larian Amid AI Controversy\n\nPC Gamers Have Only 24 Hours to Claim Epic Games Store's Free Game for December 18",
+    "with": [
+      "Final Fantasy 14 Is Being Hit With DDoS Attacks Yet Again",
+      "Sony is Acquiring a Beloved Franchise That First Started 75 Years Ago to the Tune of $457 Million",
+      "Micron Says RAM Shortage Could Last Beyond 2026",
+      "After 15 Years, Nintendo Finally Wins Wii Lawsuit"
+    ],
+    "without": [
+      "About Us",
+      "Newsletter",
+      "Join Our Team",
+      "Valnet Publishing Group"
+    ],
+    "main_content_markdown": "Gaming News - The biggest video game news, rumors, previews, and info about the PC, [PlayStation](https://gamerant.com/tag/playstation/), Xbox, [Nintendo](https://gamerant.com/tag/nintendo/), & mobile titles you play.\n\nFeatured articles:\n\n### Final Fantasy 14 Is Being Hit With DDoS Attacks Yet Again\n\n\"If I Had to Give a Realistic Estimate...\" Toby Fox Gives Update on Deltarune Progress\n\n##### Battlefield 6 Teases What Exactly It Has in Store for Fans With Its 2026 Updates\n\n##### Sony is Acquiring a Beloved Franchise That First Started 75 Years Ago to the Tune of $457 Million\n\nYooka-Replaylee's Retail Edition Is A Collector's Dream\n\n'I Really Needed It While I Played It' Ghost of Yotei's Erika Ishii Reveals Their Top 3 Games of All Time\n\n##### PC Gamers are in for a Bumpy Ride: Micron Says RAM Shortage Could Last Beyond 2026\n\n##### Marathon Art Director Leaves Bungie Just 3 Months Before the Extraction Shooter's Official Launch\n\n'This is Why We Make Games' Ghost of Yotei's Erika Ishii Picks Their Game of the Year for 2025, And It Wasn't Expedition 33\n\n##### Epic Games Store Users Only Have 24 Hours to Claim the December 19 Free Game\n\n##### Ghost of Yotei's Erika Ishii Ideal Game Studio Would Take a Page Out of the Dropout Playbook\n\n##### Genshin Impact Second Half Banners for Version 6.2 Are Great News for Natlan Fans\n\n##### Overwatch 2 December 18 Update Includes Vendetta Nerf, Stadium Adjustments, and Aim Assist Changes\n\n##### Steam Winter Sale 2025 is Live Now and Here Are the Best Deals\n\n##### Another Blow to PC Gaming: Nvidia May Be Looking to Cut GPU Production Thanks to the Ongoing RAM Crisis\n\n##### An Award-Winning PlayStation Studio is Reportedly Already Crunching on a Game That Won't Be Out Until 2027\n\n##### Steam Users Have Until December 21 to Claim 2 More Games Completely Free of Charge\n\n##### New Borderlands 4 Event Features Absurd Legendary Drop Rates For the Holiday Season\n\n##### After 15 Years, Nintendo Finally Wins Wii Lawsuit\n\n##### Stardew Valley Creator ConcernedApe Comments on Update 1.7 and Nintendo Switch 2 Port\n\n##### GOTY Contender Rushes to the Defense of Baldur's Gate 3 Studio Larian Amid AI Controversy\n\n##### PC Gamers Have Only 24 Hours to Claim Epic Games Store's Free Game for December 18"
+  }
+}

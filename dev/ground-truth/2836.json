@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.netlify.com/",
+  "file_id": "2836",
+  "ground_truth": {
+    "title": "Push your ideas to the web",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Push your ideas to the web\n\nBuild with AI or code, deploy instantly. One platform with everything you need to make real apps live.\n\nEverything you need to ship. Nothing you don't.\n\nFrom vibe coding your first app to serving millions of users, Netlify handles the infrastructure so you can focus on building. No DevOps required. No complex setup. No surprise bills when you scale.\n\nShip instantly\n\nGet your app live. Deploy from Bolt, Cursor, GitHub, or anywhere you build. Every change gets a shareable preview link.\n- Deploy from anywhere\n- Instant preview links\n- Update code with Agent Runners\n\nBuild anything\n\nEverything your app needs in one place. Create APIs, save images, store data without juggling a ton of services.\n- Marketing sites to AI apps\n- Forms, functions, and APIs ready\n- Database and image storage built-in\n\nGrows with you\n\nFrom first user to first million, without worry. Your app handles viral moments automatically. No crashes, no replatforming, just growth.\n- Free tier that actually works\n- Managed security\n- Automatic scaling\n\nReady to use building blocks.\n\nBuild APIs, store files, manage data, control performance. No backend setup required—just build and deploy.\n\nPower AI apps with AI Gateway\n\nCall OpenAI, Anthropic, or Gemini directly from your code without juggling keys or accounts. Every request is routed through one gateway, with usage tracking and safeguards included.\n- Use AI without managing API keys\n- Switch between 30+ models\n- Monitor usage and costs in one place\n\nBuild scalable, fullstack apps with Netlify Functions\n\nDeploy server-side code that works as API endpoints, runs automatically in response to events, or processes more complex jobs in the background.\n- Send automated email\n- Fetch live data from an API\n- Return dynamic images\n- Validate user input\n\nAgent-friendly storage for full-stack apps\n\nInstantly provision a production-grade database with Netlify DB or use Blobs as a simple key/value store or lightweight database.\n- Store and retrieve blobs and unstructured data for frequent reads and infrequent writes\n- Use serverless databases to create full-stack apps\n- Set up in minutes with the help of a code agent\n\nBetter image performance with the Netlify Image CDN\n\n- Transform images on demand without impacting build times\n- Optimize the size and format of your images\n- Improve both the runtime performance and reliability of your site\n\nGet information from your users with Netlify Forms\n\n- Automatic form detection with one HTML attribute\n- Allows you to create forms in Netlify without extra API calls or additional JavaScript\n- Uses HTML forms, a trusted web standard\n\nStart building on Netlify\n\nJoin millions of developers and teams bringing their ideas online.",
+    "with": [
+      "No DevOps required. No complex setup. No surprise bills when you scale.",
+      "Call OpenAI, Anthropic, or Gemini directly from your code without juggling keys or accounts",
+      "Instantly provision a production-grade database with Netlify DB",
+      "Transform images on demand without impacting build times"
+    ],
+    "without": [
+      "Toggle main menu",
+      "Toggle platform submenu",
+      "Explore the platform",
+      "Chat with a Netlify expert"
+    ],
+    "main_content_markdown": "# Push your ideas to the web\n\nBuild with AI or code, deploy instantly. One platform with everything you need to make real apps live.\n\n## Everything you need to ship. Nothing you don't.\n\nFrom vibe coding your first app to serving millions of users, Netlify handles the infrastructure so you can focus on building. No DevOps required. No complex setup. No surprise bills when you scale.\n\n### Ship instantly\n\nGet your app live. Deploy from Bolt, Cursor, GitHub, or anywhere you build. Every change gets a shareable preview link.\n- Deploy from anywhere\n- Instant preview links\n- Update code with Agent Runners\n\n### Build anything\n\nEverything your app needs in one place. Create APIs, save images, store data without juggling a ton of services.\n- Marketing sites to AI apps\n- Forms, functions, and APIs ready\n- Database and image storage built-in\n\n### Grows with you\n\nFrom first user to first million, without worry. Your app handles viral moments automatically. No crashes, no replatforming, just growth.\n- Free tier that actually works\n- Managed security\n- Automatic scaling\n\n## Ready to use building blocks.\n\nBuild APIs, store files, manage data, control performance. No backend setup required-just build and deploy.\n\n### Power AI apps with AI Gateway\n\nCall OpenAI, Anthropic, or Gemini directly from your code without juggling keys or accounts. Every request is routed through one gateway, with usage tracking and safeguards included.\n- Use AI without managing API keys\n- Switch between 30+ models\n- Monitor usage and costs in one place\n\nBuild scalable, fullstack apps with Netlify Functions\n\nDeploy server-side code that works as API endpoints, runs automatically in response to events, or processes more complex jobs in the background.\n- Send automated email\n- Fetch live data from an API\n- Return dynamic images\n- Validate user input\n\nAgent-friendly storage for full-stack apps\n\nInstantly provision a production-grade database with Netlify DB or use Blobs as a simple key/value store or lightweight database.\n- Store and retrieve blobs and unstructured data for frequent reads and infrequent writes\n- Use serverless databases to create full-stack apps\n- Set up in minutes with the help of a code agent\n\nBetter image performance with the Netlify Image CDN\n\n- Transform images on demand without impacting build times\n- Optimize the size and format of your images\n- Improve both the runtime performance and reliability of your site\n\nGet information from your users with Netlify Forms\n\n- Automatic form detection with one HTML attribute\n- Allows you to create forms in Netlify without extra API calls or additional JavaScript\n- Uses HTML forms, a trusted web standard\n\n## Start building on Netlify\n\nJoin millions of developers and teams bringing their ideas online."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

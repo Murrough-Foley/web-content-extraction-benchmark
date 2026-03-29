@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://github.com/topics/machine-learning",
+  "file_id": "2910",
+  "ground_truth": {
+    "title": "machine-learning",
+    "author": null,
+    "publish_date": null,
+    "main_content": "machine-learning\n\nMachine learning is a way of modeling and interpreting data that allows a piece of software to respond intelligently.\n\ntensorflow / tensorflow\n\nAn Open Source Machine Learning Framework for Everyone\n\nStar 194k, C++, Updated Mar 8, 2026\n\nhuggingface / transformers\n\nTransformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal.\n\nStar 158k, Python, Updated Mar 8, 2026\n\nf / prompts.chat\n\nf.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community.\n\nStar 151k, HTML, Updated Mar 8, 2026\n\npytorch / pytorch\n\nTensors and Dynamic neural networks in Python with strong GPU acceleration\n\nStar 98k, Python, Updated Mar 8, 2026\n\nrasbt / LLMs-from-scratch\n\nImplement a ChatGPT-like LLM in PyTorch from scratch, step by step\n\nStar 87.4k, Jupyter Notebook, Updated Mar 7, 2026\n\nmicrosoft / ML-For-Beginners\n\n12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all\n\nStar 84.2k, Jupyter Notebook, Updated Mar 5, 2026\n\nnetdata / netdata\n\nThe fastest path to AI-powered full stack observability, even for lean teams.\n\nStar 78k, C, Updated Mar 8, 2026\n\nDeveloper-Y / cs-video-courses\n\nList of Computer Science courses with video lectures.\n\nStar 76.7k, Updated Feb 21, 2026\n\nmlabonne / llm-course\n\nCourse to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.\n\nStar 76.2k, Updated Feb 5, 2026\n\nd2l-ai / d2l-zh\n\nStar 76k, Python, Updated Jul 30, 2024\n\ntesseract-ocr / tesseract\n\nTesseract Open Source OCR Engine (main repository)\n\nStar 72.8k, C++, Updated Feb 28, 2026\n\nbinhnguyennus / awesome-scalability\n\nThe Patterns of Scalable, Reliable, and Performant Large-Scale Systems\n\nStar 69.2k, Updated Jan 4, 2026\n\nlabmlai / annotated_deep_learning_paper_implementations\n\n60+ Implementations/tutorials of deep learning papers with side-by-side notes\n\nStar 65.9k\n\nageitgey / face_recognition\n\nThe world's simplest facial recognition api for Python and the command line\n\nStar 56.2k, Python, Updated Aug 21, 2024\n\npathwaycom / llm-app\n\nReady-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data.\n\nStar 56.2k, Jupyter Notebook, Updated Jan 7, 2026\n\ndeepfakes / faceswap\n\nDeepfakes Software For All\n\nStar 55k, Python, Updated Mar 3, 2026",
+    "with": [
+      "tensorflow / tensorflow",
+      "An Open Source Machine Learning Framework for Everyone",
+      "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "tesseract-ocr / tesseract",
+      "Deepfakes Software For All"
+    ],
+    "without": [
+      "Toggle navigation",
+      "AI CODE CREATION",
+      "Write better code with AI"
+    ],
+    "main_content_markdown": "machine-learning\n\nMachine learning is a way of modeling and interpreting data that allows a piece of software to respond intelligently.\n\n[tensorflow](https://github.com/tensorflow) / tensorflow\n\nAn Open Source Machine Learning Framework for Everyone\n\nStar 194k, C++, Updated Mar 8, 2026\n\n[huggingface](https://github.com/huggingface) / [transformers](https://github.com/huggingface/transformers)\n\nTransformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal.\n\nStar 158k, Python, Updated Mar 8, 2026\n\nf / [prompts.chat](https://github.com/f/prompts.chat)\n\nf.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community.\n\nStar 151k, HTML, Updated Mar 8, 2026\n\n[pytorch](https://github.com/pytorch) / pytorch\n\nTensors and Dynamic neural networks in Python with strong GPU acceleration\n\nStar 98k, Python, Updated Mar 8, 2026\n\n[rasbt](https://github.com/rasbt) / [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)\n\nImplement a ChatGPT-like LLM in PyTorch from scratch, step by step\n\nStar 87.4k, Jupyter Notebook, Updated Mar 7, 2026\n\n[microsoft](https://github.com/microsoft) / [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)\n\n12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all\n\nStar 84.2k, Jupyter Notebook, Updated Mar 5, 2026\n\n[netdata](https://github.com/netdata) / netdata\n\nThe fastest path to AI-powered full stack observability, even for lean teams.\n\nStar 78k, C, Updated Mar 8, 2026\n\n[Developer-Y](https://github.com/Developer-Y) / [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)\n\nList of Computer Science courses with video lectures.\n\nStar 76.7k, Updated Feb 21, 2026\n\n[mlabonne](https://github.com/mlabonne) / [llm-course](https://github.com/mlabonne/llm-course)\n\nCourse to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.\n\nStar 76.2k, Updated Feb 5, 2026\n\n[d2l-ai](https://github.com/d2l-ai) / [d2l-zh](https://github.com/d2l-ai/d2l-zh)\n\nStar 76k, Python, Updated Jul 30, 2024\n\n[tesseract-ocr](https://github.com/tesseract-ocr) / tesseract\n\nTesseract Open Source OCR Engine (main repository)\n\nStar 72.8k, C++, Updated Feb 28, 2026\n\n[binhnguyennus](https://github.com/binhnguyennus) / [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)\n\nThe Patterns of Scalable, Reliable, and Performant Large-Scale Systems\n\nStar 69.2k, Updated Jan 4, 2026\n\n[labmlai](https://github.com/labmlai) / [annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)\n\n60+ Implementations/tutorials of deep learning papers with side-by-side notes\n\nStar 65.9k\n\n[ageitgey](https://github.com/ageitgey) / [face_recognition](https://github.com/ageitgey/face_recognition)\n\nThe world's simplest facial recognition api for Python and the command line\n\nStar 56.2k, Python, Updated Aug 21, 2024\n\n[pathwaycom](https://github.com/pathwaycom) / [llm-app](https://github.com/pathwaycom/llm-app)\n\nReady-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data.\n\nStar 56.2k, Jupyter Notebook, Updated Jan 7, 2026\n\n[deepfakes](https://github.com/deepfakes) / [faceswap](https://github.com/deepfakes/faceswap)\n\nDeepfakes Software For All\n\nStar 55k, Python, Updated Mar 3, 2026"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

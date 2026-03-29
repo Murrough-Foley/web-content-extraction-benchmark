@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://features.api.westelm.com/pages/features/lighting-buying-guide/",
+  "file_id": "5521",
+  "ground_truth": {
+    "title": "CA of Lighting Buying Guide",
+    "author": null,
+    "publish_date": null,
+    "main_content": "When choosing light fixtures, keep these three essential factors in mind:\n\nSize\n\nConsider the space you’re lighting. Scale up for larger rooms, high ceilings, or a more dramatic effect.\n\nFunction\n\nKnowing what space you want to light will help you select the right fixture (ambient, accent, or task lighting).\n\nStyle\n\nTo reinforce your personal style, choose lighting inspired by your decor—rustic, farmhouse, or modern accents.\n\nTypes of lighting\n\nA well-lit room layers all three basic types of lighting.\n\nAmbient\n\nA room’s primary source of light, this is the base layer of warmth every room needs to feel welcoming and cozy.\n\nAccent\n\nTo highlight art and architectural features—wall sconces and picture lights are your go-to.\n\nTask\n\nBright and direct, task lighting reduces glare and shadows, making it easy to read, cook, and work.\n\nTable lamps\n\nTable lamps create a cozy ambiance. Smaller lamps add a decorative touch and mood lighting to shelves and bookcases, while larger lamps with tall bases and wide shades create drama on side tables and consoles.\n\nExpert tip\n\nWhen choosing a shade, aim for one twice the diameter of your lamp’s base and ⅓ the lamp’s height.\n\nSconces\n\nWall sconces are a brilliant way to add extra light for tasks, accents or ambiance. They bring high style to bathrooms, bedrooms, mudrooms, entryways and hallways—and they’re magical in outdoor spaces.\n\nExpert tip\n\nPosition wall sconces about 64″ from the floor when flanking bath or hall mirrors, and 20″ to 30″ above nightstands.\n\nChandeliers\n\nA chandelier is the ultimate glow-up, making a dramatic design statement that brings personality to your space and helps you set the mood.\n\nExpert tip\n\nFor a sloped or vaulted ceiling, opt for a cord or chain design. This will ensure your chandelier hangs straight.\n\nMeasuring & hanging tips\n\nWhen installing a chandelier, consider how it will hang in relation to other furnishings and lighting in your space.\n\nFixture scale\n\nTo find the right-sized chandelier, add the room’s length and width (in feet) and convert that number to inches. For example, a 15′ x 15′ room can accommodate a 30″ chandelier.\n\nHanging height\n\nPlan for at least 7′ between the bottom of the chandelier and floor, raising the chandelier 3″ for every additional foot in ceiling height.\n\nFloor lamps\n\nA floor lamp is a standalone solution for balancing the brightness of recessed lighting, while offering light where you need it most—at eye level. An arc lamp casts a diffused glow over a sofa or chaise, while a swing arm directs bright light for reading.\n\nExpert tip\n\nTo bring dimension to corners and walls, direct light upward with a torchiere.\n\nFlush mounts\n\nFlush and semi-flush mount lights sit close to the ceiling for a clean and minimal look. These give lots of ambient and supporting light with maximum overhead space.\n\nExpert tip\n\nScale up a ‘single’ flush mount for a room the same way as a chandelier (see above).\n\nThe lightbulb guide\n\nNow that you’ve picked out the perfect fixtures, it’s time to power up. When thinking about what lightbulbs to get for your new fixture, here are some key terms to know:\n\nWattage\n\nWattage is how much energy a bulb uses to create light. The higher the wattage, the more energy it uses.\n\nBrightness\n\nLumens is a measure of the brightness of light produced. The higher the lumens, the brighter the light.\n\nColour temperature\n\nKelvins represent the colour temperature of the light. The lower the Kelvins (K), the warmer and yellower the light. Higher Kelvins mean a cooler, whiter light.\n\nWhile the fixtures you choose define the style of your room, the colour temperature of the bulbs you choose determines its mood. Choose lower Kelvins for cozy spaces and higher ones to simulate daylight indoors.\n\nWarm white: 2700K\n\nFor living rooms, kitchens, and bedrooms.\n\nCool white: 3000K\n\nFor bathrooms, entries,\nand outdoors.\n\nDaylight: 5000K\n\nFor basements and garages.",
+    "with": [
+      "Consider the space you’re lighting. Scale up for larger rooms, high ceilings, or",
+      "When choosing a shade, aim for one twice the diameter of your lamp’s base and ⅓ ",
+      "To bring dimension to corners and walls, direct light upward with a torchiere.",
+      "While the fixtures you choose define the style of your room, the colour temperat"
+    ],
+    "without": [
+      "Shop all lighting",
+      "Shop table lamps",
+      "Shop sconces"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "collection"
+  }
+}

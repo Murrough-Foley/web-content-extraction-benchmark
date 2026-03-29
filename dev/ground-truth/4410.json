@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.giro.com/cycling/accessories/lights/",
+  "file_id": "4410",
+  "ground_truth": {
+    "title": "Lights | Giro Sport Design©",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Lights\n\n6 Results\n\nNew\nRoc Loc 5 LED Light\n$34.95\n\nMountain/Urban Recreational Helmet Vent Light\nPrice reduced from $19.95 to $13.99\n\nRegister II/Isode II Helmet Vent Light\n$29.95\n\nCaden Helmet Vent Light\n$21.95\n\nScamp II Helmet Vent Light\n$29.95\n\nSport Recreational Helmet Vent Light\n$19.95",
+    "with": [
+      "Mountain/Urban Recreational Helmet Vent Light",
+      "Roc Loc 5 LED Light",
+      "Scamp II Helmet Vent Light"
+    ],
+    "without": [
+      "New & Featured",
+      "New Arrivals",
+      "Best Sellers",
+      "Log In Now",
+      "Newsletter",
+      "Sign up and get 15% off"
+    ],
+    "main_content_markdown": "# Lights\n\n6 Results\n\nNew\n[Roc Loc 5 LED Light](https://www.giro.com/product/roc-loc-5-led-light/100050002000000001.html?dwvar_100050002000000001_color=0023&cgid=cycling-accessories-lights)\n$34.95\n\n[Mountain/Urban Recreational Helmet Vent Light](https://www.giro.com/product/mountain%2Furban-recreational-helmet-vent-light/100050002000000002.html?dwvar_100050002000000002_color=0023&cgid=cycling-accessories-lights)\nPrice reduced from $19.95 to $13.99\n\n[Register II/Isode II Helmet Vent Light](https://www.giro.com/product/register-ii%2Fisode-ii-helmet-vent-light/100050002000000005.html?dwvar_100050002000000005_color=0023&cgid=cycling-accessories-lights)\n$29.95\n\n[Caden Helmet Vent Light](https://www.giro.com/product/caden-helmet-vent-light/100050002000000003.html?dwvar_100050002000000003_color=0023&cgid=cycling-accessories-lights)\n$21.95\n\n[Scamp II Helmet Vent Light](https://www.giro.com/product/scamp-ii-helmet-vent-light/100050002000000006.html?dwvar_100050002000000006_color=0023&cgid=cycling-accessories-lights)\n$29.95\n\n[Sport Recreational Helmet Vent Light](https://www.giro.com/product/sport-recreational-helmet-vent-light/100050002000000004.html?dwvar_100050002000000004_color=0023&cgid=cycling-accessories-lights)\n$19.95"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "collection"
+  }
+}

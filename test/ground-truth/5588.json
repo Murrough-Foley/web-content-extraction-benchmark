@@ -1,0 +1,28 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.grahamoflegend.com/blog/one-year-of-full-time-indie-game-development",
+  "file_id": "5588",
+  "ground_truth": {
+    "title": "One year of full-time indie game development.",
+    "author": "Graham Reid",
+    "publish_date": "2022-09-20",
+    "main_content": "In July of 2021, I decided that it was finally time for me to take the plunge from being a full-time employee of a billion dollar tech company, to being a full-time indie game developer. It was such a scary, exciting time, but I had been wanting to make that switch for at least 4 years prior, so it was necessary.\n\nFast forward one year, and I'm still here. Still “surviving” as a solo indie dev. I've had some challenges along the way, and I've learned some key things that I feel like more people need to know about. So in this video, I talk about just that - 5 of my biggest takeaways from year one of game development. Enjoy!",
+    "with": [
+      "In July of 2021, I decided that it was finally time for me to take the plunge fr",
+      "Fast forward one year, and I'm still here. Still “surviving” as a solo indie dev"
+    ],
+    "without": [
+      "All Rights Reserved",
+      "Get Newsletter"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "article"
+  }
+}

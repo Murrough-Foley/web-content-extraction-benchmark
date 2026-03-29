@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.visitbluffton.org/see-do/local-markets",
+  "file_id": "5273",
+  "ground_truth": {
+    "title": "Local Markets",
+    "author": null,
+    "publish_date": null,
+    "main_content": "The Best of the Lowcountry\n\nFarmers Market of Bluffton\n\nLocally grown in-season fruits and vegetables. Flowers, plants, and herbs. Southern-style BBQ with all the fixin’s, delicious pastries, and other artisan foods. Chef demos, live music, activities for kids, and a vibrant festive atmosphere. Not to mention fresh, just-off-the-boat seafood with everything you need to prepare your very own Lowcountry feast—just like a local. All your farmers market favorites under the breezy moss-draped lanes of Old Town Bluffton, Lowcountry artisan markets, and a sustainable market that celebrates a natural living lifestyle with natural foods, organic produce, and natural wellness products. Prepare to leave with your bags and hearts full.\n\nLowcountry Made, Bluffton Artisan Market\n\nLowcountry Made is home to over 40 artisan markets around the Lowcountry. The event strives to promote all qualifying makers as well as rotate vendors each month to keep things fresh. The Bluffton Night Bazaar is located on the grounds at Burnt Church Distillery, the first Thursday of each month, April - May, and October - December.\n\nRoot and Bloom Market\n\nThe Root and Bloom Market is a natural farmers' market held at Martin Family Park in Bluffton, SC. The market's mission is to provide the community with a place to connect with like-minded people and learn how to live healthier lives.\n\nEvery Wednesday from 3 pm- 7 pm.",
+    "with": [
+      "Locally grown in-season fruits and vegetables. Flowers, plants, and herbs. South",
+      "Lowcountry Made is home to over 40 artisan markets around the Lowcountry. The ev",
+      "The Root and Bloom Market is a natural farmers' market held at Martin Family Par"
+    ],
+    "without": [
+      "Become an Insider",
+      "Request A Guide",
+      "Where To Stay",
+      "What To Do In Bluffton"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

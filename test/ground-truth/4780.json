@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.yeti.com/drinkware/tumblers/rambler-20oz.html",
+  "file_id": "4780",
+  "ground_truth": {
+    "title": "YETI Rambler 20 oz Tumbler with MagSlider Lid",
+    "author": null,
+    "publish_date": null,
+    "main_content": "YETI Rambler 20 oz Tumbler with MagSlider Lid\n\n$35.00\n\nA go-to for coffee on the go. Fits in most cupholders.\n\n- Cupholder compatible\n- Splash resistant\n- Dishwasher safe\n- Double-wall vacuum insulated\n\nAny tumbler that's coming along for the ride needs to be tough enough to keep up. Our fan-favorite Rambler® 20 oz. Tumbler is made from durable stainless steel with double-wall vacuum insulation to protect the temp of your beverage at all costs. Like the entire Rambler® Drinkware Family, the 20 oz. Tumbler and MagSlider™ Lid are dishwasher-safe for easy cleaning. While the magnet on the included MagSlider™ Lid adds an additional barrier of protection for keeping drinks contained and preventing heat or cold from escaping, please note- this magnet component is not leakproof and will not prevent spills.",
+    "with": [
+      "A go-to for coffee on the go. Fits in most cupholders.",
+      "Any tumbler that's coming along for the ride needs to be tough enough to keep up.",
+      "Cupholder compatible"
+    ],
+    "without": [
+      "Pick Up in Store",
+      "Free Returns",
+      "Add the essentials"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  }
+}

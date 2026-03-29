@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://uk.glossier.com/pages/about?srsltid=AfmBOor_T4moMDlSqIbf_hPd6rt7qOr9HzcsPkzGdnpiqhBH2SbGDu3X",
+  "file_id": "4764",
+  "ground_truth": {
+    "title": "About",
+    "author": null,
+    "publish_date": null,
+    "main_content": "You Look Good\n\nHere at Glossier, beauty is about you. From our formulas to packaging, playful shades to seriously-great skincare—Glossier was built to make beauty accessible and uncomplicated. \n\nBefore we launched Glossier in 2014, we started as Into The Gloss. A beauty website and community devoted to sharing real information with real people, about really amazing products. It’s where we realized that beauty shouldn’t be built in a boardroom—it should be built by you. This ethos gave birth to our philosophy: Skin First. Makeup Second™. We prioritize skincare because we believe that healthy skin is the best foundation. \n\nWe believe in thoughtful design and cultivating conversations. It’s at the core of everything we do—the starting point of all our makeup, skincare, bodycare, and fragrance products. At Glossier, beauty is about celebrating freedom of expression, individuality, and having fun. Our Skin First. Makeup Second™ approach ensures that every product supports your skin’s health, allowing your makeup to enhance rather than mask your natural beauty.",
+    "with": [
+      "Here at Glossier, beauty is about you. From our formulas to packaging, playful s",
+      "Before we launched Glossier in 2014, we started as Into The Gloss. A beauty webs",
+      "We believe in thoughtful design and cultivating conversations. It’s at the core "
+    ],
+    "without": [
+      "Bestsellers",
+      "Glossier You Duo",
+      "Returns & exchanges"
+    ],
+    "main_content_markdown": "You Look Good\n\nHere at Glossier, beauty is about you. From our formulas to packaging, playful shades to seriously-great skincare\u2014Glossier was built to make beauty accessible and uncomplicated. \n\nBefore we launched Glossier in 2014, we started as [*Into The Gloss*](https://intothegloss.com/). A beauty website and community devoted to sharing real information with real people, about really amazing products. It\u2019s where we realized that beauty shouldn\u2019t be built in a boardroom\u2014it should be built by you. This ethos gave birth to our philosophy: Skin First. Makeup Second\u2122. We prioritize skincare because we believe that healthy skin is the best foundation. \n\nWe believe in thoughtful design and cultivating conversations. It\u2019s at the core of everything we do\u2014the starting point of all our makeup, skincare, bodycare, and fragrance products. At Glossier, beauty is about celebrating freedom of expression, individuality, and having fun. Our Skin First. Makeup Second\u2122 approach ensures that every product supports your skin\u2019s health, allowing your makeup to enhance rather than mask your natural beauty."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.inmotionhosting.com/support/edu/mediawiki/install-mediawiki-manually/",
+  "file_id": "5469",
+  "ground_truth": {
+    "title": "Installing MediaWiki manually",
+    "author": null,
+    "publish_date": "2012-12-07",
+    "main_content": "In the event that MediaWiki cannot be installed through a program like Softaculous or Fantastico, the MediaWiki software will need to be installed manually to the server. MediaWiki can be Downloaded from the Mediawiki site at the following link.\n\nMediaWiki 1.20.2 (download)\n\nThe Version that will be installed is MediaWiki 1.20.2. Make sure the file that is downloaded is named:\n\nmediawiki-1.20.2.tar.gz\n\nOnce you get the archived file of the software, we can begin installing MediaWiki 1.20.2 to your server. This tutorial will explain the steps on how to do this.\n\nManually Installing MediaWiki\n\nFirst, Create a subdomain in the cPanel Domains section.\n\nCreate a database and database user. Add the database user to the database and save the Username, Password, and Database name in a notepad or other editor to reference it later. This will be needed to set up the Mediawiki program.\n\nUpload the mediawiki-1.20.2.tar.gz file through the cPanel and extract the file to the server, or upload the contents of the mediawiki-1.20.2 folder, that is extracted to your local computer, to the directory for the subdomain using ftp.\n\nVisit the subdomain in your web browser. Initially the MediaWiki 1.20.2 screen should load.\n\nClick set up the wiki\n\nNext, the MediaWiki 1.20.2 installation screen will load. Select the language for the site and click Continue.\n\nOn the Welcome to MediaWiki page, there may be some warnings on the set up. For example the following error may display:\n\nWarning: Could not find APC, XCache or WinCache.\n\nObject caching is not enabled.\n\nIgnore the warnings. The APC warning is a caching for PHP on the server. Shared servers do not have this. If you are an a VPS or dedicated server, you can have your server set up to run APC. At this point this is not critical.\n\nAs long as the installation says “ The environment has been checked. You can install MediaWiki ” in Green, you can continue with the installation.\n\nClick Continue.\n\nNext the page for configuring the database will display. Here is where you will enter the database information that you saved when setting up the database in your cPanel. Enter the database connection settings. For example:\n\nDatabase host: localhost\n\nDatabase name: cpaneluser_databasename\n\nDatabase table Prefix: This can be left blank or set to anything. ( ie. mw_ or wiki_ )\n\nDatabase username: cpaneluser_username\n\nDatabase password: The password you set when creating the user in cPanel\n\nClick Continue.\n\nNext, The Database settings page will show. Select InnoDB and Binary.\n\nIf there is any InnoDB issues the site will show the error in the snapshot stating,\n\n“Warning you selected MyISAM as a storage engine for MySQL, which is not recommended for use with MediaWiki”. If this occurs, contact your host to fix InnoDB on your server.\n\nInnoDB is recommended by MediWiki. MyISAM is discouraged to to stability problems.\n\nBinary mode allows mediawiki to use the full range of Unicode characters, whereas UTF-8 mode will only store basic language encoding’s. MediaWiki recommends binary mode.\n\nClick Continue.\n\nThe Name page will load, requiring the basic Wiki admin login and Site name set up. Fill in the fields for the administrator account.\n\nVERY IMPORTANT! The “ Your Name” Field is actually the user name for logging into MediaWiki. It is VERY CRITICAL that the username for the login is correct. After setting up MediaWiki, it is VERY difficult to change the username for the Admin login.\n\nSelect the I’m bored already, just install the wiki radio button and click Continue.\n\nConfirm the installation by clicking Continue.\n\nThe install screen will load next verifying that the files were installed correctly. Click Continue.\n\nWhen the Complete! screen pops up, you will be prompted to save the LocalSettings.php page for uploading to your server. This file is required for the MediaWiki site to function. Save the LocalSettings.php file and upload it to your MediaWiki directory.\n\nCongratulations, you have installed MediaWiki successfully.\n\nThis concludes the tutorial on How to manually install MediaWiki.",
+    "with": [
+      "The Version that will be installed is MediaWiki 1.20.2. Make sure the file that ",
+      "Warning: Could not find APC, XCache or WinCache.",
+      "InnoDB is recommended by MediWiki. MyISAM is discouraged to to stability problem",
+      "Congratulations, you have installed MediaWiki successfully."
+    ],
+    "without": [
+      "InMotion Hosting Home",
+      "Product Guides",
+      "Managed VPS Hosting",
+      "Cloud Server Hosting"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "documentation"
+  }
+}

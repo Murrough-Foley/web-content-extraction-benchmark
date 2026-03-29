@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://english.stackexchange.com/questions/52137/what-is-the-difference-between-grammar-and-usage",
+  "file_id": "5177",
+  "ground_truth": {
+    "title": "What is the difference between \"grammar\" and \"usage\"?",
+    "author": null,
+    "publish_date": "2011-12-18",
+    "main_content": "I'm surprised this has not been asked and answered on this Site--perhaps it has, but my search found nothing. The closest question to this one i could find sought the difference between grammar and syntax, which received one answer before it was closed as off-topic. In any event, I did not find the answer probative of the question i ask here.\n\nWhat's more, Internet search engines were no help, likely because there's no distinctive keyword in the query.\n\n4 Answers\n\nI too have searched for a definitive answer to this question and not found one. My own way of differentiating grammar from usage errors for my English language learners is as follows:\n\nIf the mistake contravenes a generalizable rule for all members of that word class, then it is a grammar mistake. Otherwise it is a usage mistake.\n\nFor example:\n\nHe live in Frankfurt contravenes the rule that verbs in the 3rd person singular present simple tense require an -s (with the exception of modals), and is hence a grammar mistake.\n\nMy grandfather is a very high man is a usage mistake. We can formulate a rule that high applies to mountains not people. But the rule applies to one member of the word class only and hence the mistake is one of usage.\n\nOn this basis, these errors are grammar errors:\n\nI play tennis yesterday.\n\nDo you have dog?\n\nI live in Frankfurt since 10 year. (3 errors)\n\nAnd these are usage errors:\n\nI always enjoy to sleep late on Sundays.\n\nWhat is the reason of your lateness?\n\nShe replied she didn't know the answer.\n\nThe issue is of more than purely theoretical importance because learners need to know whether they should consult a grammar book or a good dictionary/usage manual to find out if what they have written is correct.\n\nIt is interesting to note that two excellent resources for English language learners both have the word usage in their titles:\n\nGarner's Modern American Usage and Swan's Practical English Usage.\n\nGarner's book exclusively contains what I personally would define as usage issues, while Swan's includes numerous entries on what I would term grammar; including negation, passive, modals, determiners, etc. So it seems that even the experts can't agree on the meaning of the word.\n\nGrammar describes the way in which a language puts together the smallest units of meaning to make words (morphology), and the way it puts words together to make sentences (syntax). Usage is a less tightly defined concept, describing the way in which members of a language community use language, within the grammatical framework, to achieve their communicative purpose, particularly when several options are available.\n\nUsage considers the meanings of words, while grammar might be considered to only consider parts of speech.\n\nThe truck played the elephant colorfully.\n\nhas correct grammar, but as for usage...\n\n\"Grammar\" is usually taken to be a synonym to \"syntax\" and here's how syntax is defined in Wikipedia:\n\nIn linguistics, syntax (from Ancient Greek word for \"arrangement\" from the word for \"together\", and word \"táxis\", \"an ordering\") is the study of the principles and rules for constructing phrases and sentences in natural languages.\n\nSyntax is concerned with the structure/mechanics of the sentence, order of the principal parts of the sentence and their mutual dependencies. The highest unit of the analysis is the sentence, and further analysis would include phrases. Internal structure of words is the subject of lexicology, morphology or phonology and is not of primary concern for syntax, at least not in the narrow sense of the word. So, in syntactic/grammar analysis the goal would be to analyze principal parts of the sentence: subject, verb, object.., their order (is it SVO which is typical for English, or ditransitive SVOO etc.), their dependencies, verb complements. You would also analyze the formal structure of the sentence elements identifying word classes in the sentence: nouns, verbs, adjectives etc.., and their relation to the functional parts of the sentence.\n\nWhen we are talking about \"usage\", it's what it says on the tin. The matter of concern is typically how a particular phrase/expression stands in the wider context of the language. The question about the usage of the word or a phrase would include analyzing the register of speech in which the expression is used- is it colloquial or academic, formal or informal, characteristic of written or spoken language, literary, slang etc. Another important question about the usage is whether a particular usage is idiomatic or not, that is, if there are variations of the same phrase or it is a set expression.Inquiring about the usage of the expression could further include regional spread or source of the phrase - British or American, Australian, Zealandian, Pidgin, Geordy, etc.., age of the people who characteristically use the phrase: young, old, social class: posh expression versus vulgar etc. The principal thing asked about the usage of the expression would also be how the context affect the use of the expression. Does it carry a negative connotation in specific contexts, or possibly sounds jocular, or pejorative etc.\n\nSo the terms \"grammar\" and \"usage\" refer to two different analyses, which may or may not be both included in analyzing a particular sentence or expression.",
+    "with": [
+      "What's more, Internet search engines were no help, likely because there's no dis",
+      "I live in Frankfurt since 10 year. (3 errors)",
+      "The truck played the elephant colorfully.",
+      "So the terms \"grammar\" and \"usage\" refer to two different analyses, which may or"
+    ],
+    "without": [
+      "Hot Network Questions",
+      "Featured on Meta",
+      "Highest score",
+      "current community"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "forum"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "url": "https://onehealthohio.org/dental-care/",
+  "file_id": "0135",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "healthcare",
+        "dental",
+        "medical"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Dental Care",
+    "author": null,
+    "publish_date": null,
+    "main_content": "You'll find state-of-the-art treatment facilities at ONE Health Ohio, along with caring, compassionate Dentists, Dental Assistants and Dental Hygienists. Dental services are available for adults and children at ONE Health Ohio centers in Trumbull and Mahoning Counties.\n\nProcedures and Services\n\n- Screening Exams\n- Cleanings\n- Extractions\n- X-rays\n- Tooth-Colored Fillings\n- Preventive Care\n- Orthodontic Evaluations\n- Root Canals on Select Teeth\n- Digital Radiographic Analysis\n- Dental Emergency\n\nONE Health Ohio Centers that Offer Dental\n\n- Youngstown Community Health Center\n- Lloyd McCoy Community Health Center\n- Warren West Community Health Center\n- Falls Family Care\n\nWalk In Center at Lloyd McCoy\n\nDo you have a dental emergency? We have a walk in center available most saturdays from 1 – 4 pm. You can also reach us by phone for any questions or concerns at 330-747-9551.",
+    "with": [
+      "You'll find state-of-the-art treatment facilities at ONE Health Ohio, along with caring, compassionate Dentists, Dental Assistants and Dental Hygienists.",
+      "Dental services are available for adults and children at ONE Health Ohio centers in Trumbull and Mahoning Counties.",
+      "- Screening Exams\n- Cleanings\n- Extractions",
+      "- Youngstown Community Health Center\n- Lloyd McCoy Community Health Center",
+      "Do you have a dental emergency? We have a walk in center available most saturdays from 1 – 4 pm."
+    ],
+    "without": [
+      "877-722-3303 (ONE Health) | 844-652-8219 (RISE Recovery)",
+      "care@onehealthohio.org",
+      "Contact Us",
+      "Patient Information"
+    ],
+    "main_content_markdown": "You'll find state-of-the-art treatment facilities at ONE Health Ohio, along with caring, compassionate Dentists, Dental Assistants and Dental Hygienists. Dental services are available for adults and children at ONE Health Ohio centers in Trumbull and Mahoning Counties.\n\n# Procedures and Services\n\n- Screening Exams\n- Cleanings\n- Extractions\n- X-rays\n- Tooth-Colored Fillings\n- Preventive Care\n- Orthodontic Evaluations\n- Root Canals on Select Teeth\n- Digital Radiographic Analysis\n- Dental Emergency\n\n# ONE Health Ohio Centers that Offer Dental\n\n- [Youngstown Community Health Center](https://onehealthohio.org/youngstown/)\n- [Lloyd McCoy Community Health Center](https://onehealthohio.org/lloyd-mccoy-2/)\n- [Warren West Community Health Center](https://onehealthohio.org/warren-west/)\n- [Falls Family Care](https://onehealthohio.org/falls-family-care/)\n\n[Walk In Center at Lloyd McCoy](https://onehealthohio.org/lloyd-mccoy-2/)\n\n**Do you have a dental emergency?** We have a walk in center available most saturdays from 1 - 4 pm. You can also reach us by phone for any questions or concerns at **330-747-9551**."
+  }
+}

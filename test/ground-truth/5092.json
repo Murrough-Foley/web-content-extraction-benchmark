@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.woodworkingtalk.com/threads/new-to-woodworking-forum.236298/",
+  "file_id": "5092",
+  "ground_truth": {
+    "title": "New to WoodWorking Forum",
+    "author": null,
+    "publish_date": "2024-05-29",
+    "main_content": "Hi all.\nMy name is Doug Kitchen. I'm a little crafty, love helping the kids with their school projects. I try my best to make good stuff. I have a laser engraver which I have had fun with. I want to create something new to me. I have some tools - scroll saw, sander, Dremel. I like small projects.\n\nWelcome to the forum, Doug! We do like photos so show us your shop, tools, projects, etc. whenever you're ready.\n\nWelcome aboard, Doug!\n\nWelcome, Doug!",
+    "with": [
+      "My name is Doug Kitchen. I'm a little crafty, love helping the kids with their",
+      "Welcome to the forum, Doug! We do like photos so show us your shop",
+      "Welcome aboard, Doug!",
+      "Welcome, Doug!"
+    ],
+    "without": [
+      "Top Contributors this Month",
+      "forum software by XenForo",
+      "Log in"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "forum"
+  }
+}

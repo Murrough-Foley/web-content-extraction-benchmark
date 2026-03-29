@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.runningwarehouse.com/catpage-SDMONITORS.html?srsltid=AfmBOoqk05eglsoxIDdswfZ53BK9yN8_7TB7jmXG80ZoA4xgmalKE0po",
+  "file_id": "4071",
+  "ground_truth": {
+    "title": "GPS Running Watches",
+    "author": null,
+    "publish_date": null,
+    "main_content": "GPS Running Watches\n\nTrack everything from your PR to your heart rate with our dedicated running watches and accessories. Find everything you need to give you the best and most accurate information as you speed through you day.\n\nGarmin GPS Running Watches\n\nGarmin, a pioneer in electronic running technology, is dedicated to driving innovation by providing a diverse range of running watches and electronics tailored to meet the essential needs of their customers. Whether it's the premium fenix watch line or the reliable workhorse of the Forerunner line, Garmin offers high-quality products catering to both novice and experienced runners.\n\nCOROS GPS Running Watches",
+    "with": [
+      "Track everything from your PR to your heart rate with our dedicated running watches and accessories.",
+      "Garmin, a pioneer in electronic running technology, is dedicated to driving innovation",
+      "COROS GPS Running Watches"
+    ],
+    "without": [
+      "Checkout Cart",
+      "Jump to Content",
+      "My Account",
+      "ASICS SUPERBLAST"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  },
+  "page_type": "listing"
+}

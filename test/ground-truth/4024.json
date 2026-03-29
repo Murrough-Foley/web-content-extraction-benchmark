@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://maelstromdirect.com/products/maelstrom-hiking-backpack-40l",
+  "file_id": "4024",
+  "ground_truth": {
+    "title": "Maelstrom 40L Hiking Backpack",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Maelstrom 40L Hiking Backpack\n\nHigh-Quality Material : Hiking backpack is made of high quality rip-stop 210d nylon fabric,which is water resistant,tear resistant,anti-scratch and wear resistant. Furthermore,we also give away a rain cover with a clear silver reflective logo. It is putted in the little pocket under the backpack. So it is no doubt that all your things will keep dry during rain. Just take this outdoor backpack,no matter the weather.\n\nErgonomic and Comfortable Design : Thicker padded back with ergonomic breathable design paired with adjustable, breathable and padded shoulder help to reduce fatigue during a long day of hiking. The hiking daypack comes with an ergonomic ring handle,which is labor-saving and durable. The adjustable chest buckle works perfectly to distribute the pack's weight and keep it steady and centered. And chest buckle designed as a survival whistle for quick and easy use in case of emergency.\n\nLarge Capacity & Multi Compartment : Maelstrom Hiking Daypack provides several pockets for handy storage and convenient organization. Spacious backpack packed with roomy zipper main compartment, 1 top pocket, 3 front zipper pocket, 2 waist zipper pockets and 2 mesh side pockets.In addition,one waterproof wet pocket is added to the main compartment to better separate sweaty clothes or other personal things after swimming or taking exercise.\n\nUnique Function Design : The camping backpack is printed with reflective signs to remind safety. The sides of the backpack have elastic and fasteners that can hold two sets of trekking sticks or adjust the webbing according to needs. There is a headphone hole on the top of the backpack for you to enjoy music. There is a Velcro to fix the water bag liner in the main bag and a water pipe hole on the top side of the backpack to assemble the water bag system.\n\nLIGHTWEIGHT -- Easy to carry : The 40L hiking backpack is lightweight and it's breathable mesh shoulder straps with plentiful sponge padding help to relieve the stress from your shoulder. The large capacity of 40L provides enough space for outdoor travel,camping,hiking and fishing. It meet size requirements for most airlines. This camping backpack can be used as hiking backpack, travel bags and business bag,which is suitable for men and women.",
+    "with": [
+      "Hiking backpack is made of high quality rip-stop 210d nylon fabric,which is water resistant",
+      "Thicker padded back with ergonomic breathable design paired with adjustable, breathable and padded shoulder",
+      "Maelstrom Hiking Daypack provides several pockets for handy storage and convenient organization",
+      "The sides of the backpack have elastic and fasteners that can hold two sets of trekking sticks",
+      "The large capacity of 40L provides enough space for outdoor travel,camping,hiking and fishing"
+    ],
+    "without": [
+      "Regular price",
+      "Sale price",
+      "Taxes, discounts and shipping calculated at checkout",
+      "Remove all 0 items from your cart"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "auto-fixed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  },
+  "page_type": "product"
+}

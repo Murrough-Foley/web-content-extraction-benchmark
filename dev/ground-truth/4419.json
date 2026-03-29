@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://artistcraftsman.com/?srsltid=AfmBOoq2-6l8ggHpSKtPARsOav6O3nMy-nQFERf62JTJxfjzEQhBgRIB",
+  "file_id": "4419",
+  "ground_truth": {
+    "title": "Artist & Craftsman Supply",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Artist & Craftsman Homepage \n\n FREE Shipping On Orders $59+ | $3 Shipping On Orders $35-$58.99 | $7 Shipping On Orders Under $35 | No Code Necessary! \n\n Watercolors & Sets Ends 4/30 Explore Winsor & Newton Watercolors Watercolors & Sets Ends 4/30 Discover Daniel Smith Watercolors Watercolors & Sets Ends 4/30 Shop Van Gogh Watercolors Koi Watercolor Sets QoR Watercolor Sets Dive Into Golden QOR Watercolors",
+    "main_content_markdown": "# Artist & Craftsman Homepage \n\n **FREE Shipping** On Orders $59+ | **$3 Shipping** On Orders $35-$58.99 | **$7 Shipping** On Orders Under $35 | [**No Code Necessary!**](https://artistcraftsman.com/shipping-information/) \n\n Watercolors & Sets Ends 4/30 [Explore Winsor & Newton Watercolors](https://artistcraftsman.com/winsor-newton/?sort=bestselling&_bc_fsnf=1&category=2543&page=1) Watercolors & Sets Ends 4/30 [Discover Daniel Smith Watercolors](https://artistcraftsman.com/daniel-smith/?sort=bestselling) Watercolors & Sets Ends 4/30 [Shop Van Gogh Watercolors](https://artistcraftsman.com/van-gogh/?_bc_fsnf=1&category=2543&sort=bestselling) Koi Watercolor Sets QoR Watercolor Sets [Dive Into Golden QOR Watercolors](https://artistcraftsman.com/golden/?_bc_fsnf=1&category=2543&sort=bestselling)",
+    "with": [
+      "Winsor & Newton",
+      "Koi Watercolor",
+      "QOR Watercolors"
+    ],
+    "without": [
+      "Canvas and Stretcher Bars",
+      "Wood Panels and Boards",
+      "Call a Store Near youContact Customer ServiceShop Categories"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "collection"
+  }
+}

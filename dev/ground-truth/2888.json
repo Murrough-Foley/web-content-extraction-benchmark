@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.ebay.com/itm/335330783890",
+  "file_id": "2888",
+  "ground_truth": {
+    "title": "1958 Ford P-350 P-500 P-600 Parcel Delivery truck sales brochure 8 pg ORIGINAL",
+    "author": null,
+    "publish_date": null,
+    "main_content": "1958 Ford P-350 P-500 P-600 Parcel Delivery truck sales brochure 8 pg ORIGINAL\n\nagnitsch (7147)\n\n99.7% positive\n\nUS $18.00\n\nCondition: Used\n\nBuy It Now\n\nShipping: US $15.47\n\neBay International Shipping\n\nLocated in: Belvidere, IL, United States\n\nDelivery: Estimated between Tue, Apr 14 and Thu, Apr 30\n\nSeller ships within 1 day after receiving cleared payment.\n\nReturns: 30 days returns. Buyer pays for return shipping. If you use an eBay shipping label, it will be deducted from your refund amount.\n\neBay Money Back Guarantee\n\nGet the item you ordered or your money back.\n\nAbout this item\n\nSeller assumes all responsibility for this listing.\n\neBay item number: 335330783890\n\nLast updated on Jan 02, 2026 21:47:46 PST\n\nItem specifics\n\nCondition: Used: An item that has been used previously. See the seller’s listing for full details and description of any imperfections.\n\nCountry of Origin: United States\n\nAbout this seller\n\n99.7% positive feedback\n\n16K items sold\n\nJoined Feb 1999\n\nWelcome to my store. I am a regular guy with a regular job who is having a great time finding items in my area and helping them find good homes around the world. Most of my items come from auctions ...",
+    "with": [
+      "99.7% positive",
+      "Located in: Belvidere, IL, United States",
+      "eBay item number: 335330783890",
+      "Country of Origin: United States"
+    ],
+    "without": [
+      "Skip to main content",
+      "Hi!Hi!Sign inorregister",
+      "Hi!Sign inorregister"
+    ],
+    "main_content_markdown": "# 1958 Ford P-350 P-500 P-600 Parcel Delivery truck sales brochure 8 pg ORIGINAL\n\n[agnitsch](https://www.ebay.com/str/agnitsch?_trksid=p4429486.m3561.l161211) (7147)\n\n99.7% positive\n\nUS $18.00\n\nCondition: Used\n\n[Buy It Now](https://www.ebay.com/atc/binctr?item=335330783890&quantity=1&fromPage=4429486&rev=1&fb=1&gch=1)\n\nShipping: US $15.47\n\neBay International Shipping\n\nLocated in: Belvidere, IL, United States\n\nDelivery: Estimated between Tue, Apr 14 and Thu, Apr 30\n\nSeller ships within 1 day after [receiving cleared payment](https://www.ebay.com/pages/help/buy/contextual/domestic-handling-time.html).\n\nReturns: 30 days returns. Buyer pays for return shipping. If you use an eBay shipping label, it will be deducted from your refund amount.\n\neBay Money Back Guarantee\n\nGet the item you ordered or your money back.\n\nAbout this item\n\nSeller assumes all responsibility for this listing.\n\neBay item number: 335330783890\n\nLast updated on Jan 02, 2026 21:47:46 PST\n\n## Item specifics\n\nCondition: Used: An item that has been used previously. See the seller’s listing for full details and description of any imperfections.\n\nCountry of Origin: United States\n\n## About this seller\n\n99.7% positive feedback\n\n16K items sold\n\nJoined Feb 1999\n\nWelcome to my store. I am a regular guy with a regular job who is having a great time finding items in my area and helping them find good homes around the world. Most of my items come from auctions ..."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

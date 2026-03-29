@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://arc.dev/remote-jobs?jobRoles=engineering",
+  "file_id": "4355",
+  "ground_truth": {
+    "title": "Remote Software Engineer Jobs (March 2026)",
+    "author": "Arc",
+    "publish_date": null,
+    "main_content": "Remote Software Engineer Jobs\n\nDiscover your dream remote Software Engineer job on Arc. Speed up your job search to find roles that match your skills and time zone. Get noticed by leading companies and startups worldwide. Land a high-paying remote job or freelance gig faster with Arc!",
+    "with": [
+      "Discover your dream remote Software Engineer job on Arc. Speed up your job searc"
+    ],
+    "without": [
+      "Remote jobs in the United States",
+      "Remote jobs in Canada",
+      "Remote jobs in Mexico",
+      "Remote jobs in Brazil",
+      "For companiesHire developersHire designersHire marketersHire"
+    ],
+    "main_content_markdown": "# Remote Software Engineer Jobs\n\nDiscover your dream remote Software Engineer job on Arc. Speed up your job search to find roles that match your skills and time zone. Get noticed by leading companies and startups worldwide. Land a high-paying remote job or freelance gig faster with Arc!"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

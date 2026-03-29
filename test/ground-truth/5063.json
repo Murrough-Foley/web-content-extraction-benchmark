@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://steamcommunity.com/discussions/forum/11/597414091753090447/",
+  "file_id": "5063",
+  "ground_truth": {
+    "title": "Own build gaming PC- Gimme all your advice",
+    "author": null,
+    "publish_date": null,
+    "main_content": "LadyP2386\n\n8 Oct, 2025 @ 1:56pm\n\nOwn build gaming PC- Gimme all your advice\n\nHey. I'm gonna be building my own gaming pc and need all the advice. Where is a good place to start my research and buy parts? It'll most likely be a Linux system. Thanks xxx\n\nEdit to add: I'm in the UK.\n\nLast edited by LadyP2386;\n8 Oct, 2025 @ 2:24pm\n\nElectric Cupcake\n\n8 Oct, 2025 @ 2:12pm\n\npcpartspicker\nNewegg\nMicro Center if there's one near you\n\nBad 💀 Motha\n\n8 Oct, 2025 @ 2:16pm\n\nAs far as how to build and pick good parts within a certain budget, or help with making an USB OS media installer for Windows or Linux...\n\nThere is tons of free help for all of that on YouTube.\n\nAs for parts, what Country are you in? If US then I'd strongly look at Microcenter for pretty much all your parts needs. A tech there at the store can even build and test the PC for you for a small fee.\n\nLast edited by Bad 💀 Motha;\n8 Oct, 2025 @ 2:19pm\n\nOmega\n\n8 Oct, 2025 @ 2:25pm\n\nFor Linux, get either an AMD or Intel GPU.\n\nFor LAN and WLAN make sure it uses an Intel chip.\n\nBad 💀 Motha\n\n8 Oct, 2025 @ 2:32pm\n\nIntel GPUs are still quite terrible at best.\n\nI'd strongly suggest an AM5 Motherboard with onboard Intel LAN, WIFI, BT. Along with AMD Ryzen 7600 or better CPU. 2x 16GB DDR5 and a dedicated Radeon GPU such as RX 9600 XT or better.\n\nLast edited by Bad 💀 Motha;\n8 Oct, 2025 @ 2:34pm\n\nwing0zero\n\n8 Oct, 2025 @ 2:48pm\n\nParts in UK I use SCAN, CCL or Overclockers, SCAN mainly.\n\nBad 💀 Motha\n\n8 Oct, 2025 @ 2:53pm\n\nPCPartPicker can be helpful but sometimes it doesn't find the good deals or list certain retailers properly per some specific parts. If you do use that site be sure to change the Country and Currency first\n\nLast edited by Bad 💀 Motha;\n8 Oct, 2025 @ 2:53pm\n\nDe Hollandse Ezel\n\n8 Oct, 2025 @ 3:52pm\n\nfor part comparising... I would advise\nhttps://tweakers.net/\n(they don't sell in uk.. but it has better tests.. forums, etc) and most dutch speak good english so they will help you on their forums if you post.\n\nfor buying/checking prices.. and as second forum option\n\nhttps://www.overclockers.co.uk/\n\nthose would be the best 2 places.\n\nLast edited by De Hollandse Ezel;\n8 Oct, 2025 @ 3:53pm\n\nTerry John Silver\n\n9 Oct, 2025 @ 2:48am\n\ncclonline is perfect\n\nSlowClick\n\n9 Oct, 2025 @ 3:18am\n\nI like this webpage because it explains their choices and alternatives. It's where I started when I had my current PC built - but the article been revised since I 1st saw it 2 years ago. They keep it current.\n\nhttps://www.pcgamer.com/gaming-pc-build-guide/\n\nRumpelcrutchskin\n\n9 Oct, 2025 @ 5:30am\n\nHere are few examples what you could aim for:\n\nhttps://uk.pcpartpicker.com/list/YTydZc\n\nhttps://uk.pcpartpicker.com/list/fWQsDj\n\nhttps://uk.pcpartpicker.com/list/88tFv4\n\nPeter\n\n9 Oct, 2025 @ 6:07am\n\n1\n\n1\n\nGo with AMD if you want second rate gpu performance.\n\nGo with AMD cpu if you want AMDip and stutter.\n\nGo with AMD if you want terrible driver support.\n\nIt's your choice.\n\nskOsH♥\n\n9 Oct, 2025 @ 6:27am\n\nLinux build? Amd cpu + amd gpu\n\nWay better compatibility. Everything works out of the box\n\nMinimal setup even when using Arch\n\nSlav Mcgopnik\n\n9 Oct, 2025 @ 6:31am\n\nOriginally posted by Peter: Go with AMD if you want second rate gpu performance.\n\nGo with AMD cpu if you want AMDip and stutter.\n\nGo with AMD if you want terrible driver support.\n\nIt's your choice. OP wants to use Linux so they’d be making their life much harder if they went team blue/green\n\nBlender McBiscuits\n\n9 Oct, 2025 @ 10:52am\n\nYup I've used CCL for years. May as well get them to assemble the thing for you, too. It won't cost you any more (usually) and frankly, has become more and more of a pain in the arse over the years, I was building PCs back in the '90s but I try not to bother any more.\n\nCertainly it's worth getting them to fit the CPU if you buy it with a MB, along with the heatsink. Save you the hassle. You can order any custom setup you like.\n\nI'm running Linux with an AMD CPU and Nvidia graphics card, but either way ought to work. Steam is great on Linux. Occasionally a little hiccup, but you can just ask ChatGPT to fix stuff for you. Paste in the commands that ChatGPT gives you, into your Linux terminal window. Then paste back Linux's response to ChatGPT. The thing can fix most problems, and will tell you what it's doing as it goes. It's all very impressive, would be a hell of a time without it.\n\nLinux lacks UI and config standards, everyone seems to invent their own format for config, what parameters and what they're called. Nobody's centrally controlling all of it. That's a good thing but also a big bad thing. Means you need to learn from scratch, each part of the system you need to mess with, how to do it.\n\nBut it doesn't spy on you and isn't trying to charge you rent, so it's infinitely better even with the trickiness.\n\n=J.DAY= THE TERMINATOR 2\n\n9 Oct, 2025 @ 2:08pm\n\nrule #1 phanteks -> noctua -> seasonic -> teamgroup -> asus -> nvidia -> intel - > arctic silver -> gpu riser cable - >thermal paste guard -> geforce -> asus\n\nstick with the good brands. every pc i build following that rule lasts over 10 years no cleaning required;)\n\nLast edited by =J.DAY= THE TERMINATOR 2;\n9 Oct, 2025 @ 2:09pm",
+    "with": [
+      "Hey. I'm gonna be building my own gaming pc and need all the advice. Where is a ",
+      "PCPartPicker can be helpful but sometimes it doesn't find the good deals or list",
+      "Go with AMD cpu if you want AMDip and stutter.",
+      "stick with the good brands. every pc i build following that rule lasts over 10 y"
+    ],
+    "without": [
+      "Install Steam",
+      "Valve Corporation. All rights reserved",
+      "Privacy Policy"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "forum"
+  }
+}

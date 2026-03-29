@@ -1,0 +1,23 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.aliexpress.com/item/1005009299171349.html",
+  "file_id": "4722",
+  "ground_truth": {
+    "title": "TickType EVO80 Mechanical Keyboard Wireless Tri-mode Gasket RGB Hot-Swap QMK/VIA Custom 80% Aluminum Office Gaming Keyboard Gift",
+    "author": null,
+    "publish_date": null,
+    "main_content": "",
+    "with": [],
+    "without": []
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product",
+    "spa": true
+  }
+}

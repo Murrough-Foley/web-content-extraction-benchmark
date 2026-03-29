@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.finewoodworking.com/forum/beginning-woodworking?srsltid=AfmBOooAIwzRCr82zTEhetso50MiHFR69QnKiz-Da9cSBCWrULGznEOH",
+  "file_id": "4316",
+  "ground_truth": {
+    "title": "Beginning woodworking",
+    "author": "Fitzg",
+    "publish_date": "2006-02-24",
+    "main_content": "I'm interested to know how people get into woodworking as a hobby.  I have done a lot of home improvement work such as crown molding and building a deck, so I have some tools like a circular saw and miter saw.  This has increased my interest in making furniture and other things.\n\nI don't have any friends or family members who are into woodworking, but I have learned a lot from magazines and books.  I didn't see any beginner threads in the archives.\n\nWhat got you started as a woodworker?  Any advice you could share about how you got started or resources that I could check out would be appreciated.  Also, what is a good first project?",
+    "with": [
+      "I'm interested to know how people get into woodworking as a hobby.  I have done ",
+      "What got you started as a woodworker?  Any advice you could share about how you "
+    ],
+    "without": [
+      "Fine WoodworkingSearchSearchMain MenuSubscribeLog In",
+      "Projects & PlansHow-ToShop TipsTools & MaterialsVideosMagazi",
+      "Main MenuProjects and PlansHow-ToShop TipsTools & MaterialsV"
+    ],
+    "main_content_markdown": "I'm interested to know how people get into woodworking as a hobby.  I have done a lot of home improvement work such as crown molding and building a deck, so I have some tools like a circular saw and miter saw.  This has increased my interest in making furniture and other things.\n\nI don't have any friends or family members who are into woodworking, but I have learned a lot from magazines and books.  I didn't see any beginner threads in the archives.\n\nWhat got you started as a woodworker?  Any advice you could share about how you got started or resources that I could check out would be appreciated.  Also, what is a good first project?"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "forum"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://learn.hms.harvard.edu/programs/skin-care-and-repair",
+  "file_id": "0311",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "education",
+        "course",
+        "health",
+        "skin care"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Skin Care and Repair",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Overview\n\nFrom facial wrinkles and toenail fungus to skin cancer, cellulitis, eczema, hair loss, psoriasis, rosacea, warts and more, Skin Care and Repair is the in-depth, interactive course that answers your questions and reveals the best research-backed advice for practically any skin-related concern.\n\nYou'll discover practical, use-it-now advice to help treat 18 common skin conditions...identify the tell-tale signs of skin cancer and discover the best treatments…protect your skin with the most effective lotions, potions, and treatments…and get an in-depth look at the most effective cosmetic procedures.\n\nLearning Objectives\n\n- Common Skin Conditions\n- Skin Protection: Lotions, Potions, and More\n- Skin Cancer\n- Cosmetic Procedures\n\nSyllabus\n\n01. Getting Started\n\nAbout Our Course\nAbout Your Skin\n\n02. Common Skin Conditions\n\nIntroduction\nSkin Conditions Explained\n\n03. Skin Cancer\n\nIntroduction\nSkin Cancer Defined\nSkin Scans and Exams\n\n04. Skin Protection: Lotions, Potions, and More\n\nIntroduction\nSources of Skin Damage\nWhat You Can Do\nLotions and Potions\nWhat's Inside? Product Ingredients\n\n05. Cosmetic Procedures\n\nIntroduction\nMedical Help\nTreatment Options\n\n06. Key Takeaways\n\nSummary\nQuiz\nParting Thoughts",
+    "with": [
+      "From facial wrinkles and toenail fungus to skin cancer, cellulitis, eczema, hair loss, psoriasis, rosacea, warts and more",
+      "Skin Care and Repair is the in-depth, interactive course that answers your questions",
+      "You'll discover practical, use-it-now advice to help treat 18 common skin conditions"
+    ],
+    "without": [
+      "Privacy Policy",
+      "Login or Create Account",
+      "Contact Us",
+      "Facebook"
+    ],
+    "main_content_markdown": "## Overview\n\nFrom facial wrinkles and toenail fungus to skin cancer, cellulitis, eczema, hair loss, psoriasis, rosacea, warts and more, Skin Care and Repair is the in-depth, interactive course that answers your questions and reveals the best research-backed advice for practically any skin-related concern.\n\nYou'll discover practical, use-it-now advice to help treat 18 common skin conditions...identify the tell-tale signs of skin cancer and discover the best treatments...protect your skin with the most effective lotions, potions, and treatments...and get an in-depth look at the most effective cosmetic procedures.\n\n### Learning Objectives\n\n- Common Skin Conditions\n- Skin Protection: Lotions, Potions, and More\n- Skin Cancer\n- Cosmetic Procedures\n\n## Syllabus\n\n01. Getting Started\n\nAbout Our Course\nAbout Your Skin\n\n02. Common Skin Conditions\n\nIntroduction\nSkin Conditions Explained\n\n03. Skin Cancer\n\nIntroduction\nSkin Cancer Defined\nSkin Scans and Exams\n\n04. Skin Protection: Lotions, Potions, and More\n\nIntroduction\nSources of Skin Damage\nWhat You Can Do\nLotions and Potions\nWhat's Inside? Product Ingredients\n\n05. Cosmetic Procedures\n\nIntroduction\nMedical Help\nTreatment Options\n\n06. Key Takeaways\n\nSummary\nQuiz\nParting Thoughts"
+  }
+}

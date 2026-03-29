@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://cooking.stackexchange.com/questions/92884/educated-ways-to-simplify-substitute-recipes",
+  "file_id": "5171",
+  "ground_truth": {
+    "title": "Educated ways to simplify/substitute recipes",
+    "author": null,
+    "publish_date": "2018-10-14",
+    "main_content": "Sometimes I do not have enough time and miss out parts either substitute ingridients.\n\nMy observation is that sometimes it's quite okay and sometimes awful because of unexpected pairings in the food design.\n\nIs there any general rule beyond personal taste to recognize where reduction/substitution is really no way?\n\n1 Answer\n\nThere's no such rule, but you can approach in a strategic way.\nYou need to know, however why that ingredient is in the recipe.\n\nWhen it's only about flavor (say spices), i think it's fairly easy to substitue with what you see fit.\n\nBut this is not always the case:\n\nSay your ice-cream recipe calls for a banana, it's not only there for flavor, but also texture. You can not just replace with any fruit, banana is used there for its starchy texture as well. You'll need to replace the banana with similar amounts of starch (or eggs that would give a similar texture) and a flavor you see fit.",
+    "with": [
+      "My observation is that sometimes it's quite okay and sometimes awful because of ",
+      "Is there any general rule beyond personal taste to recognize where reduction/sub",
+      "When it's only about flavor (say spices), i think it's fairly easy to substitue ",
+      "Say your ice-cream recipe calls for a banana, it's not only there for flavor, bu"
+    ],
+    "without": [
+      "Seasoned Advice",
+      "Site design / logo",
+      "user contributions licensed under",
+      "Stack Exchange Inc"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "forum"
+  }
+}

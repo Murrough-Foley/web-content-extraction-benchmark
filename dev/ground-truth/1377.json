@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://merylarnett.com/live-virtual-meditation/p/monday-night-meditation-subscription",
+  "file_id": "1377",
+  "ground_truth": {
+    "title": "Monday Night Meditation Subscription",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Monday Night Meditation Subscription\n\n$39.00 every month\n\nJoin me each week for a live, virtual Monday night meditation class.\n\nMembership fee auto-renews each month. Cancel any time.\n\nMembership includes:\n\n- Access to all live, virtual classes\n- Q&A time included in each class\n- Exclusive monthly Community Discussion sessions\n- Connection to an engaged and supportive community of meditators\n\nMembers receive free access to select bonus experiences not offered on the podcast.\n\nSave 10% on all workshops, retreats and special programming.",
+    "with": [
+      "Join me each week for a live, virtual Monday night meditation class.",
+      "Membership fee auto-renews each month. Cancel any time.",
+      "Access to all live, virtual classes",
+      "Q&A time included in each class",
+      "Members receive free access to select bonus experiences not offered on the podcast"
+    ],
+    "without": [
+      "Skip to Content",
+      "Meryl Arnett ©2018 All Rights Reserved",
+      "Subscribe to receive FREE bonus meditations, nature soundscapes, book recommendations and more!",
+      "Login"
+    ],
+    "main_content_markdown": "# Monday Night Meditation Subscription\n\n$39.00 every month\n\nJoin me each week for a live, virtual Monday night meditation class.\n\n*Membership fee auto-renews each month. Cancel any time.*\n\n**Membership includes:**\n\n- Access to all live, virtual classes\n- Q&A time included in each class\n- Exclusive monthly Community Discussion sessions\n- Connection to an engaged and supportive community of meditators\n\nMembers receive free access to select bonus experiences not offered on the podcast.\n\nSave 10% on all workshops, retreats and special programming."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "pool-import"
+      ]
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.reddit.com/r/BuyItForLife/comments/1rjl74r/best_laptop_for_college_to_buy_in_2026_price/",
+  "file_id": "4008",
+  "ground_truth": {
+    "title": "Best Laptop for College to Buy in 2026? (Price, Battery Life, Portability)",
+    "author": "DeliriumletNot",
+    "publish_date": "2026-03-03",
+    "main_content": "Hi, all!\n\nI'm a second year college student and after serving me through high school and last year, my laptop has finally given out. I'm looking to get a new one, but honestly, I've no idea what good parameters would be and what brand I should go for. I'm looking for something that isn't too heavy, is quite portable, battery can last 6+ hrs and my budget is $500-$700.\n\nWhat do you use?",
+    "with": [
+      "I'm a second year college student and after serving me through high school",
+      "my laptop has finally given out",
+      "battery can last 6+ hrs and my budget is $500-$700",
+      "I've no idea what good parameters would be and what brand I should go for"
+    ],
+    "without": [
+      "New to Reddit?",
+      "Create your account and connect with a world of communities",
+      "Continue with Email",
+      "Reddit Rules",
+      "r/BuyItForLife"
+    ],
+    "main_content_markdown": "Hi, all!\n\nI'm a second year college student and after serving me through high school and last year, my laptop has finally given out. I'm looking to get a new one, but honestly, I've no idea what good parameters would be and what brand I should go for. I'm looking for something that isn't too heavy, is quite portable, battery can last 6+ hrs and my budget is $500-$700.\n\nWhat do you use?"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "high",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "article"
+  }
+}

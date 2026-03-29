@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://english.stackexchange.com/questions/373061/usage-of-being",
+  "file_id": "5180",
+  "ground_truth": {
+    "title": "Usage of \"being\"",
+    "author": null,
+    "publish_date": "2017-02-10",
+    "main_content": "I am a little bit confused about this grammar topic. I just want to understand and ensure that I am using this grammar structure correctly.\n\nThere are some cases I used to use it.\n\nHe is being quite rude to her. (He behaves badly with her)\n\nThe task is being performed by the team (The team is performing the task now)\n\nSorry for being late (Apologizing that I am late)\n\nIn each case being reviewed, it is necessary to perform specific actions to find the reason for its failure. (Each case which is reviewed by someone requires specific actions in order to find something)\n\nAm I using the grammar structure correctly?\n\nThank you.\n\nP.S Please let me know if I've done any other mistakes in the question.\n\n2 Answers\n\nThe word \"being\" is serving as what's called a present participle in these examples. It is helping to create a form of the verb called the present continuous tense.\n\nYou are probably familiar with a variety of tenses, but just in case you don't remember their names, here are some refresher examples, for the verb \"feed\". I chose an ordinary transitive verb (one which takes an object, i.e. one in which someone does the verb to something ) to show the effect of different tenses more clearly:\n\nTense Example\n\nPast\n\n(Simple) Perfect I fed the baby\nPluperfect I had fed the baby\nImperfect I was _feeding_ the baby\n\nPresent\n\n(Simple) Present I feed the baby\nPresent Continuous I am _feeding_ the baby\n\nFuture\n\nFuture I will feed the baby\nFuture Perfect I will have fed the baby\n\nNote that 2 of these, the Imperfect and the Present Continuous, use the present participle form of the verb itself, \"feeding\".\n\nNow, suppose that you are the baby. Instead of the active form of the verb, \"to feed\", we can switch to the passive form, \"to be fed\". Then, the sentences from earlier in these two tenses change to:\n\nImperfect I was _being_ fed\nPresent Continuous I am _being_ fed\n\nSo, the word \"being\" shows up most commonly in these two tenses, in the passive form of the verb.\n\nNote: The verb \"to be\" is an additional, unique case where the word \"being\" can appear to form these same tenses, but the verb is intransitive. For example:\n\nImperfect I was _being_ careful\nPresent Continuous I am _being_ careful\n\nModern American English relies heavily on present continuous tense verb forms instead of the more mundane present tense. In fact, the simple present tense is only regularly used in one way - to reflect an ongoing, regular activity. A few examples:\n\n\"How do you get to work?\" \"I ride the bus.\"\n\"What kind of work do you do?\" \"I feed animals at the zoo.\"\n\nThe normal and more common form of the present tense in AmE is the present continuous:\n\n\"I'm watching my weight\".\n\n\"He's being asked to sign the papers.\"\n\n\"She's getting really upset.\"\n\nBritE does the same thing, but the simple present shows up a bit more, just as a variation in usage.\n\nNote: There is one rather uncommon usage of the word \"being\". It sometimes appears to start an adjectival phrase, which is a phrase that describes something. For example:\n\n\"The ship's captain, being taller than the rest of the crew, was able to reach the swinging cask.\"\n\nThere is another occasional, but incorrect, usage where the word \"being\" is used as part of a kind of additional dangling phrase that's trying to do the job of a conjunction:\n\n\"I ate the rest of the cake, the reason being that I was depressed.\"\n\nThese are really two separate ideas, and could be correctly framed by inserting the conjunction \"because\" and dropping the awkward phrase \"the reason being that\":\n\n\"I ate the rest of the cake because I was depressed.\"\n\nIn each case being reviewed, it necessary to find the main point and than find the reason of failure\n\nThis sentence does not have a predicate. It should read:\n\nIn each case being reviewed, it is necessary to find the main point and then find the reason of failure\n\nI believe you misspelled \"then\".\n\nWithout the \"is\" the sentence only has an understood verb. By turning the sentence around a little, it is not hard to see:\n\nTo find the main point and then find the reason for failure in each case is necessary.\n\nWithout the \"is\" the thoughts are not complete. It may be you intended to use the \"is\" and didn't by mistake, in which case the only problem is proof reading. The other three sentences seem OK.",
+    "with": [
+      "He is being quite rude to her. (He behaves badly with her)",
+      "Note that 2 of these, the Imperfect and the Present Continuous, use the present ",
+      "There is another occasional, but incorrect, usage where the word \"being\" is used",
+      "Without the \"is\" the thoughts are not complete. It may be you intended to use th"
+    ],
+    "without": [
+      "Start here for a quick overview of the site",
+      "Hot Network Questions",
+      "Skip to main content",
+      "Stack Exchange Network"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "forum"
+  }
+}

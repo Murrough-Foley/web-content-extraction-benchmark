@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.sakeone.com/premier-imports/hakutsuru/",
+  "file_id": "0597",
+  "ground_truth": {
+    "title": "Hakutsuru",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Japan's Top-Selling Saké Brand\n\nSince 1743, Hakutsuru has been crafting fine saké in the Nada district in Kobe, Japan. From the very beginning, their inspiration and name have been drawn from the white crane—a graceful and refined bird that is an auspicious symbol of good luck and longevity in Japanese culture.\n\nOur Story\n\nFounded in 1743 in the Nada district of Kobe, Hakutsuru is Japan's top-selling saké brand. While its saké is known for being elegant, thoughtful, and delicious, it is Hakutsuru's relentless drive for innovation that truly sets it apart. From studying water sources at the molecular level to building facilities capable of producing proprietary yeast strains—and even developing its own saké-specific rice, Hakutsuru Nishiki—the brand's deep commitment to research and development has propelled it to the forefront of a centuries-old craft.",
+    "with": [
+      "Since 1743, Hakutsuru has been crafting fine saké in the Nada district in Kobe, Japan.",
+      "From the very beginning, their inspiration and name have been drawn from the white crane—a graceful and refined bird that is an auspicious symbol of good luck and longevity in Japanese culture.",
+      "Founded in 1743 in the Nada district of Kobe, Hakutsuru is Japan's top-selling saké brand.",
+      "While its saké is known for being elegant, thoughtful, and delicious, it is Hakutsuru's relentless drive for innovation that truly sets it apart.",
+      "From studying water sources at the molecular level to building facilities capable of producing proprietary yeast strains—and even developing its own saké-specific rice, Hakutsuru Nishiki—the brand's deep commitment to research and development has propelled it to the forefront of a centuries-old craft."
+    ],
+    "without": [
+      "Buy Saké",
+      "All Saké",
+      "Find us Near You",
+      "Shop Online"
+    ],
+    "main_content_markdown": "Japan's Top-Selling Saké Brand\n\nSince 1743, Hakutsuru has been crafting fine saké in the Nada district in Kobe, Japan. From the very beginning, their inspiration and name have been drawn from the white crane-a graceful and refined bird that is an auspicious symbol of good luck and longevity in Japanese culture.\n\n## Our Story\n\nFounded in 1743 in the Nada district of Kobe, Hakutsuru is Japan's top-selling saké brand. While its saké is known for being elegant, thoughtful, and delicious, it is Hakutsuru's relentless drive for innovation that truly sets it apart. From studying water sources at the molecular level to building facilities capable of producing proprietary yeast strains-and even developing its own saké-specific rice, Hakutsuru Nishiki-the brand's deep commitment to research and development has propelled it to the forefront of a centuries-old craft."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": []
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.zalando.co.uk/bershka-faux-leather-jacket-black-bej22t0pl-q11.html",
+  "file_id": "0625",
+  "ground_truth": {
+    "title": "BershkaFaux leather jacket",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Bershka Faux leather jacket - black\n\nBershka\n\nFaux leather jacket - black\n\n€49.99 VAT included\n\n€49.99\n\nVAT included\n\nColour :\n\nblack\n\nDelivery\n\nSold by\n\n, shipped by Zalando\n- Standard delivery Sat 7 Mar – Mon 9 Mar free\n\nStandard delivery\n\nFree delivery and free returns\n\n30 day return policy\n\nMaterial & care\n\nOuter fabric material : 100% polyester\n\nOuter fabric material :\n\n100% polyester\n\nLining : 100% polyester\n\nLining :\n\nFabric : Faux leather\n\nFabric :\n\nFaux leather\n\nCare instructions : Machine wash at 30 °C, machine wash on gentle cycle\n\nCare instructions :\n\nMachine wash at 30 °C, machine wash on gentle cycle\n\nDetails\n\nCollar : Turn-down collar\n\nCollar :\n\nTurn-down collar\n\nFastening : Zip\n\nFastening :\n\nPockets : Chest pocket\n\nPockets :\n\nChest pocket\n\nPattern : Plain\n\nPattern :\n\nPlain\n\nArticle number : BEJ22T0PL-Q11\n\nArticle number :\n\nBEJ22T0PL-Q11\n\nSize & fit\n\nFit : Regular\n\nFit :\n\nRegular\n\nShape : Straight\n\nShape :\n\nStraight\n\nLength : Normal length\n\nLength :\n\nNormal length\n\nSleeve length : Long\n\nSleeve length :",
+    "with": [
+      "Bershka Faux leather jacket - black",
+      "Current Selected color",
+      "Outer fabric material : 100% polyester",
+      "Care instructions : Machine wash at 30 °C, machine wash on gentle cycle",
+      "Article number : BEJ22T0PL-Q11"
+    ],
+    "without": [
+      "Zalando homeZalando home",
+      "Your account",
+      "Accessories",
+      "No search history"
+    ],
+    "main_content_markdown": "Bershka Faux leather jacket - black\n\n## Bershka\n\nFaux leather jacket - black\n\n€49.99 VAT included\n\n€49.99\n\nVAT included\n\nColour :\n\nblack\n\n## Delivery\n\nSold by\n\n, shipped by Zalando\n- Standard delivery Sat 7 Mar - Mon 9 Mar free\n\n### Standard delivery\n\nFree delivery and free returns\n\n30 day return policy\n\nMaterial & care\n\nOuter fabric material : 100% polyester\n\nOuter fabric material :\n\n100% polyester\n\nLining : 100% polyester\n\nLining :\n\nFabric : Faux leather\n\nFabric :\n\nFaux leather\n\nCare instructions : Machine wash at 30 °C, machine wash on gentle cycle\n\nCare instructions :\n\nMachine wash at 30 °C, machine wash on gentle cycle\n\n## Details\n\nCollar : Turn-down collar\n\nCollar :\n\nTurn-down collar\n\nFastening : Zip\n\nFastening :\n\nPockets : Chest pocket\n\nPockets :\n\nChest pocket\n\nPattern : Plain\n\nPattern :\n\nPlain\n\nArticle number : BEJ22T0PL-Q11\n\nArticle number :\n\nBEJ22T0PL-Q11\n\nSize & fit\n\nFit : Regular\n\nFit :\n\nRegular\n\nShape : Straight\n\nShape :\n\nStraight\n\nLength : Normal length\n\nLength :\n\nNormal length\n\nSleeve length : Long\n\nSleeve length :"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": []
+    }
+  }
+}

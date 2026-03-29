@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.countypets.com/",
+  "file_id": "5317",
+  "ground_truth": {
+    "title": "County Pets",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Come adopt a pet!\n\nNo adoption appointment needed!\n\nAdoption hours:\nMonday - Friday: 1 pm - 5:30 pm\nSaturday and Sunday: 11 am - 3:30 pm\n\nPlease call 281-999-3191 for an appointment for all other services.\n\nTo reclaim your pet:\n- Bring proof of ownership such as vet records or photos of your pet when coming to reclaim.\n- Remember to bring your valid photo ID when reclaiming your pet.\n\n612 Canino Rd. Houston, TX 77076\n\nWe are located on Canino Road between I-45 and the Hardy Toll Road.\n\nAdoption Hours:\n\n1 pm - 5:30 pm Monday - Friday\n11 am - 3:30 pm Saturday - Sunday\nNo adoption appointment needed.\n\nAnimal Surrender Hours:\n\nBY APPOINTMENT ONLY.\nPlease call 281-999-3191 for assistance.\n\nPet Clinic Hours:\n\n8 am - 5 pm Monday – Friday. Closed 12-1 pm for lunch.",
+    "with": [
+      "Come adopt a pet!",
+      "612 Canino Rd. Houston, TX 77076",
+      "We are located on Canino Road between I-45 and the Hardy Toll Road",
+      "1 pm - 5:30 pm Monday - Friday",
+      "BY APPOINTMENT ONLY",
+      "8 am - 5 pm Monday"
+    ],
+    "without": [
+      "Data Hub",
+      "Rescue Partners",
+      "DONATE",
+      "Report Animal Cruelty"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "hint",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

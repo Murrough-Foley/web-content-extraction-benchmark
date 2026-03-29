@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.vims.edu/research/units/labgroups/estdats/resources/web_courses/",
+  "file_id": "4349",
+  "ground_truth": {
+    "title": "Free Online Data Science Courses",
+    "author": null,
+    "publish_date": null,
+    "main_content": "CLICK HERE FOR CATALOG *\n\nPosted on American Statistical Association's community forum on 2025-07-09:\n\nThe Sports Analytics Club Program has released the fifth edition of its Online Data Science and AI Coursework Catalog, featuring over 150 courses from top universities including Harvard, MIT, Stanford, UVA, and the University of Michigan.\n\nEvery course in the catalog is free to audit and packed with expert instruction, real-world applications, and flexible pacing. Students and educators alike can explore core topics in Python, machine learning, statistics, and artificial intelligence with direct links and clear sign-up instructions included.\n\nThis resource supports independent learning, classroom enrichment, and professional growth with academic content from the world's leading institutions.\n\n___\n\n*Thanks to M Ahmadian for suggesting this resource.",
+    "with": [
+      "The Sports Analytics Club Program has released the fifth edition of its Online D",
+      "This resource supports independent learning, classroom enrichment, and professio"
+    ],
+    "without": [
+      "Bay & Beyond",
+      "At a Glance",
+      "Leadership & Administration",
+      "Strategic Plan",
+      "Contact & Visit"
+    ],
+    "main_content_markdown": "### **CLICK [HERE](https://sacpinc.org/wp-content/uploads/2025/07/SACP-Online-Data-Science-Catalog-2025-26-Version.pdf) FOR CATALOG** *\n\nPosted on [American Statistical Association's community forum on 2025-07-09](https://community.amstat.org/discussion/20252026-ivy-league-plus-data-science-ai-course-catalog):\n\n> *The Sports Analytics Club Program has released the fifth edition of its Online Data Science and AI Coursework Catalog, featuring over 150 courses from top universities including Harvard, MIT, Stanford, UVA, and the University of Michigan.*\n> \n> ***Every course in the catalog is free to audit and packed with expert instruction, real-world applications, and flexible pacing.*** *Students and educators alike can explore core topics in Python, machine learning, statistics, and artificial intelligence with direct links and clear sign-up instructions included.*\n> \n> *This resource supports independent learning, classroom enrichment, and professional growth with academic content from the world's leading institutions.*\n\n___\n\n*Thanks to M Ahmadian for suggesting this resource."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

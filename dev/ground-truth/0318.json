@@ -1,0 +1,40 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.dictionary.com/browse/restaurant",
+  "file_id": "0318",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "reference",
+        "dictionary",
+        "language",
+        "definitions"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "restaurant",
+    "author": null,
+    "publish_date": null,
+    "main_content": "restaurant\n\nAmerican\n[res-tuh-rahnt, -trahnt] /ˈrɛs təˌrɑnt, -trɑnt/\n\nnoun\nan establishment where meals are served to customers.\n\nBritish\n/ˈrɛstrɒŋ, -rɒnt, ˈrɛstəˌrɒŋ/\n\nnoun\na commercial establishment where meals are prepared and served to customers\n\nEtymology\nOrigin of restaurant\n\nAn Americanism first recorded in 1820–30; from French, noun use of present participle of restaurer, from Latin restaurāre “to restore, reestablish”; re- (def.), store\n\nCompare meaning\nHow does restaurant compare to similar and commonly confused words? Explore the most common comparisons:\n\nbistro vs. restaurant\n\nExample Sentences\n\nEven if businesses want to hire, the pickings are slimmer, especially in low-skill occupations at hotels and restaurants. From MarketWatch\n\nAs the day wore on, he dropped off more items from hamburger joints, coffee shops, noodle stores and a Middle Eastern restaurant, then more tea, before finally calling it quits at 11:31 p.m. From The Wall Street Journal\n\nThe two grew close, Watson said, recalling fond memories of dinners with him at a local Portuguese restaurant. From The Wall Street Journal\n\nRising from the former central post office, the Post Tower will soon open with shops, restaurants and a Kimpton hotel. From The Wall Street Journal\n\nRelated Words\nbar, cafeteria, coffee shop, diner, dining room, inn, outlet, saloon",
+    "with": [
+      "an establishment where meals are served to customers",
+      "a commercial establishment where meals are prepared and served to customers",
+      "An Americanism first recorded in 1820–30; from French, noun use of present participle of restaurer"
+    ],
+    "without": [
+      "Contact us",
+      "Popular Searches",
+      "Skip to content",
+      "Opt out of sale of personal data and targeted advertising",
+      "Cookies, terms & privacy"
+    ],
+    "main_content_markdown": "# restaurant\n\n*American*\n[**res**-t*uh*-rahnt, -trahnt] /ˈrɛs təˌrɑnt, -trɑnt/\n\n## noun\nan establishment where meals are served to customers.\n\n*British*\n/ˈrɛstrɒŋ, -rɒnt, ˈrɛstəˌrɒŋ/\n\n## noun\na commercial establishment where meals are prepared and served to customers\n\n## Etymology\nOrigin of *restaurant*\n\nAn Americanism first recorded in 1820–30; from French, noun use of present participle of *restaurer,* from Latin *restaurāre* “to restore, reestablish”; [re-](https://www.dictionary.com/browse/re) (def.), [store](https://www.dictionary.com/browse/store)\n\n## Compare meaning\nHow does *restaurant* compare to similar and commonly confused words? Explore the most common comparisons:\n\n[bistro vs. restaurant](https://www.dictionary.com/compare-words/bistro-vs-restaurant)\n\n## Example Sentences\n\n> Even if businesses want to hire, the pickings are slimmer, especially in low-skill occupations at hotels and restaurants. From [MarketWatch](https://www.marketwatch.com/story/dont-bet-on-lots-of-hiring-and-new-jobs-in-2026-or-lots-of-layoffs-either-649737c4)\n\n> As the day wore on, he dropped off more items from hamburger joints, coffee shops, noodle stores and a Middle Eastern restaurant, then more tea, before finally calling it quits at 11:31 p.m. From [The Wall Street Journal](https://www.wsj.com/world/asia/14-hour-shifts-and-1-a-deliverybut-chinas-army-of-gig-workers-keeps-growing-81ce58e4)\n\n> The two grew close, Watson said, recalling fond memories of dinners with him at a local Portuguese restaurant. From [The Wall Street Journal](https://www.wsj.com/us-news/claudio-neves-valente-brown-mit-shooter-nuno-loureiro-efd84bd3)\n\n> Rising from the former central post office, the Post Tower will soon open with shops, restaurants and a Kimpton hotel. From [The Wall Street Journal](https://www.wsj.com/lifestyle/travel/best-travel-destinations-vacation-2026-16c79c69)\n\n## Related Words\n[bar](https://www.dictionary.com/browse/bar), [cafeteria](https://www.dictionary.com/browse/cafeteria), [coffee shop](https://www.dictionary.com/browse/coffee-shop), [diner](https://www.dictionary.com/browse/diner), [dining room](https://www.dictionary.com/browse/dining-room), [inn](https://www.dictionary.com/browse/inn), [outlet](https://www.dictionary.com/browse/outlet), [saloon](https://www.dictionary.com/browse/saloon)"
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:10:21.751993"
+}

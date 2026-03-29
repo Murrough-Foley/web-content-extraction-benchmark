@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://generationtux.com/collection/shoes-and-socks",
+  "file_id": "1435",
+  "ground_truth": {
+    "title": "Suit & Tux Shoe Rental - Rent Black & Brown Dress Shoes for Men",
+    "author": "",
+    "publish_date": null,
+    "main_content": "Dress Shoes & Socks\n\nGeneration Tux's carefully curated collection of dress shoes, tuxedo shoes, and socks is designed to enhance your formalwear, ensuring your ensemble is flawless from head to toe. Our shoe rentals add the perfect finishing touch to your attire.\n\nBlack Dress Shoes\n$30\n\nBlack Patent Leather Shoes\n$30\n\nBrown Leather Dress Shoes\n$35\n\nStance Black Icon Socks\n$14\n\nStance Navy Icon Socks\n$14\n\nStance Gray Icon Socks\n$14\n\nStance Tan Icon Socks\n$14\n\nStance Black Icon No Show Socks\n$13\n\nStance Baron Socks\n$15\n\nStance Curren Socks\n$15\n\nStance Hudson Socks\n$15\n\nStance Cloaked Crew Socks\n$15\n\nStance Reykir Socks\n$15\n\nStance The Banner Socks\n$15\n\nStance Playa Larga Socks\n$15\n\nStance Laulima Socks\n$15\n\nStance Poppyland Socks\n$15\n\nStance Watered Socks\n$15\n\nStance Gooey Crew Socks\n$15\n\nStance California Republic Socks\n$15\n\nStance Boyd Socks\n$15\n\nStance Vintage Mickey Socks\n$20\n\nPlum, Teal Blue, & Bronze Gray Pin Dot Socks\n$10\n\nPetal, Teal Blue, Chianti Rose, & White Black Striped Socks\n$10",
+    "with": [
+      "Generation Tux's carefully curated collection of dress shoes, tuxedo shoes, and socks is designed to enhance your formalwear, ensuring your ensemble is flawless from head to toe.",
+      "Black Dress Shoes",
+      "Brown Leather Dress Shoes",
+      "Stance Black Icon Socks"
+    ],
+    "without": [
+      "Our most popular suits & tuxedos - Now $119",
+      "Free Home Try-On",
+      "Free Swatches"
+    ],
+    "main_content_markdown": "Dress Shoes & Socks\n\nGeneration Tux's carefully curated collection of dress shoes, tuxedo shoes, and socks is designed to enhance your formalwear, ensuring your ensemble is flawless from head to toe. Our shoe rentals add the perfect finishing touch to your attire.\n\n## Black Dress Shoes\n$30\n\n## Black Patent Leather Shoes\n$30\n\n## Brown Leather Dress Shoes\n$35\n\n## Stance Black Icon Socks\n$14\n\n## Stance Navy Icon Socks\n$14\n\n## Stance Gray Icon Socks\n$14\n\n## Stance Tan Icon Socks\n$14\n\n## Stance Black Icon No Show Socks\n$13\n\n## Stance Baron Socks\n$15\n\n## Stance Curren Socks\n$15\n\n## Stance Hudson Socks\n$15\n\n## Stance Cloaked Crew Socks\n$15\n\n## Stance Reykir Socks\n$15\n\n## Stance The Banner Socks\n$15\n\n## Stance Playa Larga Socks\n$15\n\n## Stance Laulima Socks\n$15\n\n## Stance Poppyland Socks\n$15\n\n## Stance Watered Socks\n$15\n\n## Stance Gooey Crew Socks\n$15\n\n## Stance California Republic Socks\n$15\n\n## Stance Boyd Socks\n$15\n\n## Stance Vintage Mickey Socks\n$20\n\nPlum, Teal Blue, & Bronze Gray Pin Dot Socks\n$10\n\n## Petal, Teal Blue, Chianti Rose, & White Black Striped Socks\n$10"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "pool-import",
+        "verified"
+      ]
+    }
+  }
+}

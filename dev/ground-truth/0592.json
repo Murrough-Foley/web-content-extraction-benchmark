@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.forestwholefoods.co.uk/product/organic-sunflower-seeds/",
+  "file_id": "0592",
+  "ground_truth": {
+    "title": "Organic EU Sunflower Seeds",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Organic Sunflower Seeds are high in vitamin E.\nOrganic sunflower seeds start as the centre of the beautiful, bright yellow sunflower.  As the head of the flower ages, the seeds in the centre dry and the hulls are removed to reveal soft, tasty organic sunflower seeds.  One 30g serving of these tasty seeds offers 83% of your vitamin E requirements for the day.\nSunflower seeds are native to North America and have been consumed for over 5000 years by Native Americans who use them for oil, food and also dyes.  Spanish explorers brought the them back to Spain and it is now grown readily across the world.\nThese seeds are nutritionally dense with a wide range of vitamins and minerals that are often hard to obtain such as vitamin E and zinc which protect the body from oxidative stress.  A 30g serving of sunflower seeds is high in Protein, fibre, Thiamin (B1), Folate, Vitamin E, Copper and a source of Niacin (B3), Vitamin (B6), Magnesium, Manganese, Phosphorus, Zinc and Selenium.\nTry adding them to muesli mixes, porridge toppings and smoothie mixes for added nutrition and flavour.\nIf you need a recipe to get your creative juices going then try this\nFive Seed Oatcakes Recipe\n.  If you want a mix of seeds then why not try our\norganic four seed mix\n.\nIngredients: Organic Sunflower Seeds\nOrigin\n: Bulgaria / Hungary/ Slovakia/ Romania\nAllergen Information: Packed on premises that handle gluten, tree nuts, sesame, soya, peanuts, celery, mustard",
+    "with": [
+      "Organic Sunflower Seeds are high in vitamin E.",
+      "Organic sunflower seeds start as the centre of the beautiful, bright yellow sunflower.",
+      "As the head of the flower ages, the seeds in the centre dry and the hulls are removed to reveal soft, tasty organic sunflower seeds.",
+      "One 30g serving of these tasty seeds offers 83% of your vitamin E requirements for the day.",
+      "Sunflower seeds are native to North America and have been consumed for over 5000 years by Native Americans who use them for oil, food and also dyes."
+    ],
+    "without": [
+      "Add to basket",
+      "Log In / Register",
+      "Related products",
+      "Choose an option"
+    ],
+    "main_content_markdown": "## Organic Sunflower Seeds are high in vitamin E.\nOrganic sunflower seeds start as the centre of the beautiful, bright yellow sunflower.  As the head of the flower ages, the seeds in the centre dry and the hulls are removed to reveal soft, tasty organic sunflower seeds.  One 30g serving of these tasty seeds offers 83% of your vitamin E requirements for the day.\nSunflower seeds are native to North America and have been consumed for over 5000 years by Native Americans who use them for oil, food and also dyes.  Spanish explorers brought the them back to Spain and it is now grown readily across the world.\nThese seeds are nutritionally dense with a wide range of vitamins and minerals that are often hard to obtain such as vitamin E and zinc which protect the body from oxidative stress.  A 30g serving of sunflower seeds is high in Protein, fibre, Thiamin (B1), Folate, Vitamin E, Copper and a source of Niacin (B3), Vitamin (B6), Magnesium, Manganese, Phosphorus, Zinc and Selenium.\nTry adding them to muesli mixes, porridge toppings and smoothie mixes for added nutrition and flavour.\nIf you need a recipe to get your creative juices going then try this\n[Five Seed Oatcakes Recipe](https://www.forestwholefoods.co.uk/five-seed-oatcakes-recipe/)\n.  If you want a mix of seeds then why not try our\n[organic four seed mix](https://www.forestwholefoods.co.uk/product/organic-omega-four-seed-mix/)\n.\n**Ingredients: Organic Sunflower Seeds**\nOrigin\n**: Bulgaria / Hungary/ Slovakia/ Romania**\n**Allergen Information: Packed on premises that handle gluten, tree nuts, sesame, soya, peanuts, celery, mustard**"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": []
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.nike.com/t/pegasus-41-mens-road-running-shoes-extra-wide-LMhfRGdO",
+  "file_id": "0624",
+  "ground_truth": {
+    "title": "Nike Pegasus 41 Men's Road Running Shoes",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Nike Pegasus 41\n\nMen's Road Running Shoes\n\nThis product is made with at least 20% recycled content by weight\n\nShown: Black/Anthracite/White\nStyle: FD2722-002\n\nSpringy foam plus snappy Air Zoom units equals our most energized ride.\n\nResponsive cushioning in the Pegasus provides an energized ride for everyday road running. Experience lighter-weight energy return with dual Air Zoom units and a ReactX foam midsole. Plus, improved engineered mesh on the upper decreases weight and increases breathability.\n\nResponsive Ride\nReactX foam midsole surrounds forefoot and heel Air Zoom units for an energized ride. It's 13% more responsive than previous React technology.\n\nWaffle-Inspired Traction\nSignature waffle-inspired rubber outsole provides traction and flexibility.\n\nPlush Padding\nPlush collar, tongue and sockliner provide a secure and comfortable fit.\n\nWhat's New?\nReactX foam midsole\nLighter, more breathable engineered mesh upper\n\nProduct Details\n\nWeight: Approx. 297g/10.5oz (Men's US 10)\nHeel-to-toe drop: 10mm\nMR-10 Last - Our best, most consistent fit (same as Pegasus 40)\nReflective details\nNot intended for use as Personal Protective Equipment (PPE)",
+    "with": [
+      "Springy foam plus snappy Air Zoom units equals our most energized ride.",
+      "Responsive cushioning in the Pegasus provides an energized ride for everyday road running.",
+      "Experience lighter-weight energy return with dual Air Zoom units and a ReactX foam midsole.",
+      "ReactX foam midsole surrounds forefoot and heel Air Zoom units for an energized ride.",
+      "Signature waffle-inspired rubber outsole provides traction and flexibility."
+    ],
+    "without": [
+      "Add to Cart",
+      "Favorite",
+      "Write a Review",
+      "Free standard shipping"
+    ],
+    "main_content_markdown": "# Nike Pegasus 41\n\n## Men's Road Running Shoes\n\nThis product is made with at least 20% recycled content by weight\n\nShown: Black/Anthracite/White\nStyle: FD2722-002\n\nSpringy foam plus snappy Air Zoom units equals our most energized ride.\n\nResponsive cushioning in the Pegasus provides an energized ride for everyday road running. Experience lighter-weight energy return with dual Air Zoom units and a ReactX foam midsole. Plus, improved engineered mesh on the upper decreases weight and increases breathability.\n\n#### Responsive Ride\nReactX foam midsole surrounds forefoot and heel Air Zoom units for an energized ride. It's 13% more responsive than previous React technology.\n\n#### Waffle-Inspired Traction\nSignature waffle-inspired rubber outsole provides traction and flexibility.\n\n#### Plush Padding\nPlush collar, tongue and sockliner provide a secure and comfortable fit.\n\n#### What's New?\nReactX foam midsole\nLighter, more breathable engineered mesh upper\n\n#### Product Details\n\nWeight: Approx. 297g/10.5oz (Men's US 10)\nHeel-to-toe drop: 10mm\nMR-10 Last - Our best, most consistent fit (same as Pegasus 40)\nReflective details\nNot intended for use as Personal Protective Equipment (PPE)"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": []
+    }
+  }
+}

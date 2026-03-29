@@ -1,0 +1,38 @@
+{
+  "schema_version": "2.0",
+  "url": "https://3d23d65ddc64ce5.substack.com/p/choosing-a-web-framework-for-2026",
+  "file_id": "0486",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "technology",
+        "web-development",
+        "frameworks",
+        "opinion"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Choosing a Web framework",
+    "author": "3d23d65-ddc6-4ce5",
+    "publish_date": "2025-12-16",
+    "main_content": "It’s been a big year for server side web frameworks. Django 6 just dropped, Asp.net Core 10 came out a month ago, Rails 8.1 released in October and Laravel 12 came out in February.\n\nAfter reviewing the options, I’ve decided to narrow down on Asp.net Core 10 for the following reasons.\n\n- Excellent tooling support (good vscode support out of the box with minimal configuration)\n- High quality documentation (both from Microsoft and 3rd party)\n- A polished story for async and background tasking built-in\n- Minimal APIs are ergonomic and refreshingly boiler plate free\n- Job availability\n- High performance of the .NET environment\n- F# for fun\n- Production quality migrations and ORM in EntityFramework\n\nI love Django but there is something very hacky about building on Python. Elixir/Phoenix is the siren song always tantalising but even to this day it’s stuck in the past with primitive debugging (dbg and inspect) and I can’t live without a debugger. In any case Blazor seems good enough now that Liveview does not hold the same intrigue.\n\nAsp.net Core 10 lacks hot reload unfortunately but it does have a good debugger integration with vscode with zero setup. I must admit the nicest DX is found in typescript + bun + hono where both live reload and a working debugger make development a pure joy but you have to live with the chaos of the javascript ecosystem and the database story seems dubious with Prisma and Drizzle seems less mature.\n\nFor years I avoided anything Microsoft, I still have an unsettling feeling of setting up for disappointment, but I’ve persisted through the discomfort and I must admit with ASP.net Core 10, it’s as good as anything else out there and maybe even better overall.",
+    "with": [
+      "It’s been a big year for server side web frameworks.",
+      "Django 6 just dropped, Asp.net Core 10 came out a month ago, Rails 8.1 released in October and Laravel 12 came out in February.",
+      "After reviewing the options, I’ve decided to narrow down on Asp.net Core 10 for the following reasons.",
+      "I love Django but there is something very hacky about building on Python.",
+      "For years I avoided anything Microsoft, I still have an unsettling feeling of setting up for disappointment, but I’ve persisted through the discomfort and I must admit with ASP.net Core 10, it’s as good as anything else out there and maybe even better overall."
+    ],
+    "without": [
+      "© 2025 3d23d65-ddc6-4ce5",
+      "Collection notice",
+      "Start your Substack",
+      "Ready for more?"
+    ],
+    "main_content_markdown": "It's been a big year for server side web frameworks. [Django 6](https://docs.djangoproject.com/en/6.0/releases/6.0/) just dropped, [Asp.net Core 10](https://learn.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-10.0) came out a month ago, [Rails 8.1](https://guides.rubyonrails.org/8_1_release_notes.html) released in October and [Laravel 12](https://laravel.com/docs/12.x/releases) came out in February.\n\nAfter reviewing the options, I've decided to narrow down on Asp.net Core 10 for the following reasons.\n\n- Excellent tooling support (good vscode support out of the box with minimal configuration)\n- High quality documentation (both from Microsoft and 3rd party)\n- A polished story for async and background tasking built-in\n- Minimal APIs are ergonomic and refreshingly boiler plate free\n- Job availability\n- High performance of the .NET environment\n- F# for fun\n- Production quality migrations and ORM in EntityFramework\n\nI love Django but there is something very hacky about building on Python. Elixir/Phoenix is the siren song always tantalising but even to this day it's stuck in the past with primitive debugging (dbg and inspect) and I can't live without a debugger. In any case Blazor seems good enough now that Liveview does not hold the same intrigue.\n\nAsp.net Core 10 lacks hot reload unfortunately but it does have a good debugger integration with vscode with zero setup. I must admit the nicest DX is found in typescript + bun + hono where both live reload and a working debugger make development a pure joy but you have to live with the chaos of the javascript ecosystem and the database story seems dubious with Prisma and Drizzle seems less mature.\n\nFor years I avoided anything Microsoft, I still have an unsettling feeling of setting up for disappointment, but I've persisted through the discomfort and I must admit with ASP.net Core 10, it's as good as anything else out there and maybe even better overall."
+  }
+}

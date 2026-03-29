@@ -1,0 +1,40 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.cnx-software.com/2025/12/20/do-you-need-14-usb-ports-on-your-raspberry-pi-5",
+  "file_id": "0421",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "hardware",
+        "raspberry-pi",
+        "embedded-systems",
+        "news"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Do you need 14 USB ports on your Raspberry Pi 5?",
+    "author": "Jean-Luc Aufranc (CNXSoft)",
+    "publish_date": "2025-12-20",
+    "main_content": "If you do, then you're in luck, thanks to the Suptronics X1013 expansion board for the Raspberry Pi 5, which adds ten USB ports for a total of fourteen USB ports!\n\nThe board connects to the 16-pin FFC PCIe connector of the Raspberry Pi 5 and adds four USB 3.0 ports and four USB 2.0 ports on the right of the Ethernet+USB side of the Pi 5, plus two extra USB 2.0 ports on the opposite side. This is what it looks like once installed.\n\nSuptronics X1013 specifications:\n\n- Compatible with Raspberry Pi 5\n- PCIe to USB chipset – Via Lab's VL805 PCIe Gen2 x1 to 4x USB 3.0 control chip\n- USB Hub – Terminus FE 2.1 7-port USB 2.0 hub\n- PCIe – 16-pin FFC PCIe connector; 37mm cable provided\n- USB ports\n  - 4x USB3.2 Gen1 (5 Gbps) ports\n  - 6x USB 2.0 ports (480 Gbps)\n- Misc – On-board push button for bottom (same behavior as the Raspberry Pi's power button)\n- Power Management\n  - 9 to 18V DC / 3A input via a 5.5×2.1mm DC jack\n  - 5.1V power delivery to the Raspberry Pi5 via pogo pins\n  - Automatically powering off all USB devices when the Pi 5 is shut down\n- Dimensions – 107.5 x 85mm\n\nThe installation is pretty straightforward, as you just have to connect the PCIe cable, align the Raspberry Pi 5 with the four mounting holes (and implicitly the pogo pins), before securing it with the four screws provided in the kit. You'll then need to make sure PCIe is enabled, and USB PD negotiation is disabled on the Raspberry Pi, and you're good to go. You'll find the hardware and software instructions on the Suptronics website.\n\nI initially thought the X1013 board might also work with other SBCs featuring a compatible 16-pin FFC connector, such as the Radxa ROCK 5C or Kakip SBC, but it might not be the case due to power handling. (TBC).\n\nDon't expect great performance for the additional ports, though. You'd have four USB 3.0 (5 Gbps) ports and six USB 2.0 (480 Mbps) ports for a theoretical combined 22.88 Gbps of bandwidth going through a 5 GT/s PCIe Gen2 x1 connection. For peripherals benefiting from 5 Gbps bandwidth, the USB 3.0 ports on the Raspberry Pi 5 should be used in priority.\n\nI first found the Suptronics X1013 10-port USB expansion board on ThePiHut for about $49.5 (including VAT), but it's also sold under the Geekworm brand on AliExpress for $35 and on Amazon for $39.",
+    "with": [
+      "the Suptronics X1013 expansion board for the Raspberry Pi 5, which adds ten USB ports for a total of fourteen USB ports",
+      "adds four USB 3.0 ports and four USB 2.0 ports on the right of the Ethernet+USB side of the Pi 5, plus two extra USB 2.0 ports on the opposite side",
+      "PCIe to USB chipset – Via Lab's VL805 PCIe Gen2 x1 to 4x USB 3.0 control chip",
+      "You'll then need to make sure PCIe is enabled, and USB PD negotiation is disabled on the Raspberry Pi, and you're good to go",
+      "For peripherals benefiting from 5 Gbps bandwidth, the USB 3.0 ports on the Raspberry Pi 5 should be used in priority"
+    ],
+    "without": [
+      "Copyright 2010-2025 - CNX Software Limited",
+      "This website uses cookies to improve your experience. We'll assume you're ok with this",
+      "Subscribe to Comments RSS Feed",
+      "Recent Comments"
+    ],
+    "main_content_markdown": "If you do, then you're in luck, thanks to the Suptronics X1013 expansion board for the Raspberry Pi 5, which adds ten USB ports for a total of fourteen USB ports!\n\nThe board connects to the [16-pin FFC PCIe connector](https://www.cnx-software.com/2023/12/11/raspberry-pi-releases-pcie-ffc-connector-specifications-new-hat-standard/) of the Raspberry Pi 5 and adds four USB 3.0 ports and four USB 2.0 ports on the right of the Ethernet+USB side of the Pi 5, plus two extra USB 2.0 ports on the opposite side. This is what it looks like once installed.\n\nSuptronics X1013 specifications:\n\n- Compatible with [Raspberry Pi 5](https://www.cnx-software.com/2023/11/05/raspberry-pi-5-review-raspberry-pi-os-bookworm-benchmarks-power-consumption/)\n- PCIe to USB chipset - [Via Lab's VL805](https://www.via-labs.com/product_show.php?id=48) PCIe Gen2 x1 to 4x USB 3.0 control chip\n- USB Hub - [Terminus FE 2.1](https://terminus-usa.com/product/fe2-1-usb-2-0-high-speed-7-port-hub-controller/) 7-port USB 2.0 hub\n- PCIe - 16-pin FFC PCIe connector; 37mm cable provided\nUSB ports\n  4x USB3.2 Gen1 (5 Gbps) ports\n  6x USB 2.0 ports (480 Gbps)\n- Misc - On-board push button for bottom (same behavior as the Raspberry Pi's power button)\n- Power Management\n  9 to 18V DC / 3A input via a 5.5×2.1mm DC jack\n  5.1V power delivery to the Raspberry Pi5 via pogo pins\n  Automatically powering off all USB devices when the Pi 5 is shut down\n- Dimensions - 107.5 x 85mm\n\nThe installation is pretty straightforward, as you just have to connect the PCIe cable, align the Raspberry Pi 5 with the four mounting holes (and implicitly the pogo pins), before securing it with the four screws provided in the kit. You'll then need to make sure PCIe is enabled, and USB PD negotiation is disabled on the Raspberry Pi, and you're good to go. You'll find the hardware and software instructions on the Suptronics website.\n\nI initially thought the X1013 board might also work with other SBCs featuring a compatible 16-pin FFC connector, such as the [Radxa ROCK 5C](https://www.cnx-software.com/2024/05/18/radxa-rock-5c-lite-sbc-rockchip-rk3588s2-rk3582-soc-wifi-6-raspberry-pi-pcie-ffc-connector/) or [Kakip SBC](https://www.cnx-software.com/2024/03/05/kaki-pi-raspberry-pi-inspired-renesas-rz-v2h-ai-sbc-with-four-camera-connectors-pcie-3-0/), but it might not be the case due to power handling. (TBC).\n\nDon't expect great performance for the additional ports, though. You'd have four USB 3.0 (5 Gbps) ports and six USB 2.0 (480 Mbps) ports for a theoretical combined 22.88 Gbps of bandwidth going through a 5 GT/s PCIe Gen2 x1 connection. For peripherals benefiting from 5 Gbps bandwidth, the USB 3.0 ports on the Raspberry Pi 5 should be used in priority.\n\nI first found the Suptronics X1013 10-port USB expansion board [**on ThePiHut for about $49.5**](https://thepihut.com/products/suptronics-x1013-10-port-usb-hub-add-on-for-raspberry-pi-5) (including VAT), but it's also sold under the Geekworm brand [**on AliExpress for $35**](https://s.click.aliexpress.com/e/_c2JZvl8t) and [**on Amazon for $39**](https://amzn.to/44EZoqR)."
+  }
+}

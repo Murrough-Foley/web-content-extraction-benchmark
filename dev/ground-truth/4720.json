@@ -1,0 +1,23 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.aliexpress.com/item/1005010537563439.html",
+  "file_id": "4720",
+  "ground_truth": {
+    "title": "TarsWorks T-1 80 Mechanical Keyboard Wireless Tri-mode RGB Gasket Hot Swap Aluminum HIFI Custom Office Game Mechanical Keyboard",
+    "author": null,
+    "publish_date": null,
+    "main_content": "",
+    "with": [],
+    "without": []
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product",
+    "spa": true
+  }
+}

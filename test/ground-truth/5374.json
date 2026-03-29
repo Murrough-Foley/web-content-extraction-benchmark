@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://docs.flutter.dev/ui/widgets/material",
+  "file_id": "5374",
+  "ground_truth": {
+    "title": "Material component widgets",
+    "author": null,
+    "publish_date": null,
+    "main_content": "A catalog of Flutter's material component widgets. Visual, behavioral, and motion-rich widgets implementing the Material 3 design specification.\n\nFlutter provides a variety of visual, behavioral, and motion-rich widgets\nthat implement the Material 3 design specification.\nMaterial 3 is the default design language of Flutter,\nenabling you to design and build beautiful, usable apps\nthat can adapt to any platform.\n\nTo catch these and other widgets in action,\ncheck out the Material 3 demo\nweb app.\n\nActions\n\nCommon buttons\n\nClickable blocks that start an action, such as sending an email, sharing a document, or liking a comment.\n\nFloating Action Button\n\nClickable block containing an icon that keeps a key action always in reach.\n\nExtended Floating Action Button\n\nClickable block that triggers an action. These wider blocks can fit a text label and provide a larger target area.\n\nIcon Button\n\nClickable icons to prompt app users to take supplementary actions.\n\nSegmented Button\n\nSingle or multiple selected clickable blocks to help people select options, switch views, or sort elements.\n\nCommunication\n\nBadge\n\nIcon-like block that conveys dynamic content such as counts or status. It can include labels or numbers.\n\nLinear Progress Indicator\n\nVertical line that changes color as an ongoing process, such as loading an app or submitting a form, completes.\n\nSnack Bar\n\nBrief messages about app processes that display at the bottom of the screen.\n\nContainment\n\nAlert Dialog\n\nHovering containers that prompt app users to provide more data or make a decision.\n\nBottom sheet\n\nContainers that anchor supplementary content to the bottom of the screen.\n\nCard\n\nContainer for short, related pieces of content displayed in a box with rounded corners and a drop shadow.\n\nDivider\n\nThin line that groups content in lists and containers.\n\nList Tile\n\nA single fixed-height row that typically contains some text as well as a leading or trailing icon.\n\nApp Bar\n\nContainer that displays content and actions at the top of a screen.\n\nBottom app bar\n\nContainer that displays navigation and key actions at the bottom of a screen.\n\nNavigation Bar\n\nPersistent container that enables switching between primary destinations in an app.\n\nNavigation Drawer\n\nContainer that slides from the leading edge of the app to navigate to other sections in an app.\n\nNavigation rail\n\nPersistent container on the leading edge of tablet and desktop screens to navigate to parts of an app.\n\nTab Bar\n\nLayered containers that organize content across different screens, data sets, and other interactions.\n\nSelection\n\nCheckbox\n\nForm control that app users can set or clear to select one or more options from a set.\n\nChip\n\nSmall blocks that simplify entering information, making selections, filtering content, or triggering actions.\n\nDate Picker\n\nCalendar interface used to select a date or a range of dates.\n\nMenu\n\nContainer that displays a list of choices on a temporary surface.\n\nRadio\n\nForm control that app users can set or clear to select only one option from a set.\n\nSlider\n\nForm control that enables selecting a range of values.\n\nSwitch\n\nToggle control that changes the state of a single item to on or off.\n\nTime Picker\n\nClock interface used to select and set a specific time.\n\nText inputs\n\nFind more widgets in the Material 2 widget catalog and other categories of the\nwidget catalog.",
+    "with": [
+      "Flutter provides a variety of visual, behavioral, and motion-rich widgets",
+      "Icon-like block that conveys dynamic content such as counts or status. It can in",
+      "Persistent container on the leading edge of tablet and desktop screens to naviga",
+      "Find more widgets in the Material 2 widget catalog and other categories of the"
+    ],
+    "without": [
+      "Flutter Docs",
+      "Flutter Blog",
+      "Quick start",
+      "Custom setup"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "documentation"
+  }
+}

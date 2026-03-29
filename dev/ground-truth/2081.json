@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.usingenglish.com/forum/threads/car-rental-or-car-rent.115684/",
+  "file_id": "2081",
+  "ground_truth": {
+    "title": "[Vocabulary]",
+    "author": "tomashusner@hotmail.com",
+    "publish_date": "2010-02-20",
+    "main_content": "Hello, my name is Tomas and I come from the Czech Republic. I am currently working at a language school where I am supposed to make an English course which should be specialized for car rental companies. I have done it all and I have one last issue. I have to make a front-page where I should include the name of the course. Now I don't know what sounds better in English: a) Car rental English b) English for car rental I don't know what is correct or at least sounds better. If you might have any better ideas how to call it, please let me know. Thank you Tomas\n\nNeither a teacher nor a native speaker I'd rather say: An English Course in Car Rental\n\nPerhaps: \"English for Car Rental businesses\".\n\nThank you for your replies. What do you think about \"English for Car Rental Companies\" (inspired by bhaisahab)\n\nWould it not depend on whether it is supposed to be AmE or BrE? My British guests seem to refer to a car rental agency as a \"Car Hire Agency\" In Canada they are classed in the telephone directories as \"Automobile rental agencies/companies.\"\n\nYou see both hire and rent used with cars. I think I'd probably use car hire as the noun and rent a car as the verb. (British English speaker)\n\nEnglish for Car Rental Personnels/Professionals (the target group of people rather than the companies or businesses)",
+    "with": [
+      "Hello, my name is Tomas and I come from the Czech Republic.",
+      "Neither a teacher nor a native speaker I'd rather say: An English Course in Car Rental",
+      "Would it not depend on whether it is supposed to be AmE or BrE?",
+      "I think I'd probably use car hire as the noun and rent a car as the verb.",
+      "English for Car Rental Personnels/Professionals (the target group of people rather than the companies or businesses)"
+    ],
+    "without": [
+      "Log in",
+      "Register",
+      "Not open for further replies.",
+      "Community platform by XenForo"
+    ],
+    "main_content_markdown": "Hello, my name is Tomas and I come from the Czech Republic. I am currently working at a language school where I am supposed to make an English course which should be specialized for car rental companies. I have done it all and I have one last issue. I have to make a front-page where I should include the name of the course. Now I don't know what sounds better in English: a) Car rental English b) English for car rental I don't know what is correct or at least sounds better. If you might have any better ideas how to call it, please let me know. Thank you Tomas\n\nNeither a teacher nor a native speaker I'd rather say: An English Course in Car Rental\n\nPerhaps: \"English for Car Rental businesses\".\n\nThank you for your replies. What do you think about \"English for Car Rental Companies\" (inspired by bhaisahab)\n\nWould it not depend on whether it is supposed to be AmE or BrE? My British guests seem to refer to a car rental agency as a \"Car Hire Agency\" In Canada they are classed in the telephone directories as \"Automobile rental agencies/companies.\"\n\nYou see both *hire* and *rent* used with cars. I think I'd probably use *car hire* as the noun and *rent a car* as the verb. (British English speaker)\n\nEnglish for Car Rental Personnels/Professionals (the target group of **people** rather than the companies or businesses)"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": "",
+      "tags": [
+        "pool-import",
+        "verified"
+      ]
+    }
+  }
+}

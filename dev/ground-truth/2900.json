@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://blog.golang.org/",
+  "file_id": "2900",
+  "ground_truth": {
+    "title": "The Go Blog",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Allocating on the Stack, 27 February 2026, Keith Randall\nA description of some of the recent changes to do allocations on the stack instead of the heap.\n\nUsing go fix to modernize Go code, 17 February 2026, Alan Donovan\nGo 1.26 includes a new implementation of go fix that can help you use more modern features of Go.\n\nGo 1.26 is released, 10 February 2026, Carlos Amedee, on behalf of the Go team\nGo 1.26 adds a new garbage collector, cgo overhead reduction, experimental simd/archsimd package, experimental runtime/secret package, and more.\n\nResults from the 2025 Go Developer Survey, 21 January 2026, Todd Kulesza, on behalf of the Go team\nThe 2025 Go Developer Survey results, focused on developer sentiment towards Go, use cases, challenges, and developer environments.\n\nGo's Sweet 16, 14 November 2025, Austin Clements, for the Go team\nHappy Birthday, Go!\n\nThe Green Tea Garbage Collector, 29 October 2025, Michael Knyszek and Austin Clements\nGo 1.25 includes a new experimental garbage collector, Green Tea.\n\nFlight Recorder in Go 1.25, 26 September 2025, Carlos Amedee and Michael Knyszek\nGo 1.25 introduces a new tool in the diagnostic toolbox, flight recording.\n\nIt's survey time! How has Go has been working out for you?, 16 September 2025, Todd Kulesza, on behalf of the Go team\nHelp shape the future of Go\n\nA new experimental Go API for JSON, 9 September 2025, Joe Tsai, Daniel Martí, Johan Brandhorst-Satzkorn, Roger Peppe, Chris Hines, and Damien Neil\nGo 1.25 introduces experimental support for encoding/json/jsontext and encoding/json/v2 packages.\n\nTesting Time (and other asynchronicities), 26 August 2025, Damien Neil\nA discussion of testing asynchronous code and an exploration of the testing/synctest package. Based on the GopherCon Europe 2025 talk with the same title.",
+    "with": [
+      "A description of some of the recent changes to do allocations on the stack instead of the heap.",
+      "Go 1.26 adds a new garbage collector, cgo overhead reduction, experimental simd/archsimd package",
+      "Go 1.25 includes a new experimental garbage collector, Green Tea.",
+      "Go 1.25 introduces a new tool in the diagnostic toolbox, flight recording.",
+      "Go 1.25 introduces experimental support for encoding/json/jsontext and encoding/json/v2 packages."
+    ],
+    "without": [
+      "Skip to Main Content",
+      "Common problems companies solve with Go",
+      "Stories about how and why companies use Go",
+      "How Go can help keep you secure by default"
+    ],
+    "main_content_markdown": "[Allocating on the Stack](https://blog.golang.org/blog/allocation-optimizations), 27 February 2026, Keith Randall\nA description of some of the recent changes to do allocations on the stack instead of the heap.\n\n[Using go fix to modernize Go code](https://blog.golang.org/blog/gofix), 17 February 2026, Alan Donovan\nGo 1.26 includes a new implementation of go fix that can help you use more modern features of Go.\n\n[Go 1.26 is released](https://blog.golang.org/blog/go1.26), 10 February 2026, Carlos Amedee, on behalf of the Go team\nGo 1.26 adds a new garbage collector, cgo overhead reduction, experimental simd/archsimd package, experimental runtime/secret package, and more.\n\n[Results from the 2025 Go Developer Survey](https://blog.golang.org/blog/survey2025), 21 January 2026, Todd Kulesza, on behalf of the Go team\nThe 2025 Go Developer Survey results, focused on developer sentiment towards Go, use cases, challenges, and developer environments.\n\n[Go's Sweet 16](https://blog.golang.org/blog/16years), 14 November 2025, Austin Clements, for the Go team\nHappy Birthday, Go!\n\n[The Green Tea Garbage Collector](https://blog.golang.org/blog/greenteagc), 29 October 2025, Michael Knyszek and Austin Clements\nGo 1.25 includes a new experimental garbage collector, Green Tea.\n\n[Flight Recorder in Go 1.25](https://blog.golang.org/blog/flight-recorder), 26 September 2025, Carlos Amedee and Michael Knyszek\nGo 1.25 introduces a new tool in the diagnostic toolbox, flight recording.\n\n[It's survey time! How has Go has been working out for you?](https://blog.golang.org/blog/survey2025-announce), 16 September 2025, Todd Kulesza, on behalf of the Go team\nHelp shape the future of Go\n\n[A new experimental Go API for JSON](https://blog.golang.org/blog/jsonv2-exp), 9 September 2025, Joe Tsai, Daniel Martí, Johan Brandhorst-Satzkorn, Roger Peppe, Chris Hines, and Damien Neil\nGo 1.25 introduces experimental support for encoding/json/jsontext and encoding/json/v2 packages.\n\n[Testing Time (and other asynchronicities)](https://blog.golang.org/blog/testing-time), 26 August 2025, Damien Neil\nA discussion of testing asynchronous code and an exploration of the testing/synctest package. Based on the GopherCon Europe 2025 talk with the same title."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "web-sourced",
+        "verified"
+      ]
+    }
+  }
+}

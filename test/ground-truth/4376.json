@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://shop.americantourister.com/luggage/carry-on?srsltid=AfmBOooaFqnALWWgcOlTqSgVGXZG-f7Bx9cX-CBE3znuOfnj2v50dPPo",
+  "file_id": "4376",
+  "ground_truth": {
+    "title": "Carry On Luggage",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Rejoy Carry-On\n$79.99\n43% Savings\nComp. Value $139.99\n6 colors\n\nFastForward Carry-On\n$119.99\n4 colors\n\nAirconic Carry-On\n$79.99\n47% Savings\nComp. Value $149.99\n7 colors\n\nDisney Minnie Carry-On\n$79.99\n43% Savings\nComp. Value $139.99\n1 color\n\nAir Move Carry-On\n$70.00\n50% Savings\nComp. Value $139.99\n5 colors\n\nStratum 3.0 Spinner Carry-On\n$89.99\n44% Savings\nComp. Value $159.99\n4 colors\n\nDisney Mickey Carry-On\n$79.99\n43% Savings\nComp. Value $139.99\n1 color\n\nDisney Legends Dots Carry-On\n$75.00\n50% Savings\nComp. Value $149.99\n2 colors\n\nSonic Carry-On\n$60.00\n50% Savings\nComp. Value $119.99\n3 colors\n\nWavebreaker Disney Carry-On\n$79.99\n53% Savings\nComp. Value $169.99\n5 colors\n\nDisney Characters Kids Carry-On\n$89.99\n7 colors\n\nWavebreaker Carry-On\n$79.99\n38% Savings\nComp. Value $129.99\n7 colors\n\nCarry-On Luggage by American Tourister: Adventure Starts Here\n\nAmerican Tourister's carry-on luggage is designed for travelers who embrace spontaneity and seek stylish, practical solutions for every journey. Lightweight, durable, and thoughtfully designed, our carry-on suitcases ensure your next adventure is as seamless as it is exciting.\n\nDiscover the Best in Carry-On Luggage\n\nWhether you're jetting off for a weekend getaway or embarking on a business trip, our collection offers the best carry-on luggage options for every traveler. From compact carry-on size luggage to sleek carry-on small suitcases, our lineup ensures you stay organized and prepared while traveling light.\n\nExplore our collection to find:\n\n- Best carry-on suitcase for style and functionality\n- Rolling carry-on luggage for effortless mobility\n- Durable and stylish carry-on luggage built to keep up with your adventures\n\nFor more travel solutions, consider our luggage sets for coordinated packing or explore fun designs in our Disney & Star Wars collection.\n\nWhat Size Luggage Is Allowed for Carry-Ons?\n\nMost airlines adhere to standard carry-on size restrictions, ensuring your luggage fits comfortably in overhead compartments. While specific dimensions can vary by airline, the general guideline for carry-on luggage is:\n\n- 22 x 14 x 9 inches, including wheels and handles\n\nAmerican Tourister's carry-on size luggage is designed to meet these requirements, making it a hassle-free option for travelers. Whether you're opting for our rolling carry-on luggage or a carry-on small suitcase, you'll enjoy a perfect balance of style, functionality, and compliance with airline regulations.\n\nWhy Choose American Tourister Carry-On Luggage?\n\nOur carry-on suitcases are crafted to meet the needs of modern travelers with features that enhance every trip:\n\n- Smart Design: Perfectly sized to fit most airline overhead compartments, our carry-on size luggage ensures hassle-free boarding.\n- Effortless Mobility: Equipped with smooth-rolling wheels and ergonomic handles, our rolling carry-on luggage makes navigating airports a breeze.\n- Lightweight Durability: Constructed with durable materials that stand up to the rigors of travel without weighing you down.\n- Fun and Stylish Options: Choose from a variety of vibrant colors and patterns that reflect your unique personality.\n\nLooking for other luggage types? Check out our hardside luggage for added durability or softside luggage for flexible packing options.\n\nTravel Your Way\n\nAt American Tourister, we believe travel should be joyful and stress-free. Pair your carry-on luggage with travel accessories to make packing and organizing a breeze. For additional travel solutions, explore our complete luggage collection for everything you need to pack with confidence.\n\nWhether you're searching for the best carry-on luggage or a functional carry-on small suitcase, American Tourister helps you pack with confidence and travel in style. Ready to start your next adventure? Explore our full collection of carry-on suitcases today.",
+    "with": [
+      "Rejoy Carry-On",
+      "Lightweight Durability: Constructed with durable materials that stand up to the rigors of travel without weighing you down.",
+      "At American Tourister, we believe travel should be joyful and stress-free.",
+      "22 x 14 x 9 inches, including wheels and handles"
+    ],
+    "without": [
+      "Do Not Sell or Share My Personal Information",
+      "Accessibility",
+      "Quick Shop",
+      "Product Name"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "collection"
+  }
+}

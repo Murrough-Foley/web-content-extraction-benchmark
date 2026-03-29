@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.sallytomatoes.com/post/comparing-different-types-of-catering-services",
+  "file_id": "0024",
+  "downloaded_at": "2025-12-20T19:12:06.877601",
+  "ground_truth": {
+    "title": "Comparing Different Types of Catering Services",
+    "author": "LEONARDO GARCIA",
+    "publish_date": "2022-09-26",
+    "main_content": "When you're planning an event, one of the first things you need to do is decide on the catering. There are many different types of catering services available, and it can be difficult to know which one is right for your event. In this blog post, we'll compare three different types of catering services—full service, pick-up/drop-off, and in-house—to help you make an informed decision.\n\nFull Service Catering\n\nIf you're looking for a complete A-to-Z catering experience, then full service catering is the way to go. Full service catering includes everything from menu planning and design to bartending services to clean-up. Basically, all you have to do is show up and enjoy your event! Full service catering is ideal for large events such as weddings or corporate functions.\n\nPick-Up/Drop-Off Catering\n\nIf you're looking for a more affordable option, then pick-up/drop-off catering might be right for you. With this type of service, the caterer will deliver the food to your event location and set it up, but they will not stay to provide additional services such as bartending or clean-up. Pick-up/drop-off catering is a good choice for smaller events such as parties or family gatherings.\n\nIn-House Catering\n\nIn-house catering is when the event venue also provides the catering services. This type of catering is becoming increasingly popular because it takes care of everything in one fell swoop—you don't have to worry about finding a separate caterer or coordinating multiple vendors. In-house catering is a good choice for medium-sized events such as business luncheons or holiday parties.\n\nAs you can see, there are many different types of catering services available to suit any type of event. By taking the time to compare your options, you can be sure that you choose the right catering service to make your event a success!",
+    "with": [
+      "When you're planning an event, one of the first things you need to do is decide on the catering.",
+      "Full service catering includes everything from menu planning and design to bartending services to clean-up.",
+      "Pick-up/drop-off catering is a good choice for smaller events such as parties or family gatherings.",
+      "In-house catering is when the event venue also provides the catering services.",
+      "By taking the time to compare your options, you can be sure that you choose the right catering service to make your event a success!"
+    ],
+    "without": [
+      "SALLY TOMATOES",
+      "Recent Posts",
+      "Privacy Policy",
+      "Terms and Conditions"
+    ],
+    "main_content_markdown": "When you're planning an event, one of the first things you need to do is decide on the catering. There are many different types of catering services available, and it can be difficult to know which one is right for your event. In this blog post, we'll compare three different types of catering services-full service, pick-up/drop-off, and in-house-to help you make an informed decision.\n\n**Full Service Catering**\n\nIf you're looking for a complete A-to-Z catering experience, then full service catering is the way to go. Full service catering includes everything from menu planning and design to bartending services to clean-up. Basically, all you have to do is show up and enjoy your event! Full service catering is ideal for large events such as weddings or corporate functions.\n\n**Pick-Up/Drop-Off Catering**\n\nIf you're looking for a more affordable option, then pick-up/drop-off catering might be right for you. With this type of service, the caterer will deliver the food to your event location and set it up, but they will not stay to provide additional services such as bartending or clean-up. Pick-up/drop-off catering is a good choice for smaller events such as parties or family gatherings.\n\n**In-House Catering**\n\nIn-house catering is when the event venue also provides the catering services. This type of catering is becoming increasingly popular because it takes care of everything in one fell swoop-you don't have to worry about finding a separate caterer or coordinating multiple vendors. In-house catering is a good choice for medium-sized events such as business luncheons or holiday parties.\n\nAs you can see, there are many different types of catering services available to suit any type of event. By taking the time to compare your options, you can be sure that you choose the right catering service to make your event a success!"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": []
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "2.0",
+  "url": "https://omalleytunstall.com/blog//legal-issues-related-to-getting-hurt-at-a-gym-in-north-carolina/",
+  "file_id": "0296",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "legal",
+        "personal-injury",
+        "gym-accidents",
+        "north-carolina"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Legal issues related to getting hurt at a gym in North Carolina",
+    "author": "adminn",
+    "publish_date": "2017-04-21",
+    "main_content": "If someone is not careful at the gym, they may get hurt. Dropping equipment or straining too hard are common causes of injury. However, there are also times when patrons are hurt due to faulty equipment or equipment that is not properly maintained by the gym owners.\n\nIn these situations, various factors could go into determining if someone can sue a gym. To begin with, it is not uncommon for gyms to have members sign waivers that limit when a person can sue if they are hurt while on the premises.\n\nMost waivers only protect the gym from being sued if the company or employees were negligent. However, some waivers seek to provide complete protection from lawsuits. In situations where gym equipment is faulty, the situation can become murky. If the gym is aware that certain equipment is broken, they may be held liable for any resulting injuries. On the other hand, the manufacturer of the equipment may be liable if the gym is unaware of a problem.\n\nAlong with the fact that businesses have to ensure that their premises are safe so that people don't slip and fall or have something fall on them, companies are also required to ensure that the products that they create are safe. Manufacturers may be held liable if they produce products that are dangerous. Companies may also be liable if a person uses a product in an unsafe manner because the company did not provide appropriate warnings. If someone has been injured by a product, a lawyer could help them determine if they have legal recourse.",
+    "main_content_markdown": "If someone is not careful at the gym, they may get hurt. Dropping equipment or straining too hard are common causes of injury. However, there are also times when patrons are hurt due to faulty equipment or equipment that is not properly maintained by the gym owners.\n\nIn these situations, various factors could go into determining if someone can sue a gym. To begin with, it is not uncommon for gyms to have members sign waivers that limit when a person can sue if they are hurt while on the premises.\n\nMost waivers only protect the gym from being sued if the company or employees were negligent. However, some waivers seek to provide complete protection from lawsuits. In situations where gym equipment is faulty, the situation can become murky. If the gym is aware that certain equipment is broken, they may be held liable for any resulting injuries. On the other hand, the manufacturer of the equipment may be liable if the gym is unaware of a problem.\n\nAlong with the fact that businesses have to ensure that their premises are safe so that people don't slip and fall or have something fall on them, companies are also required to ensure that the products that they create are safe. Manufacturers may be held liable if they produce products that are dangerous. Companies may also be liable if a person uses a product in an unsafe manner because the company did not provide appropriate warnings. If someone has been injured by a product, a lawyer could help them determine if they have legal recourse.",
+    "with": [
+      "If someone is not careful at the gym, they may get hurt. Dropping equipment or straining too hard are common causes of injury.",
+      "Most waivers only protect the gym from being sued if the company or employees were negligent.",
+      "If the gym is aware that certain equipment is broken, they may be held liable for any resulting injuries.",
+      "Manufacturers may be held liable if they produce products that are dangerous.",
+      "If someone has been injured by a product, a lawyer could help them determine if they have legal recourse."
+    ],
+    "without": [
+      "About",
+      "CONTACT US",
+      "Home",
+      "Follow us"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "url": "https://techcommunity.microsoft.com/discussions/communityquestions/getting-to-the-right-page-to-start-a-discussion/4498848",
+  "file_id": "5191",
+  "ground_truth": {
+    "title": "Getting to the right page to \"Start a discussion\"",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Hornblower409\n\nIron Contributor Mar 02, 2026 Solved\n\nSeeing some confusion about how to get to the right page for a Community where you can start a new discussion. e.g.\n\nWhere / How to find \"Ask a question\" | Microsoft Community Hub\n\nOffice outlook 365.. where are emails saved? | Microsoft Community Hub\n\nI have to admit that it is not clear to me what the difference between these links is.\n\nCommunity Lounge | Microsoft Community Hub\n\nTech Community Discussion | Microsoft Community Hub\n\nWhy only one has \"Start a discussion\"?\n\nWhy does a Web Search tend to land me on the one that doesn't have \"Start a discussion\"?\n\nWhy the \"Discussion Spaces\" button on the one with no \"Start a discussion\" doesn't make \"Start a discussion\" appear or take me to the URL that does have\n\n\"Start a discussion\"?\n\nAllen\n\nMar 12, 2026\n\nThis is a great question Hornblower409 and one I am happy to answer for you.\n\nThe first link: Community Lounge | Microsoft Community Hub\nThis is the category for the Community Lounge, it contains not only discussions, blogs, Events and KBs. We call this the community hub. Its essentially a page which provides an overview of all that is happening in that space.\n\nThe second link: Tech Community Discussion | Microsoft Community Hub\n\nThis is the link to the discussion board, or forum if you will. This is where normal community members can post and ask questions about the Community.\n\nThat said, we hear you that its not always easy to figure out how or where to post and so we will shortly be introducing a Start a discussion button on the homepage and every category page which will help you choose where to post. Eventually we plan to augment this with AI to both help answer basic questions already answered and to help community members find the best spot to post.",
+    "with": [
+      "Where / How to find \"Ask a question\" | Microsoft Community Hub",
+      "Community Lounge | Microsoft Community Hub",
+      "The first link: Community Lounge | Microsoft Community Hub",
+      "This is the link to the discussion board, or forum if you will. This is where no"
+    ],
+    "without": [
+      "Skip to content",
+      "Community Hubs"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "forum"
+  }
+}

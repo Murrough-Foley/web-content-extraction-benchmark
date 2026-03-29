@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://kan.bn/",
+  "file_id": "5657",
+  "ground_truth": {
+    "title": "The open source alternative to Trello",
+    "author": null,
+    "publish_date": null,
+    "main_content": "The open source\nalternative to Trello\n\nA powerful, flexible kanban app that helps you organise work, track progress, and deliver results—all in one place.\n\nNo credit card required\n\nTrusted by fast-moving teams\naround the world\n\nFeatures\n\nKanban reimagined\n\nSimple, visual task management that just works. Drag and drop cards, collaborate with your team, and get more done.\n\nBoard visibility\n\nControl who can view and edit your boards.\n\nWorkspace members\n\nCollaborate seamlessly with your team.\n\nTrello imports\n\nImport your Trello boards and hit the ground running.\n\nLabels & Filters\n\nOrganize and find cards quickly with powerful filtering tools.\n\nDiscuss and collaborate on cards.\n\nActivity logs\n\nTrack all card changes with detailed activity history.\n\nTemplates\n\nSave time with reusable board templates.\n\nNew\n\nIntegrations\n\nConnect your favorite tools to streamline your workflow.\n\nComing soon\n\nWe're just getting started. View our roadmap.\n\nTestimonials\n\nLoved by teams worldwide\n\nSee what our users are saying about Kan\n\nBobby Compüters @bobbycomputers\n\nHoly crap I love this app. It's brutally minimal but somehow has everything I need.\n\nJR Raphael @JRRaphael\n\nThe interesting thing about signing into Kan for the first time is that it feels new and electrifying—and yet simultaneously quite familiar, especially if you’ve spent any time in Trello over the years.\n\nAs someone who connected more with Trello’s original vision and mostly just tolerated the more recent pivots and additions, it’s a bit of a revelation to use.\n\nAt its core, Kan gives you a super-minimalist and frills-free Trello-style Kanban board. And the extent to which it has been able to build upon the original Trello vision is staggering.\n\nsingiamtel @singiamtel\n\nThe project seems nice, but how good is that domain name\n\nJan Stgmnn @JanStgmnn\n\nJust wanted to say, that I really love the project. It's so easy to use and has a really nice UI!\n\nFox @dscfox\n\nI've been looking at alternatives for months, but everything came up short.\n\nSome were direct clones, but lacked features I was dependent on. Others were rich in features, but strayed too far away from the simplicity of Trello.\n\nThis seems like the best alternative to Trello for me.\n\nHanno Braun @hannobraun\n\nI've been very impressed with the app so far! It's great to have such a nice open source alternative to Trello.\n\nheadlessdev_ @headlessdev_\n\nThis is the best thing I've seen here in a long time\n\nEHB @ehb3839\n\nIt's exactly what I've been looking for recently. The simplicity of the overall app is a pleasure to use.\n\nTasneema Waquar @tasneema_waquar\n\nThe design of this project management tool is impressive. The interface is intuitive, free of unnecessary clutter, and comes with a solid selection of templates.\n\nBRAVO68WEB @bravo68web\n\nI have fallen in love with the project.\n\nFAQs\n\nQuestions?\n\nFind answers to common questions about Kan. Can't find what you're looking for? Feel free to contact us.",
+    "with": [
+      "Simple, visual task management that just works. Drag and drop cards, collaborate",
+      "We're just getting started. View our roadmap.",
+      "I've been looking at alternatives for months, but everything came up short.",
+      "The design of this project management tool is impressive. The interface is intui"
+    ],
+    "without": [
+      "Sign in",
+      "All systems operational",
+      "Terms of service"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "hint",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "service"
+  }
+}

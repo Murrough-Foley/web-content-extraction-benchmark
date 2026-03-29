@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.nist.gov/itl/smallbusinesscyber",
+  "file_id": "4104",
+  "ground_truth": {
+    "title": "Small Business Cybersecurity Corner",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Content outlined on the Small Business Cybersecurity Corner webpages contains documents and resources from our contributors. These resources were identified by our contributors as information they deemed most relevant and timely—and were chosen based on the current needs of the small business community. Certain commercial entities may be identified in this Web site or linked Web sites. Such identification is not intended to imply recommendation or endorsement by NIST, nor is it intended to imply that the entities, materials, or equipment are necessarily the best available for the purpose.\n\nIf your resource is publicly available on the Internet, accurate and comprehensive for a given type of cybersecurity risk or risk-reducing measure, and freely available for others to use, it meets the basic criteria for potential inclusion in the Small Business Cybersecurity Corner website. That includes resources from government agencies and nonprofit organizations. If your resource qualifies and you would like it considered for listing, send a description of your resource to smallbizsecurity [at] nist.gov (smallbizsecurity[at]nist[dot]gov).\n\nContacts\n\nSmall Business Cybersecurity Corner Team",
+    "with": [
+      "Content outlined on the Small Business Cybersecurity Corner webpages contains documents and resources from our contributors.",
+      "These resources were identified by our contributors as information they deemed most relevant and timely",
+      "If your resource is publicly available on the Internet, accurate and comprehensive for a given type of cybersecurity risk or risk-reducing measure",
+      "it meets the basic criteria for potential inclusion in the Small Business Cybersecurity Corner website",
+      "That includes resources from government agencies and nonprofit organizations."
+    ],
+    "without": [
+      "Publications",
+      "Advanced communications",
+      "Artificial intelligence",
+      "Cybersecurity Basics",
+      "NIST Cybersecurity Framework"
+    ],
+    "main_content_markdown": "*Content outlined on the Small Business Cybersecurity Corner webpages contains documents and resources from our contributors. These resources were identified by our contributors as information they deemed most relevant and timely\u2014and were chosen based on the current needs of the small business community. Certain commercial entities may be identified in this Web site or linked Web sites. Such identification is not intended to imply recommendation or endorsement by NIST, nor is it intended to imply that the entities, materials, or equipment are necessarily the best available for the purpose.*\n\n*If your resource is publicly available on the Internet, accurate and comprehensive for a given type of cybersecurity risk or risk-reducing measure, and freely available for others to use, it meets the basic criteria for potential inclusion in the Small Business Cybersecurity Corner website. That includes resources from government agencies and nonprofit organizations. If your resource qualifies and you would like it considered for listing, send a description of your resource to smallbizsecurity [at] nist.gov (smallbizsecurity[at]nist[dot]gov).*\n\n## Contacts\n\nSmall Business Cybersecurity Corner Team"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "article"
+  }
+}

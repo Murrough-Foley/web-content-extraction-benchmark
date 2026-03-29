@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.security.org/identity-theft/best/",
+  "file_id": "4893",
+  "ground_truth": {
+    "title": "Best Identity Theft Protection Services of 2026",
+    "author": "Cort Honey",
+    "publish_date": "2019-07-09",
+    "with": [
+      "Our identity and privacy experts tested more than 20 services that offer identity protection.",
+      "Watch this space: We interviewed NordProtect's Managing Director for our NordProtect review and he revealed three-bureau credit monitoring will roll out in late 2025.",
+      "In our testing, McAfee didn't monitor data like home and auto titles like Aura.",
+      "Which identity theft protection services include cybersecurity tools?",
+      "In 2023, nearly a million Americans fell victim to identity theft, losing nearly $2 billion dollars."
+    ],
+    "without": [
+      "Best Home Security Systems",
+      "Best DIY Security Systems",
+      "Best Wireless Security Systems"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "service"
+  }
+}

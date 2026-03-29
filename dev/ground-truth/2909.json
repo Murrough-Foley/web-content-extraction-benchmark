@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://github.com/trending",
+  "file_id": "2909",
+  "ground_truth": {
+    "title": "Trending repositories on GitHub today",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Trending\n\nSee what the GitHub community is most excited about today.\n\n666ghj / MiroFish\n\nA Simple and Universal Swarm Intelligence Engine, Predicting Anything.\n\nPython 6,223 685 Built by 399 stars today\n\nopenai / skills\n\nSkills Catalog for Codex\n\nPython 12,944 726 Built by 948 stars today\n\nmsitarzewski / agency-agents\n\nA complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.\n\nShell 11,099 1,618 Built by 1,468 stars today\n\nGoogleCloudPlatform / generative-ai\n\nSample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI\n\nJupyter Notebook 13,698 3,843 Built by 384 stars today\n\nagentjido / jido\n\nAutonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.\n\nElixir 1,478 77 Built by 115 stars today\n\nQwenLM / Qwen-Agent\n\nAgent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.\n\nPython 15,155 1,450 Built by 586 stars today\n\nvirattt / ai-hedge-fund\n\nAn AI Hedge Fund Team\n\nPython 46,693 8,129 Built by 248 stars today\n\nmicrosoft / hve-core\n\nA refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of all Copilots\n\nPowerShell 821 100 Built by 217 stars today\n\ntoeverything / AFFiNE\n\nThere can be more than Notion and Miro. AFFiNE(pronounced [ə'fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.\n\nTypeScript 64,870 4,534 Built by 281 stars today\n\nshadcn-ui / ui\n\nA set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.\n\nTypeScript 108,363 8,055 Built by 129 stars today\n\nalibaba / page-agent\n\nJavaScript in-page GUI agent. Control web interfaces with natural language.\n\nTypeScript 1,673 141 Built by 137 stars today",
+    "with": [
+      "A Simple and Universal Swarm Intelligence Engine, Predicting Anything.",
+      "Skills Catalog for Codex",
+      "from whimsy injectors to reality checkers",
+      "An AI Hedge Fund Team",
+      "shadcn-ui / ui",
+      "alibaba / page-agent"
+    ],
+    "without": [
+      "Toggle navigation",
+      "AI CODE CREATION",
+      "Write better code with AI",
+      "Do not share my personal information"
+    ],
+    "main_content_markdown": "# Trending\n\nSee what the GitHub community is most excited about today.\n\n666ghj / MiroFish\n\nA Simple and Universal Swarm Intelligence Engine, Predicting Anything.\n\nPython [6,223](https://github.com/666ghj/MiroFish/stargazers) [685](https://github.com/666ghj/MiroFish/forks) Built by 399 stars today\n\nopenai / skills\n\nSkills Catalog for Codex\n\nPython [12,944](https://github.com/openai/skills/stargazers) [726](https://github.com/openai/skills/forks) Built by 948 stars today\n\nmsitarzewski / agency-agents\n\nA complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.\n\nShell [11,099](https://github.com/msitarzewski/agency-agents/stargazers) [1,618](https://github.com/msitarzewski/agency-agents/forks) Built by 1,468 stars today\n\nGoogleCloudPlatform / generative-ai\n\nSample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI\n\nJupyter Notebook [13,698](https://github.com/GoogleCloudPlatform/generative-ai/stargazers) [3,843](https://github.com/GoogleCloudPlatform/generative-ai/forks) Built by 384 stars today\n\nagentjido / jido\n\nAutonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.\n\nElixir [1,478](https://github.com/agentjido/jido/stargazers) [77](https://github.com/agentjido/jido/forks) Built by 115 stars today\n\nQwenLM / Qwen-Agent\n\nAgent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.\n\nPython [15,155](https://github.com/QwenLM/Qwen-Agent/stargazers) [1,450](https://github.com/QwenLM/Qwen-Agent/forks) Built by 586 stars today\n\nvirattt / ai-hedge-fund\n\nAn AI Hedge Fund Team\n\nPython [46,693](https://github.com/virattt/ai-hedge-fund/stargazers) [8,129](https://github.com/virattt/ai-hedge-fund/forks) Built by 248 stars today\n\nmicrosoft / hve-core\n\nA refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of all Copilots\n\nPowerShell [821](https://github.com/microsoft/hve-core/stargazers) [100](https://github.com/microsoft/hve-core/forks) Built by 217 stars today\n\ntoeverything / AFFiNE\n\nThere can be more than Notion and Miro. AFFiNE(pronounced [ə'fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.\n\nTypeScript [64,870](https://github.com/toeverything/AFFiNE/stargazers) [4,534](https://github.com/toeverything/AFFiNE/forks) Built by 281 stars today\n\nshadcn-ui / ui\n\nA set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.\n\nTypeScript [108,363](https://github.com/shadcn-ui/ui/stargazers) [8,055](https://github.com/shadcn-ui/ui/forks) Built by 129 stars today\n\nalibaba / page-agent\n\nJavaScript in-page GUI agent. Control web interfaces with natural language.\n\nTypeScript [1,673](https://github.com/alibaba/page-agent/stargazers) [141](https://github.com/alibaba/page-agent/forks) Built by 137 stars today"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

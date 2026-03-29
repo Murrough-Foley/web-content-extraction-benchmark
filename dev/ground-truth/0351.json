@@ -1,0 +1,38 @@
+{
+  "schema_version": "2.0",
+  "url": "http://www.msha.gov/news-and-updates/alerts-hazards/filter/electrical-safety",
+  "file_id": "0351",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "safety",
+        "government",
+        "alert",
+        "mining",
+        "electrical"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Mine Safety and Health Administration (MSHA)",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Safety Alert\n\nELECTRICAL SAFETY\n\nSince 2015, 289 arc flash or electrical shock accidents have occurred. Fifteen of these accidents resulted in a fatality; an average of three miners every two years. Proper Lock Out – Tag Out (LOTO) procedures protect miners from the dangers of uncontrolled and unplanned releases of energy.\n\nBest Practices\n\n- Do not begin any electrical work until the circuit has been fully de-energized and a visual disconnect has been properly locked and tagged out. Always follow the \"Lock Out, Tag Out, Try Out\" procedure, and be aware that electrical circuits may be energized from multiple sources.\n- Maintain a thorough understanding of the hazards associated with electricity and avoid touching any electrical component until you have verified that it is completely de-energized.\n- Develop and adhere to a comprehensive and safe work plan or troubleshooting procedure to ensure the safety of all personnel involved.\n- Always wear properly rated and well-maintained personal protective equipment (PPE) to safeguard against electrical shock, arc blast, and arc flash hazards, in accordance with the NFPA 70E Standard for Electrical Safety in the Workplace.",
+    "with": [
+      "Since 2015, 289 arc flash or electrical shock accidents have occurred.",
+      "Fifteen of these accidents resulted in a fatality; an average of three miners every two years.",
+      "Proper Lock Out – Tag Out (LOTO) procedures protect miners from the dangers of uncontrolled and unplanned releases of energy.",
+      "Do not begin any electrical work until the circuit has been fully de-energized and a visual disconnect has been properly locked and tagged out."
+    ],
+    "without": [
+      "Skip to main content",
+      "An official website of the United States government",
+      "Subscribe to Email Alerts",
+      "Connect With MSHA"
+    ],
+    "main_content_markdown": "## Safety Alert\n\n### ELECTRICAL SAFETY\n\nSince 2015, 289 arc flash or electrical shock accidents have occurred. Fifteen of these accidents resulted in a fatality; an average of three miners every two years. Proper Lock Out - Tag Out (LOTO) procedures protect miners from the dangers of uncontrolled and unplanned releases of energy.\n\n**Best Practices**\n\n- Do not begin any electrical work until the circuit has been fully de-energized and a visual disconnect has been properly locked and tagged out. Always follow the \"Lock Out, Tag Out, Try Out\" procedure, and be aware that electrical circuits may be energized from multiple sources.\n- Maintain a thorough understanding of the hazards associated with electricity and avoid touching any electrical component until you have verified that it is completely de-energized.\n- Develop and adhere to a comprehensive and safe work plan or troubleshooting procedure to ensure the safety of all personnel involved.\n- Always wear properly rated and well-maintained personal protective equipment (PPE) to safeguard against electrical shock, arc blast, and arc flash hazards, in accordance with the NFPA 70E Standard for Electrical Safety in the Workplace."
+  }
+}

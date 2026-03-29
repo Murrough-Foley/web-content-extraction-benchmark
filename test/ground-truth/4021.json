@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://shopinthekitchen.com/collections/lodge?srsltid=AfmBOooxjeo28KBSFe37Nt0DZXSzKIBsafdNUr6xigjHHhUXF-ML8IVv",
+  "file_id": "4021",
+  "ground_truth": {
+    "title": "Lodge Cast Iron",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Lodge Cast Iron\n\nLODGE\n12\" CAST IRON SKILLET\n$49.99 USD\n\nLODGE\nCAST IRON SKILLET 9\" LODGE L6SK3\n$34.99 USD\n\nLODGE\nCAST IRON SKILLET 10.5\" SQ LODGE L8SQ3\n$39.99 USD\n\nLODGE\n10\" CAST IRON SKILLET\n$39.99 USD\n\nLODGE\nCAST IRON LID 9\" LODGE L6SC3 (DSC)\n$31.99 USD\n\nLODGE\nSILICONE HOT HANDLE HOLDER - RED\n$6.99 USD\n\nLODGE\nRECTANGULAR GRILL PRESS\n$36.99 USD\n\nLODGE\nGRILL PAN SCRAPERS\n$6.99 USD\n\nLODGE\nCAST IRON GRILL PAN 10\" RND LODGE L8GP3 (DSC)\n$32.99 USD\n\nLODGE\nSILICONE HOT HANDLE HOLDER - BLUE\n$6.99 USD\n\nLODGE\nSILICONE HOT HANDLE HOLDER - BLACK\n$6.99 USD\n\nLODGE\nCAST IRON SKILLET 8\" LODGE L5SK3\n$29.99 USD",
+    "with": [
+      "CAST IRON GRILL PAN 10\" RND LODGE L8GP3 (DSC)",
+      "CAST IRON SKILLET 10.5\" SQ LODGE L8SQ3",
+      "RECTANGULAR GRILL PRESS",
+      "SILICONE HOT HANDLE HOLDER - RED",
+      "CAST IRON LID 9\" LODGE L6SC3 (DSC)"
+    ],
+    "without": [
+      "Baking Liners",
+      "Cookie Cutters",
+      "Cookie Scoops",
+      "Powered by Shopify"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  },
+  "page_type": "collection"
+}

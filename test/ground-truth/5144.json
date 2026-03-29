@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.roadbikereview.com/threads/bike-fitting-recommendations.352992/?u=285279",
+  "file_id": "5144",
+  "ground_truth": {
+    "title": "Bike Fitting recommendations",
+    "author": null,
+    "publish_date": "2016-02-08",
+    "main_content": "Any updated recommendations for a bike fitting? Preferably in the Central South Jersey area.\nThanks.\n\nyou got message !\n\nAm interested to hear about bike fitter recommendations in Central Jersey or around as well. Maybe Jersey City is ok too.",
+    "with": [
+      "Any updated recommendations for a bike fitting?",
+      "Am interested to hear about bike fitter recommendations in Central Jersey"
+    ],
+    "without": [
+      "Log in",
+      "Forum software",
+      "62 posts",
+      "Jump to Latest"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "forum"
+  }
+}

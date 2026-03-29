@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.allied.com/local/Houston-Movers",
+  "file_id": "4926",
+  "ground_truth": {
+    "title": "Houston Movers: Long Distance & Local",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Houston Movers: Long Distance & Local\n\nMovers in Houston, TX\n\nSearching for a reliable local or long-distance moving company in Houston? Allied Van Lines' professional movers understand what it takes to handle your move safely, whether it's across town or cross-country. No matter the distance or size of the move, our interstate movers in Houston will get you into your new home in Houston or your new home out of town.\n\nAllied Van Lines has over 400 locations across the United States and Canada. Our national network of agents comprises one of the largest long-distance movers in the industry.\n\nMoving to Houston, TX\n\nHouston's an increasingly desirable place to live. With a population of 2,312,717, Houston has top-rated attractions like The Alley Theatre and Almeda Hall. It also has a median income of $50,896, and the median home value is $161,300.\n\nMany newcomers move here for work or higher education, attending institutions such as Rice University and the University of Houston. The average commute time is 27.4 minutes, and West University Place and Southside Place aren't far.\n\nConsidering moving to Houston, TX? Let Allied Van Lines' professional movers do the heavy lifting while you get to know your new community.\n\nIs it Worth Paying for Movers?\n\nYes, paying movers is worth it if you choose the right partner for the job. All of the best moving companies in Houston want to provide a stress-free, affordable moving experience, but Allied Van Lines has earned recognition for doing it. Allied Van Lines has one of the best customer experiences among moving companies in Houston. We offer in-home moving estimates, next-level customer service, and pricing transparency. When creating a moving quote, we take your house size, item weight, and distance into account to ensure accurate pricing. Our goal is to remove surprises from your moving costs.\n\nMoving costs should never be a worry, and neither should the condition of your household goods. From crating fragile objects, using various packing materials, or packing last-minute boxes, we can accommodate any move.\n\nMoving Services Provided\n\nWe're a top-rated interstate moving company, offering comprehensive moving services and customizable moving packages.\n\nWhether you're moving across the country or to a suburb down the street, we have professional local and long-distance movers in Houston ready to assist.\n\nTips for a Smooth Move in Houston\n\nMoving in the Houston area? Here's a brief overview of actionable tips you can use to streamline the moving process.\n\nMoving Checklist for Houston Residents\n\nIf you're two weeks away from your move-out day, it's time to get organized.\n\nWhy Choose Allied Van Lines for Your Houston Move?\n\nSince 1928, we've been helping individuals move to and from the Houston area. We know the neighborhoods and city streets better than any other moving company in Houston, TX. With our hands-on approach and dedication to excellence, you can enjoy a hassle-free move anywhere in North America or Canada. Whether you need a reliable international moving company in Houston or help from local movers to move across the street, you can count on our movers to get the job done.\n\nFrequently Asked Questions\n\nOur movers in Houston are professionally trained to handle local, long-distance, cross-country, and international relocations. Everyone we hire is required to complete a rigorous training process to ensure they have the experience to handle the move.\n\nYou can request a free moving quote on our website. Once submitted, a moving specialist on our team will reach out to learn more about your move.\n\nThe average cost of a long-distance move is $3,500. This is based on an average weight of 7,000 lbs. (7 rooms) and a traveling distance of 1,000 miles.\n\nYou should schedule at least 2 months before your move date. You will need to book well in advance if you're moving during peak season, like summertime.",
+    "with": [
+      "Allied Van Lines has over 400 locations across the United States and Canada",
+      "We offer in-home moving estimates, next-level customer service, and pricing transparency",
+      "Since 1928, we've been helping individuals move to and from the Houston area",
+      "The average cost of a long-distance move is $3,500"
+    ],
+    "without": [
+      "All Rights Reserved",
+      "SignatureMoves for Retirees",
+      "Movers Near Me",
+      "Household Moving"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "service"
+  }
+}

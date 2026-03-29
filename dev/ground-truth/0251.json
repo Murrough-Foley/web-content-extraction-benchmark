@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.hrsa.gov/oral-health",
+  "file_id": "0251",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "health",
+        "oral-health",
+        "government",
+        "guide"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "How To Take Care of Your Oral Health",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Problems with your teeth, gums, or other parts of the mouth can increase your risk of having some diseases or health conditions. Small steps, like seeing a dentist regularly for checkups, can help you protect your mouth and teeth and live well at any age.\n\nThe A Healthy Mouth for Every Body campaign offers a variety of materials to help you and your family take good care of your oral health.\n\nOral health topics\n\nOral health for adults\n\nMaintaining good oral health affects your well-being and quality of life.\n\nOral health for young children\n\nHaving good oral health early in life sets your child up for good oral health as they grow.\n\nDry mouth\n\nHaving dry mouth all or most of the time is not only uncomfortable—it can lead to serious health problems.\n\nPeople with HIV\n\nGood oral health is an important part of managing HIV and your overall health. Make oral health care a regular part of taking care of yourself.\n\nOral health and nutrition\n\nConsuming healthy foods and drinks can help you maintain good oral health.\n\nOral health and pregnancy\n\nMaintaining good oral health is important during pregnancy or if you're planning a pregnancy.\n\nEducational and promotional resources\n\nView educational resources on the important ways to maintain good oral health. Use these free outreach tools to help spread the word.\n\nFacts\n\nPeriodontal (gum) disease is the most common cause of tooth loss among adults. It affects about 46% of adults ages 30 or older; about 9% of adults have severe periodontal disease.\n\nBetween 2015 and 2018, 13% of children ages 5 to 19 in the United States had untreated cavities in their teeth.\n\n1 in 4 adults ages 20 to 64 currently has cavities.\n\nIn 2020, more than 54,000 new cases of oral cancer were diagnosed in the United States, and oral cancer led to nearly 11,000 deaths.",
+    "with": [
+      "Problems with your teeth, gums, or other parts of the mouth can increase your risk of having some diseases or health conditions.",
+      "The A Healthy Mouth for Every Body campaign offers a variety of materials to help you and your family take good care of your oral health.",
+      "Maintaining good oral health affects your well-being and quality of life.",
+      "Periodontal (gum) disease is the most common cause of tooth loss among adults.",
+      "Between 2015 and 2018, 13% of children ages 5 to 19 in the United States had untreated cavities in their teeth."
+    ],
+    "without": [
+      "Skip to main content",
+      "Call or Text the Maternal Mental Health Hotline",
+      "Sign up for email updates",
+      "Privacy Policy"
+    ],
+    "main_content_markdown": "Problems with your teeth, gums, or other parts of the mouth can increase your risk of having some diseases or health conditions. Small steps, like seeing a dentist regularly for checkups, can help you protect your mouth and teeth and live well at any age.\n\nThe **A Healthy Mouth for Every Body** campaign offers a variety of materials to help you and your family take good care of your oral health.\n\n## Oral health topics\n\n### Oral health for adults\n\nMaintaining good oral health affects your well-being and quality of life.\n\n### Oral health for young children\n\nHaving good oral health early in life sets your child up for good oral health as they grow.\n\n### Dry mouth\n\nHaving dry mouth all or most of the time is not only uncomfortable-it can lead to serious health problems.\n\n### People with HIV\n\nGood oral health is an important part of managing HIV and your overall health. Make oral health care a regular part of taking care of yourself.\n\n### Oral health and nutrition\n\nConsuming healthy foods and drinks can help you maintain good oral health.\n\n### Oral health and pregnancy\n\nMaintaining good oral health is important during pregnancy or if you're planning a pregnancy.\n\n### Educational and promotional resources\n\nView educational resources on the important ways to maintain good oral health. Use these free outreach tools to help spread the word.\n\n## Facts\n\nPeriodontal (gum) disease is the most common cause of tooth loss among adults. It affects about **46% of adults ages 30 or older**; about **9% of adults** have severe periodontal disease.\n\nBetween 2015 and 2018, **13% of children** **ages 5 to 19** in the United States had untreated cavities in their teeth.\n\n**1 in 4 adults** **ages 20 to 64** currently has cavities.\n\nIn 2020, more than **54,000 new cases** of oral cancer were diagnosed in the United States, and oral cancer led to nearly 11,000 deaths."
+  }
+}

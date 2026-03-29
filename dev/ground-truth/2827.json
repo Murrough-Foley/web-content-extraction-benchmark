@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://unix.stackexchange.com/questions/780353/join-a-specific-number-of-files-devices-in-linear-mode-together-in-a-linux-syste",
+  "file_id": "2827",
+  "ground_truth": {
+    "title": "join a specific number of files/devices in linear mode together in a linux system",
+    "author": "user447274",
+    "publish_date": "2024-07-18",
+    "main_content": "For joining in Linux files/devices in linear mode together i have this script dm-joinlinear.sh from\n\njoin files/devices in linear mode together in a linux system , thanks telcoM\n\n#!/bin/sh\nusage() {\n    echo \"Usage: ${0##*/} <target name> <component...>\" >&2\n    exit 64 # EX_USAGE\n}\nif [ \"$1\" = \"\" ] || [ \"$1\" = \"-h\" ] || [ \"$1\" = \"-?\" ] || [ \"$1\" = \"--help\" ]\nthen\n    usage\nfi\n\nif [ -e \"/dev/mapper/$1\" ]\nthen\n    echo \"ERROR: target $1 already exists.\" >&2\n    exit 73 # EX_CANTCREAT\nfi\nMAPNAME=\"$1\"\nshift\n\nDMMAP=$(mktemp)\ntrap \"rm -f $DMMAP\" EXIT\n\nsum=0\nwhile [ \"$1\" != \"\" ]\ndo\n    if [ ! -e \"$1\" ]\n    then\n        echo \"ERROR: $1 does not exist\"\n        exit 66 # EX_NOINPUT\n    fi\n    if [ ! -b \"$1\" ]\n    then\n        echo \"ERROR: $1 is not a block device\"\n        exit 69 # EX_UNAVAILABLE\n    fi\n    srcN=\"$1\"\n    sizeN=$(blockdev --getsz \"$srcN\")\n    echo \"$sum $sizeN linear $srcN 0\" >>$DMMAP\n    sum=$(expr $sum + $sizeN)\n    shift\ndone\ndmsetup create $MAPNAME < $DMMAP\n\ni run the script with\n\n./dm-joinlinear.sh one /dev/loop? /dev/loop??\n\nor\n\n./dm-joinlinear.sh one /dev/mapper/file? /dev/mapper/file??\n\n/dev/loop0 and /dev/mapper/file1 are the same\n/dev/loop1 and /dev/mapper/file2 are the same\n....\n/dev/loop32 and /dev/mapper/file33 are the same\n\ni can run the script with\n\ndm-joinlinear.sh one /dev/loop[0-9] /dev/loop[1-2]? /dev/loop3[0-2]\n\nor\n\ndm-joinlinear.sh one /dev/loop0 /dev/loop1 /dev/loop2 .... and so on up to /dev/loop32 (to long to write all down here all)\n\nor the same with remove \"loop\" and use mapper/file , but than starting from 1 and not from 0\n\ni prefer the way with /dev/mapper/file instead of /dev/loop\n\nbut how do i say dm-joinlinear.sh how much devices they have to join? the value is in parts.txt\n\n1 Answer\n\nYou can use a for loop to iterate from zero to 32, and store the device names in an array.\n\n# you don't show the file, there are programmatic ways to acquire this number\nn=33\n\ndevices=()\nfor ((i = 0; i < n; i++)); do\n  devices+=(\"/dev/loop${i}\")\ndone\n\ndm-joinlinear.sh one \"${devices[@]}\"",
+    "with": [
+      "For joining in Linux files/devices in linear mode together i have this script",
+      "but how do i say dm-joinlinear.sh how much devices they have to join?",
+      "You can use a for loop to iterate from zero to 32",
+      "dmsetup create $MAPNAME < $DMMAP",
+      "i prefer the way with /dev/mapper/file instead of /dev/loop"
+    ],
+    "without": [
+      "The Overflow Blog",
+      "Featured on Meta",
+      "Hot Network Questions",
+      "Improve this question"
+    ],
+    "main_content_markdown": "For joining in Linux files/devices in linear mode together i have this script `dm-joinlinear.sh` from\n\n[join files/devices in linear mode together in a linux system](https://unix.stackexchange.com/questions/780142/join-files-devices-in-linear-mode-together-in-a-linux-system) , thanks telcoM\n\n#!/bin/sh\nusage() {\n    echo \"Usage: ${0##*/} <target name> <component...>\" >&2\n    exit 64 # EX_USAGE\n}\nif [ \"$1\" = \"\" ] || [ \"$1\" = \"-h\" ] || [ \"$1\" = \"-?\" ] || [ \"$1\" = \"--help\" ]\nthen\n    usage\nfi\n\nif [ -e \"/dev/mapper/$1\" ]\nthen\n    echo \"ERROR: target $1 already exists.\" >&2\n    exit 73 # EX_CANTCREAT\nfi\nMAPNAME=\"$1\"\nshift\n\nDMMAP=$(mktemp)\ntrap \"rm -f $DMMAP\" EXIT\n\nsum=0\nwhile [ \"$1\" != \"\" ]\ndo\n    if [ ! -e \"$1\" ]\n    then\n        echo \"ERROR: $1 does not exist\"\n        exit 66 # EX_NOINPUT\n    fi\n    if [ ! -b \"$1\" ]\n    then\n        echo \"ERROR: $1 is not a block device\"\n        exit 69 # EX_UNAVAILABLE\n    fi\n    srcN=\"$1\"\n    sizeN=$(blockdev --getsz \"$srcN\")\n    echo \"$sum $sizeN linear $srcN 0\" >>$DMMAP\n    sum=$(expr $sum + $sizeN)\n    shift\ndone\ndmsetup create $MAPNAME < $DMMAP\n\ni run the script with\n\n`./dm-joinlinear.sh one /dev/loop? /dev/loop??`\n\nor\n\n./dm-joinlinear.sh one /dev/mapper/file? /dev/mapper/file??\n\n/dev/loop0 and /dev/mapper/file1 are the same\n/dev/loop1 and /dev/mapper/file2 are the same\n....\n/dev/loop32 and /dev/mapper/file33 are the same\n\ni can run the script with\n\ndm-joinlinear.sh one /dev/loop[0-9] /dev/loop[1-2]? /dev/loop3[0-2]\n\nor\n\ndm-joinlinear.sh one /dev/loop0 /dev/loop1 /dev/loop2 .... and so on up to /dev/loop32 (to long to write all down here all)\n\nor the same with remove \"loop\" and use mapper/file , but than starting from 1 and not from 0\n\ni prefer the way with /dev/mapper/file instead of /dev/loop\n\nbut how do i say dm-joinlinear.sh how much devices they have to join? the value is in `parts.txt`\n\n## 1 Answer\n\nYou can use a `for` loop to iterate from zero to 32, and store the device names in an array.\n\nyou don't show the file, there are programmatic ways to acquire this number\nn=33\n\ndevices=()\nfor ((i = 0; i < n; i++)); do\n  devices+=(\"/dev/loop${i}\")\ndone\n\ndm-joinlinear.sh one \"${devices[@]}\""
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

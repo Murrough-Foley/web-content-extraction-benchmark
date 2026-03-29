@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.thomann.de/gb/studio_headphones.html",
+  "file_id": "2936",
+  "ground_truth": {
+    "title": "Studio Headphones",
+    "author": "",
+    "publish_date": null,
+    "main_content": "- Semi-open\n- Circumaural (full size)\n- Dynamic\n\nSennheiser HD-490 PRO\n- Wired headphones\n- Circumaural\n- Open\n\nbeyerdynamic DT-770 Pro 80 Ohm\n- Closed-back\n- Circumaural design\n\nbeyerdynamic DT 990 PRO X\n- Open-back\n\nSennheiser HD-490 PRO Plus\n\nbeyerdynamic DT 770 PRO X\n- Closed-back design\n\nbeyerdynamic DT-990 Pro 80 Ohms\n- For mixing and recording\n- Closed\n\nbeyerdynamic DT-770 Pro 250 Ohm\n- Diffuse-field equalised\n- Impedance: 63 Ohm\n\nAudio-Technica ATH-M50X\n\nbeyerdynamic DT-990 Pro 250 Ohm\n- Open-back design\n\nbeyerdynamic DT 900 PRO X\n\nFocal Lensys Professional\n- Wired\n- Closed design\n\nbeyerdynamic DT 700 PRO X\n- Open back\n- Magnetostatic\n\nSennheiser HD-25 Light New Version\n\nHD-25 Light New Version\n- Successor to the Sennheiser HD-25 SP-II / HD-25 Light\n- Now featuring the same technology as the HD-25\n- Closed back\n- Supra-aural\n- Linear Reproduction\n- Open design\n\nAudio-Technica ATH-M30X\n\nOLLO Audio X1 1.0 2024\n- Impedance: 32 Ohm\n\nbeyerdynamic DT-770 M\n- For drummer and studio\n- 35 dBA Noise isolation\n\nSuperlux HD-660 Pro 32 Ohms\n- Robust headphones ideal for musicians, sound engineers, podcasters, filmmakers etc.\n\nSennheiser HD-300 Pro\n- Impedance: 64 Ohms\n\nSennheiser HD-400 Pro\n- Impedance: 120 Ohm\n- Over-ear\n- Dynamic drivers with Thin-Ply Carbon Diaphragm (TPCD), a high-strength composite material that ...\n\nAIAIAI TMA-2 Studio Wireless+\n\nTMA-2 Studio Wireless+\n- H10 Wireless+ headband with BT and 2.4 Ghz technology\n- Latency: 16 ms (2.4 Ghz)\n- Play time: more than 80 hours in Bluetooth mode, 15 hours in 2.4 Ghz mode\n- Leather ear pads\n\nAustrian Audio Hi-X60\n- Metal hinges and earpieces for maximum durability\n\nAustrian Audio Hi-X65\n- Metal hinges and headband for maximum durability\n- Natural, transparent sound\n- Very light and comfortable headband for long-lasting wearing comfort\n- Frequency range: 5 Hz - 30 kHz\n- Dynamic 38 mm drivers with neodymium magnets\n- Impedance: 150 Ohm\n\nSuperlux HD-660 Pro 150 Ohms\n\nAIAIAI TMA-2 Studio Wireless\n\nTMA-2 Studio Wireless\n- Wireless uncompressed audio transmission with extremely low latency\n- 20+ hours of playback time\n- Switch from W+ Link to Bluetooth for playback on the move\n\nSteven Slate Audio VSX Platinum Edition\n\nVSX Platinum Edition\n- Combination of specially developed headphones and modelling plug-in for binaural perception\n- Precisely tuned listening environments regardless of location\n- Modeling plug-in is integrated via the mix bus in the DAW\n- Impedance: 36 Ohm\n- Open-back deisgn\n- With Air Motion Transformer driver (electrodynamic transducer) and Variable Velocity Transformation (VVT)\n\nNeumann NDH 30 Black Edition\n\nNDH 30 Black Edition\n\nSteven Slate Audio VSX Essentials Edition\n\nVSX Essentials Edition\n- The Essential version includes the following modelling environments: Steven's Private Mix Room, ...\n\nAudio-Technica ATH-M40X",
+    "with": [
+      "- Semi-open\n- Circumaural (full size)\n- Dynamic",
+      "beyerdynamic DT-770 Pro 250 Ohm\n- Diffuse-field equalised\n- Impedance: 63 Ohm",
+      "HD-25 Light New Version\n- Successor to the Sennheiser HD-25 SP-II / HD-25 Light\n- Now featuring the same technology as the HD-25\n- Closed back\n- Supra-aural\n- Linear Reproduction\n- Open design",
+      "AIAIAI TMA-2 Studio Wireless+",
+      "Steven Slate Audio VSX Platinum Edition"
+    ],
+    "without": [
+      "Repair Service",
+      "customer-center",
+      "basketbasketbasket",
+      "Microphones"
+    ],
+    "main_content_markdown": "- Semi-open\n- Circumaural (full size)\n- Dynamic\n\nSennheiser HD-490 PRO\n- Wired headphones\n- Circumaural\n- Open\n\nbeyerdynamic DT-770 Pro 80 Ohm\n- Closed-back\n- Circumaural design\n\nbeyerdynamic DT 990 PRO X\n- Open-back\n\nSennheiser HD-490 PRO Plus\n\nbeyerdynamic DT 770 PRO X\n- Closed-back design\n\nbeyerdynamic DT-990 Pro 80 Ohms\n- For mixing and recording\n- Closed\n\nbeyerdynamic DT-770 Pro 250 Ohm\n- Diffuse-field equalised\n- Impedance: 63 Ohm\n\nAudio-Technica ATH-M50X\n\nbeyerdynamic DT-990 Pro 250 Ohm\n- Open-back design\n\nbeyerdynamic DT 900 PRO X\n\nFocal Lensys Professional\n- Wired\n- Closed design\n\nbeyerdynamic DT 700 PRO X\n- Open back\n- Magnetostatic\n\nSennheiser HD-25 Light New Version\n\nHD-25 Light New Version\n- Successor to the Sennheiser HD-25 SP-II / HD-25 Light\n- Now featuring the same technology as the HD-25\n- Closed back\n- Supra-aural\n- Linear Reproduction\n- Open design\n\nAudio-Technica ATH-M30X\n\nOLLO Audio X1 1.0 2024\n- Impedance: 32 Ohm\n\nbeyerdynamic DT-770 M\n- For drummer and studio\n- 35 dBA Noise isolation\n\nSuperlux HD-660 Pro 32 Ohms\n- Robust headphones ideal for musicians, sound engineers, podcasters, filmmakers etc.\n\nSennheiser HD-300 Pro\n- Impedance: 64 Ohms\n\nSennheiser HD-400 Pro\n- Impedance: 120 Ohm\n- Over-ear\n- Dynamic drivers with Thin-Ply Carbon Diaphragm (TPCD), a high-strength composite material that ...\n\nAIAIAI TMA-2 Studio Wireless+\n\nTMA-2 Studio Wireless+\n- H10 Wireless+ headband with BT and 2.4 Ghz technology\n- Latency: 16 ms (2.4 Ghz)\n- Play time: more than 80 hours in Bluetooth mode, 15 hours in 2.4 Ghz mode\n- Leather ear pads\n\nAustrian Audio Hi-X60\n- Metal hinges and earpieces for maximum durability\n\nAustrian Audio Hi-X65\n- Metal hinges and headband for maximum durability\n- Natural, transparent sound\n- Very light and comfortable headband for long-lasting wearing comfort\n- Frequency range: 5 Hz - 30 kHz\n- Dynamic 38 mm drivers with neodymium magnets\n- Impedance: 150 Ohm\n\nSuperlux HD-660 Pro 150 Ohms\n\nAIAIAI TMA-2 Studio Wireless\n\nTMA-2 Studio Wireless\n- Wireless uncompressed audio transmission with extremely low latency\n- 20+ hours of playback time\n- Switch from W+ Link to Bluetooth for playback on the move\n\nSteven Slate Audio VSX Platinum Edition\n\nVSX Platinum Edition\n- Combination of specially developed headphones and modelling plug-in for binaural perception\n- Precisely tuned listening environments regardless of location\n- Modeling plug-in is integrated via the mix bus in the DAW\n- Impedance: 36 Ohm\n- Open-back deisgn\n- With Air Motion Transformer driver (electrodynamic transducer) and Variable Velocity Transformation (VVT)\n\nNeumann NDH 30 Black Edition\n\nNDH 30 Black Edition\n\nSteven Slate Audio VSX Essentials Edition\n\nVSX Essentials Edition\n- The Essential version includes the following modelling environments: Steven's Private Mix Room, ...\n\nAudio-Technica ATH-M40X"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

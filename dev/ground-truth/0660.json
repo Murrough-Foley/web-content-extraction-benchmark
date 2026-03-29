@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://mybirdbuddy.eu/shop/",
+  "file_id": "0660",
+  "ground_truth": {
+    "title": "Birdbuddy : Shop",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Feeders\nAdd-ons\n\nSmart Bird Feeder Pro\n199\n€\n299\n€\n(34% OFF)\nsolar\nnon-solar\n53\ndiscounted units available\n2K Video, HDR and Slow-Motion without worrying about charging.\nBuy Now\n\n86% of users recommend Birdbuddy\nas the\nperfect gift\nfor families\n\"\nBirdbuddy produces stunning imagery\n, has a lively in-app community and provides\nmore information than a bird encyclopedia\n.\"\n\"Birdbuddy comes with\nan intuitive app and delivers detailed 2K video\nwith a lengthy battery life.\"\n\"My new, favorite gadget.\"\n\n–\n30\n%\nNature Station\nInvite pollinators to your yard with the Nature Station, a beautiful space for all visiting wildlife.\nModular design & fast setup\nAttracts beneficial insects\nRecyclable materials\nMultiple arms to hang feeders\nJoin Waitlist\n\nWant early access?\nEnter your email to be the first to know when the Nature Station launches.\nJoin Waitlist\n\n–\n26\n%\nColor:\n3-in-1 Nutrition Set\n39\n€\nOriginal price was: 39€.\n29\n€\nCurrent price is: 29€.\n29\n€\n39\n€\n(26% OFF)\nBuy Now\nOut of Stock\nCheck it out\n\n–\n14\n%\nWall Mount\n29\n€\nOriginal price was: 29€.\n25\n€\nCurrent price is: 25€.\n25\n€\n29\n€\n(14% OFF)\nBuy Now\nAdd to cart\n\n–\n26\n%\nSuet Ball Holder\n19\n€\nOriginal price was: 19€.\n14\n€\nCurrent price is: 14€.\n14\n€\n19\n€\n(26% OFF)\nBuy Now\nAdd to cart\n\n–\n25\n%\nColor:\nSolar Roof\n79\n€\nOriginal price was: 79€.\n59\n€\nCurrent price is: 59€.\n59\n€\n79\n€\n(25% OFF)\nBuy Now\nOut of Stock\nCheck it out\n\n–\n14\n%\nColor:\nPerch Extender\n29\n€\nOriginal price was: 29€.\n25\n€\nCurrent price is: 25€.\n25\n€\n29\n€\n(14% OFF)\nBuy Now\nOut of Stock\nCheck it out",
+    "main_content_markdown": "Feeders\nAdd-ons\n\n[Smart Bird Feeder Pro](https://mybirdbuddy.eu/product/smart-bird-feeder-pro-solar-v2/)\n199\n€\n299\n€\n(34% OFF)\nsolar\nnon-solar\n53\ndiscounted units available\n2K Video, HDR and Slow-Motion without worrying about charging.\nBuy Now\n\n86% of users recommend Birdbuddy\nas the\nperfect gift\nfor families\n\"\n**Birdbuddy produces stunning imagery**\n, has a lively in-app community and provides\n**more information than a bird encyclopedia**\n.\"\n\"Birdbuddy comes with\n**an intuitive app and delivers detailed 2K video**\nwith a lengthy battery life.\"\n\"My new, favorite gadget.\"\n\n-\n30\n%\n### Nature Station\nInvite pollinators to your yard with the Nature Station, a beautiful space for all visiting wildlife.\nModular design & fast setup\nAttracts beneficial insects\nRecyclable materials\nMultiple arms to hang feeders\nJoin Waitlist\n\n## Want early access?\nEnter your email to be the first to know when the Nature Station launches.\nJoin Waitlist\n\n-\n26\n%\nColor:\n### 3-in-1 Nutrition Set\n39\n€\nOriginal price was: 39€.\n29\n€\nCurrent price is: 29€.\n29\n€\n39\n€\n(26% OFF)\nBuy Now\nOut of Stock\nCheck it out\n\n-\n14\n%\n### Wall Mount\n29\n€\nOriginal price was: 29€.\n25\n€\nCurrent price is: 25€.\n25\n€\n29\n€\n(14% OFF)\nBuy Now\nAdd to cart\n\n-\n26\n%\n### Suet Ball Holder\n19\n€\nOriginal price was: 19€.\n14\n€\nCurrent price is: 14€.\n14\n€\n19\n€\n(26% OFF)\nBuy Now\nAdd to cart\n\n-\n25\n%\nColor:\n### Solar Roof\n79\n€\nOriginal price was: 79€.\n59\n€\nCurrent price is: 59€.\n59\n€\n79\n€\n(25% OFF)\nBuy Now\nOut of Stock\nCheck it out\n\n-\n14\n%\nColor:\n### Perch Extender\n29\n€\nOriginal price was: 29€.\n25\n€\nCurrent price is: 25€.\n25\n€\n29\n€\n(14% OFF)\nBuy Now\nOut of Stock\nCheck it out",
+    "with": [
+      "Feeders\nAdd-ons\n\nSmart Bird Feeder Pro\n199\n€\n299\n€\n(34% OFF)\nsolar\nnon-solar\n53\ndiscounted units available\n2K Video, HDR and Slow-Motion without worrying about charging.",
+      "Modular design & fast setup\nAttracts beneficial insects\nRecyclable materials\nMultiple arms to hang feeders\nJoin Waitlist\nWant early access?",
+      "Enter your email to be the first to know when the Nature Station launches.",
+      "3-in-1 Nutrition Set\n39\n€\nOriginal price was: 39€.",
+      "Wall Mount\n29\n€\nOriginal price was: 29€."
+    ],
+    "without": [
+      "Privacy Policy",
+      "Terms & Conditions",
+      "Free Suet Holder Available!",
+      "Order a feeder in the next 5 minutes to receive a free Suet Ball Holder!"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": []
+    }
+  }
+}

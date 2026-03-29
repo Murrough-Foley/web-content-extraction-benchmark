@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://code.org/en-US/students/internships-and-apprenticeships",
+  "file_id": "5300",
+  "ground_truth": {
+    "title": "Computer Science Internships for Students",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Internships and Apprenticeships\n\nFind student-friendly opportunities where learners can apply computer science(CS) skills, explore careers, and gain insight into the tech industry.\n\nFind internships and apprenticeships\n\nJUMP TO SECTION\n\nApprenticeships\n\nAfter High School\n\nApprenti\n\nTechnical training and year-long paid apprenticeships at tech companies for students looking for an alternative to college.\n\nAfter High School\n\nMultiverse\n\nPaid CS apprenticeships at top companies and career development for students looking for an alternative to college.\n\nAfter High School\n\nNPower\n\nWork-study program in select states for military veterans and students from underserved communities.\n\nAfter High School\n\nYear Up United\n\nYear-long program includes six months of technical training and a six-month corporate internship.\n\nInternships for students entering or in college\n\nEntering/In College\n\nInStep from Infosys\n\nInternships across the globe with opportunities spanning artificial intelligence, sustainability, big data, and more.\n\nEntering/In College\n\nMicrosoft Internships\n\nPaid internship opportunities in fields like software engineering, UX design, data science, and more.\n\nInternships for high school students\n\nHigh School\n\nGenesys Works\n\nYear-long program for high school students includes technical training and a paid corporate internship.\n\nHigh School\n\nMicrosoft High School Internships\n\nOn-the-job learning and opportunities to contribute to real-world technology projects at Microsoft.\n\nAdditional resources\n\nCurriculum Catalog\n\nComprehensive curriculum offerings for every grade and experience level featuring robust structured and self-paced learning options.\n\nVideo Library\n\nExplore our large library of engaging and informative videos to learn about key AI and computer science concepts on a broad range of topics.\n\nHour of AI\n\nLooking for more short-form activities and resources for all age levels? Explore our library of Hour of AI activities and tutorials!",
+    "with": [
+      "Technical training and year-long paid apprenticeships at tech companies for stud",
+      "Year-long program includes six months of technical training and a six-month corp",
+      "Year-long program for high school students includes technical training and a pai",
+      "Explore our large library of engaging and informative videos to learn about key "
+    ],
+    "without": [
+      "Donate",
+      "Privacy Policy",
+      "Visit website"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

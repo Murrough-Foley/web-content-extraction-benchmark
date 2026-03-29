@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.gabrielcybersecurity.com/exploring-usb-commands",
+  "file_id": "0442",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "technology",
+        "cybersecurity",
+        "guide"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Exploring USB Commands",
+    "author": "Gabriel Gonzalez",
+    "publish_date": "2025-12-19",
+    "main_content": "If you've ever had to explore the interfaces of a USB-enabled device, you know how opaque and undocumented many of them can be. While working on this problem, I put together a small tool I now routinely use to discover commands and better understand how these devices behave. Like most tools born out of real needs, this one is very much a work in progress. So far, I've focused on what has proven most useful in practice: brute-force and random command scanning, solid logging, and structured exploration of anything that looks like a valid or interesting command. To make experimentation safer and more effective, the tool also supports adding known command prefixes and filtering out patterns that tend to trigger unwanted or disruptive behavior on the device. If you're interested in USB protocol exploration, reverse engineering, or device fuzzing, you can find the project here: https://github.com/ggonzalez/CyberSecurity-KnowledgeBase/tree/main/USBScanner",
+    "with": [
+      "If you've ever had to explore the interfaces of a USB-enabled device, you know how opaque and undocumented many of them can be.",
+      "While working on this problem, I put together a small tool I now routinely use to discover commands and better understand how these devices behave.",
+      "Like most tools born out of real needs, this one is very much a work in progress.",
+      "So far, I've focused on what has proven most useful in practice: brute-force and random command scanning, solid logging, and structured exploration of anything that looks like a valid or interesting command.",
+      "To make experimentation safer and more effective, the tool also supports adding known command prefixes and filtering out patterns that tend to trigger unwanted or disruptive behavior on the device."
+    ],
+    "without": [
+      "Would you like to receive notifications about new posts?",
+      "Get Resources!",
+      "I accept the privacy policy",
+      "Product successfully added to the cart!"
+    ],
+    "main_content_markdown": "If you've ever had to explore the interfaces of a **USB-enabled device**, you know how opaque and undocumented many of them can be. While working on this problem, I put together a small tool I now routinely use to **discover commands and better understand how these devices behave**. Like most tools born out of real needs, this one is very much a **work in progress**. So far, I've focused on what has proven most useful in practice: brute-force and random command scanning, solid logging, and structured exploration of anything that looks like a valid or interesting command. To make experimentation safer and more effective, the tool also supports adding known command prefixes and filtering out patterns that tend to trigger unwanted or disruptive behavior on the device. If you're interested in USB protocol exploration, reverse engineering, or device fuzzing, you can find the project here: [https://github.com/ggonzalez/CyberSecurity-KnowledgeBase/tree/main/USBScanner](https://github.com/ggonzalez/CyberSecurity-KnowledgeBase/tree/main/USBScanner)"
+  }
+}

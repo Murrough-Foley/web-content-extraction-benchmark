@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://community.openai.com/t/4o-update-2024-09-05-broken/931828",
+  "file_id": "0501",
+  "ground_truth": {
+    "title": "4o Update 2024-09-05 Broken",
+    "author": "DaleJack",
+    "publish_date": "2024-09-05",
+    "main_content": "DaleJack\nSeptember 5, 2024, 11:15pm\n\nWe're on Teams and whatever version was released last night or today is broken. Document reviews, won't do basic grammar checks, refers us to Grammatic of all things, errors in reviewing documents all over, is reverted to a five year old. I haven't check all the rest we do, but will post more as we see it.\n\nHere is what our Chat GPT 4o stated when I asked it to review itself.\n\n\" Contextual Conclusion: My responses in this thread indicate that I struggled to maintain consistency in handling tasks that should have been well within my capabilities. The issues escalated when I introduced more complexity, such as automated grammar corrections, which led to incorrect outputs. This experience has highlighted a gap in reliability during document handling and linguistic analysis, which are typically strengths of a language model like me.\"\n\nDaleJack\nSeptember 5, 2024, 11:26pm\n\nI asked our GPT if anyone else was having the issue. Response as below.\n\nIt appears that you're not alone in encountering issues with GPT-4's recent update. Multiple users on the OpenAI forums have reported significant problems following recent updates, particularly with document reviews, grammar checking, and even coding assistance. Many users have observed that GPT-4's performance has degraded in tasks that previously worked seamlessly. They noted excessive verbosity, inconsistencies, and even a reversion to what feels like GPT-3.5-level performance in some cases.\n\nSeveral threads from the developer community have highlighted similar experiences:\n\n1. A specific update around September 2024 seems to have caused issues in grammar checks, document handling, and coding outputs. Users on Teams, like yourself, have reported errors and unreliable behavior.\n2. Coding assistance and content creation also seem to be impacted negatively, with responses becoming overly verbose and missing key details.\n3. There are general concerns that this degradation might be linked to recent changes in the underlying model or its fine-tuning, with some users choosing to revert to GPT-3.5 until issues are resolved.\n\nThese experiences align with what you're facing, and it seems OpenAI is likely aware of the feedback, as it's been widely reported.\n\nFor a more detailed overview or to stay updated, you can follow these discussions on the OpenAI Developer Forum.",
+    "main_content_markdown": "DaleJack\nSeptember 5, 2024, 11:15pm\n\nWe're on Teams and whatever version was released last night or today is broken. Document reviews, won't do basic grammar checks, refers us to Grammatic of all things, errors in reviewing documents all over, is reverted to a five year old. I haven't check all the rest we do, but will post more as we see it.\n\nHere is what our Chat GPT 4o stated when I asked it to review itself.\n\n\" **Contextual Conclusion**: My responses in this thread indicate that I struggled to maintain consistency in handling tasks that should have been well within my capabilities. The issues escalated when I introduced more complexity, such as automated grammar corrections, which led to incorrect outputs. This experience has highlighted a gap in reliability during document handling and linguistic analysis, which are typically strengths of a language model like me.\"\n\nDaleJack\nSeptember 5, 2024, 11:26pm\n\nI asked our GPT if anyone else was having the issue. Response as below.\n\nIt appears that you're not alone in encountering issues with GPT-4's recent update. Multiple users on the OpenAI forums have reported significant problems following recent updates, particularly with document reviews, grammar checking, and even coding assistance. Many users have observed that GPT-4's performance has degraded in tasks that previously worked seamlessly. They noted excessive verbosity, inconsistencies, and even a reversion to what feels like GPT-3.5-level performance in some cases.\n\nSeveral threads from the developer community have highlighted similar experiences:\n\n1. A specific update around September 2024 seems to have caused issues in grammar checks, document handling, and coding outputs. Users on Teams, like yourself, have reported errors and unreliable behavior.\n2. Coding assistance and content creation also seem to be impacted negatively, with responses becoming overly verbose and missing key details.\n3. There are general concerns that this degradation might be linked to recent changes in the underlying model or its fine-tuning, with some users choosing to revert to GPT-3.5 until issues are resolved.\n\nThese experiences align with what you're facing, and it seems OpenAI is likely aware of the feedback, as it's been widely reported.\n\nFor a more detailed overview or to stay updated, you can follow these discussions on the OpenAI Developer Forum.",
+    "with": [
+      "We're on Teams and whatever version was released last night or today is broken.",
+      "Document reviews, won't do basic grammar checks, refers us to Grammatic of all things, errors in reviewing documents all over, is reverted to a five year old.",
+      "Contextual Conclusion: My responses in this thread indicate that I struggled to maintain consistency in handling tasks that should have been well within my capabilities.",
+      "This experience has highlighted a gap in reliability during document handling and linguistic analysis, which are typically strengths of a language model like me.",
+      "It appears that you're not alone in encountering issues with GPT-4's recent update."
+    ],
+    "without": [
+      "OpenAI Developer Community",
+      "Related topics",
+      "Log In",
+      "Privacy Policy"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": []
+    }
+  }
+}

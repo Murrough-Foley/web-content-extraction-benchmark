@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "url": "https://houstonspca.org/available-pets/",
+  "file_id": "5314",
+  "ground_truth": {
+    "title": "Available Pets",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Please note: we are unable to place any animal on hold.\n\nArrow\n\nBreed: Gaited\n\nSex: Male\n\nAge:\n\n20 years and 10 months\n\nWeight: 840 lbs\n\nBethany\n\nBreed: Domestic Longhair\n\nSex: Female\n\nAge:\n\n6 years\n\nWeight: 5.62 lbs\n\nElla\n\nBreed: Pony\n\nSex: Female\n\nAge:\n\n17 years and 4 months\n\nWeight: 594 lbs\n\nBulma\n\nBreed: Domestic Short Hair\n\nSex: Female\n\nAge:\n\n1 years\n\nWeight: 7.25 lbs\n\nJager\n\nBreed: Quarter Horse\n\nSex: Male\n\nAge:\n\n11 years and 2 months\n\nWeight: 1030 lbs\n\nXyla\n\nBreed: Paint/Pinto\n\nSex: Female\n\nAge:\n\n3 years and 11 months\n\nWeight: 798 lbs\n\nCarla\n\nBreed: Shepherd\n\nSex: Female\n\nAge:\n\n7 months\n\nWeight: 50 lbs\n\nBuddy\n\nBreed: Hound\n\nSex: Male\n\nAge:\n\n5 years\n\nWeight: 47 lbs\n\nOrmie\n\nBreed: Quarter Horse\n\nSex: Male\n\nAge:\n\n15 years and 5 months\n\nWeight: 748 lbs\n\nJimbo\n\nBreed: Labrador Retriever\n\nSex: Male\n\nAge:\n\n4 years\n\nWeight: 70.4 lbs\n\nPrincess Leia\n\nBreed: Domestic Short Hair\n\nSex: Female\n\nAge:\n\n2 years and 1 months\n\nWeight: 7.31 lbs\n\nTerrance\n\nBreed: Domestic Short Hair\n\nSex: Male\n\nAge:\n\n3 years\n\nWeight: 11 lbs\n\nAce\n\nBreed: German Shepherd\n\nSex: Male\n\nAge:\n\n2 years and 1 months\n\nWeight: 62.2 lbs\n\nGarfield\n\nBreed: Domestic Short Hair\n\nSex: Male\n\nAge:\n\n2 years\n\nWeight: 12.5 lbs\n\nOphelia\n\nBreed: Quarter Horse\n\nSex: Female\n\nAge:\n\n30 years and 8 months\n\nWeight: 829 lbs\n\nDuncan\n\nBreed: Border Collie\n\nSex: Male\n\nAge:\n\n6 months\n\nWeight: 32.2 lbs\n\nDarling\n\nBreed: Quarter Horse\n\nSex: Female\n\nAge:\n\n7 years and 5 months\n\nWeight: 1006 lbs",
+    "with": [
+      "Please note: we are unable to place any animal on hold.",
+      "Breed: Domestic Short Hair"
+    ],
+    "without": [
+      "Saving Animals",
+      "Wildlife Center",
+      "Resources & Programs",
+      "Ways to Give"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

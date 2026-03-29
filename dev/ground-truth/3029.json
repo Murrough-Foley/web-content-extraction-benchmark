@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.rei.com/c/bike-helmets",
+  "file_id": "3029",
+  "ground_truth": {
+    "title": "Bike Helmets",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Products (143) Expert Advice (2)\n\nCategories\n- Mountain Bike Helmets (56)\n- Road Bike Helmets (26)\n- Recreational Cycling Helmets (23)\n- Kids' Bike Helmets (22)\n- Mountain Bike Goggles (13)\n- Bike Helmet Accessories (4)\n\nRelated Expert Advice articles\n\nHow to Choose a Bike Helmet\n\nTypes of Bike Helmets\n- Recreational: An economical choice with impact protection for casual riding\n- Mountain bike: Extra rear head coverage for off-road and rugged trails with ventilation options\n- Road bike: Lightweight, aerodynamic and highly ventilated\n\nFit Tips\n- Measure your head's circumference by wrapping a flexible measuring tape around the largest portion of your head (or use a piece of string, then measure its length).\n- Check brand sizing charts for your head circumference.\n- Aim for a snug fit but not too tight. If between sizes, go with the smaller size.\n\nAdded Protection\n\nLook for technologies that reduce rotational forces during a crash, like Mips, WaveCel or KinetiCore.\n\nFeatures\n- Vents: More vents improve airflow and reduce weight.\n- Visor/brim: Keeps the sun out of your eyes; common on mountain bike helmets.\n- Chin bars: Extra protection for downhill mountain biking or racing.\n\nThe Best Bike Helmets: Staff Picks\n\nWhether you pedal around town or crave dirt trails, we've got bike helmet picks for every type of riding.",
+    "with": [
+      "Products (143) Expert Advice (2)",
+      "How to Choose a Bike Helmet",
+      "The Best Bike Helmets: Staff Picks",
+      "Look for technologies that reduce rotational forces during a crash",
+      "Mountain Bike Helmets (56)"
+    ],
+    "without": [
+      "REI Accessibility Statement",
+      "Skip to main content",
+      "Skip to Shop REI categories"
+    ],
+    "main_content_markdown": "Products (143) Expert Advice (2)\n\nCategories\n- [Mountain Bike Helmets](https://www.rei.com/c/mountain-bike-helmets) (56)\n- [Road Bike Helmets](https://www.rei.com/c/road-bike-helmets) (26)\n- [Recreational Cycling Helmets](https://www.rei.com/c/recreational-cycling-helmets) (23)\n- [Kids' Bike Helmets](https://www.rei.com/c/kids-bike-helmets) (22)\n- [Mountain Bike Goggles](https://www.rei.com/c/mountain-bike-goggles) (13)\n- [Bike Helmet Accessories](https://www.rei.com/c/bike-helmet-accessories) (4)\n\n## Related Expert Advice articles\n\n### How to Choose a Bike Helmet\n\n**Types of Bike Helmets**\n- **Recreational:** An economical choice with impact protection for casual riding\n- **Mountain bike:** Extra rear head coverage for off-road and rugged trails with ventilation options\n- **Road bike:** Lightweight, aerodynamic and highly ventilated\n\n**Fit Tips**\n- Measure your head's circumference by wrapping a flexible measuring tape around the largest portion of your head (or use a piece of string, then measure its length).\n- Check brand sizing charts for your head circumference.\n- Aim for a snug fit but not too tight. If between sizes, go with the smaller size.\n\n**Added Protection**\nLook for technologies that reduce rotational forces during a crash, like Mips, WaveCel or KinetiCore.\n\n**Features**\n- **Vents:** More vents improve airflow and reduce weight.\n- **Visor/brim:** Keeps the sun out of your eyes; common on mountain bike helmets.\n- **Chin bars:** Extra protection for downhill mountain biking or racing.\n\n### The Best Bike Helmets: Staff Picks\n\nWhether you pedal around town or crave dirt trails, we've got bike helmet picks for every type of riding."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": "verified 2026-03-08",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

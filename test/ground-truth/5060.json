@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://forum.charlesdowding.co.uk/community/topic/new-raised-beds-mulch-or-grow/",
+  "file_id": "5060",
+  "ground_truth": {
+    "title": "New Raised Beds: mulch or grow?",
+    "author": null,
+    "publish_date": "2013-02-17",
+    "main_content": "kevinspiers\n\nHi\n\nI have just built six deep raised beds, 300mm deep and 1.2m x 3.0m, and filled them with graded topsoil bought from a local building supplies company. The soil is of good quality and weed free but it is also largely worm free too! I have top-dressed the soil with some excellent vintage cow manure, black, odourless and full of brandling worms, though it does have some straw in it.\n\nMy question is is two parts. Firstly, is is necessary to cover the beds now or should I leave them uncovered whilst waiting for the arrival of the earthworms? Secondly, should I wait until next season for the soil to recover from the filling process before planting or will a month or two suffice, enabling me to get some payback this year?\n\nI guess the answer to the first part will be governed by the second!\n\nMany thanks\n\nbluebell\n\nIn my book you have done everthing you need to. Firm down the beds if you havent already and get ready to plant. Im my short experience things want to grow so give it a go.\n\nkevinspiers\n\nThanks for the positive message. I'm certainly hoping 'things want to grow' and will be following Charles's lead and stuff sowing in modules this week. Planning to sow first early spuds in compost in the bags the soil came in. Waste not want not!\n\ncharles\n\nNo need to wait Kevin, in fact having plants growing and colonising your beds with their roots will help everything settle and also help the soil come back to life, which may take a little time. I would not use soil like that because of its lack of life. When the National Coal Board piled topsoil in heaps, from open cast mining, they found it quickly went \"dead\" and was then difficult to replace for growing good crops. However in your case the manure/compost is key to restoring its health.\n\nAs for covering, no need at all, nutrients in compost and composted manure are not water soluble.\n\nkevinspiers\n\nThe topsoil supplier was recommended by a local landscaper as the 'least worst' solution. It was the lack of pernicious perennials in it, I think. Access to unlimited cow manure appears key. Delighted that I can start planting but will lower my expectations for this season in view of the less than perfect soil. This is a fascinating and very steep learning curve. Very exciting! Many thanks.",
+    "with": [
+      "I have just built six deep raised beds, 300mm deep and 1.2m x 3.0m",
+      "I guess the answer to the first part will be governed by the second!",
+      "As for covering, no need at all, nutrients in compost and composted manure are not water soluble.",
+      "The topsoil supplier was recommended by a local landscaper as the 'least worst' solution."
+    ],
+    "without": [
+      "Visit no dig website",
+      "Viewing 5 posts - 1 through 5 (of 5 total)",
+      "Copyright Charles Dowding"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "forum"
+  }
+}

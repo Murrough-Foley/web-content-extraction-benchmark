@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://nextjs.org/learn/dashboard-app",
+  "file_id": "5388",
+  "ground_truth": {
+    "title": "App Router | Next.js",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Welcome to the Next.js Foundations course! In this free interactive course, you'll learn the main features of Next.js by building a full-stack web application.\n\nWhat we'll be building\n\nFor this course, we'll build a financial dashboard that has:\n\nA public home page.\n\nA login page.\n\nDashboard pages that are protected by authentication.\n\nThe ability for users to add, edit, and delete invoices.\n\nThe dashboard will also have an accompanying database, which you'll set up in a later chapter.\n\nBy the end of the course, you'll have the essential skills needed to start building full-stack Next.js applications.\n\nOverview\n\nHere's an overview of features you'll learn about in this course:\n\nStyling: The different ways to style your application in Next.js.\n\nOptimizations: How to optimize images, links, and fonts.\n\nRouting: How to create nested layouts and pages using file-system routing.\n\nData Fetching: How to set up a Postgres database on Vercel, and best practices for fetching and streaming.\n\nSearch and Pagination: How to implement search and pagination using URL search params.\n\nMutating Data: How to mutate data using React Server Actions, and revalidate the Next.js cache.\n\nError Handling: How to handle general and 404 not found errors.\n\nForm Validation and Accessibility: How to do server-side form validation and tips for improving accessibility.\n\nAuthentication: How to add authentication to your application using NextAuth.js and Proxy.\n\nMetadata: How to add metadata and prepare your application for social sharing.\n\nPrerequisite knowledge\n\nThis course assumes you have a basic understanding of React and JavaScript. If you're new to React, we recommend going through our React Foundations course first to learn the fundamentals of React, such as components, props, state, and hooks, and newer features like Server Components and Suspense.\n\nSystem requirements\n\nBefore you start this course, make sure your system meets the following requirements:\n\nNode.js 20.9 or later installed. Download here.\n\nOperating systems: macOS, Windows (including WSL), or Linux.\n\nIn addition, you'll also need a GitHub Account and a Vercel Account.\n\nJoin the conversation\n\nIf you have questions about this course or would like to provide feedback, you can ask our community on Reddit or GitHub.\n\nReady to get started?\n\nNow that you've been introduced to the course, let's dive in.\n\nNext Up\n\n1: Getting Started\n\nLearn how to create a Next.js application and run your local development server.",
+    "with": [
+      "For this course, we'll build a financial dashboard that has:",
+      "Optimizations: How to optimize images, links, and fonts.",
+      "Metadata: How to add metadata and prepare your application for social sharing.",
+      "Now that you've been introduced to the course, let's dive in."
+    ],
+    "without": [
+      "Deploy",
+      "Subscribe to our newsletter",
+      "Search documentation",
+      "Privacy Policy"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "hint",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "documentation"
+  }
+}

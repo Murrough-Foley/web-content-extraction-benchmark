@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0",
+  "url": "https://pages.marketintelligence.spglobal.com/2025-top-pc-insurance-company-performance-rankings.html",
+  "file_id": "0285",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": "Page combines article content about insurance rankings with marketing/landing page elements",
+      "tags": [
+        "insurance",
+        "rankings",
+        "financial",
+        "data-analytics"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "2025 Top P&C Insurance Company Performance Rankings",
+    "author": null,
+    "publish_date": null,
+    "main_content": "If you are a client, you can access the full article, rankings, and template on S&P Capital IQ Pro.\n\nEach year, S&P Global Market Intelligence releases a series of performance rankings for property and casualty insurance companies based in the United States. These rankings evaluate the performance of the top 100 net written premium writers for the previous year (2024). Furthermore, we provide distinct rankings for companies focused on personal lines and commercial lines within this same group of 100 companies.\n\nDiscover Unique Insights. Visualize Opportunities. Fuel Your Insurance Workflow. That's the Power of S&P Capital IQ Pro.\n\nMaking smart decisions to stay ahead of the market has never been more important. Unlock a world of insurance opportunities with asset-level data, custom mapping solutions, company financials, in-depth research, and essential news coverage.",
+    "with": [
+      "Each year, S&P Global Market Intelligence releases a series of performance rankings for property and casualty insurance companies based in the United States.",
+      "These rankings evaluate the performance of the top 100 net written premium writers for the previous year (2024).",
+      "Furthermore, we provide distinct rankings for companies focused on personal lines and commercial lines within this same group of 100 companies.",
+      "Discover Unique Insights. Visualize Opportunities. Fuel Your Insurance Workflow.",
+      "Unlock a world of insurance opportunities with asset-level data, custom mapping solutions, company financials, in-depth research, and essential news coverage."
+    ],
+    "without": [
+      "Cookie Notice",
+      "Privacy Policy",
+      "Terms of Use",
+      "Register"
+    ],
+    "main_content_markdown": "If you are a client, you can access the [full article](https://www.capitaliq.spglobal.com/apisv3/spg-webplatform-core/news/article?id=91535894&KeyProductLinkType=14&utm_campaign=top_news_1&utm_medium=top_news&utm_source=news_home), [rankings](https://www.capitaliq.spglobal.com/web/client?auth=inherit#news/docviewer?KeyProductLinkType=2&mid=244298921), and [template](https://www.capitaliq.spglobal.com/apisvcs/dataapi-service/v2/Internal/General/DocsFileVersions(89284195-e2a0-f015-eade-9b5e54fb377d)/$value?push=true&filename=SPG_INS_STAT_PC_PerformanceRankings_v1) on S&P Capital IQ Pro.\n\nEach year, [S&P Global Market Intelligence](https://www.spglobal.com/marketintelligence/en/) releases a series of performance rankings for property and casualty insurance companies based in the United States. These rankings evaluate the performance of the top 100 net written premium writers for the previous year (2024). Furthermore, we provide distinct rankings for companies focused on personal lines and commercial lines within this same group of 100 companies.\n\n**Discover Unique Insights. Visualize Opportunities. Fuel Your Insurance Workflow. That's the Power of S&P Capital IQ Pro.**\n\nMaking smart decisions to stay ahead of the market has never been more important. Unlock a world of insurance opportunities with asset-level data, custom mapping solutions, company financials, in-depth research, and essential news coverage."
+  }
+}

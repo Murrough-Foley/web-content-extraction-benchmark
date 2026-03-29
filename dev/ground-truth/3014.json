@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://dev.to/",
+  "file_id": "3014",
+  "ground_truth": {
+    "title": "DEV Community",
+    "author": null,
+    "publish_date": null,
+    "main_content": "3 words worth a billion dollars: Drift to Determinism (DriDe)\n\n#webdev #ai #automation #architecture\n\nJoin the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing & Frontend Art 🎨!\n\n#devchallenge #wecoded #frontend #career\n\nThe Women Who Helped Me Grow as a Developer\n\n#discuss #womenintech #learning #career\n\nI overpowered AI by inventing \"Brilliant\" code by AI opinion itself\n\n#webdev #ai #opensource #typescript\n\nThe Micro-Coercion of Speed: Why Friction Is an Engineering Prerequisite\n\n#ai #softwareengineering #architecture #devops\n\nWhy I replaced \"think freely\" with structured blackboarding in my agent loops\n\n#ai #agents #architecture #autonomy\n\nWhen Your AI Agent Starts Fixing Itself: A Week of Rebuilding Wiz\n\n#ai #claudecode #automation #programming\n\nI Built a Tinder-Style GitHub Discovery App (And Ran Into Some Interesting API Problems)\n\n#showdev #opensource #swift #ios\n\nI Built a Desktop Tamagotchi Cat with AI Brain in Swift - and It Lives on My macOS Doc\n\n#showdev #swift #ai #opensource\n\nAI Agent Landscape: February 2026 Data from Running One for 6 Months\n\n#ai #automation #agentdev #machinelearning\n\nThe Junior Developer Isn't Extinct—They're Stuck Below the API\n\n#discuss #ai #webdev #career\n\nProcedural Gradients, Hotfixes, and the Power of QA\n\n#gamedev #unity3d #terraingeneration #algorithms\n\nScreen Reader Experience Analysis on Grok\n\n#pagelive #a11y #grok #screenreader\n\nLuminary Week 1 - IWD Project\n\n#iwd\n\nDecisions, Decisions -- Thoughts on making architectural decisions\n\n#architecture #libraries #fullstack\n\nNotion MCP Challenge Submission 🧠\n\nNotion Career Sync: 1-Click AI Job Tracker via Notion MCP\n\n#devchallenge #notionchallenge #mcp #ai\n\nI Got Frustrated with ngrok and Built My Own Self-Hosted Tunneling Tool\n\n#opensource #devtools #selfhosted #webdev\n\ntiny tool to package your code for LLM prompts: pmc(pack-my-code)\n\n#lua #llm #promptengineering #tiny",
+    "with": [
+      "3 words worth a billion dollars: Drift to Determinism (DriDe)",
+      "#devchallenge #wecoded #frontend #career",
+      "#ai #agents #architecture #autonomy",
+      "Decisions, Decisions -- Thoughts on making architectural decisions",
+      "tiny tool to package your code for LLM prompts: pmc(pack-my-code)"
+    ],
+    "without": [
+      "Skip to content",
+      "Navigation menu",
+      "Create account",
+      "What's a billboard?",
+      "Happy Building!!"
+    ],
+    "main_content_markdown": "## 3 words worth a billion dollars: Drift to Determinism (DriDe)\n\n[#webdev](https://dev.to/t/webdev) [#ai](https://dev.to/t/ai) [#automation](https://dev.to/t/automation) [#architecture](https://dev.to/t/architecture)\n\n## Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing & Frontend Art 🎨!\n\n[#devchallenge](https://dev.to/t/devchallenge) [#wecoded](https://dev.to/t/wecoded) [#frontend](https://dev.to/t/frontend) [#career](https://dev.to/t/career)\n\n## The Women Who Helped Me Grow as a Developer\n\n[#discuss](https://dev.to/t/discuss) [#womenintech](https://dev.to/t/womenintech) [#learning](https://dev.to/t/learning) [#career](https://dev.to/t/career)\n\n## I overpowered AI by inventing \"Brilliant\" code by AI opinion itself\n\n[#webdev](https://dev.to/t/webdev) [#ai](https://dev.to/t/ai) [#opensource](https://dev.to/t/opensource) [#typescript](https://dev.to/t/typescript)\n\n## The Micro-Coercion of Speed: Why Friction Is an Engineering Prerequisite\n\n[#ai](https://dev.to/t/ai) [#softwareengineering](https://dev.to/t/softwareengineering) [#architecture](https://dev.to/t/architecture) [#devops](https://dev.to/t/devops)\n\n## Why I replaced \"think freely\" with structured blackboarding in my agent loops\n\n[#ai](https://dev.to/t/ai) [#agents](https://dev.to/t/agents) [#architecture](https://dev.to/t/architecture) [#autonomy](https://dev.to/t/autonomy)\n\n## When Your AI Agent Starts Fixing Itself: A Week of Rebuilding Wiz\n\n[#ai](https://dev.to/t/ai) [#claudecode](https://dev.to/t/claudecode) [#automation](https://dev.to/t/automation) [#programming](https://dev.to/t/programming)\n\n## I Built a Tinder-Style GitHub Discovery App (And Ran Into Some Interesting API Problems)\n\n[#showdev](https://dev.to/t/showdev) [#opensource](https://dev.to/t/opensource) [#swift](https://dev.to/t/swift) [#ios](https://dev.to/t/ios)\n\n## I Built a Desktop Tamagotchi Cat with AI Brain in Swift - and It Lives on My macOS Doc\n\n[#showdev](https://dev.to/t/showdev) [#swift](https://dev.to/t/swift) [#ai](https://dev.to/t/ai) [#opensource](https://dev.to/t/opensource)\n\n## AI Agent Landscape: February 2026 Data from Running One for 6 Months\n\n[#ai](https://dev.to/t/ai) [#automation](https://dev.to/t/automation) [#agentdev](https://dev.to/t/agentdev) [#machinelearning](https://dev.to/t/machinelearning)\n\n## The Junior Developer Isn't Extinct\u2014They're Stuck Below the API\n\n[#discuss](https://dev.to/t/discuss) [#ai](https://dev.to/t/ai) [#webdev](https://dev.to/t/webdev) [#career](https://dev.to/t/career)\n\n## Procedural Gradients, Hotfixes, and the Power of QA\n\n[#gamedev](https://dev.to/t/gamedev) [#unity3d](https://dev.to/t/unity3d) [#terraingeneration](https://dev.to/t/terraingeneration) [#algorithms](https://dev.to/t/algorithms)\n\n## Screen Reader Experience Analysis on Grok\n\n[#pagelive](https://dev.to/t/pagelive) [#a11y](https://dev.to/t/a11y) [#grok](https://dev.to/t/grok) [#screenreader](https://dev.to/t/screenreader)\n\n## Luminary Week 1 - IWD Project\n\n[#iwd](https://dev.to/t/iwd)\n\n## Decisions, Decisions -- Thoughts on making architectural decisions\n\n[#architecture](https://dev.to/t/architecture) [#libraries](https://dev.to/t/libraries) [#fullstack](https://dev.to/t/fullstack)\n\n[Notion MCP Challenge Submission 🧠](https://dev.to/samyak_jain_2c769a6af29c1/notion-career-sync-1-click-ai-job-tracker-via-notion-mcp-4afi)\n\n## Notion Career Sync: 1-Click AI Job Tracker via Notion MCP\n\n[#devchallenge](https://dev.to/t/devchallenge) [#notionchallenge](https://dev.to/t/notionchallenge) [#mcp](https://dev.to/t/mcp) [#ai](https://dev.to/t/ai)\n\n## I Got Frustrated with ngrok and Built My Own Self-Hosted Tunneling Tool\n\n[#opensource](https://dev.to/t/opensource) [#devtools](https://dev.to/t/devtools) [#selfhosted](https://dev.to/t/selfhosted) [#webdev](https://dev.to/t/webdev)\n\n## tiny tool to package your code for LLM prompts: pmc(pack-my-code)\n\n[#lua](https://dev.to/t/lua) [#llm](https://dev.to/t/llm) [#promptengineering](https://dev.to/t/promptengineering) [#tiny](https://dev.to/t/tiny)"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

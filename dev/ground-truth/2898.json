@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://pcpartpicker.com/product/FLRzK8/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof",
+  "file_id": "2898",
+  "ground_truth": {
+    "title": "Command Decorating Clips 3FB7J, Clear, 40-Clips",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Command Decorating Clips 3FB7J, Clear, 40-Clips\n\nSpecifications\n\nManufacturer\n3M\n\nPart #\n17026CLR-40ES.T1\n\nPrices\n\nMerchant | Base | Promo | Shipping | Tax | Availability | Total\n\nPrice History\n\n* Amazon pricing is not included in price history graphs.",
+    "with": [
+      "Command Decorating Clips 3FB7J, Clear, 40-Clips",
+      "Manufacturer\n3M",
+      "Part #\n17026CLR-40ES.T1",
+      "Amazon pricing is not included in price history graphs"
+    ],
+    "without": [
+      "Add to Part List",
+      "Log in to save to favorites",
+      "Log in to save to inventory"
+    ],
+    "main_content_markdown": "# Command Decorating Clips 3FB7J, Clear, 40-Clips\n\n## Specifications\n\n### Manufacturer\n3M\n\n### Part #\n17026CLR-40ES.T1\n\n## Prices\n\n| Merchant | Base | Promo | Shipping | Tax | Availability | Total |\n| --- | --- | --- | --- | --- | --- | --- |\n\n## Price History\n\n* Amazon pricing is not included in price history graphs."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

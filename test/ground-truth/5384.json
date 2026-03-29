@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://router.vuejs.org/guide/advanced/composition-api.html",
+  "file_id": "5384",
+  "ground_truth": {
+    "title": "Vue Router and the Composition API",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Vue Router and the Composition API\n\nThe introduction of Vue's Composition API opened up new possibilities, but to be able to get the full potential out of Vue Router, we will need to use a few new functions to replace access to this and in-component navigation guards.\n\nAccessing the Router and current Route inside setup\n\nBecause we don't have access to this inside of setup, we cannot directly access this.$router or this.$route. Instead, we use the useRouter and useRoute composables:\n\nvue < script setup >\nimport { useRouter, useRoute } from 'vue-router'\n\nconst router = useRouter ()\nconst route = useRoute ()\n\nfunction pushWithQuery ( query ) {\nrouter. push ({\nname: 'search',\nquery: {\n... route. query,\n... query,\n},\n})\n}\n</ script >\n\nThe route object is a reactive object. In most scenarios, you should avoid watching the whole route object. Instead, you can directly watch the properties you are expecting to change:\n\nvue < script setup >\nimport { useRoute } from 'vue-router'\nimport { ref, watch } from 'vue'\n\nconst route = useRoute ()\nconst userData = ref ()\n\n// fetch the user information when params change\nwatch (\n() => route. params. id,\nasync newId => {\nuserData. value = await fetchUser ( newId )\n}\n)\n</ script >\n\nNote we still have access to $router and $route in templates, so there's no need to use useRouter or useRoute if we only need those objects in the template.\n\nNavigation Guards\n\nVue Router exposes update and leave guards as Composition API functions:\n\nvue < script setup >\nimport { onBeforeRouteLeave, onBeforeRouteUpdate } from 'vue-router'\nimport { ref } from 'vue'\n\n// same as beforeRouteLeave option but with no access to `this`\nonBeforeRouteLeave (( to, from ) => {\nconst answer = window. confirm (\n'Do you really want to leave? you have unsaved changes!'\n)\n// cancel the navigation and stay on the same page\nif (! answer ) return false\n})\n\nconst userData = ref ()\n\n// same as beforeRouteUpdate option but with no access to `this`\nonBeforeRouteUpdate ( async ( to, from ) => {\n// only fetch the user if the id changed as maybe only the query or the hash changed\nif ( to. params. id!== from. params. id ) {\nuserData. value = await fetchUser ( to. params. id )\n}\n})\n</ script >\n\nComposition API guards can also be used in any component rendered by <router-view>, they don't have to be used directly on the route component like in-component guards.\n\nuseLink\n\nVue Router exposes the internal behavior of RouterLink as a composable. It accepts a reactive object like the props of RouterLink and exposes low-level properties to build your own RouterLink component or generate custom links:\n\nvue < script setup >\nimport { RouterLink, useLink } from 'vue-router'\nimport { computed } from 'vue'\n\nconst props = defineProps ({\n// add @ts-ignore if using TypeScript\n... RouterLink. props,\ninactiveClass: String,\n})\n\nconst {\n// the resolved route object\nroute,\n// the href to use in a link\nhref,\n// boolean ref indicating if the link is active\nisActive,\n// boolean ref indicating if the link is exactly active\nisExactActive,\n// function to navigate to the link\nnavigate,\n} = useLink ( props )\n\nconst isExternalLink = computed (\n() => typeof props. to === 'string' && props. to. startsWith ( 'http' )\n)\n</ script >\n\nNote that the RouterLink's v-slot gives access to the same properties as the useLink composable.",
+    "with": [
+      "The introduction of Vue's Composition API opened up new possibilities, but to be",
+      "Note we still have access to $router and $route in templates, so there's no need",
+      "if ( to. params. id!== from. params. id ) {",
+      "() => typeof props. to === 'string' && props. to. startsWith ( 'http' )"
+    ],
+    "without": [
+      "Discussions",
+      "Installation",
+      "Getting Started",
+      "Dynamic Route Matching"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "documentation"
+  }
+}

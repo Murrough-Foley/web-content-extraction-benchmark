@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.lulus.com/categories/6301_449/casual-dresses.html",
+  "file_id": "4291",
+  "ground_truth": {
+    "title": "Shop Casual Summer Dresses & Sundresses",
+    "author": null,
+    "publish_date": null,
+    "main_content": "664 Styles\n\nList of Casual Dresses containing 664 styles.\n\n1 Color\n\nShya Blue and White Striped Crochet Lace Midi Dress\n\n$79\n\n3 Colors\n\nLulus Essentially Sweet Washed Hot Pink Ribbed Sleeveless Midi Dress\n\n$69\n\n2 Colors\n\nLulus Exceptionally Pristine Green and Cream Striped Cutout Midi Dress\n\n$59\n\n1 Color\n\nLulus Adorable Impression White and Blue Midi Dress With Pockets\n\nOld price\n$79\n\nNew price $63.20\n\nwith code DEALS20\n\n4 Colors\n\nLulus Absolute Edge Orange Sleeveless Two-Piece Bodycon Midi Dress\n\n$72\n\n1 Color\n\nLulus Charming Presence Light Blue Chambray Mini Dress With Pockets\n\n$69\n\n1 Color\n\nLulus Clarissa Light Mint Tie-Back Mini Dress\n\n$55\n\n4 Colors\n\nLulus Breeze By Green Striped Tie-Back Mini Dress With Pockets\n\n$75\n\n2 Colors\n\nLulus Exceptionally Pristine Brown and Cream Striped Cutout Midi Dress\n\n$59\n\n2 Colors\n\nLulus Feeling the Best Navy Striped Tie-Back Midi Dress with Pockets\n\nOld price\n$79\n\nNew price $63.20\n\nwith code DEALS20\n\n3 Colors\n\nLulus Chic Ease Navy Blue Sleeveless Mini Dress\n\n$49\n\n1 Color\n\nO'Neill Miranda White Multi Geometric Print Midi Dress\n\n$58\n\nof 12\n\nCasual Dresses\n\nTrendy and Casual Dress\n\nIf you can rock a dress, then why wouldn't you? They're pretty standard for special occasions, but truthfully, we'll take any opportunity to slip into our favorite one-and-done frock. That's why we keep our shop stocked with tons of casual dresses that will make any day better. Whether you're heading to the beach or the park, or you're simply looking for something you can sport while running weekend errands or brunching, you've come to the right place — so let's keep it casual.\n\nOur collection of casual dresses for women currently includes must-haves like drawstring-waist dresses, tiered babydoll styles, button-front dresses, puff sleeve dresses, and mini dresses in breezy fabrics like cotton and linen blends. If you prefer a fitted shape, choose an easy style like a jersey t-shirt dress or ribbed tank dress (just add sneakers or flat sandals!). Prints like stripes, ditsy floral prints, gingham, denim, and tie dye all add to the laid-back vibe, as well. The less structured the dress is, the more casual it feels. Fashionably unfussy? That's you.",
+    "with": [
+      "List of Casual Dresses containing 664 styles.",
+      "Lulus Adorable Impression White and Blue Midi Dress With Pockets",
+      "Lulus Exceptionally Pristine Brown and Cream Striped Cutout Midi Dress",
+      "If you can rock a dress, then why wouldn't you? They're pretty standard for spec"
+    ],
+    "without": [
+      "Back In Stock",
+      "All Women's Clothing",
+      "All Casual Clothing",
+      "New In Casual Dresses"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "collection"
+  }
+}

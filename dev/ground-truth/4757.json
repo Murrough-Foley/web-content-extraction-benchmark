@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.glossier.com/en-bg/collections/skincare-sets?srsltid=AfmBOorGBao_0Zz0cm0zwR71MEKIchWInICHCUiWWDGbjYVqPZmQCeRs",
+  "file_id": "4757",
+  "ground_truth": {
+    "title": "Skincare Sets",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Skincare Sets\n\n4 items\n\nBalm Dotcom Trio\nOriginal formula\nSale price: €49,95\nRegular price: €57,95\n\nThe Super Pack\nAll three serums\nSale price: €104,95\nRegular price: €121,95\n\nThe Dewy Look\nCloud Paint + Futuredew\nSale price: €51,95\nRegular price: €64,95\n\nSip + Smile Duo\nSale price: €35,95\nRegular price: €40,95",
+    "main_content_markdown": "Skincare Sets\n\n4 items\n\n### [Balm Dotcom Trio](/en-bg/products/balm-dotcom-trio?variant=46731770429685)\nOriginal formula\nSale price: €49,95\nRegular price: €57,95\n\n### [The Super Pack](/en-bg/products/super-pack?variant=43781982126325)\nAll three serums\nSale price: €104,95\nRegular price: €121,95\n\n### [The Dewy Look](/en-bg/products/the-dewy-look?variant=44451546497269)\nCloud Paint + Futuredew\nSale price: €51,95\nRegular price: €64,95\n\n### [Sip + Smile Duo](/en-bg/products/sip-smile-duo?variant=46031022063861)\nSale price: €35,95\nRegular price: €40,95",
+    "with": [
+      "Balm Dotcom Trio",
+      "The Super Pack",
+      "The Dewy Look",
+      "Sip + Smile Duo"
+    ],
+    "without": [
+      "Bestsellers",
+      "Returns & exchanges",
+      "International",
+      "Responsible disclosure",
+      "Cleansers",
+      "Treatments",
+      "Sunscreen",
+      "Moisturizers"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "article"
+  }
+}

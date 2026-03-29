@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://miro.com/",
+  "file_id": "2846",
+  "ground_truth": {
+    "title": "Get from brainstorm to breakthrough with Miro",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Flow from idea to outcome in seconds\n\nThe only thing more important than moving fast is moving the needle\n\nSee how over 250,000 companies are getting great done in Miro\n\n3.6x faster time to market\n\n50% shorter planning process\n\n100M+ people collaborating on Miro\n\n250+ apps and integrations\n\n6,000+ templates\n\n\"Being able to bring everyone together to plan in Miro ultimately means that the most impactful initiatives will happen at the right time – and customers will get the functionality they want.\"\n\nLucy Starling\n\nProduct Operations Lead at ASOS\n\nExperience the Innovation Workspace\n\nAccelerate your team with collaborative AI workflows\n\nIntelligent Canvas\n\nEmpower teamwork on one, infinite, multiplayer canvas\n\nFormats\n\nMove quickly from ideas to structured plans and work with Docs, Tables, Slides, Diagrams and more\n\nBlueprints\n\nAutomate key processes and ensure your workflows are scalable, repeatable, and efficient\n\nEnterprise Security & Scale\n\nSecure and scalable collaboration on an enterprise-grade platform you can trust\n\nIntegrations\n\nConnects with 250+ apps so teams stay aligned and productive in one scalable, secure workspace.\n\nIntroducing Miro for Product Acceleration\n\nBreak free from tool boundaries. Align faster. And ship what customers actually need—in one AI workspace.",
+    "with": [
+      "See how over 250,000 companies are getting great done in Miro",
+      "Product Operations Lead at ASOS",
+      "Move quickly from ideas to structured plans and work with Docs, Tables, Slides, Diagrams and more",
+      "Break free from tool boundaries.",
+      "Empower teamwork on one, infinite, multiplayer canvas"
+    ],
+    "without": [
+      "Sign up free",
+      "Contact sales",
+      "Online whiteboard",
+      "Miro Academy"
+    ],
+    "main_content_markdown": "Flow from idea to outcome in seconds\n\nThe only thing more important than moving fast is moving the needle\n\nSee how over 250,000 companies are getting great done in Miro\n\n3.6x faster time to market\n\n50% shorter planning process\n\n100M+ people collaborating on Miro\n\n250+ apps and integrations\n\n6,000+ templates\n\n\"Being able to bring everyone together to plan in Miro ultimately means that the most impactful initiatives will happen at the right time - and customers will get the functionality they want.\"\n\nLucy Starling\n\nProduct Operations Lead at ASOS\n\n## Experience the Innovation Workspace\n\nAccelerate your team with collaborative AI workflows\n\n### Intelligent Canvas\n\nEmpower teamwork on one, infinite, multiplayer canvas\n\n### Formats\n\nMove quickly from ideas to structured plans and work with Docs, Tables, Slides, Diagrams and more\n\n### Blueprints\n\nAutomate key processes and ensure your workflows are scalable, repeatable, and efficient\n\nEnterprise Security & Scale\n\nSecure and scalable collaboration on an enterprise-grade platform you can trust\n\n### Integrations\n\nConnects with 250+ apps so teams stay aligned and productive in one scalable, secure workspace.\n\n## Introducing Miro for Product Acceleration\n\nBreak free from tool boundaries. Align faster. And ship what customers actually need-in one AI workspace."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

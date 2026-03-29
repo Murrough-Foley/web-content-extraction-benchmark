@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "url": "https://legal.thomsonreuters.com/en/insights/articles/creating-a-cost-benefit-analysis-for-moving-legal-work-in-house",
+  "file_id": "0237",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "legal",
+        "business",
+        "corporate-law",
+        "in-house-counsel"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "How to be sure moving legal work in-house is the right move",
+    "author": null,
+    "publish_date": "2025-05-27",
+    "main_content": "This article is based upon the Practice Note, \"Saving Costs by Bringing More Legal Work In-House,\" one of the more than 65,000 resources available in Practical Law.\n\nIn the past few years, there has been a trend to move more legal work in-house. According to the first annual report produced by Thomson Reuters and Acritas, in 2013, only 37 percent of the legal budget was spent in-house; by 2017, that percentage had risen to 43 percent. (2018 State of Corporate Law Departments: Innovation, Data and Collaboration Drive Optimal Results, Thomson Reuters and Acritas)\n\nAlthough saving legal costs is a major force behind this trend, there are many other benefits to moving legal work in-house, provided the law department has the internal resources to handle these matters competently, efficiently, and cost-effectively.\n\nIf the department has such resources, then the next step before making a final decision to move matters in-house is to perform a thorough cost-benefit analysis. Essential elements of this analysis include:\n\nCurrent and anticipated tasks and responsibilities and their relative importance in supporting the company's business objectives\nSize and organization of the law department\nStaff and their skills, expertise, experience, and workload\nAbility to minimize potential inefficiencies resulting from taking legal work from outside counsel who may have provided legal services to the company for many years\nBudget\nVolume of complex versus commodity work\nOutside counsel spend on company legal matters broken down by:\nLaw firm\nResponsible in-house attorney\nHourly billing rates for each outside attorney providing legal services\n\nA further point of comparison is to compare the hourly rate of outside counsel with that of an in-house attorney. To determine the in-house attorney's hourly rate, take the cost of that attorney's salary and benefits and divide by 2,000 hours of work. Typically, you'll find that the in-house rate is easily one half or even one third that of outside counsel.\n\nIf you determine that moving work in-house is both cost-efficient and plausible for your organization, the next step is to evaluate the staffing in your department and prioritize the matters to pull back.",
+    "with": [
+      "In the past few years, there has been a trend to move more legal work in-house.",
+      "Essential elements of this analysis include:",
+      "Ability to minimize potential inefficiencies resulting from taking legal work from outside counsel",
+      "To determine the in-house attorney's hourly rate, take the cost of that attorney's salary and benefits and divide by 2,000 hours of work."
+    ],
+    "without": [
+      "Skip to main content",
+      "Sign into your products",
+      "Questions? We are here to help",
+      "Privacy statement"
+    ],
+    "main_content_markdown": "This article is based upon the Practice Note, \"[Saving Costs by Bringing More Legal Work In-House](https://content.next.westlaw.com/Document/Ib14c9626b80211e698dc8b09b4f043e0/View/FullText.html?transitionType=SearchItem&contextData=(sc.Search)),\" one of the more than 65,000 resources available in Practical Law.\n\nIn the past few years, there has been a trend to move more legal work in-house. According to the first annual report produced by Thomson Reuters and Acritas, in 2013, only 37 percent of the legal budget was spent in-house; by 2017, that percentage had risen to 43 percent. (2018 State of Corporate Law Departments: Innovation, Data and Collaboration Drive Optimal Results, Thomson Reuters and Acritas)\n\nAlthough saving legal costs is a major force behind this trend, there are many other benefits to moving legal work in-house, provided the law department has the internal resources to handle these matters competently, efficiently, and cost-effectively.\n\nIf the department has such resources, then the next step before making a final decision to move matters in-house is to perform a thorough cost-benefit analysis. Essential elements of this analysis include:\n\nCurrent and anticipated tasks and responsibilities and their relative importance in supporting the company's business objectives\nSize and organization of the law department\nStaff and their skills, expertise, experience, and workload\nAbility to minimize potential inefficiencies resulting from taking legal work from outside counsel who may have provided legal services to the company for many years\nBudget\nVolume of complex versus commodity work\nOutside counsel spend on company legal matters broken down by:\nLaw firm\nResponsible in-house attorney\nHourly billing rates for each outside attorney providing legal services\n\nA further point of comparison is to compare the hourly rate of outside counsel with that of an in-house attorney. To determine the in-house attorney's hourly rate, take the cost of that attorney's salary and benefits and divide by 2,000 hours of work. Typically, you'll find that the in-house rate is easily one half or even one third that of outside counsel.\n\nIf you determine that moving work in-house is both cost-efficient and plausible for your organization, the next step is to evaluate the staffing in your department and prioritize the matters to pull back."
+  }
+}

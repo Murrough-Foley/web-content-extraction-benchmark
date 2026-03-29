@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://nathanbenaich.substack.com/about",
+  "file_id": "4440",
+  "ground_truth": {
+    "title": "State of AI newsletter",
+    "author": "Nathan Benaich",
+    "publish_date": null,
+    "main_content": "Welcome to the State of AI Newsletter\n\nThe State of AI is my monthly newsletter on artificial intelligence research, industry, geopolitics, and startups.\n\nEach issue synthesizes the most important developments in AI research, industry, startups, and policy over the past month, with a focus on what matters long term rather than what dominates daily news cycles. The newsletter reflects my judgment on where the field is heading, what is misunderstood, and which shifts are likely to shape technology, markets, and power.\n\nThe State of AI newsletter is edited by Nathan Benaich, Founder and General Partner of Air Street Capital. It was launched in 2015 and is read by more than 30,000 subscribers worldwide.\n\nWhat the State of AI covers\n\nEach monthly issue focuses on:\n\nMajor advances in artificial intelligence research and frontier models\n\nShifts in AI markets, capital allocation, and industry structure\n\nGeopolitical and policy developments shaping global AI competition\n\nWhat I believe matters most, and what I think is often misinterpreted\n\nThe emphasis is on synthesis and signal, not exhaustive coverage.\n\nHow this differs from Air Street Press\n\nWhile Air Street Press publishes a broad range of essays, research, market analysis, and community updates on artificial intelligence, the State of AI newsletter is deliberately narrower.\n\nIt is a focused, monthly synthesis of the state of the field, intended to help readers step back, connect the dots, and understand how advances in AI research, markets, and geopolitics fit together.\n\nWho the State of AI Newsletter is for\n\nThe State of AI is written for:\n\nFounders and executives building AI-first companies\n\nInvestors tracking AI markets and long-term technological trends\n\nResearchers and engineers seeking a high-level synthesis of the field\n\nPolicymakers and analysts following AI geopolitics and regulation\n\nFrom the Guide to AI to the State of AI\n\nThis newsletter was previously published as The Guide to AI. The name change reflects how artificial intelligence has evolved from a set of tools and techniques into a general-purpose technology shaping markets, geopolitics, and global competition.\n\nThe editorial approach remains the same: rigorous, independent analysis grounded in long-term thinking.\n\nFrequently Asked Questions\n\nWhat is the State of AI newsletter?\nThe State of AI is a monthly newsletter by Nathan Benaich that synthesizes key developments in artificial intelligence, AI markets, and geopolitics.\n\nHow often is it published?\nThe newsletter is published once a month.\n\nWho writes the State of AI newsletter?\nThe State of AI is written and edited by Nathan Benaich.\n\nWhere can I learn more about Air Street Capital?\nAir Street Capital is a venture capital firm investing exclusively in AI-first companies. We back companies for which advances in artificial intelligence are the primary driver of product capability, competitive advantage, and long-term value creation. The firm was founded and is run by Nathan Benaich, solo General Partner. Air Street Capital invests globally, with a focus on Europe and the United States, and works with founders building frontier AI systems, infrastructure, and applications that are technically differentiated and research-driven from day one. You can learn more on here.",
+    "with": [
+      "Each issue synthesizes the most important developments in AI research, industry,",
+      "The emphasis is on synthesis and signal, not exhaustive coverage.",
+      "This newsletter was previously published as The Guide to AI. The name change ref",
+      "Air Street Capital is a venture capital firm investing exclusively in AI-first c"
+    ],
+    "without": [
+      "Subscribe to State of AI newsletter",
+      "The monthly newsletter analysing the most important AI technology, research, geopolitics and startups.",
+      "© 2026 Nathan Benaich",
+      "Collection notice"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "draft",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "article"
+  }
+}

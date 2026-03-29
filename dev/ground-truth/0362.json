@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.psafinancial.com/commercial-insurance/specialty-industry-specific-programs/mobility-industry/mobility-industry-resources/best-practices-vehicle-rentals-2/",
+  "file_id": "0362",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "insurance",
+        "guide",
+        "vehicle-rentals",
+        "risk-management"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Best Practices for Vehicle Rentals",
+    "author": null,
+    "publish_date": null,
+    "main_content": "A good risk management safety program requires proper screening of prospective renters to ensure that only qualified drivers operate your vehicles. Implementing sound practices at the rental counter is the first step in maintaining the safety and condition of your fleet of vehicles.\n\nKey topics discussed in the guide include:\n\n- General procedures at the rental counter\n- For-hire vehicle rental steps\n- Rental practices for international drivers\n- Reporting losses\n- Renting vehicles with hand controls",
+    "with": [
+      "A good risk management safety program requires proper screening of prospective renters to ensure that only qualified drivers operate your vehicles.",
+      "Implementing sound practices at the rental counter is the first step in maintaining the safety and condition of your fleet of vehicles.",
+      "Key topics discussed in the guide include:"
+    ],
+    "without": [
+      "Pay a Bill",
+      "(800) 677-7887",
+      "Copyright © 2023 PSA Financial Advisors, Inc.",
+      "We use cookies to provide you with the best possible experience."
+    ],
+    "main_content_markdown": "A good risk management safety program requires proper screening of prospective renters to ensure that only qualified drivers operate your vehicles. Implementing sound practices at the rental counter is the first step in maintaining the safety and condition of your fleet of vehicles.\n\n**Key topics discussed in the guide include:**\n\n- General procedures at the rental counter\n- For-hire vehicle rental steps\n- Rental practices for international drivers\n- Reporting losses\n- Renting vehicles with hand controls"
+  }
+}

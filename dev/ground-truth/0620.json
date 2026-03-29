@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.wayfair.com/lighting/pdp/bread-stone-x-beaded-cut-16-row-woodland-bop1026.html",
+  "file_id": "0620",
+  "ground_truth": {
+    "title": "Boss Office Products Executive Chair",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Features\n\nHand-applied individual antique brass head nail trim\n\nSpecifications\n\nProduct Dimensions\n\nSeat: 20'' H X 24'' W X 19'' D\nAdjustable Seat Minimum Dimensions: 20'' H\nAdjustable Seat Maximum Dimensions: 23'' H\nBase: 27'' W X 27'' D\nOverall Dimensions: 43'' H X 27'' W X 28'' D\nArmrests Min Height - Floor to Armrest: 27'' H\nMinimum Overall Height - Top to Bottom: 43.5'' H\nChair/Stool Back Width - Side to Side: 20'' W\nArmrests Max Height - Floor to Armrest: 31'' H\nSeat Cushion Thickness: 4'' H\nMaximum Overall Height - Top to Bottom: 47'' H\nOverall Product Weight: 58 lb.\nChair Back Height - Seat to Top of Back: 27.5'' H\n\nDetails\n\nProduct Type: Executive Chair\nFrame Material: Manufactured Wood\nBack Construction: Manufactured Wood\nSeat Material: Upholstered\nUpholstery Material: Vinyl\nAdjustable Backrest-Height: No\nBack Material: Upholstered\nBack Upholstery Material: Vinyl\nBack Fill Material: Foam\nArms Included: Yes\nSwivel: Yes\nLumbar Support: Yes\nTilting: Yes\nTilt Lock: Yes\nAdjustable Tilt Tension: Yes\nAdjustable Backrest: No\nAdjustable Height: Yes\nWaterfall Seat Included: Yes\nRecommended Daily Usage: Medium Usage (8+ Hours)\nCasters / Wheels: Yes\nCompatible Floor Type: Carpet, Linoleum / Laminate, Tile\nImported: Yes\nWeight Capacity: 275 lb.\nProduct Care: Spot clean\nPadded: Yes\nUpholstered Components: Seat, Back\nArm Material: Wood\nUpholstery Fill Material: Foam\nFrame Color / Finish: Mahogany\nPlug-In: No\nArm Type: Fixed\nTilt Mechanism Type: Center Tilt\nCaster Type: Hooded, Double Wheel\n\nSustainability Certificate(s): MAS Certified Green\n\nAssembly Required: Yes\nSuggested Number of People for Assembly / Installation: 1\nAdditional Tools Required (Not Included): Screwdriver\n\nCommercial Warranty: Yes\nCommercial Warranty Length: 5 Years\nProduct Warranty: Yes\nFull or Limited Warranty: Limited\nWarranty Length: 5 Years\nWarranty Details: Limited 6 years",
+    "main_content_markdown": "Features\n\nHand-applied individual antique brass head nail trim\n\n## Specifications\n\nProduct Dimensions\n\nSeat: 20'' H X 24'' W X 19'' D\nAdjustable Seat Minimum Dimensions: 20'' H\nAdjustable Seat Maximum Dimensions: 23'' H\nBase: 27'' W X 27'' D\nOverall Dimensions: 43'' H X 27'' W X 28'' D\nArmrests Min Height - Floor to Armrest: 27'' H\nMinimum Overall Height - Top to Bottom: 43.5'' H\nChair/Stool Back Width - Side to Side: 20'' W\nArmrests Max Height - Floor to Armrest: 31'' H\nSeat Cushion Thickness: 4'' H\nMaximum Overall Height - Top to Bottom: 47'' H\nOverall Product Weight: 58 lb.\nChair Back Height - Seat to Top of Back: 27.5'' H\n\nDetails\n\nProduct Type: Executive Chair\nFrame Material: Manufactured Wood\nBack Construction: Manufactured Wood\nSeat Material: Upholstered\nUpholstery Material: Vinyl\nAdjustable Backrest-Height: No\nBack Material: Upholstered\nBack Upholstery Material: Vinyl\nBack Fill Material: Foam\nArms Included: Yes\nSwivel: Yes\nLumbar Support: Yes\nTilting: Yes\nTilt Lock: Yes\nAdjustable Tilt Tension: Yes\nAdjustable Backrest: No\nAdjustable Height: Yes\nWaterfall Seat Included: Yes\nRecommended Daily Usage: Medium Usage (8+ Hours)\nCasters / Wheels: Yes\nCompatible Floor Type: Carpet, Linoleum / Laminate, Tile\nImported: Yes\nWeight Capacity: 275 lb.\nProduct Care: Spot clean\nPadded: Yes\nUpholstered Components: Seat, Back\nArm Material: Wood\nUpholstery Fill Material: Foam\nFrame Color / Finish: Mahogany\nPlug-In: No\nArm Type: Fixed\nTilt Mechanism Type: Center Tilt\nCaster Type: Hooded, Double Wheel\n\nSustainability Certificate(s): MAS Certified Green\n\nAssembly Required: Yes\nSuggested Number of People for Assembly / Installation: 1\nAdditional Tools Required (Not Included): Screwdriver\n\nCommercial Warranty: Yes\nCommercial Warranty Length: 5 Years\nProduct Warranty: Yes\nFull or Limited Warranty: Limited\nWarranty Length: 5 Years\nWarranty Details: Limited 6 years",
+    "with": [
+      "Hand-applied individual antique brass head nail trim",
+      "Seat: 20'' H X 24'' W X 19'' D",
+      "Overall Dimensions: 43'' H X 27'' W X 28'' D",
+      "Overall Product Weight: 58 lb.",
+      "Upholstery Material: Vinyl"
+    ],
+    "without": [
+      "Add to Cart",
+      "Skip to Main Content",
+      "Customer Reviews",
+      "FREE Fast Delivery"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": []
+    }
+  }
+}

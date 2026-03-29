@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.sleepnumber.com/products/sleep-sound-therapy-system",
+  "file_id": "4107",
+  "ground_truth": {
+    "title": "Sleep Sound Therapy System",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Sleep Sound Therapy System\n\nClearance - while supplies last\n\nCurrent price: $34.99 Original price: $49.99 Save $15\n\nFree shipping on all bedding\n\nCreate a calming environment with soothing sounds designed to help promote sleep. This white noise sound machine is compact size which makes it perfect for traveling or gifting.\n\nMicro SD card includes 20 calming sounds, including nature sounds and pink noise, curated based on Alpha, Beta and Delta brain waves to help coax you into a state of restfulness. High fidelity sound quality. Can also be used as a Bluetooth speaker with a 30-foot range. Built-in rechargeable lithium battery allows for 4-5 hours of cordless use on a single charge.\n\nIncludes:\n\n- One sound machine\n- One micro SD card\n- One USB charging cable\n\nFind the instruction manual in this PDF for everything you need to know about the Sleep Sound Therapy System.\n\nOne size:\n\n2\" x 2\" x 2\"",
+    "with": [
+      "Current price: $34.99 Original price: $49.99 Save $15",
+      "This white noise sound machine is compact size which makes it perfect for traveling or gifting.",
+      "Can also be used as a Bluetooth speaker with a 30-foot range.",
+      "battery allows for 4-5 hours of cordless use on a single charge"
+    ],
+    "without": [
+      "1-877-773-3641",
+      "Sleep Number Home",
+      "Save up to 40% on select mattresses",
+      "0 item(s) in your cart"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "high",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  }
+}

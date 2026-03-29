@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://beersmith.com/forum/index.php?threads/simple-home-brew-recipe.16986/",
+  "file_id": "5019",
+  "ground_truth": {
+    "title": "Simple Home Brew Recipe ??",
+    "author": null,
+    "publish_date": "2017-09-01",
+    "main_content": "Wondering if anyone has a simple recipe to get me started with making home brew beer, or wine or mead.\n\nThank you\n\nProbably best to just buy a recipe kit either on line or from your local home brew shop. If you don't have the equipment needed to brew most shops have starter sets and some of the sets come with a recipe kit.\n\nGrab an all grain kit and equipment kit on morebeer, and make a batch, extracts are fine but your first all grain batch even if it isn't amazing will get you hooked. I've never made a bad batch of beer. Hell my first batch won a award...\n\nI like wine and all but it takes so long to make compared to beer that I don't make it because I guess I can't wait 1 year for a good wine lol.\n\nMead can be the same it's not uncommon to wait 6 months or more.",
+    "with": [
+      "Wondering if anyone has a simple recipe to get me started with making home brew",
+      "Probably best to just buy a recipe kit either on line or from your local home br",
+      "Grab an all grain kit and equipment kit on morebeer",
+      "I like wine and all but it takes so long to make compared to beer"
+    ],
+    "without": [
+      "Privacy policy",
+      "Terms and rules",
+      "New posts",
+      "Search forums"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "forum"
+  }
+}

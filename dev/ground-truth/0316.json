@@ -1,0 +1,38 @@
+{
+  "schema_version": "2.0",
+  "url": "https://web.dev/learn",
+  "file_id": "0316",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "education",
+        "web-development",
+        "courses",
+        "tutorials"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Learn web development",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Explore our growing collection of courses on key web design and development subjects. An industry expert has written each course, helped by members of the Chrome team. Follow the modules sequentially, or dip into the topics you most want to learn about.\n\nLearn HTML - A solid overview of HTML for developers, from novice to expert level HTML.\n\nLearn CSS - A guide to CSS with modules covering everything from accessibility to z-index.\n\nLearn JavaScript - An in-depth course on the basics of JavaScript.\n\nLearn Performance - A course for those new to web performance, a vital aspect of the user experience.\n\nLearn Privacy - A course to help you build more privacy-preserving websites.\n\nLearn Accessibility - Discover how to make your websites and web apps more accessible.\n\nLearn Images - A course covering everything from selecting the right formats, to responsive images, and performance.\n\nLearn Design - Let's explore all aspects of responsive design, learning how to make sites that look great and work well for everyone.\n\nLearn Forms - A course about HTML forms to help you improve your web developer expertise.\n\nLearn PWA - A course that breaks down every aspect of modern progressive web app development.\n\nLearn Testing - An in-depth course on software testing.",
+    "with": [
+      "An industry expert has written each course, helped by members of the Chrome team.",
+      "Follow the modules sequentially, or dip into the topics you most want to learn about.",
+      "Discover how to make your websites and web apps more accessible.",
+      "A course that breaks down every aspect of modern progressive web app development.",
+      "An in-depth course on software testing."
+    ],
+    "without": [
+      "Skip to main content",
+      "Sign in",
+      "File a bug",
+      "Terms"
+    ],
+    "main_content_markdown": "Explore our growing collection of courses on key web design and development subjects. An industry expert has written each course, helped by members of the Chrome team. Follow the modules sequentially, or dip into the topics you most want to learn about.\n\n[Learn HTML](https://web.dev/learn/html) - A solid overview of HTML for developers, from novice to expert level HTML.\n\n[Learn CSS](https://web.dev/learn/css) - A guide to CSS with modules covering everything from accessibility to z-index.\n\n[Learn JavaScript](https://web.dev/learn/javascript) - An in-depth course on the basics of JavaScript.\n\n[Learn Performance](https://web.dev/learn/performance) - A course for those new to web performance, a vital aspect of the user experience.\n\n[Learn Privacy](https://web.dev/learn/privacy) - A course to help you build more privacy-preserving websites.\n\n[Learn Accessibility](https://web.dev/learn/accessibility) - Discover how to make your websites and web apps more accessible.\n\n[Learn Images](https://web.dev/learn/images) - A course covering everything from selecting the right formats, to responsive images, and performance.\n\n[Learn Design](https://web.dev/learn/design) - Let's explore all aspects of responsive design, learning how to make sites that look great and work well for everyone.\n\n[Learn Forms](https://web.dev/learn/forms) - A course about HTML forms to help you improve your web developer expertise.\n\n[Learn PWA](https://web.dev/learn/pwa) - A course that breaks down every aspect of modern progressive web app development.\n\n[Learn Testing](https://web.dev/learn/testing) - An in-depth course on software testing."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.rosepestsolutions.com/locations/michigan/westland-michigan-pest-control",
+  "file_id": "4937",
+  "ground_truth": {
+    "title": "Pest Control Westland Michigan",
+    "author": null,
+    "publish_date": null,
+    "main_content": "(800) 883-6376\n(313) 582-1300\nRose Pest Solutions Westland\n32952 Capitol St.\nLivonia, MI 48150\n\nWestland, Michigan Pest Control\n\nRose Pest Solutions proudly serves the businesses and homeowners of Westland and surrounding areas, out of our Metro Detroit West District office in Livonia, Michigan. We provide eco-friendly, affordable pest control services to fit each one of our customer’s unique needs. Rose technicians receive ongoing education to stay up-to-date with the latest pest control technology. Our philosophy combines inspection, prevention and treatment, to help our customers get rid of pests, and prevent them from returning.\n\nServices Offered\n\nResidential Pest Control for common household bugs and rodents\n\nCommercial Pest Control Services\n\nIntegrated Pest Management\n\nBed Bug Detection and Treatment\n\nTermite control featuring the Sentricon© Termite Colony Elimination System\n\nMosquito control for the home and for businesses\n\nWildlife Removal for rodents, squirrels, raccoons and other nuisance wildlife\n\nContact Rose Pest Solution In Westland Michigan today to schedule an inspection!\n\nFor Year-Round Protection Consider The Rose Home Service Program.\n\nThe Rose Home Service Program offers regularly scheduled pest control services for a single annual price, designed to identify and prevent infestations of the most common pests. Whether you're dealing with ants, spiders, or other common invaders, our Home Service Programs provide year-round protection and peace of mind.",
+    "with": [
+      "Residential Pest Control for common household bugs and rodents",
+      "Termite control featuring the Sentricon© Termite Colony Elimination System",
+      "Contact Rose Pest Solution In Westland Michigan today to schedule an inspection!",
+      "For Year-Round Protection Consider The Rose Home Service Program."
+    ],
+    "without": [
+      "CONTACT US",
+      "(800) 966-7673",
+      "Toggle navigation"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "service"
+  }
+}

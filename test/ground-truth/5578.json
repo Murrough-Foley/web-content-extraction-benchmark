@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://parentingoc.com/health-wellness/balance-for-working-moms/",
+  "file_id": "5578",
+  "ground_truth": {
+    "title": "Balance for Working Moms",
+    "author": "Katy McInnes",
+    "publish_date": "2025-10-17",
+    "main_content": "How do you find balance as a working parent?\n\nWhen I became a mom, everything in my world shifted. My daughter is now 14 months old, and I can honestly say that motherhood has changed how I see everything from my work to my priorities to what “balance” actually looks like. Before my daughter was born, I would have called myself a workaholic. I’ve always wanted to be a mom and work in a space where I can help all kids thrive.\n\nToday, as the director of partnerships at Child Creativity Lab, I work with TK-12 students across the county, helping them discover their creativity and confidence, especially those from low-income communities who might not otherwise have access to STEAM programs. It’s work I love deeply, and it demands a lot of time, energy and emotional investment.\n\nAt the end of the day, balance should look different for everyone. There’s no perfect formula, and it should change from week to week, sometimes even from hour to hour. As a working mom, what matters most is giving yourself grace and learning to define balance on your own terms.\n\nWork-Life Balance Isn’t a Myth, It’s Just Tricky\n\nWork-life balance isn’t about equal hours, it’s about being present wherever you are. I consider myself incredibly lucky to work for an organization that values flexibility for working parents. That flexibility also means that some nights I’m answering emails after my daughter has gone to bed or catching up early in the morning before she wakes up. When your workplace trusts you to manage your time and respects your role as a parent, you want to give that same respect and effort back.\n\nWhen I’m with my daughter, I try to truly engage by putting away my phone and focusing on her. However, I don’t always get it right. I have moments where I disengage to check an email, only to look up and realize she’s tripped and now crying. Every working mom has and that’s why it’s necessary to have grace for yourself.\n\nBeing a working mom means constantly adjusting the equation. I’ve learned to set parameters: No work Friday nights through Sunday if I can help it, and to communicate openly with my team. I was upfront from the start about needing flexibility, and I’m grateful to work with people who understand. If you’re re-entering the workforce as a new parent, it is important to have those conversations early. If the response is negative, that should be a red flag.\n\nDon’t Carry the Burden Alone\n\nOne of the best things I’ve learned is to try not to internalize the guilt I feel when I can’t be everywhere at once. Talk to your partner, your parents, your friends, whoever your support system is and let yourself vent. None of us have it perfectly figured out, so you can’t beat yourself up about it.\n\nGrowing up, I watched my mom build her business — she was such a powerhouse professionally. I didn’t understand how much work that took to grow professionally, while growing a family, and now I find myself wanting to model that same strength for my daughter.\n\nParenting is a marathon, not a sprint. Some days it will feel like you’ve dropped the ball on both fronts, at work and at home. I remind myself to take the average of the week, not a pulse check of the day.\n\nIt Takes a Village\n\nThrough my work and as a board member for First 5 Orange County, I’ve come to appreciate even more how much of a child’s foundation is built in those first five years, as well as how much parents need support during that time. We focus on nurturing children’s creativity and curiosity, and we also have to nurture parents. Finding balance isn’t about scheduling — it’s about giving yourself permission to be imperfect and present.\n\nAt the end of the day, being a working mom is awesome. It’s exhausting, chaotic and sometimes overwhelming. It’s also empowering and deeply meaningful. We’re modeling resilience and purpose for our children. What your version of balance looks like, own it and remember: You’re doing better than you think.\n\nKaty McInnes is a First 5 Orange County board member and the director of partnerships at Child Creativity Lab, a nonprofit organization dedicated to igniting the next generation’s creativity, confidence and problem-solving skills through hands-on STEAM education.",
+    "with": [
+      "When I became a mom, everything in my world shifted. My daughter is now 14 month",
+      "Work-Life Balance Isn’t a Myth, It’s Just Tricky",
+      "Growing up, I watched my mom build her business — she was such a powerhouse prof",
+      "At the end of the day, being a working mom is awesome. It’s exhausting, chaotic "
+    ],
+    "without": [
+      "Things To Do",
+      "Animal Encounters",
+      "Newsletter",
+      "Outdoor Activities"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "article"
+  }
+}

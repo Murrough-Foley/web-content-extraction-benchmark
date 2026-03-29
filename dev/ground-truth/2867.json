@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://docs.docker.com/get-started/introduction/",
+  "file_id": "2867",
+  "ground_truth": {
+    "title": "Introduction",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Embark on a comprehensive learning path to understand Docker and containerization, beginning with foundational concepts and installation procedures. Progress through hands-on exercises that cover essential Docker commands, image creation, and container orchestration.\n\nAbout this series\n\nIn this guide series, you will gain hands-on experience with Docker, starting with installing and setting up Docker Desktop on your local machine. You will learn how to run your first container, understanding the basics of containerization and its benefits. This series guides you through building your first Docker image, providing insights into creating efficient and reusable images. Finally, you will explore how to publish your image on Docker Hub, enabling you to share your work with the broader community and leverage Docker's powerful ecosystem for collaborative development and deployment.\n\nWhat you'll learn\n\n- Set up Docker Desktop\n- Run your first container\n- Build your first image\n- Publish your image on Docker Hub\n\nModules\n\n1. Get Docker Desktop\nThis concept page will teach you download Docker Desktop and install it on Windows, Mac, and Linux\n2. Develop with containers\nThis concept page will teach you how to develop with containers\n3. Build and push your first image\nThis concept page will teach you how to build and push your first image\n4. What's next\nExplore step-by-step guides to hep you understand core Docker concepts, building images, and running containers.",
+    "with": [
+      "Embark on a comprehensive learning path to understand Docker and containerization",
+      "you will gain hands-on experience with Docker, starting with installing and setting up Docker Desktop",
+      "Set up Docker Desktop",
+      "Build and push your first image",
+      "enabling you to share your work with the broader community"
+    ],
+    "without": [
+      "Edit this page",
+      "Request changes",
+      "Cookies Settings",
+      "Product offerings"
+    ],
+    "main_content_markdown": "Embark on a comprehensive learning path to understand Docker and containerization, beginning with foundational concepts and installation procedures. Progress through hands-on exercises that cover essential Docker commands, image creation, and container orchestration.\n\n## About this series\n\nIn this guide series, you will gain hands-on experience with Docker, starting with installing and setting up Docker Desktop on your local machine. You will learn how to run your first container, understanding the basics of containerization and its benefits. This series guides you through building your first Docker image, providing insights into creating efficient and reusable images. Finally, you will explore how to publish your image on Docker Hub, enabling you to share your work with the broader community and leverage Docker's powerful ecosystem for collaborative development and deployment.\n\n## What you'll learn\n\n- Set up Docker Desktop\n- Run your first container\n- Build your first image\n- Publish your image on Docker Hub\n\n## Modules\n\n1. Get Docker Desktop\nThis concept page will teach you download Docker Desktop and install it on Windows, Mac, and Linux\n2. [Develop with containers](https://docs.docker.com/get-started/introduction/develop-with-containers/)\nThis concept page will teach you how to develop with containers\n3. [Build and push your first image](https://docs.docker.com/get-started/introduction/build-and-push-first-image/)\nThis concept page will teach you how to build and push your first image\n4. What's next\nExplore step-by-step guides to hep you understand core Docker concepts, building images, and running containers."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "verified",
+      "needs_review": false
+    }
+  }
+}

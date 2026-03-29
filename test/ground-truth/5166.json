@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.lovenotions.com/sewingbeginners?tab=supply-list-for-beginners",
+  "file_id": "5166",
+  "ground_truth": {
+    "title": "Beginner? Start Here.",
+    "author": null,
+    "publish_date": null,
+    "main_content": "You can totally sew\n\nIt doesn't have to take years and years to learn to sew your own clothes.\n\nNewbies welcome here.\n\nLooking for patterns that are easy to sew for a newbie?\n\nCheck out our specially selected set of patterns linked below which are perfect for you. Love Notions patterns feature full-length tutorials, embedded videos, with simple & classic pattern design so you actually end up wearing the piece you spent your hard work, time, and money on!\n\nShop these beginner-friendly patterns\n\nHere's what you need to start sewing:\n\n- A reliable sewing machine (our favorite is the Babylock Brilliant)\n- A cutting mat\n- Rotary cutter\n- Thread (we like Gutterman)\n- Machine Needles (start with universal needles)\n- Fabric (you can work with stretch or non-stretch, but keep in mind that different patterns require different types of fabrics)\n\nAnd, of course, a high quality sewing pattern is a must for any beginner.\n\nMore on the basics:\n\n- What Sewing Machine do I need?\n- Guide to Sewing Machine Feet\n- All about Thread\n- Gift Guide for Sewists\n- Tami's Sewing Amazon Storefront\n- Fabric Guide for Garment Sewists\n- Where to Shop for Fabric Online\n\nIdeas for your Sewing Space\n\nA few places to find sewing support\n\nWe especially recommend our free & private pattern support group. There you can post a picture and question — day or night– and immediately get tons of encouragement and insight.\n\nHow does a PDF sewing pattern work?\n\nSewing School is in Session\n\nFind instant support for your sewing questions\n\nStruggling? Find your issue on our blog\n\nGet weekly sewing help in your email\n\nPsst… we've got a free pattern for newsletter subscribers.",
+    "with": [
+      "It doesn't have to take years and years to learn to sew your own clothes.",
+      "A reliable sewing machine (our favorite is the Babylock Brilliant)",
+      "We especially recommend our free & private pattern support group.",
+      "Psst… we've got a free pattern for newsletter subscribers."
+    ],
+    "without": [
+      "My Account/Log-In",
+      "Printed patterns",
+      "vc_row",
+      "vc_column"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "forum"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://simplybirkenstock.com/birkenstock-arizona-sandal-birkibuc-stone-unisex/?srsltid=AfmBOorFk96lXCRc_Rmw3TArYdhCLxI_nKCfFMNX5hdF5mYz_reDAs5r",
+  "file_id": "4195",
+  "ground_truth": {
+    "title": "Birkenstock Arizona Sandal – Birkibuc Stone",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Birkenstock Arizona Sandal – Birkibuc Stone – Unisex\n\nProduct Description:\n\nThe Birkenstock Arizona Birkibuc Stone Sandal is a timeless essential, combining iconic design with legendary comfort. First introduced in 1973, this enduring two-strap style continues to set the standard for casual footwear. Crafted with a durable Birko-Flor® Nubuck upper—engineered to mimic the look and feel of natural nubuck leather—this sandal offers a refined finish with minimal upkeep. The original contoured cork-latex footbed molds to your feet over time, providing unmatched support and comfort.\n\nWhether you're strolling city streets or relaxing on weekends, the Birkenstock Arizona brings reliable comfort and clean, minimalist style to every step.\n\nProduct Details:\n\n- Upper: Durable Birko-Flor® Nubuck synthetic leather with a soft, brushed finish\n- Footbed: Contoured cork-latex footbed for all-day arch support and custom comfort\n- Insole: Soft suede lining for a breathable, natural feel\n- Straps: Two fully adjustable straps with metal pin buckles for a secure, personalized fit\n- Outsole: Lightweight EVA sole for shock absorption and flexibility\n- Color: Stone\n- Fit: Available in both regular and narrow widths\n- Care: Wipe clean with a damp cloth; avoid excessive moisture",
+    "with": [
+      "The Birkenstock Arizona Birkibuc Stone Sandal is a timeless essential, combining iconic design with legendary comfort.",
+      "Whether you're strolling city streets or relaxing on weekends, the Birkenstock Arizona brings reliable comfort and clean, minimalist style to every step.",
+      "Footbed: Contoured cork-latex footbed for all-day arch support and custom comfort",
+      "Outsole: Lightweight EVA sole for shock absorption and flexibility",
+      "Care: Wipe clean with a damp cloth; avoid excessive moisture"
+    ],
+    "without": [
+      "Gift Certificates",
+      "TRAVEL ESSENTIALS",
+      "Related Products",
+      "Connect With Us"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "high",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  }
+}

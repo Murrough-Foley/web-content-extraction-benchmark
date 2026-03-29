@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://supabase.com/docs/guides/auth",
+  "file_id": "0676",
+  "ground_truth": {
+    "title": "Auth",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Use Supabase to authenticate and authorize your users.\nSupabase Auth makes it easy to implement authentication and authorization in your app. We provide client SDKs and API endpoints to help you create and manage users.\nYour users can use many popular Auth methods, including password, magic link, one-time password (OTP), social login, and single sign-on (SSO).\nAbout authentication and authorization\n#\nAuthentication and authorization are the core responsibilities of any Auth system.\nAuthentication\nmeans checking that a user is who they say they are.\nAuthorization\nmeans checking what resources a user is allowed to access.\nSupabase Auth uses\nJSON Web Tokens (JWTs)\nfor authentication. For a complete reference of all JWT fields, see the\nJWT Fields Reference\n. Auth integrates with Supabase's database features, making it easy to use\nRow Level Security (RLS)\nfor authorization.\nThe Supabase ecosystem\n#\nYou can use Supabase Auth as a standalone product, but it's also built to integrate with the Supabase ecosystem.\nAuth uses your project's Postgres database under the hood, storing user data and other Auth information in a special schema. You can connect this data to your own tables using triggers and foreign key references.\nAuth also enables access control to your database's automatically generated\nREST API\n. When using Supabase SDKs, your data requests are automatically sent with the user's Auth Token. The Auth Token scopes database access on a row-by-row level when used along with\nRLS policies\n.\nProviders\n#\nSupabase Auth works with many popular Auth methods, including Social and Phone Auth using third-party providers. See the following sections for a list of supported third-party providers.\nSocial Auth\n#\nApple\nAzure (Microsoft)\nBitbucket\nDiscord\nFacebook\nFigma\nGitHub\nGitLab\nGoogle\nKakao\nKeycloak\nLinkedIn\nNotion\nSlack\nSpotify\nTwitter\nTwitch\nWorkOS\nZoom\nPhone Auth\n#\nMessageBird\nTwilio\nVonage\nPricing\n#\nCharges apply to Monthly Active Users (MAU), Monthly Active Third-Party Users (Third-Party MAU), and Monthly Active SSO Users (SSO MAU) and Advanced MFA Add-ons. For a detailed breakdown of how these charges are calculated, refer to the following pages:\nPricing MAU\nPricing Third-Party MAU\nPricing SSO MAU\nAdvanced MFA - Phone",
+    "with": [
+      "Supabase Auth makes it easy to implement authentication and authorization in your app.",
+      "We provide client SDKs and API endpoints to help you create and manage users.",
+      "Your users can use many popular Auth methods, including password, magic link, one-time password (OTP), social login, and single sign-on (SSO).",
+      "About authentication and authorization\n#\nAuthentication and authorization are the core responsibilities of any Auth system.",
+      "Authentication\nmeans checking that a user is who they say they are."
+    ],
+    "without": [
+      "Edit this page",
+      "Search",
+      "Menu",
+      "Navigation"
+    ],
+    "main_content_markdown": "Use Supabase to authenticate and authorize your users.\nSupabase Auth makes it easy to implement authentication and authorization in your app. We provide client SDKs and API endpoints to help you create and manage users.\nYour users can use many popular Auth methods, including password, magic link, one-time password (OTP), social login, and single sign-on (SSO).\nAbout authentication and authorization\n#\nAuthentication and authorization are the core responsibilities of any Auth system.\nAuthentication\nmeans checking that a user is who they say they are.\nAuthorization\nmeans checking what resources a user is allowed to access.\nSupabase Auth uses\n[JSON Web Tokens (JWTs)](https://supabase.com/docs/guides/auth/jwts)\nfor authentication. For a complete reference of all JWT fields, see the\n[JWT Fields Reference](https://supabase.com/docs/guides/auth/jwt-fields)\n. Auth integrates with Supabase's database features, making it easy to use\n[Row Level Security (RLS)](https://supabase.com/docs/guides/database/postgres/row-level-security)\nfor authorization.\nThe Supabase ecosystem\n#\nYou can use Supabase Auth as a standalone product, but it's also built to integrate with the Supabase ecosystem.\nAuth uses your project's Postgres database under the hood, storing user data and other Auth information in a special schema. You can connect this data to your own tables using triggers and foreign key references.\nAuth also enables access control to your database's automatically generated\nREST API\n. When using Supabase SDKs, your data requests are automatically sent with the user's Auth Token. The Auth Token scopes database access on a row-by-row level when used along with\nRLS policies\n.\nProviders\n#\nSupabase Auth works with many popular Auth methods, including Social and Phone Auth using third-party providers. See the following sections for a list of supported third-party providers.\nSocial Auth\n#\nApple\nAzure (Microsoft)\nBitbucket\nDiscord\nFacebook\nFigma\nGitHub\nGitLab\nGoogle\nKakao\nKeycloak\nLinkedIn\nNotion\nSlack\nSpotify\nTwitter\nTwitch\nWorkOS\nZoom\nPhone Auth\n#\nMessageBird\nTwilio\nVonage\nPricing\n#\nCharges apply to Monthly Active Users (MAU), Monthly Active Third-Party Users (Third-Party MAU), and Monthly Active SSO Users (SSO MAU) and Advanced MFA Add-ons. For a detailed breakdown of how these charges are calculated, refer to the following pages:\n[Pricing MAU](https://supabase.com/docs/guides/platform/manage-your-usage/monthly-active-users)\n[Pricing Third-Party MAU](https://supabase.com/docs/guides/platform/manage-your-usage/monthly-active-users-third-party)\n[Pricing SSO MAU](https://supabase.com/docs/guides/platform/manage-your-usage/monthly-active-users-sso)\n[Advanced MFA - Phone](https://supabase.com/docs/guides/platform/manage-your-usage/advanced-mfa-phone)"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": []
+    }
+  }
+}

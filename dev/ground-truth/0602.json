@@ -1,0 +1,23 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.upliftdesk.com/24-deep-standing-desk/",
+  "file_id": "0602",
+  "ground_truth": {
+    "title": "24\" Deep Standing Desk",
+    "author": null,
+    "publish_date": null,
+    "main_content": "",
+    "with": [],
+    "without": []
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": []
+    },
+    "spa": true
+  }
+}

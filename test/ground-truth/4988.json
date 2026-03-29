@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.suretranslation.com/uscis-certified-translation",
+  "file_id": "4988",
+  "ground_truth": {
+    "title": "USCIS Certified Translation Services",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Get your USCIS certified translation for $18 Fast and reliable USCIS certified translations in over 65 languages for only $18 per page, the lowest price on the internet. Each translation is completed by a professional and delivered within 24 hours to make your application process simple and stress free. Certification of Accuracy For your immigration documents Lowest Price Guarantee Only $18 per page. Lowest on internet. Official Member of ATA Official member of ATA: #278778 Why Choose Sure Translation? Sure Translation leads with unbeatable $18/page certified translations. Our instant quotes, 1-day turnaround, and unlimited revisions outshine competitors, ensuring accuracy and efficiency. Trust us for reliable, fast, and cost-effective certified translation services, backed by ATA certification for unparalleled precision and dependability. Cost $18 $25 $40 Quote time Instant 1 Day 2+ Days Turnaround time 1 Day 2 Days Slow ATA Membership Stamped certification Guaranteed Delivery Date What to Expect With Sure Translation’s simple 3-step process, you can have your documents translated quickly, accurately, and ready for USCIS approval. 1 Upload Your Documents and Place Your Order Choose your language pair and upload your files to begin the translation process right away. 2 Expert Translation and Review One of our skilled translators, fluent in your chosen language pair, will complete your translation to precisely reflect the content, meaning, and style of the original document. 3 Receive Your Translation You’ll receive a secure, professionally formatted PDF of your translation, complete with a signed and stamped certificate of accuracy. Browse all document options View all languages Certified Translation Reviews Chris Shepard Certified Translation Multiple Languages I had a great experience with Sure Translation! The process was fast, painless, and super easy from start to finish. The staff was professional, responsive, and delivered exactly what I needed. I really appreciate the excellent service — highly recommend them! Antonio Rodriguez Certified Translation Spanish to English I highly recommend Sure Translation Service! They offer excellent value for money, with prices significantly more affordable than most other providers I've used. The quality of the translations is consistently high, and their turnaround time is impressively fast, I received my documents back much quicker than expected Cheyenne Roberts Certified Translation Spanish to English I speak both English and Spanish, however, I couldn't legally translate my husband's birth certificate because it had to be certified. So, it is with authority that I say the translations we received from Sure Translation were accurate and returned to us efficiently! Thank you for your outstanding work. You are so appreciated! Ready to get started? Click below to begin your USCIS certified translation and receive an instant quote. Start My Translation The Blog Learn More About Certified Translation",
+    "with": [
+      "Get your USCIS certified translation for $18 Fast and reliable USCIS certified t",
+      "Sure Translation leads with unbeatable $18/page certified translations",
+      "One of our skilled translators, fluent in your chosen language pair",
+      "I had a great experience with Sure Translation!"
+    ],
+    "without": [
+      "Documents We Tranlate",
+      "Languages We Translate",
+      "notarized translation",
+      "Certificate of Translation Accuracy"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "service"
+  }
+}

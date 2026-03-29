@@ -1,0 +1,28 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.samsclub.com/are-you-human?url=L2NwL3Nwb3J0cy1lcXVpcG1lbnQtZml0bmVzcy1lcXVpcG1lbnQvMTg4OA==&uuid=83d15cf3-2036-11f1-8173-a766063edaa9&vid=&g=b",
+  "file_id": "4352",
+  "ground_truth": {
+    "title": "Let us know you're not a robot",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Let us know you're human (no robots allowed)",
+    "with": [
+      "Let us know you're human (no robots allowed)"
+    ],
+    "without": [
+      "Help center",
+      "California privacy rights",
+      "Sam's West, Inc. All rights reserved."
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "high",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "article"
+  }
+}

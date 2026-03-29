@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.travelandleisure.com/best-big-town-for-elderly-to-live-in-2026-11880421",
+  "file_id": "5216",
+  "ground_truth": {
+    "title": "AARP Just Named the 25 Best Places to Retire in the U.S.—and This City Just Ranked No. 1 (Again)",
+    "author": "Opheli Garcia Lawler",
+    "publish_date": "2026-01-29",
+    "main_content": "San Francisco topped AARP's annual ranking of the best cities for seniors for the sixth year in a row.\nOverall, East Coast cities dominated the top 10, accounting for seven of the ranked urban communities.\n\nWhile some contemplate a quiet retirement in a small town, others dream of spending their golden years with art, culture, dining, and the bustle of a city.\n\nIn December, the American Association of Retired Persons (AARP) published a report on the 100 best places to live in the U.S. for older adults. AARP ranked the communities for size and overall livability, considering factors such as housing, neighborhood, transportation, environment, health, and engagement.\n\nAnd the city that topped the ranking for the sixth year in a row is San Francisco. \"[...] even though the area’s monthly housing costs are three times higher than the U.S. median ($2,693 compared to $943 nationally),\" the report notes, the city \"excels in other metrics, especially health, boasting excellent access to health care, universal access to exercise opportunities, and low smoking rates.\"\n\nThe city also offers plenty of things to do for visitors and residents alike. Whether you want to spend your evenings biking over the Golden State Bridge or your mornings taking cable cars, there are easy ways to get in plenty of activity without going over budget. San Francisco was also recently named the best hiking city, with 119 popular and easily accessible hikes.\n\n“In large communities, it’s typically easier to make healthy choices; having local farmers markets within walking distance, for example, encourages exercise and healthy eating,” the study highlights about living in large cities.\n\nHowever, if you plan on spending your senior years in San Francisco, keep in mind that the average home price is about $1.5 million, according to data from Redfin.\n\nTrailing San Francisco at No. 2 is not another city but Montgomery County, Maryland. This popular area is just outside of Washington, D.C. and is known for its high standard of living, great schools, rich history, safe and diverse neighborhoods, and plenty of green spaces. And for those who prefer the West Coast, Seattle ranked at No. 3 and Portland, Oregon, at No. 9. Ramsey County, Minnesota, home to the state capital of St. Paul, came in fourth, and Fairfax County, Virginia, another Washington, D.C., suburban area, rounded out the top five.\n\nYou can find the complete list of the 25 best big cities for older adults at AARP.org.",
+    "with": [
+      "Overall, East Coast cities dominated the top 10, accounting for seven of the ran",
+      "In December, the American Association of Retired Persons (AARP) published a repo",
+      "“In large communities, it’s typically easier to make healthy choices; having loc",
+      "Trailing San Francisco at No. 2 is not another city but Montgomery County, Maryl"
+    ],
+    "without": [
+      "Romantic Getaways",
+      "Beach Vacations",
+      "National Parks",
+      "Disney Vacations"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

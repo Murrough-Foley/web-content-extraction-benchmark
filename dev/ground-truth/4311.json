@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://forums.tomshardware.com/threads/ultimate-graphics-card-comparison-guide-2025-nvidia-amd-desktop-gpus.3881239/",
+  "file_id": "4311",
+  "ground_truth": {
+    "title": "Info - Ultimate Graphics Card Comparison Guide (2025)  NVIDIA & AMD Desktop GPUs",
+    "author": "SamuelMIz",
+    "publish_date": "2025-06-14",
+    "main_content": "Hey everyone!\n\nAfter constantly helping friends and fellow PC builders choose the right GPU, I’ve put together a comprehensive GPU comparison post that highlights the most important specs and differences between current-gen AMD and NVIDIA cards.\n\nWhether you're gaming, rendering, or building a powerful workstation, this guide breaks things down simply and visually.\n\nLink to GPU Comparison Table (With Filters & Charts):​\n\nKey Comparison Categories:​\n\nMemory​\n\nVRAM Size (4GB–24GB)\n\nType: GDDR6 / GDDR6X / HBM2\n\nBus Width & Bandwidth (bit & GB/s)\n\nPerformance Benchmarks​\n\n1080p / 1440p / 4K Avg FPS (in top titles)\n\nRay Tracing (on/off) performance\n\nDLSS / FSR Support & Gen Version\n\nArchitecture​\n\nCUDA / Stream Processors\n\nClock Speeds (Base & Boost)\n\nLithography (e.g., 5nm / 6nm)\n\nPCIe Gen Compatibility\n\nPower & Cooling​\n\nTDP / Recommended PSU\n\nNumber of Fans & Heatsink Type\n\nCustom vs Reference Models (Founders Edition vs AIBs)\n\nPhysical Specs​\n\nLength (in mm/inches)\n\nSlot Width (2-slot, 2.5-slot, 3-slot)\n\nRequired case clearance\n\nTop Picks (Q2 2025)​\n\nBudget Pick Notes\nEntry (≤$300) RX 7600 XT Great for 1080p ultra\nMid-Range ($400–600) RTX 4070 Super Sweet spot for 1440p\nHigh-End (>$800) RTX 4090 Unreal 4K/AI performance\n🛠 Workstation Radeon Pro W7800 ECC support, great for 3D/design\n\nWhat To Consider​\n\nGaming only? Focus on VRAM + FPS performance\n\nProductivity & AI work? Prioritize CUDA cores, VRAM, and driver support.\n\nSmall case? Check the length and power connector clearance!\nLet me know if you want me to add a specific card to the chart or if you spot any outdated specs I'm updating it regularly.\n\nHappy building!\n\nSamuel Miz\n\nNo specific technical issues or problems.\n\nMoving post from Graphics Cards to Opinions and Experiences.\n\nI don't see a link to the chart. Only screenshot of it that has several errors in it. 🤔\n\n4060 Ti is listed twice and 2nd entry has errors in the specs + there is no GPU as 4050 Super or 7300 XTX.\n\nthank you\n\nthanks for marking the issues bro\n\nAlso, the GPUs listed on the screenshot are all one generation old GPUs; RTX 40-series and RX 70-series, released in 2022.\n\nWhere are the latest GPUs? RTX 50-series and RX 90-series, released in 2025?",
+    "with": [
+      "Whether you're gaming, rendering, or building a powerful workstation, this guide",
+      "Mid-Range ($400–600) RTX 4070 Super Sweet spot for 1440p",
+      "Let me know if you want me to add a specific card to the chart or if you spot an",
+      "Also, the GPUs listed on the screenshot are all one generation old GPUs; RTX 40-"
+    ],
+    "without": [
+      "You must log in or register to reply here.",
+      "Tom's Hardware is part of Future plc, an international media group and leading digital publisher.",
+      "Cookies Policies",
+      "Terms & Conditions",
+      "© Future Publishing Limited Quay House, The Ambury, Bath BA1 1UA. All rights reserved."
+    ],
+    "main_content_markdown": "Hey everyone!\n\nAfter constantly helping friends and fellow PC builders choose the *right* GPU, I’ve put together a **comprehensive GPU comparison post** that highlights the **most important specs and differences** between current-gen AMD and NVIDIA cards.\n\nWhether you're gaming, rendering, or building a powerful workstation, this guide breaks things down simply and visually.\n\n#### Link to GPU Comparison Table (With Filters & Charts):​\n\n### Key Comparison Categories:​\n\n#### Memory​\n\n- VRAM Size (4GB–24GB)\n\n- Type: GDDR6 / GDDR6X / HBM2\n\n- Bus Width & Bandwidth (bit & GB/s)\n\n#### Performance Benchmarks​\n\n- 1080p / 1440p / 4K Avg FPS (in top titles)\n\n- Ray Tracing (on/off) performance\n\n- DLSS / FSR Support & Gen Version\n\n#### Architecture​\n\n- CUDA / Stream Processors\n\n- Clock Speeds (Base & Boost)\n\n- Lithography (e.g., 5nm / 6nm)\n\n- PCIe Gen Compatibility\n\n#### Power & Cooling​\n\n- TDP / Recommended PSU\n\n- Number of Fans & Heatsink Type\n\n- Custom vs Reference Models (Founders Edition vs AIBs)\n\n#### Physical Specs​\n\n- Length (in mm/inches)\n\n- Slot Width (2-slot, 2.5-slot, 3-slot)\n\n- Required case clearance\n\n### Top Picks (Q2 2025)​\n\n| Budget | Pick | Notes |\n| --- | --- | --- |\n| Entry (≤$300) | **RX 7600 XT** | Great for 1080p ultra |\n| Mid-Range ($400–600) | **RTX 4070 Super** | Sweet spot for 1440p |\n| High-End (>$800) | **RTX 4090** | Unreal 4K/AI performance |\n| 🛠 Workstation | **Radeon Pro W7800** | ECC support, great for 3D/design |\n\n### What To Consider​\n\n- **Gaming only?** Focus on VRAM + FPS performance\n\n- **Productivity & AI work?** Prioritize CUDA cores, VRAM, and driver support.\n\n- **Small case?** Check the length and power connector clearance!\n**Let me know** if you want me to add a specific card to the chart or if you spot any outdated specs I'm updating it regularly.\n\nHappy building!\n\nSamuel Miz\n\nNo specific technical issues or problems.\n\nMoving post from Graphics Cards to Opinions and Experiences.\n\nI don't see a link to the chart. Only screenshot of it that has several errors in it. 🤔\n\n4060 Ti is listed twice and 2nd entry has errors in the specs + there is no GPU as 4050 Super or 7300 XTX.\n\nthank you\n\nthanks for marking the issues bro\n\nAlso, the GPUs listed on the screenshot are all one generation old GPUs; RTX 40-series and RX 70-series, released in 2022.\n\nWhere are the latest GPUs? RTX 50-series and RX 90-series, released in 2025?"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "high",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "forum"
+  }
+}

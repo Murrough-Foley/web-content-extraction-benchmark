@@ -1,0 +1,38 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.hospitalitynet.org/list/1-10/all-latest-news.html",
+  "file_id": "0259",
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "news",
+        "hospitality",
+        "listing",
+        "articles"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "All Latest News",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Elevating the All-Inclusive Model - The history of all-inclusive travel dates back nearly 100 years: Holiday camps in the U.K. pioneered the idea in the 1930s, and in 1950, the first \"modern\" resort utilizing the approach opened in Spain.\n\nThe Smart Office Manager AI Toolkit - Today's Office Manager sits at the operational core of the organisation — balancing people, processes, costs, and culture under constant pressure. Expectations keep rising, but time and resources do not.\n\nTambourine Partners with Ted Turner Reserves, Launches New Website Showcasing the Brand's Conservation Mission - Tambourine, the global leader in hotel marketing technology, today announced the successful launch of a new website for Ted Turner Reserves, a collection of eco-conscious luxury destinations spanning over one million acres of preserved wilderness.\n\nThe 2026 Hotelier's Planning Calendar: Track Hotel Operations Deadlines & Industry Events - Running hotel operations in 2026 will demand tighter coordination, smarter planning, and proactive decision-making across every department. Otelier built a comprehensive, ready-to-use 2026 Hotel Planning Calendar.\n\nMontage Plans for 62-key Montage Valle De Guadalupe In Baja California - Montage International in partnership with leading real estate and development firm, Thor Urbana, and growing luxury community pioneer and club operator, Life Properties International (LIFE), announce the development of a new luxury resort.\n\nPalladium Hotel Group Announces the Official Re-Opening of Grand Palladium Select Bavaro and Family Selection in Punta Cana - Palladium Hotel Group, is excited to announce the official re-opening and launch of Grand Palladium Select Bávaro and Family Selection at Grand Palladium Select Bávaro. This much anticipated re-opening follows an impressive $61.5 million renovation.\n\nMaisons et Hôtels Sibuet Reopens Lodge Park, Megève - Maisons et Hôtels Sibuet is delighted to reopen Lodge Park, unveiling a thoughtfully reimagined chapter for one of Megève's most storied addresses, following a year-long transformation.\n\n100% of RIU's hotels have the ECOSTARS certification, an important sustainability milestone - RIU Hotels & Resorts has achieved the ECOSTARS certification for all of its operational establishments, becoming the first hotel chain worldwide to accomplish this feat.\n\nU.S. hotel results for week ending 13 December - The U.S. hotel industry reported mixed year-over-year comparisons, according to CoStar's latest data through 13 December.\n\nIHG Hotels & Resorts' Vignette Collection Debuts in Africa with the Introduction of Fairview Hotel Nairobi - Fairview Hotel Nairobi - one of Africa's most cherished heritage hotels - is joining Vignette Collection, a growing family of one-of-a-kind hotels in destinations to remember.",
+    "with": [
+      "100% of RIU's hotels have the ECOSTARS certification, an important sustainability milestone",
+      "The 2026 Hotelier's Planning Calendar: Track Hotel Operations Deadlines & Industry Events",
+      "Tambourine Partners with Ted Turner Reserves, Launches New Website Showcasing the Brand's Conservation Mission",
+      "Montage Plans for 62-key Montage Valle De Guadalupe In Baja California",
+      "IHG Hotels & Resorts' Vignette Collection Debuts in Africa with the Introduction of Fairview Hotel Nairobi"
+    ],
+    "without": [
+      "About Hospitality Net",
+      "Contact",
+      "Privacy",
+      "Newsletter"
+    ],
+    "main_content_markdown": "[Elevating the All-Inclusive Model](https://www.hospitalitynet.org/opinion/4129826.html) - The history of all-inclusive travel dates back nearly 100 years: Holiday camps in the U.K. pioneered the idea in the 1930s, and in 1950, the first \"modern\" resort utilizing the approach opened in Spain.\n\n[The Smart Office Manager AI Toolkit](https://www.hospitalitynet.org/news/4130246.html) - Today's Office Manager sits at the operational core of the organisation - balancing people, processes, costs, and culture under constant pressure. Expectations keep rising, but time and resources do not.\n\n[Tambourine Partners with Ted Turner Reserves, Launches New Website Showcasing the Brand's Conservation Mission](https://www.hospitalitynet.org/news/4130263.html) - Tambourine, the global leader in hotel marketing technology, today announced the successful launch of a new website for Ted Turner Reserves, a collection of eco-conscious luxury destinations spanning over one million acres of preserved wilderness.\n\n[The 2026 Hotelier's Planning Calendar: Track Hotel Operations Deadlines & Industry Events](https://www.hospitalitynet.org/whitepaper/4130262.html) - Running hotel operations in 2026 will demand tighter coordination, smarter planning, and proactive decision-making across every department. Otelier built a comprehensive, ready-to-use 2026 Hotel Planning Calendar.\n\n[Montage Plans for 62-key Montage Valle De Guadalupe In Baja California](https://www.hospitalitynet.org/announcement/41013839/montage-valle-de-guadalupe.html) - Montage International in partnership with leading real estate and development firm, Thor Urbana, and growing luxury community pioneer and club operator, Life Properties International (LIFE), announce the development of a new luxury resort.\n\n[Palladium Hotel Group Announces the Official Re-Opening of Grand Palladium Select Bavaro and Family Selection in Punta Cana](https://www.hospitalitynet.org/announcement/41013838/grand-palladium-bavaro-suites-resort-spa.html) - Palladium Hotel Group, is excited to announce the official re-opening and launch of Grand Palladium Select Bávaro and Family Selection at Grand Palladium Select Bávaro. This much anticipated re-opening follows an impressive $61.5 million renovation.\n\n[Maisons et Hôtels Sibuet Reopens Lodge Park, Megève](https://www.hospitalitynet.org/announcement/41013837/hotel-lodge-park-megeve.html) - Maisons et Hôtels Sibuet is delighted to reopen Lodge Park, unveiling a thoughtfully reimagined chapter for one of Megève's most storied addresses, following a year-long transformation.\n\n[100% of RIU's hotels have the ECOSTARS certification, an important sustainability milestone](https://www.hospitalitynet.org/news/4130261.html) - RIU Hotels & Resorts has achieved the ECOSTARS certification for all of its operational establishments, becoming the first hotel chain worldwide to accomplish this feat.\n\n[U.S. hotel results for week ending 13 December](https://www.hospitalitynet.org/performance/4130260.html) - The U.S. hotel industry reported mixed year-over-year comparisons, according to CoStar's latest data through 13 December.\n\n[IHG Hotels & Resorts' Vignette Collection Debuts in Africa with the Introduction of Fairview Hotel Nairobi](https://www.hospitalitynet.org/announcement/41013836/fairview-hotel-nairobi-vignette-collection-by-ihg.html) - Fairview Hotel Nairobi - one of Africa's most cherished heritage hotels - is joining Vignette Collection, a growing family of one-of-a-kind hotels in destinations to remember."
+  }
+}

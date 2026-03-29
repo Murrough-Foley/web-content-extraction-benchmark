@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.theworlds50best.com/",
+  "file_id": "5202",
+  "ground_truth": {
+    "title": "The World's 50 Best Restaurants",
+    "author": null,
+    "publish_date": null,
+    "main_content": "The World's 50 Best Restaurants 2025\n\nDiscover the venues voted into the 1-50 list\n\nMaido, Lima\n\nThe World's Best Restaurant 2025, sponsored by S.Pellegrino & Acqua Panna\n\nMindy Woods\n\nChampions of Change Award 2025\n\nKhufu's, Cairo\n\nResy One To Watch Award 2025\n\nWing, Hong Kong\n\nGin Mare Art of Hospitality Award 2025\n\nPichaya 'Pam' Soontornyanakij\n\nThe World’s Best Female Chef 2025\n\nAlbert Adrià\n\nEstrella Damm Chefs' Choice Award 2025\n\nCelele, Cartagena\n\nSustainable Restaurant Award 2025\n\nMassimo Bottura and Lara Gilmore\n\nWoodford Reserve Icon Award 2025\n\nPotong, Bangkok\n\nHighest New Entry Award 2025\n\nMaxime Frédéric\n\nThe World's Best Pastry Chef 2025, sponsored by Sosa\n\nIkoyi, London\n\nHighest Climber Award 2025, sponsored by Lee Kum Kee\n\nMohamed Benabdallah\n\nThe World’s Best Sommelier Award 2025",
+    "with": [
+      "Champions of Change",
+      "The World's 50 Best Restaurants",
+      "Highest Climber Award 2025, sponsored by Lee Kum Kee",
+      "Champions of Change Award 2025"
+    ],
+    "without": [
+      "Register for a 50 Best account",
+      "Become a partner",
+      "Powered by WebPuzzle"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "reviewed"
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

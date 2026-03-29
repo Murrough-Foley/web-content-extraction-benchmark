@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://townofbluffton.sc.gov/Calendar.aspx?EID=903",
+  "file_id": "5269",
+  "ground_truth": {
+    "title": "Farmers Market of Bluffton",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Farmers Market of Bluffton\n\nThursday, January 27, 2022\n\nDate: January 27, 2022\n\nTime: 12:00 PM - 5:00 PM\n\nAddress: 71 Green Street, Bluffton, SC 29910\n\nThe market is located around Martin Family Park in beautiful historic, downtown Bluffton. We feature seasonal fresh, local produce, plants, honey, eggs, beef, and seafood along with specialty items and prepared foods to include, BBQ, Pastas, Organic Meats, Crepes, Baked Goods and Pastries. On Thursday's The Farmers Market of Bluffton is a Must!",
+    "with": [
+      "Martin Family Park in beautiful historic, downtown Bluffton",
+      "seasonal fresh, local produce, plants, honey, eggs, beef, and seafood",
+      "12:00 PM - 5:00 PM"
+    ],
+    "without": [
+      "Online Services",
+      "Subscribe to iCalendar",
+      "Agenda Center",
+      "Strategic Planning"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

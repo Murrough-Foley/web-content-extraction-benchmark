@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://bigfuture.collegeboard.org/plan-for-college/apply-to-college/application-process/6-tips-for-crafting-your-best-college-essay",
+  "file_id": "4621",
+  "ground_truth": {
+    "title": "How to Write the Best College Application Essay",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Your essay reveals something important about you that your grades and test scores can't─your personality. It can give admissions officers a sense of who you are and showcase your writing ability. Here are some things that admissions officers look for in a personal essay for college.\n\n1. Open Strong.\n\nKnowing how to start a college essay can create a strong opening paragraph that immediately captures the reader’s interest. You want to make the admissions officer reading your essay curious about what you say next.\n\n2. Show You Can Write.\n\nColleges want to see that you have a command of the basics of good writing, which is a key component of success in college.\n\n3. Answer the Prompt.\n\nAdmissions officers also want to see that the student can give a direct answer while sticking to a comprehensive narrative. When writing college essays, consider the point you want to make and develop a fleshed-out response that fits the prompt. Avoid force-fitting prewritten pieces. Approach every personal essay prompt as if it's your first.\n\n4. Stick to Your Style.\n\nWriting college essays isn't about using flowery or verbose prose. Avoid leaning too heavily on the thesaurus to sound impressive. Choose a natural writing style that’s appropriate for the subject matter.\n\nAlso, avoid stressing about trying to write what you think colleges want to see. Learning how to draft a good essay for college is about showcasing who you are. Stay true to your voice. Keep in mind that authenticity is more important than anything else.\n\n5. Proofread.\n\nCorrect grammar, punctuation, and spelling are essential. Proofread several times after you've finished. Then ask a teacher, parent, or college English major to give it a quick read as well.\n\n6. Keep Track of Length.\n\nFinally, admissions officers value succinctness. Remember to pay attention to the recommended essay length or word count.\n\nBonus Tips and College Essay Writing Help\n\nFor more on how to write a college essay, check out these Tips for Writing Your College Admissions Essay.",
+    "with": [
+      "Knowing how to start a college essay can create a strong opening paragraph that immediately captures the reader’s interest",
+      "Admissions officers also want to see that the student can give a direct answer while sticking to a comprehensive narrative",
+      "Correct grammar, punctuation, and spelling are essential. Proofread several times after you've finished.",
+      "Bonus Tips and College Essay Writing Help",
+      "Keep in mind that authenticity is more important than anything else."
+    ],
+    "without": [
+      "Explore Careers",
+      "Career Search",
+      "What is the college application essay?",
+      "Expand All"
+    ],
+    "main_content_markdown": "Your essay reveals something important about you that your grades and test scores can't─your personality. It can give admissions officers a sense of who you are and showcase your writing ability. Here are some things that admissions officers look for in a personal essay for college.\n\n## 1. Open Strong.\n\nKnowing how to start a college essay can create a strong opening paragraph that immediately captures the reader’s interest. You want to make the admissions officer reading your essay curious about what you say next.\n\n## 2. Show You Can Write.\n\nColleges want to see that you have a command of the basics of good writing, which is a key component of success in college.\n\n## 3. Answer the Prompt.\n\nAdmissions officers also want to see that the student can give a direct answer while sticking to a comprehensive narrative. When writing college essays, consider the point you want to make and develop a fleshed-out response that fits the prompt. Avoid force-fitting prewritten pieces. Approach every personal essay prompt as if it's your first.\n\n## 4. Stick to Your Style.\n\nWriting college essays isn't about using flowery or verbose prose. Avoid leaning too heavily on the thesaurus to sound impressive. Choose a natural writing style that’s appropriate for the subject matter.\n\nAlso, avoid stressing about trying to write what you think colleges want to see. Learning how to draft a good essay for college is about showcasing who you are. Stay true to your voice. Keep in mind that authenticity is more important than anything else.\n\n## 5. Proofread.\n\nCorrect grammar, punctuation, and spelling are essential. Proofread several times after you've finished. Then ask a teacher, parent, or college English major to give it a quick read as well.\n\n## 6. Keep Track of Length.\n\nFinally, admissions officers value succinctness. Remember to pay attention to the recommended essay length or word count.\n\n## Bonus Tips and College Essay Writing Help\n\nFor more on how to write a college essay, check out these [Tips for Writing Your College Admissions Essay](https://bigfuture.collegeboard.org/plan-for-college/apply-to-college/application-process/tips-for-writing-an-effective-application-essay)."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "article"
+  }
+}

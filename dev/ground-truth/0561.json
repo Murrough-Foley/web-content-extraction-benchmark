@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.reddit.com/r/technology/comments/1rl4mew/fcc_chair_to_europe_if_you_restrict_us_satellite/",
+  "file_id": "0561",
+  "ground_truth": {
+    "title": "FCC Chair to Europe: If You Restrict US Satellite Providers, We'll Ban You Here: \"New barriers are emerging that constrain US businesses operating abroad,\" Brendan Carr says. The FCC is now soliciting public comment on \"satellite market access reciprocity.\"",
+    "author": "ControlCAD",
+    "publish_date": null,
+    "main_content": "r/technology\n\nControlCAD\n\nFCC Chair to Europe: If You Restrict US Satellite Providers, We'll Ban You Here: \"New barriers are emerging that constrain US businesses operating abroad,\" Brendan Carr says. The FCC is now soliciting public comment on \"satellite market access reciprocity.\"\n\npcmag.com",
+    "with": [
+      "FCC Chair to Europe: If You Restrict US Satellite Providers, We'll Ban You Here",
+      "Brendan Carr says. The FCC is now soliciting public comment on \"satellite market access reciprocity.\"",
+      "ControlCAD",
+      "pcmag.com"
+    ],
+    "without": [
+      "Open navigation",
+      "Go to Reddit Home",
+      "Get the Reddit app",
+      "New to Reddit?"
+    ],
+    "main_content_markdown": "r/technology\n\n[ControlCAD](https://www.reddit.com/user/ControlCAD/)\n\n# FCC Chair to Europe: If You Restrict US Satellite Providers, We'll Ban You Here: \"New barriers are emerging that constrain US businesses operating abroad,\" Brendan Carr says. The FCC is now soliciting public comment on \"satellite market access reciprocity.\"\n\npcmag.com"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": []
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.einsteinmoving.com/service/texas-statewide-moves/",
+  "file_id": "4931",
+  "ground_truth": {
+    "title": "Long Distance & Statewide Moves In Texas",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Regardless of whether you are moving down the street or moving across the great state of Texas, Einstein Moving Company will be with you every step of the way.\n\nGet an instant moving quote online in just seconds and book your statewide move today — no calls required.\nBook Your Move\n\nWe Do Long Distance Moves In Texas\n\nMoving long distances comes with its own set of challenges and stresses. We here at Einstein Moving Company can help you make the perfect plan to get you to your next home in the least amount of time possible at the most affordable cost to you.\n\nWe Do Full-Service Long Distance Moves\n\nA statewide move is a big move—just with a longer drive in the middle. Our full-service moving team can handle the whole start-to-finish plan—disassembly, packing, loading, transport, unloading, and reassembly—so you’re not coordinating multiple crews or juggling timelines on moving day.\n\nIf you are moving outside of a free service zone, we charge a one-time travel fee.\n\nThis travel fee covers the cost of the gas, the truck, and paying our movers for the period in which the truck is empty (either going out to you before the move starts or traveling back to our facility once the move has ended).\n\nIn general, our free service zone is about a 10 to 15 mile radius around our location. Our system generates trip fees through a combination of average drive time and mileage to/from our location.\n\nThe only other fees we charge is our hourly rate and the cost of packing supplies (if you require them).\n\nMovers in Texas\n\nDallas\n\nFort Worth\n\nGarland\n\nHouston\n\nLeander\n\nMcKinney\n\nNorth Austin\n\nSan Antonio\n\nSouth Austin",
+    "with": [
+      "Get an instant moving quote online in just seconds and book your statewide move ",
+      "Moving long distances comes with its own set of challenges and stresses. We here",
+      "This travel fee covers the cost of the gas, the truck, and paying our movers for",
+      "In general, our free service zone is about a 10 to 15 mile radius around our loc"
+    ],
+    "without": [
+      "Now Hiring",
+      "Privacy Policy",
+      "Contact Us"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "service"
+  }
+}

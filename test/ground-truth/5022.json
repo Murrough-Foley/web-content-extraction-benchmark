@@ -1,0 +1,29 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.brewersfriend.com/forum/forums/beginners-brewing-forum.17/",
+  "file_id": "5022",
+  "ground_truth": {
+    "title": "Beginners Brewing Forum",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Beginners Brewing Forum\n\nNew to brewing? Ask questions and discuss issues new brewers may face.\n\nBeginner's Brewing Illustrated Tutorial\nWhat went right...so far? What about that low FG?\nRecipe App?\nBoil off question - water vs wort.\nA Little Confused (maybe overwhelmed) With Gravity And When To Fix It\nGuinness clone with a twist\nFinal Gravity Misses High\nPliny Clone Oxidized?\nYeast Attenuation - Safale - 05\nHop times\nWater profil\nJoys / challenges of winter beer brewing in the Midwest\nPriming Sugar Substitutes / Life in a Home Brewing Desert\nMashing in too much water / & relatedly...\nWater chemistry - how much to add and when???\nShould I Worry About My Lager?\nBIAB and Boiling Again\nBeverage Air Dual Zone Kegerator (DZ24)\nYeast (each)\nHelp With Boil Times, Please Help?!\nConcentrated Wort (error in calc) and added water post boil. How to calculate",
+    "with": [
+      "Beginner's Brewing Illustrated Tutorial",
+      "Boil off question - water vs wort",
+      "New to brewing? Ask questions and discuss issues new brewers may face."
+    ],
+    "without": [
+      "Privacy policy",
+      "Terms and rules"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "forum"
+  }
+}

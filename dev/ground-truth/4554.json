@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://cityofmarion.in.gov/government/departments/building-department/home-repair-assistance-program",
+  "file_id": "4554",
+  "ground_truth": {
+    "title": "Home Repair Assistance Program",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Home Repair Assis­tance Program\n\nA new cycle of $100,000 in 2026 is avail­able to help home­own­ers in Mar­i­on who need the finan­cial assis­tance with eli­gi­ble home repair projects.\n\n- 2026 Appli­ca­tions are open.\n\n- Dead­line to apply: March 1st, 2026\n\nAppli­cants are encour­aged to apply for up to $5,000 in finan­cial assis­tance per homeowner/​household while the fund­ing is available.\n\nQual­i­fi­ca­tions Cri­te­ria: (This pro­gram is for EXTE­RI­OR repairs ONLY)\n\n1. Total house­hold Adjust­ed Gross Income not to exceed $40,000\n\n2. Must be a City of Mar­i­on resident\n\n3. Real estate must be locat­ed with­in the city of Marion\n\n4. Appli­cants must be 65 to be eli­gi­ble to apply\n\n5. If appli­cant is under 65, he/​she may qual­i­fy through social secu­ri­ty dis­abil­i­ty deter­mi­na­tion or hon­or­able dis­charged vet­er­an status\n\n6. Home must be the appli­can­t's pri­ma­ry residence\n\n7. Must com­plete the Home Repair Assis­tance Pro­gram Application\n\n8. Must com­plete a Res­i­den­tial Build­ing Permit\n\n9. Home­own­er must dis­close name of con­trac­tor and build­ing plans and apply for a build­ing permit.\n\nMust pro­vide writ­ten esti­mate from a reg­is­tered con­trac­tor along with the application.\n\nHome­own­er and con­trac­tors must agree to be reim­bursed only upon Build­ing Depart­ment sign­ing off on work performed.\n\nReturn appli­ca­tion with all required doc­u­men­ta­tion to the Build­ing Department.",
+    "with": [
+      "A new cycle of $100,000 in 2026 is avail­able to help home­own­ers in Mar­i­on",
+      "Appli­cants are encour­aged to apply for up to $5,000 in finan­cial assis­tance",
+      "3. Real estate must be locat­ed with­in the city of Marion",
+      "8. Must com­plete a Res­i­den­tial Build­ing Permit",
+      "Home­own­er and con­trac­tors must agree to be reim­bursed only upon Build­ing"
+    ],
+    "without": [
+      "Commercial Permits",
+      "Suggestions",
+      "Privacy Policy",
+      "Terms of Service",
+      "Like us on Facebook"
+    ],
+    "main_content_markdown": "### **Home Repair Assis­tance Program**\n\nA new cycle of $100,000 in 2026 is avail­able to help home­own­ers in Mar­i­on who need the finan­cial assis­tance with eli­gi­ble home repair projects.\n\n- **2026 Appli­ca­tions are open.**\n\n- **Dead­line to apply: March 1st, 2026**\n\nAppli­cants are encour­aged to apply for up to $5,000 in finan­cial assis­tance per homeowner/​household while the fund­ing is available.\n\n**Qual­i­fi­ca­tions Cri­te­ria: (This pro­gram is for EXTE­RI­OR repairs ONLY)**\n\n1. Total house­hold Adjust­ed Gross Income not to exceed $40,000\n\n2. Must be a City of Mar­i­on resident\n\n3. Real estate must be locat­ed with­in the city of Marion\n\n4. Appli­cants must be 65 to be eli­gi­ble to apply\n\n5. If appli­cant is under 65, he/​she may qual­i­fy through social secu­ri­ty dis­abil­i­ty deter­mi­na­tion or hon­or­able dis­charged vet­er­an status\n\n6. Home must be the appli­can­t's pri­ma­ry residence\n\n7. Must com­plete the Home Repair Assis­tance Pro­gram Application\n\n8. Must com­plete a Res­i­den­tial Build­ing Permit\n\n9. **Home­own­er must dis­close name of con­trac­tor and build­ing plans and apply for a build­ing permit.**\n\n**Must pro­vide writ­ten esti­mate from a reg­is­tered con­trac­tor along with the application.**\n\nHome­own­er and con­trac­tors must agree to be reim­bursed only upon Build­ing Depart­ment sign­ing off on work performed.\n\n**Return appli­ca­tion with all required doc­u­men­ta­tion to the Build­ing Department.**"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "collection"
+  }
+}

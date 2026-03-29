@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.songkick.com/metro-areas/26330-us-sf-bay-area",
+  "file_id": "5335",
+  "ground_truth": {
+    "title": "Concerts in SF Bay Area",
+    "author": null,
+    "publish_date": null,
+    "main_content": "1275 upcoming concerts\n\nMOVEMENT Ecstatic Dance SF // QUINTESSENCE 2026\n\n554 Fillmore St,\n\nSan Francisco, CA, US\n\nCuban Jam Session & Salsa Dance Party 2026\n\nMuddy Waters Coffee & Lounge,\n\nSan Francisco, CA, US\n\nSam Smith and Divorce (UK)\n\nCastro Theatre,\n\nSan Francisco, CA, US\n\nMichael Bibi\nThe Martinez Brothers and Neil Frances\n\nPier 48,\n\nSan Francisco, CA, US\n\nModeselektor\n\nThe Midway,\n\nSan Francisco, CA, US\n\nBlack Label Society and Dark Chapel\nZakk Sabbath\n\nThe Warfield,\n\nSan Francisco, CA, US\n\nExcision, Hol, Smoakland, Hairitage, Luci, and Crystal Skies\n\nBill Graham Civic Auditorium,\n\nSan Francisco, CA, US\n\nRicardo Arjona\n\nChase Center,\n\nSan Francisco, CA, US\n\nVetiver\n\nDance Palace Community & Cultural Center,\n\nPoint Reyes Station, CA, US\n\nKamaiyah\n\nFox Theater,\n\nOakland, CA, US\n\nAlex Ubago\n\nRoccapulco,\n\nSan Francisco, CA, US\n\nMickey Avalon\n\nKilowatt,\n\nSan Francisco, CA, US\n\nSee more concerts on this date\n\nNine Inch Nails and Boys Noize\n\nChase Center,\n\nSan Francisco, CA, US\n\nKim Petras\n\nCastro Theatre,\n\nSan Francisco, CA, US\n\nMatisyahu\n\nGuild Theatre,\n\nMenlo Park, CA, US\n\nVintage Culture\n\nThe Midway,\n\nSan Francisco, CA, US\n\nColony House\nMercury\n\nGreat American Music Hall,\n\nSan Francisco, CA, US\n\nCharlie Hunter\n\nThe Freight,\n\nBerkeley, CA, US\n\nSlow Crush\n\nThe Ritz San Jose,\n\nSan Jose, CA, US\n\nDonny Benet\n\nThe Catalyst,\n\nSanta Cruz, CA, US\n\nDispirit\nEternal and Vile Rites\n\nEli's Mile High Club,\n\nOakland, CA, US\n\nMoving Mountains\n\nRickshaw Stop,\n\nSan Francisco, CA, US\n\nSee more concerts on this date\n\nBand of Skulls\n\nThe Ritz,\n\nSan Jose, CA, US\n\nAnna von Hausswolff\n\nBrick & Mortar Music Hall,\n\nSan Francisco, CA, US\n\nAYYBO\n\nThe Midway,\n\nSan Francisco, CA, US\n\nOdisseo\n\nGreat American Music Hall,\n\nSan Francisco, CA, US\n\nyung kai and Breezee\n\nAugust Hall,\n\nSan Francisco, CA, US\n\nCaveman\nNo Guard and Adherence\n\nNeck of the Woods,\n\nSan Francisco, CA, US\n\nKlan de Bronze, Sonido Cumbiambero, and Wendy Queen\n\nEl Nuevo Rodeo San Jose,\n\nSan Jose, CA, US\n\nBand of Skulls\nGhostwoman\n\nGreat American Music Hall,\n\nSan Francisco, CA, US\n\nClinton Kane\n\nCafé du Nord,\n\nSan Francisco, CA, US\n\nVictor Wooten\n\nYoshi's,\n\nOakland, CA, US\n\nMichelle Shocked\n\nThe Lost Church,\n\nSan Francisco, CA, US\n\nDogma\n\nThe Independent,\n\nSan Francisco, CA, US\n\nSonamo\n\nBottom of the Hill,\n\nSan Francisco, CA, US\n\nSean and the Skinwalkers\n\nSly McFly's,\n\nMonterey, CA, US\n\nMermaid and The Crashers and The Rinds\n\nHotel Utah Saloon,\n\nSan Francisco, CA, US\n\nMeshach Jackson\n\nAlmost Famous Wine Lounge,\n\nLivermore, CA, US\n\nJason Movrich\n\nThe Chieftain Irish Pub & Restaurant,\n\nSan Francisco, CA, US\n\nSee more concerts on this date\n\nAmber Mark and Sherwyn\n\nCastro Theatre,\n\nSan Francisco, CA, US\n\nPeso Pluma and Tito Double P\n\nMonte Carlo,\n\nMountain View, CA, US\n\nSon Little\nTonina\n\nThe Independent,\n\nSan Francisco, CA, US\n\nLauren Spencer-Smith and Sofia Camara\n\nThe Fillmore,\n\nSan Francisco, CA, US\n\nredveil\nChenayder\n\nRickshaw Stop,\n\nSan Francisco, CA, US\n\nVictor Wooten\n\nYoshi's,\n\nOakland, CA, US\n\nMalibu\nESP\n\nThe Chapel,\n\nSan Francisco, CA, US\n\nSteinza\nHudson Ingram\n\nCafé du Nord,\n\nSan Francisco, CA, US\n\nMilly\nPocket Full Of Crumbs and Kan Kan\n\nBottom of the Hill,\n\nSan Francisco, CA, US\n\nPeaches\n\nThe Midway,\n\nSan Francisco, CA, US\n\nGipsy Kings\n\nHenry J. Kaiser Center for the Arts,\n\nOakland, CA, US",
+    "with": [
+      "Cuban Jam Session & Salsa Dance Party 2026",
+      "Dance Palace Community & Cultural Center,",
+      "Gipsy Kings",
+      "Henry J. Kaiser Center for the Arts,"
+    ],
+    "without": [
+      "Sign up as an artist",
+      "Terms of use",
+      "Get your tour dates seen everywhere."
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://investor.vanguard.com/tools-calculators/retirement-income-calculator",
+  "file_id": "4650",
+  "ground_truth": {
+    "title": "Retirement income calculator",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Your retirement is on the horizon, but how far away? You can use this calculator to help you see where you stand in relation to your retirement goal and map out different paths to reach your target. You can print the results for future reference.",
+    "with": [
+      "Your retirement is on the horizon, but how far away?",
+      "see where you stand in relation to your retirement goal",
+      "map out different paths to reach your target",
+      "You can print the results for future reference."
+    ],
+    "without": [
+      "Tools and calculators",
+      "Vanguard IRA®, retire on your terms",
+      "Open an IRA",
+      "See advice offers"
+    ],
+    "main_content_markdown": "Your retirement is on the horizon, but how far away? You can use this calculator to help you see where you stand in relation to your retirement goal and map out different paths to reach your target. You can print the results for future reference."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "article"
+  }
+}

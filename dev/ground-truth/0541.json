@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://bbs.archlinux.org/viewtopic.php?id=309936",
+  "file_id": "0541",
+  "ground_truth": {
+    "title": "What happened with Arch Linux ISO in 2024",
+    "author": "chunix64",
+    "publish_date": "2025-11-01",
+    "main_content": "chunix64\n2025-11-01 15:14:37\n\nAccording to https://archlinux.org/releng/releases/ , why did the ISO size increase so rapidly from 2024 to 2025 — from about 800 MB to 1.4 GB, almost half the total size growth in Arch's entire history?\n\nLast edited by chunix64 (2025-11-01 15:15:18)\n\nnl6720\n2025-11-02 06:23:21\n\nRe: What happened with Arch Linux ISO in 2024\n\narchlinux-2024.05.01-x86_64.iso changed the UEFI boot loader from GRUB back to systemd-boot (which was used in archlinux-2022.06.01-x86_64.iso and prior ISOs) which means the kernel and initramfs need to be duplicated; see https://gitlab.archlinux.org/archlinux/archiso/-/merge_requests/374 for details. The rest of the size increase is just general bloat accumulation. I.e. the kernel and linux-firmware get bigger with each release.",
+    "with": [
+      "why did the ISO size increase so rapidly from 2024 to 2025",
+      "from about 800 MB to 1.4 GB, almost half the total size growth in Arch's entire history",
+      "archlinux-2024.05.01-x86_64.iso changed the UEFI boot loader from GRUB back to systemd-boot",
+      "which means the kernel and initramfs need to be duplicated",
+      "The rest of the size increase is just general bloat accumulation",
+      "the kernel and linux-firmware get bigger with each release"
+    ],
+    "without": [
+      "You are not logged in.",
+      "Topics: Active | Unanswered",
+      "Powered by FluxBB",
+      "Jump to"
+    ],
+    "main_content_markdown": "**chunix64**\n2025-11-01 15:14:37\n\nAccording to [https://archlinux.org/releng/releases/](https://archlinux.org/releng/releases/) , why did the ISO size increase so rapidly from 2024 to 2025 - from about 800 MB to 1.4 GB, almost half the total size growth in Arch's entire history?\n\n*Last edited by chunix64 (2025-11-01 15:15:18)*\n\nnl6720\n2025-11-02 06:23:21\n\n### Re: What happened with Arch Linux ISO in 2024\n\narchlinux-2024.05.01-x86_64.iso changed the UEFI boot loader from GRUB back to systemd-boot (which was used in archlinux-2022.06.01-x86_64.iso and prior ISOs) which means the kernel and initramfs need to be duplicated; see [https://gitlab.archlinux.org/archlinux/archiso/-/merge_requests/374](https://gitlab.archlinux.org/archlinux/archiso/-/merge_requests/374) for details. The rest of the size increase is just *general bloat accumulation*. I.e. the kernel and linux-firmware get bigger with each release."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": []
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.nashville-mdha.org/community-development-department/home-repair-programs/",
+  "file_id": "4549",
+  "ground_truth": {
+    "title": "Home Repair Programs",
+    "author": null,
+    "publish_date": null,
+    "main_content": "For Homeowners\n\nThe Metropolitan Development and Housing Agency’s (MDHA) Accessibility, HVAC, Homeowner Rehabilitation, Roof and Window programs are available to qualifying Davidson County homeowners to help with various home repairs. The application period for 2025 is now open.\n\nPlease review our Neighborly User Guide or call 615-252-8530 if you need assistance.\n\nIn order to manage program demand with available funding, MDHA will accept a limited number of pre-screening forms during open application periods.\n\nMDHA is now accepting 2025 waitlist applications for the following programs:\n\n- Accessibility Program\n- Homeowner Rehab\n- HVAC Replacement\n- Roof Program\n- Window Program\n- Weatherization Assistance\n\nHome Repair Program Flier\n\nCommunity Development Programs Flier\n\nWindow Replacement Program Flier\n\nHome Repair Fact Sheet\n\nEligible Repairs Fact Sheet\n\nIncome - what counts and what doesn't\n\nAssets - what counts and what doesn't\n\nNeighborly Portal User Guide\n\nFor Landlords\n\nMDHA offers Community Development Block Grant Rental Rehab and Weatherization Assistance to property owners who own property in need of rehabilitation in Davidson County and wish to make it available to lease to tenants with incomes at or below 80% Adjusted Median Income (AMI) at Section 8 Fair Market Rents for a minimum of 10 years. During open application periods, property owners may apply through our online application process.\n\nPlease review our Neighborly User Guide or call 615-252-8530 if you need assistance. During open application periods, applications will be accepted on a first-come, first-served, first-approved basis until available funding is exhausted.\n\n- CBDG Rental Rehab - 2025 APPLICATION PERIOD TO BE ANNOUNCED\n- Weatherization Assistance - Call 615-252-8500 for more information.\n\nCommunity Development Block Grant\n\nCDBG Rental Rehabilitation Loan Program Information\n\nCDBG Rental Rehabilitation Loan Program Application and Approval Procedures\n\nCDBG Rental Rehabilitation Program Lead Based Paint Requirements\n\nWeatherization Assistance Program",
+    "with": [
+      "Please review our Neighborly User Guide or call 615-252-8530 if you need assistance.",
+      "MDHA is now accepting 2025 waitlist applications for the following programs:",
+      "Weatherization Assistance - Call 615-252-8500 for more information.",
+      "CDBG Rental Rehabilitation Loan Program Application and Approval Procedures"
+    ],
+    "without": [
+      "Senior Leadership Team",
+      "Sign up for MDHA Newsletters",
+      "Application Portal",
+      "Equal Housing"
+    ],
+    "main_content_markdown": "## **For Homeowners**\n\nThe Metropolitan Development and Housing Agency’s (MDHA) Accessibility, HVAC, Homeowner Rehabilitation, Roof and Window programs are available to qualifying Davidson County homeowners to help with various home repairs. The application period for 2025 is now open.\n\nPlease review our [Neighborly User Guide](https://www.nashville-mdha.org/wp-content/uploads/2015/02/Neighborly-Log-in-User-Guide.pdf) or call 615-252-8530 if you need assistance.\n\nIn order to manage program demand with available funding, MDHA will accept a limited number of pre-screening forms during open application periods.\n\nMDHA is now accepting 2025 waitlist applications for the following programs:\n\n- **Accessibility Program**\n- **Homeowner Rehab**\n- **HVAC Replacement**\n- **Roof Program**\n- **Window Program**\n- **Weatherization Assistance**\n\n[Home Repair Program Flier](https://www.nashville-mdha.org/wp-content/uploads/2015/02/Home-Repair-Flier.pdf)\n\n[Community Development Programs Flier](https://www.nashville-mdha.org/wp-content/uploads/2015/02/CD-Programs-Flier.pdf)\n\n[Window Replacement Program Flier](https://www.nashville-mdha.org/wp-content/uploads/2015/02/Window-Replacement-Program-Flier-FINAL2.pdf)\n\n[Home Repair Fact Sheet](https://www.nashville-mdha.org/wp-content/uploads/2025/06/Home-Repair-Fact-Sheet.pdf)\n\n[Eligible Repairs Fact Sheet](https://www.nashville-mdha.org/wp-content/uploads/2015/02/2018-Eligible-Repairs.pdf)\n\n[Income - what counts and what doesn't](https://files.hudexchange.info/resources/documents/HUD_P5_Inclusions_Exclusions.pdf)\n\n[Assets - what counts and what doesn't](http://portal.hud.gov/hudportal/documents/huddoc?id=DOC_35701.pdf)\n\n[Neighborly Portal User Guide](https://www.nashville-mdha.org/wp-content/uploads/2015/02/Neighborly-Log-in-User-Guide.pdf)\n\n## **For Landlords**\n\nMDHA offers Community Development Block Grant Rental Rehab and Weatherization Assistance to property owners who own property in need of rehabilitation in Davidson County and wish to make it available to lease to tenants with incomes at or below 80% Adjusted Median Income (AMI) at Section 8 Fair Market Rents for a minimum of 10 years. During open application periods, property owners may apply through our online application process.\n\nPlease review our [Neighborly User Guide](https://www.nashville-mdha.org/wp-content/uploads/2015/02/Neighborly-Log-in-User-Guide.pdf) or call 615-252-8530 if you need assistance. During open application periods, applications will be accepted on a first-come, first-served, first-approved basis until available funding is exhausted.\n\n- **CBDG Rental Rehab** - 2025 APPLICATION PERIOD TO BE ANNOUNCED\n- **Weatherization Assistance** - Call 615-252-8500 for more information.\n\n[Community Development Block Grant](https://www.nashville-mdha.org/cdbg/)\n\n[CDBG Rental Rehabilitation Loan Program Information](https://www.nashville-mdha.org/rental-rehab-fact-sheet/)\n\n[CDBG Rental Rehabilitation Loan Program Application and Approval Procedures](https://www.nashville-mdha.org/rental-rehab-loan-application/)\n\n[CDBG Rental Rehabilitation Program Lead Based Paint Requirements](https://www.nashville-mdha.org/rental-rehab-lead-based-paint-requirements/)\n\n[Weatherization Assistance Program](https://www.nashville-mdha.org/wap/)"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "collection"
+  }
+}

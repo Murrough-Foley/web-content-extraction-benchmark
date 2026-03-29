@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "url": "",
+  "file_id": "4281",
+  "ground_truth": {
+    "title": "Cybersecurity Consulting",
+    "author": null,
+    "publish_date": null,
+    "main_content": "We help leaders think differently.\n\nTo succeed in today’s digital world, leaders need to be ahead of the trends. It’s about being relevant, innovative, and ambitious.\n\nWhen it comes to security, this business mindset mustn’t waver. It is through an innovative and resilient lens that companies can effectively adapt, adopt, and secure their digital framework.\n\nAt Protiviti, we help you transform your business — securely — one step at a time through our comprehensive technology consulting services. We focus on achieving your goals to manage security strategy, enable compliance and trust, protect your data and business assets, transform and optimize your business, architect and sustain your security platforms, and enable your security resilience plans.\n\nBy applying our three core principles — “Advise. Implement. Manage.” — we provide the industry-relevant cybersecurity consulting solutions needed to satisfy your needs.\n\nAttention to detail, deep technical skills, our integrated approach, and a commitment to excellence set Protiviti apart.",
+    "with": [
+      "To succeed in today’s digital world, leaders need to be ahead of the trends. It’",
+      "Attention to detail, deep technical skills, our integrated approach, and a commi"
+    ],
+    "without": [
+      "Skip to main content",
+      "©2026 Protiviti Inc. All Rights Reserved.",
+      "Privacy Notice",
+      "Terms of Use",
+      "Do not sell or share my personal information"
+    ],
+    "main_content_markdown": "We help leaders think differently.\n\nTo succeed in today’s digital world, leaders need to be ahead of the trends. It’s about being relevant, innovative, and ambitious.\n\nWhen it comes to security, this business mindset mustn’t waver. It is through an innovative and resilient lens that companies can effectively adapt, adopt, and secure their digital framework.\n\nAt Protiviti, we help you transform your business — securely — one step at a time through our comprehensive [technology consulting services](https://www.protiviti.com/us-en/technology-consulting-services). We focus on achieving your goals to manage security strategy, enable compliance and trust, protect your data and business assets, transform and optimize your business, architect and sustain your security platforms, and enable your security resilience plans.\n\nBy applying our three core principles — “Advise. Implement. Manage.” — we provide the industry-relevant cybersecurity consulting solutions needed to satisfy your needs.\n\nAttention to detail, deep technical skills, our integrated approach, and a commitment to excellence set Protiviti apart."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "low",
+      "needs_review": true
+    }
+  }
+}

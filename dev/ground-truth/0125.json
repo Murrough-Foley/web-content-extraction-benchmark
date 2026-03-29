@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.scps.virginia.edu/whats-difference-between-certificate-and-certification",
+  "file_id": "0125",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "education",
+        "guide",
+        "professional-development"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "What's the Difference Between a Certificate and a Certification?",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Earning a certificate is a way for you to earn credits in a structured, discipline-specific way. A certificate can prepare you to advance in your career, or to gain the extra knowledge needed to stay competitive and up-to-date in your field. Completion of the certificate demonstrates evidence of specialized education achievement. It is recognized on a University of Virginia transcript.\n\nThere are many fields, however, that have professional certifications that may be recommended or required (teaching, project management, accounting). A certificate program does not lead to a professional certification. Yes, the courses you take in a certificate program could help you prepare to earn a professional field-specific certification, but earning a certificate is not the same as becoming certified.\n\nCertificate | Certification\nResult of an educational process | Result of an assessment process\nFor newcomers and experienced professionals | Typically requires experience\nIndicates completion of a course or series of courses with a particular focus | Indicates mastery/competency measured against a standard – usually by exam\nCourse content set through academic process | Standards set through an industry-wide process\nUsually listed on a resume detailing education | Typically results in a designation to use after one’s name (CPA, SPHR, PMP)\nDemonstrates knowledge of course content | Often has ongoing training requirement (C.E.U.s)\nGateway to a degree | No relationship to attaining higher education/degree",
+    "with": [
+      "Earning a certificate is a way for you to earn credits in a structured, discipline-specific way.",
+      "A certificate can prepare you to advance in your career, or to gain the extra knowledge needed to stay competitive and up-to-date in your field.",
+      "A certificate program does not lead to a professional certification.",
+      "Result of an educational process | Result of an assessment process",
+      "Gateway to a degree | No relationship to attaining higher education/degree"
+    ],
+    "without": [
+      "Finish Your Degree",
+      "Start Your Application",
+      "Take the next step",
+      "By submitting this form, you authorize the University of Virginia"
+    ],
+    "main_content_markdown": "Earning a certificate is a way for you to earn credits in a structured, discipline-specific way. A certificate can prepare you to advance in your career, or to gain the extra knowledge needed to stay competitive and up-to-date in your field. Completion of the certificate demonstrates evidence of specialized education achievement. It is recognized on a University of Virginia transcript.\n\nThere are many fields, however, that have professional certifications that may be recommended or required (teaching, project management, accounting). A [certificate program](https://www.scps.virginia.edu/online-certificate-programs) does not lead to a professional certification. Yes, the courses you take in a certificate program could help you prepare to earn a professional field-specific certification, but earning a certificate is not the same as becoming certified.\n\n| Certificate | Certification |\n| --- | --- |\n| Result of an educational process | Result of an assessment process |\n| For newcomers and experienced professionals | Typically requires experience |\n| Indicates completion of a course or series of courses with a particular focus | Indicates mastery/competency measured against a standard – usually by exam |\n| Course content set through academic process | Standards set through an industry-wide process |\n| Usually listed on a resume detailing education | Typically results in a designation to use after one’s name (CPA, SPHR, PMP) |\n| Demonstrates knowledge of course content | Often has ongoing training requirement (C.E.U.s) |\n| Gateway to a degree | No relationship to attaining higher education/degree |\n"
+  }
+}

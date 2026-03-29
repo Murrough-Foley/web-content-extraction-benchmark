@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://aws.amazon.com/products/storage/",
+  "file_id": "4974",
+  "ground_truth": {
+    "title": "Cloud Storage Services on AWS",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Products\n\nStorage\n\nCloud Storage on AWS\n\nReliable, scalable, and secure storage for your data\n\nAmazon S3: 20 years of building what’s next\n\nFrom storage for the internet to the data foundation for AI and analytics, Amazon S3 scales and evolves with your ambition. Explore S3\n\nMaximize economic advantages by migrating to AWS Cloud Infrastructure\n\nAnalyst firm, Enterprise Strategy Group, validated that organizations reduced compute, networking, and storage costs by up to 66% by migrating on-premises workloads to AWS Cloud Infrastructure.\n\nRead the report\n\nWhy Cloud Storage on AWS?\n\nMillions of customers use AWS cloud storage services to transform their business, increase agility, reduce costs, and accelerate innovation. Choose from a broad portfolio of storage solutions with deep functionality for storing, accessing, protecting, and analyzing your data.\n\nBenefits of Cloud Storage on AWS\n\nMake resources available in minutes, not weeks. Speed time to market, avoid complex capacity planning, and reduce over-provisioning with just a few clicks.\n\nMinimize your total cost of ownership (TCO) with managed services that eliminate infrastructure maintenance. Optimize your storage costs based on how frequently and quickly you need to access your data.\n\nSafeguard your data with unmatched security and storage designed for 99.999999999 (11 9s) of durability and multi Availability Zone resilience. Keep data available to your applications with data resilience provided through options from granular restore to recovery across AWS and on-premises environments.\n\nChoose from a variety of tools to get more from your data and accelerate new product and service delivery. Run big data analytics, artificial intelligence (AI), machine learning (ML), high-performance computing (HPC), and media processing applications on all your cloud data.\n\nEnable generative AI with secure, scalable data lakes, high-performance storage for model training, and integration with AWS data services for generative AI to customize foundation model responses and differentiate applications with your data.\n\nAWS Storage Services\n\nDisplaying 1-8 (11)\n\nUse cases\n\nLift and shift your existing workloads to AWS quickly using like-for-like storage for simple cloud migration. Move your network-attached storage (NAS), storage area network (SAN), and Hadoop workloads as-is with AWS services, and evolve at your own pace.\n\nConsolidate your data so it’s easier to model and analyze. Use Amazon S3 to build a secure, durable, and scalable data lake. Take advantage of its integration with a wide range of services for analytics and ML.\n\nBuild cloud-native applications and get to market faster with a microservices architecture and more. Choose AWS storage services that persist and share data from your AWS containers and serverless applications.\n\nExtend secondary storage targets to the cloud to address exponential data growth. Migrate copies of on-premises data to AWS and protect applications already in the cloud with services from AWS and AWS Partners.\n\nMeet long-term retention requirements with AWS storage services. Manage compliance and digital preservation with services that provide security, reliability, unlimited scalability, and 99.999999999% durability. Access data faster than on-premises tape.\n\nAWS Storage Blogs\n\nRead AWS Storage blogs for the latest technical guidance and best practices\nExplore blogs\n\nAWS Summit Hamburg 2025: Experience tomorrow's cloud today\n\nJoin industry pioneers and cloud experts for a day of hands-on learning and networking opportunities that will transform your business's cloud journey.\n\nRegister now",
+    "with": [
+      "Amazon S3: 20 years of building what’s next",
+      "Make resources available in minutes, not weeks. Speed time to market, avoid comp",
+      "Consolidate your data so it’s easier to model and analyze. Use Amazon S3 to buil",
+      "AWS Summit Hamburg 2025: Experience tomorrow's cloud today"
+    ],
+    "without": [
+      "AWS Marketplace",
+      "Sign in to console",
+      "Create account",
+      "Contact Us"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "service"
+  }
+}

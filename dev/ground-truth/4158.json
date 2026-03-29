@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.cuisinart.com/shopping/appliances/bread-makers/?srsltid=AfmBOorNbO79ouP8gGqDB5pVpX3ap8H4m7eb4YTEPBAIbCkqdeqFRGjh",
+  "file_id": "4158",
+  "ground_truth": {
+    "title": "Bread Makers",
+    "author": null,
+    "publish_date": null,
+    "main_content": "With a versatile Cuisinart bread maker, you can make your own no-fuss loaves (even gluten-free!), plus doughs, cakes, and even jams.\n\nCompact Automatic Bread Maker\n\nCustom Convection Bread Maker\n\nBring the bakery to your kitchen with our automatic bread maker machines. Choose from different crust colors, loaf sizes, and more than 100 bread, dough, cake, and jam combinations. Our bread maker machines are perfect for everyday meals — from avocado toast to grilled cheese sandwiches. Gluten-free recipes also make it possible for those with diet restrictions to enjoy freshly baked bread again.\n\nEntertaining guests? Pair your freshly baked bread with brie and granny smith apples or spinach dip for appetizers that make a lasting impression. During the holiday season, use our automatic bread maker to whip up freshly baked goods for family, friends, teachers, or neighbors.",
+    "with": [
+      "With a versatile Cuisinart bread maker, you can make your own no-fuss loaves (even gluten-free!), plus doughs, cakes, and even jams.",
+      "Bring the bakery to your kitchen with our automatic bread maker machines. Choose from different crust colors, loaf sizes, and more than 100 bread, dough, cake, and jam combinations.",
+      "Entertaining guests? Pair your freshly baked bread with brie and granny smith apples or spinach dip for appetizers that make a lasting impression.",
+      "Gluten-free recipes also make it possible for those with diet restrictions to enjoy freshly baked bread again."
+    ],
+    "without": [
+      "Showing 2 of 2 products",
+      "AppliancesBakewareCookwareCutleryTools & GadgetsOutdoorsPart",
+      "homeShop By CategoryAppliancesBread Makers",
+      "Skip to footer content"
+    ],
+    "main_content_markdown": "With a versatile Cuisinart bread maker, you can make your own no-fuss loaves (even gluten-free!), plus doughs, cakes, and even jams.\n\n[Compact Automatic Bread Maker](https://www.cuisinart.com/compact-automatic-bread-maker/CBK-110NAS.html)\n\n[Custom Convection Bread Maker](https://www.cuisinart.com/custom-convection-bread-maker/CBK-210NAS.html)\n\nBring the bakery to your kitchen with our automatic bread maker machines. Choose from different crust colors, loaf sizes, and more than 100 bread, dough, cake, and jam combinations. Our bread maker machines are perfect for everyday meals \u2014 from avocado toast to grilled cheese sandwiches. Gluten-free recipes also make it possible for those with diet restrictions to enjoy freshly baked bread again.\n\nEntertaining guests? Pair your freshly baked bread with brie and granny smith apples or spinach dip for appetizers that make a lasting impression. During the holiday season, use our automatic bread maker to whip up freshly baked goods for family, friends, teachers, or neighbors."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  }
+}

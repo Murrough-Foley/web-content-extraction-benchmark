@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://twomenandatruck.com/starting-a-moving-quote",
+  "file_id": "4928",
+  "ground_truth": {
+    "title": "Starting a Moving Quote",
+    "author": null,
+    "publish_date": null,
+    "main_content": "“How much does it cost?” It’s the age-old question that people have when it comes to hiring professional movers, and often times, can be the deciding factor for customers when they make the decision of how to move their belongings.\n\nThe old adage “you get what you pay for” has never been more true than with home moving services, and with TWO MEN AND A TRUCK, you are paying for quality customer service and moving options! This starts with getting your free moving quote online, and there are variety of factors that come into play when calculating your moving costs.\n\nHow are moving quotes calculated?\n\nIn short, the amount of moving will be the deciding factor in how much your move costs. From move mileage to the size of your household or business, the day of the week, the number of items being moved, the amount of stairs involved, the number of men and trucks required, and the amount of packing supplies needed – each little detail factors into your final moving price.\n\nEnsure you’re as precise as possible with furniture, rooms, and boxes that need to be moved so we can provide you with the most accurate moving quote. You can even request a team member visit to provide an in-home estimate. Depending on location, sometimes these are standard.\n\nThinking of Moving Yourself?\nThink Again!\n\nWhile moving yourself may seem less expensive... the costs add up.\n\nDo-It-Yourself Moving Costs:\nTruck Rental\nMileage\nFuel Charge\nAdditional Insurance\n\nEquipment Rental\n\n(straps, rope, furniture pads, bungee cords, stretch wrap, dollies, etc.)\nTime\nBoxes & Packing Supplies\n\nPossible Damages\n\n(belongings, relationships, & injuries)\nRecruiting Friends to Help\nFood & Beverages\nChiropractor Visits\nPacking a Truck\nLearning How to Maneuver a Moving Truck\nBroken Promises\n\nCall TWO MEN AND A TRUCK\n\nWe can move as much or as little as you need while fitting your schedule & budget!\n\nReceiving YOUR quote\n\nOur customer service starts well before our professional moving teams pick up any of your belongings, and the first step to the moving process is receiving a complimentary online moving quote!\n\nThe online moving forms available on our website will provide the initial point of contact for customers, allowing us to gauge how much you are moving, how long it will take, and all other essential moving information.\n\nThere are three quick, easy steps required from you to get a free moving quote:\n\nStep 1\n\nFill out our online moving form\n\nThe more information you‘re able to provide us, the more accurate your moving quote will be.\n\nStep 2\n\nContact from a customer service representative\n\nOne of our friendly CSRs will contact you to confirm move details and ensure nothing was missed. From there, they’ll work to get your move scheduled, answer any additional questions you may have, and determine if an in-home estimate is needed.\n\nStep 3\n\nConfirm details\n\nThis is the final step before we begin your home move! CSRs will go over details with you one more time to confirm everything from price to the supplies needed, making sure you are up-to-date on everything scheduled to happen.\n\nYou’re now on your way to experiencing a stress-free home move! If at any time you have questions during the process, feel free to call and speak directly with your local office. We look forward to hearing from you!",
+    "with": [
+      "The old adage “you get what you pay for” has never been more true than with home",
+      "(straps, rope, furniture pads, bungee cords, stretch wrap, dollies, etc.)",
+      "The more information you‘re able to provide us, the more accurate your moving qu",
+      "This is the final step before we begin your home move! CSRs will go over details"
+    ],
+    "without": [
+      "Apartment/Condo",
+      "Find a Location",
+      "877.720.0411"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "service"
+  }
+}

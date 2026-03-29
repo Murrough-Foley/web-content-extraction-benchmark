@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.keebtalk.com/t/help-picking-a-full-size-hot-swap-keyboard/19891",
+  "file_id": "4802",
+  "ground_truth": {
+    "title": "Help picking a Full size hot-swap keyboard",
+    "author": "cubethethird",
+    "publish_date": "2023-10-18",
+    "with": [
+      "I would check out the Zoom98. Your local vendor is Mech.land, so that would be the place with the cheapest shipping to you.",
+      "Qwertykeys also has the very affordable QK100 that has received it’s fair share of praise for it’s price:",
+      "I can’t really speak for the boards, but am very satisfied with Switches and some of their older Cherry Profile Doubleshots",
+      "I don’t think the QK100 is full size either. Again, they’ve scrunched up the nav cluster and removed keys."
+    ],
+    "without": [
+      "Categories",
+      "Terms of Service",
+      "Privacy Policy"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  }
+}

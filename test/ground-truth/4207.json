@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://club.target.com/a/kristyna.r",
+  "file_id": "4207",
+  "ground_truth": {
+    "title": "Storefront",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Check out my favorites!\n\nDr. Praeger's Frozen Gluten Free Pizza Stars - 9oz\n\nKidfresh Frozen Chicken Meatballs - 16.45oz\n\nKidfresh Frozen Fish Sticks - 8.45oz\n\nHappy Baby Nutty Blends Organic Bananas & Almond Butter Baby Food Pouch - 3oz\n\nKidfresh Frozen Chicken Nuggets - 16.35oz\n\nDr. Praeger's Frozen Gluten Free Broccoli Littles - 10oz\n\nOnce Upon a Farm Tractor Wheels Strawberry Pumpkin & Beet Baby Food - 3.35oz\n\nOnce Upon a Farm Tractor Wheels Apple Sweet Potato & Spinach Baby Snacks - 3.35oz\n\nHappy Baby Nutty Blends Organic Bananas & Peanut Butter Baby Food Pouch - 3oz\n\nOnce Upon a Farm Tractor Wheel Bar Baby Snacks - Apple, Sweet Potato & Spinach - 1.5oz/10ct\n\nOnce Upon a Farm Coconut Melts Variety Pack Baby Snack - 2.5oz/10ct\n\nWomen's Cozy Ribbed Notch Collar Long Sleeve Shirt and Pants Pajama Set - Auden™ Brown XS\n\nWomen's Ribbed Crewneck Cardigan - Wild Fable™ Light Yellow 1X\n\nWomen's Piped Sports Bra - JoyLab™ Red/Pink M\n\nWomen's High-Rise Piped 7/8 Leggings - JoyLab™ Brown XL",
+    "with": [
+      "Kidfresh Frozen Chicken Meatballs - 16.45oz",
+      "Dr. Praeger's Frozen Gluten Free Broccoli Littles - 10oz",
+      "Once Upon a Farm Coconut Melts Variety Pack Baby Snack - 2.5oz/10ct",
+      "Women's Piped Sports Bra - JoyLab™ Red/Pink M",
+      "Women's High-Rise Piped 7/8 Leggings - JoyLab™ Brown XL"
+    ],
+    "without": [
+      "Earns Rewards",
+      "Shop Here",
+      "Shop this post",
+      "Club Target"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  }
+}

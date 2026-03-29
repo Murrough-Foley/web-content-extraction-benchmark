@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://uk.glossier.com/collections/skincare-enthusiast?srsltid=AfmBOorPR04pCqvQ8cI7RcavkbbT-oF5xQf0vy1EKVQ5LhIDUj-oz9Qr",
+  "file_id": "4760",
+  "ground_truth": {
+    "title": "For the skincare enthusiast.",
+    "author": null,
+    "publish_date": null,
+    "main_content": "The Super Pack\n\nAll three serums\n\n£88\n£102\n\nBalm Dotcom Trio\n\nOriginal formula\n\n£42\n£48",
+    "main_content_markdown": "### [The Super Pack](/products/super-pack?variant=41611451367471)\n\nAll three serums\n\n£88\n£102\n\n### [Balm Dotcom Trio](/products/balm-dotcom-trio?variant=55532131254650)\n\nOriginal formula\n\n£42\n£48",
+    "with": [
+      "The Super Pack",
+      "All three serums",
+      "Balm Dotcom Trio"
+    ],
+    "without": [
+      "Bestsellers",
+      "Glossier You Duo",
+      "Returns & exchanges",
+      "International",
+      "Responsible disclosure",
+      "More quick links off-screen",
+      "View Options",
+      "Sort Options"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  }
+}

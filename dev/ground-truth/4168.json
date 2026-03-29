@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.lttlabs.com/products/keyboards/keychron-k2-wireless-mechanical-keyboard-version-2",
+  "file_id": "4168",
+  "ground_truth": {
+    "title": "Keychron K2 Wireless Mechanical Keyboard (Version 2)",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Keychron K2 Wireless Mechanical Keyboard (Version 2)\n\nWHAT YOU NEED TO KNOW\n\nTHE GOOD\nPrice\nOptions\n\nTHE BAD\nLatency\n\nTHE REST\nOverall\n\nHardware\n\nIncluded Items\n\nKeyboard\nUSB Type-A to USB Type-C Cable\nUser Documentation\nKeycap Puller\nExtra Keycaps\n\nDimensions\n\nHeight\n3.2 cm\n\nWidth Max\n31.0 cm\n\nDepth W/ Palm Rest\n12.0 cm\n\nDepth\n12.0 cm\n\nWeight\n653 g\n\nConstruction\n\nThe right side of the keyboard containing the navigation keys.\n\nChassis Material\nPlastic\n\nSwitch Plate Material\nAluminum\n\nSwitch Plate Color\nBlack\n\nStabilizers\nPlate-Mounted\n\nKeycaps\n\nThe left side of the keyboard.\n\nKeycap Material\nABS\n\nLettering\nDouble-Shot\n\nShine Through Keycaps\nYes\n\nConnectivity\n\nThe keyboard can be connected by a USB Type-C to Type-A detachable braided cable.\n\nWireless\nYes\n\nWired\nYes\n\nBluetooth\n5.1\n\nMulti-Device Pairing\nYes\n\nReceiver\nNo\n\nReceiver Storing\nNo\n\nBattery Type\nRechargeable\n\nComputer Side Connector\nUSB Type-A\n\nKeyboard Side Connector\nUSB Type-C\n\nCable Length\n110 cm\n\nDetachable Cable\nYes\n\nUSB Passthrough\nNo\n\nFeatures & Software\n\nSoftware\nN/A\n\nMandatory Registration\nNo\n\nNumber Of Profiles\nN/A\n\nOnboard Memory\nNo\n\nCloud Sync\nNo\n\nMacro Programming\nNo\n\nQMK Firmware Compatible\nYes\n\nVIA Key Configurator Compatible\nYes\n\nWindows Compatible\nYes\n\nmacOS Compatible\nYes\n\nBacklighting\n\nRGB Software\nN/A\n\nBacklighting\nYes\n\nBacklighting Color\nRGB\n\nPer Key Illumination\nYes\n\nPerformance\n\nSwitch Type\nMechanical\n\nHot Swappable\nNo\n\nStem Type\nCherry MX\n\nPin Configuration\n1 pin\n\nLED Orientation\nSouth-Facing\n\nTactility\nTactile\n\nOperating Force\n38.53 gf\n\nBottoming Force\n53.48 gf\n\nKey Start Force\n32.78 gf\n\nPre-Travel\n2.65 mm\n\nTotal Travel\n4.14 mm\n\nSwitch Name\nGateron G Pro Brown\n\nProductivity & Efficiency\n\nErgonomics\n\nBoard Size\n75%\n\nBoard Type\nStraight\n\nPalm Rest Included\nNo\n\nLow Profile\nNo\n\nIncline Angles\n5 ° / 11 ° / 12 °\n\nNumpad\nNo\n\nDedicated Function Row\nYes\n\nDedicated Arrow Keys\nYes\n\nKey Spacing\n19 mm\n\nGhosting & Rollover\n\nKRO\nN-KRO\n\nGhosting\nNone Encountered\n\nTest Configuration\n\nPolling Rate (Wired)\n1000 Hz\n\nPolling Rate (Wireless)\nN/A\n\nDebounce Time\nN/A",
+    "with": [
+      "The keyboard can be connected by a USB Type-C to Type-A detachable braided cable",
+      "The right side of the keyboard containing the navigation keys",
+      "Gateron G Pro Brown",
+      "QMK Firmware Compatible",
+      "Incline Angles"
+    ],
+    "without": [
+      "All Products",
+      "More Keyboards",
+      "Unable to fetch price",
+      "This website uses affiliate links",
+      "Regional availability and other factors"
+    ],
+    "main_content_markdown": "# Keychron K2 Wireless Mechanical Keyboard (Version 2)\n\n## WHAT YOU NEED TO KNOW\n\nTHE GOOD\nPrice\nOptions\n\nTHE BAD\nLatency\n\nTHE REST\nOverall\n\n## Hardware\n\n### Included Items\n\nKeyboard\nUSB Type-A to USB Type-C Cable\nUser Documentation\nKeycap Puller\nExtra Keycaps\n\n### Dimensions\n\nHeight\n3.2 cm\n\nWidth Max\n31.0 cm\n\nDepth W/ Palm Rest\n12.0 cm\n\nDepth\n12.0 cm\n\nWeight\n653 g\n\n### Construction\n\nThe right side of the keyboard containing the navigation keys.\n\nChassis Material\nPlastic\n\nSwitch Plate Material\nAluminum\n\nSwitch Plate Color\nBlack\n\nStabilizers\nPlate-Mounted\n\n### Keycaps\n\nThe left side of the keyboard.\n\nKeycap Material\nABS\n\nLettering\nDouble-Shot\n\nShine Through Keycaps\nYes\n\n### Connectivity\n\nThe keyboard can be connected by a USB Type-C to Type-A detachable braided cable.\n\nWireless\nYes\n\nWired\nYes\n\nBluetooth\n5.1\n\nMulti-Device Pairing\nYes\n\nReceiver\nNo\n\nReceiver Storing\nNo\n\nBattery Type\nRechargeable\n\nComputer Side Connector\nUSB Type-A\n\nKeyboard Side Connector\nUSB Type-C\n\nCable Length\n110 cm\n\nDetachable Cable\nYes\n\nUSB Passthrough\nNo\n\n## Features & Software\n\nSoftware\nN/A\n\nMandatory Registration\nNo\n\nNumber Of Profiles\nN/A\n\nOnboard Memory\nNo\n\nCloud Sync\nNo\n\nMacro Programming\nNo\n\nQMK Firmware Compatible\nYes\n\nVIA Key Configurator Compatible\nYes\n\nWindows Compatible\nYes\n\nmacOS Compatible\nYes\n\n### Backlighting\n\nRGB Software\nN/A\n\nBacklighting\nYes\n\nBacklighting Color\nRGB\n\nPer Key Illumination\nYes\n\n## Performance\n\nSwitch Type\nMechanical\n\nHot Swappable\nNo\n\nStem Type\nCherry MX\n\nPin Configuration\n1 pin\n\nLED Orientation\nSouth-Facing\n\nTactility\nTactile\n\nOperating Force\n38.53 gf\n\nBottoming Force\n53.48 gf\n\nKey Start Force\n32.78 gf\n\nPre-Travel\n2.65 mm\n\nTotal Travel\n4.14 mm\n\nSwitch Name\nGateron G Pro Brown\n\n## Productivity & Efficiency\n\n### Ergonomics\n\nBoard Size\n75%\n\nBoard Type\nStraight\n\nPalm Rest Included\nNo\n\nLow Profile\nNo\n\nIncline Angles\n5 ° / 11 ° / 12 °\n\nNumpad\nNo\n\nDedicated Function Row\nYes\n\nDedicated Arrow Keys\nYes\n\nKey Spacing\n19 mm\n\n### Ghosting & Rollover\n\nKRO\nN-KRO\n\nGhosting\nNone Encountered\n\n### Test Configuration\n\nPolling Rate (Wired)\n1000 Hz\n\nPolling Rate (Wireless)\nN/A\n\nDebounce Time\nN/A"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "high",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  }
+}

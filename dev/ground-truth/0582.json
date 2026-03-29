@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://shop.bombas.com/products/mens-quarter-socks",
+  "file_id": "0582",
+  "ground_truth": {
+    "title": "Men's Quarter Socks",
+    "author": "",
+    "publish_date": null,
+    "main_content": "These Quarters are engineered for comfort and designed to stand out. Higher than a Bombas ankle sock, lower than a Bombas calf sock, just right for a million different shoes, styles, looks, activities, and lazy Sundays. As always, One Purchased = One Donated.\n\nStay-Up Technology\n\nStay-Up Technology: the perfect tension and elasticity to keep them exactly where you want them. Tight, but not too tight.\n\nHoneycomb Arch Support\n\nHoneycomb Support System cradles the arch of your foot, like a firm but comfortable hug around your midfoot.\n\nSeamless Toe\n\nSeamless Toe is linked with a special knit stitch that eliminates the annoying bump that runs across the toes of most socks. You won't feel a thing.",
+    "main_content_markdown": "These Quarters are engineered for comfort and designed to stand out. Higher than a Bombas ankle sock, lower than a Bombas calf sock, just right for a million different shoes, styles, looks, activities, and lazy Sundays. As always, One Purchased = One Donated.\n\nStay-Up Technology\n\nStay-Up Technology: the perfect tension and elasticity to keep them exactly where you want them. Tight, but not too tight.\n\nHoneycomb Arch Support\n\nHoneycomb Support System cradles the arch of your foot, like a firm but comfortable hug around your midfoot.\n\nSeamless Toe\n\nSeamless Toe is linked with a special knit stitch that eliminates the annoying bump that runs across the toes of most socks. You won't feel a thing.",
+    "with": [
+      "These Quarters are engineered for comfort and designed to stand out.",
+      "Higher than a Bombas ankle sock, lower than a Bombas calf sock, just right for a million different shoes, styles, looks, activities, and lazy Sundays.",
+      "As always, One Purchased = One Donated.",
+      "Stay-Up Technology: the perfect tension and elasticity to keep them exactly where you want them. Tight, but not too tight.",
+      "Honeycomb Support System cradles the arch of your foot, like a firm but comfortable hug around your midfoot."
+    ],
+    "without": [
+      "Add to cart",
+      "Add to bag",
+      "Buy now"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": []
+    }
+  }
+}

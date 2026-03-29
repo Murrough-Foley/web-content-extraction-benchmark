@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.ikea.com/us/en/p/kallax-shelf-unit-white-80275887/",
+  "file_id": "0622",
+  "ground_truth": {
+    "title": "KALLAX Shelf unit, white, 30 1/8x57 5/8 \"",
+    "author": null,
+    "publish_date": null,
+    "main_content": "KALLAX\n\nShelf unit, white, 30 1/8x57 5/8 \"\n\nStanding or lying -- the KALLAX series adapts to taste, space and budget. Personalize the shelving unit with inserts and boxes to make it suit your needs.\n\nArticle Number: 802.758.87\n\nProduct details\n\nThe simple design with clean lines makes KALLAX flexible and easy to use at home.\n\nChoose whether to place it standing and use it as a shelving unit or lying and use it as a sideboard.\n\nDisplay your favorite items on the open shelves or add inserts to create a personalized solution with closed storage.\n\nDesigner: Tord Björklund\n\nGood to know\n\nThis furniture can take a max load of 55 lbs. on the top.\n\nCoordinates well with pieces of furniture in the LACK series that have the same timeless expression and material as KALLAX.\n\nKALLAX underframe sold separately.\n\nMaterials and care\n\nMaterial: Particleboard, Fiberboard, Acrylic paint, Honeycomb structure paper filling (100% recycled), Plastic edging\n\nCare: Wipe clean using a damp cloth and a mild cleaner. Wipe dry with a clean cloth.\n\nSafety and compliance\n\nWARNING! Tipping hazard -- to reduce the risk of this furniture tipping over, it must be securely anchored. Use suitable screws and plugs for your home. If you are uncertain, seek professional advice.\n\nMeasurements\n\nWidth: 30 1/8 \"\nDepth: 15 3/8 \"\nHeight: 57 5/8 \"\nMax load/shelf: 29 lb\n\nPackaging\n\nWidth: 16 \"\nHeight: 6 1/2 \"\nLength: 59 \"\nWeight: 46 lb 8 oz\nPackage(s): 1",
+    "with": [
+      "The simple design with clean lines makes KALLAX flexible and easy to use at home.",
+      "Choose whether to place it standing and use it as a shelving unit or lying and use it as a sideboard.",
+      "Display your favorite items on the open shelves or add inserts to create a personalized solution with closed storage.",
+      "This furniture can take a max load of 55 lbs. on the top.",
+      "Coordinates well with pieces of furniture in the LACK series that have the same timeless expression and material as KALLAX."
+    ],
+    "without": [
+      "Add to Cart",
+      "Skip to main content",
+      "Customer reviews",
+      "Join for free or log in"
+    ],
+    "main_content_markdown": "#### KALLAX\n\nShelf unit, white, 30 1/8x57 5/8 \"\n\nStanding or lying -- the KALLAX series adapts to taste, space and budget. Personalize the shelving unit with inserts and boxes to make it suit your needs.\n\nArticle Number: 802.758.87\n\n## Product details\n\nThe simple design with clean lines makes KALLAX flexible and easy to use at home.\n\nChoose whether to place it standing and use it as a shelving unit or lying and use it as a sideboard.\n\nDisplay your favorite items on the open shelves or add inserts to create a personalized solution with closed storage.\n\nDesigner: Tord Björklund\n\n### Good to know\n\nThis furniture can take a max load of 55 lbs. on the top.\n\nCoordinates well with pieces of furniture in the LACK series that have the same timeless expression and material as KALLAX.\n\nKALLAX underframe sold separately.\n\n### Materials and care\n\nMaterial: Particleboard, Fiberboard, Acrylic paint, Honeycomb structure paper filling (100% recycled), Plastic edging\n\nCare: Wipe clean using a damp cloth and a mild cleaner. Wipe dry with a clean cloth.\n\n### Safety and compliance\n\nWARNING! Tipping hazard -- to reduce the risk of this furniture tipping over, it must be securely anchored. Use suitable screws and plugs for your home. If you are uncertain, seek professional advice.\n\n## Measurements\n\nWidth: 30 1/8 \"\nDepth: 15 3/8 \"\nHeight: 57 5/8 \"\nMax load/shelf: 29 lb\n\n### Packaging\n\nWidth: 16 \"\nHeight: 6 1/2 \"\nLength: 59 \"\nWeight: 46 lb 8 oz\nPackage(s): 1"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": []
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "url": "https://dlr.skift.com/issues/",
+  "file_id": "0260",
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "news",
+        "lodging",
+        "hotel",
+        "archive"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Daily Lodging Report",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Service Properties Trust Sells Five Hotels for $47 Million - Service Properties Trust sold 5 hotels with a total of 679 keys located in four states for a combined price of $47 million. Plus, more hotel deal news.\n\nThe Latest Hotel Development & Deal News - New hotel openings include Hilton's Slackline Moab, Hyatt Place Bozeman and Sonesta's Dry Creek Inn; Shamin breaks ground on 270-room Virginia project.\n\nPark Hotels Sells 5 Properties for $198 Million - Park Hotels & Resorts sold five non-core properties for $198 million and exited three others on expiring ground leases this year. Plus more hotel deal news.\n\nHyatt Reopens Park Hyatt Tokyo After Restoration - The Park Hyatt Tokyo has reopened following a 19-month restoration. Plus, more hotel business news.\n\nLoews Hotels Plans $410 Million Arlington Property - Loews Hotels will build a $410 million luxury hotel in Arlington, Texas, replacing the existing Sheraton Arlington Hotel by September 2026. Plus, more hotel development news.\n\nJLL Raises Vietnam Hotel Investment Forecast by 25% - JLL recently increased its 2025 forecast for Vietnamese hotel investment volume by 25% to $125 million, reflecting a strong belief in the market's growth. Plus, more hotel development news.\n\nHyatt Expands With Park Hyatt and Alila Brands - Hyatt to open Miraval Red Sea in Q1 2026, expand Park Hyatt to five locations, and rebrand Andaz Mayakoba as Alila in Feb 2026. Plus, more hotel development news.\n\n$72 Million Sale of Westin Michigan Avenue Chicago Completed - Pebblebrook Hotel Trust has completed the sale of the 752-room Westin Michigan Avenue Chicago in Chicago, for $72 million. Plus, more hotel development news.\n\nChinese Hotel Bookings in Japan Drop 50% to 70% After Government Advisory - Hotel bookings from China dropped by by more than half the week after the Chinese government's advisory against visiting Japan. Plus, hotel development news.\n\nMarriott and Hyatt Expand Their Luxury Portfolios - Marriott and Hyatt revealed their luxury pipelines for 2026 at ILTM, plus more hotel development news.\n\nMarriott Adds Hotels in Japan, Thailand, and Malaysia - Marriott adds hotels in Japan, Thailand, and Malaysia. Plus more hotel development news.\n\nBlackstone Closes Acquisition of Four Seasons Hotel San Francisco - Blackstone has closed its acquisition of the 277-room Four Seasons Hotel San Francisco. Plus, other hotel development news.",
+    "with": [
+      "Service Properties Trust sold 5 hotels with a total of 679 keys located in four states for a combined price of $47 million.",
+      "The Park Hyatt Tokyo has reopened following a 19-month restoration.",
+      "Loews Hotels will build a $410 million luxury hotel in Arlington, Texas, replacing the existing Sheraton Arlington Hotel by September 2026.",
+      "Blackstone has closed its acquisition of the 277-room Four Seasons Hotel San Francisco."
+    ],
+    "without": [
+      "Privacy Policy",
+      "Terms of Service",
+      "Subscribe",
+      "About Daily Lodging Report"
+    ],
+    "main_content_markdown": "[Service Properties Trust Sells Five Hotels for $47 Million](https://dlr.skift.com/2025/12/17/service-properties-trust-sells-five-hotels-for-47-million/) - Service Properties Trust sold 5 hotels with a total of 679 keys located in four states for a combined price of $47 million. Plus, more hotel deal news.\n\n[The Latest Hotel Development & Deal News](https://dlr.skift.com/2025/12/14/the-latest-hotel-development-deal-news/) - New hotel openings include Hilton's Slackline Moab, Hyatt Place Bozeman and Sonesta's Dry Creek Inn; Shamin breaks ground on 270-room Virginia project.\n\n[Park Hotels Sells 5 Properties for $198 Million](https://dlr.skift.com/2025/12/09/park-hotels-sells-5-properties-for-198-million/) - Park Hotels & Resorts sold five non-core properties for $198 million and exited three others on expiring ground leases this year. Plus more hotel deal news.\n\n[Hyatt Reopens Park Hyatt Tokyo After Restoration](https://dlr.skift.com/2025/12/09/hyatt-reopens-park-hyatt-tokyo-after-restoration/) - The Park Hyatt Tokyo has reopened following a 19-month restoration. Plus, more hotel business news.\n\n[Loews Hotels Plans $410 Million Arlington Property](https://dlr.skift.com/2025/12/08/loews-hotels-plans-410-million-arlington-property/) - Loews Hotels will build a $410 million luxury hotel in Arlington, Texas, replacing the existing Sheraton Arlington Hotel by September 2026. Plus, more hotel development news.\n\n[JLL Raises Vietnam Hotel Investment Forecast by 25%](https://dlr.skift.com/2025/12/08/jll-raises-vietnam-hotel-investment-forecast-by-25/) - JLL recently increased its 2025 forecast for Vietnamese hotel investment volume by 25% to $125 million, reflecting a strong belief in the market's growth. Plus, more hotel development news.\n\n[Hyatt Expands With Park Hyatt and Alila Brands](https://dlr.skift.com/2025/12/07/hyatt-expands-with-park-hyatt-and-alila-brands/) - Hyatt to open Miraval Red Sea in Q1 2026, expand Park Hyatt to five locations, and rebrand Andaz Mayakoba as Alila in Feb 2026. Plus, more hotel development news.\n\n[$72 Million Sale of Westin Michigan Avenue Chicago Completed](https://dlr.skift.com/2025/12/04/72-million-sale-of-westin-michigan-avenue-chicago-completed/) - Pebblebrook Hotel Trust has completed the sale of the 752-room Westin Michigan Avenue Chicago in Chicago, for $72 million. Plus, more hotel development news.\n\n[Chinese Hotel Bookings in Japan Drop 50% to 70% After Government Advisory](https://dlr.skift.com/2025/12/04/chinese-hotel-bookings-in-japan-drop-50-to-70-after-government-advisory/) - Hotel bookings from China dropped by by more than half the week after the Chinese government's advisory against visiting Japan. Plus, hotel development news.\n\n[Marriott and Hyatt Expand Their Luxury Portfolios](https://dlr.skift.com/2025/12/03/marriott-and-hyatt-expand-their-luxury-portfolios/) - Marriott and Hyatt revealed their luxury pipelines for 2026 at ILTM, plus more hotel development news.\n\n[Marriott Adds Hotels in Japan, Thailand, and Malaysia](https://dlr.skift.com/2025/12/03/marriott-adds-hotels-in-japan-thailand-and-malaysia/) - Marriott adds hotels in Japan, Thailand, and Malaysia. Plus more hotel development news.\n\n[Blackstone Closes Acquisition of Four Seasons Hotel San Francisco](https://dlr.skift.com/2025/12/02/blackstone-closes-acquisition-of-four-seasons-hotel-san-francisco/) - Blackstone has closed its acquisition of the 277-room Four Seasons Hotel San Francisco. Plus, other hotel development news."
+  }
+}

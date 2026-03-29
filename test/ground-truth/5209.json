@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://coe.gatech.edu/news/2025/09/undergrad-engineering-program-returns-no-3-us-news-2026-rankings",
+  "file_id": "5209",
+  "ground_truth": {
+    "title": "Undergrad Engineering Program Returns to No. 3 in U.S. News 2026 Rankings",
+    "author": null,
+    "publish_date": "2025-09-23",
+    "main_content": "The new list puts the College in a tie for the nation’s top public program. Industrial, biomedical, and environmental engineering are each No. 1 in their disciplines.\n\nThe Georgia Tech College of Engineering reclaimed the No. 3 position among the nation’s undergraduate engineering programs in the latest rankings from U.S. News & World Report.\n\nThe College moved up one spot on the 2026 Best Colleges list released Sept. 23. The ranking puts the program at No. 1 among public universities (tied with the University of California, Berkeley).\n\nThe new list marks the second time in three years the College’s overall programs have ranked third, its best-ever position on the annual list.\n\nIt’s also the first time three specific engineering disciplines ranked first in a single year:\nBiomedical engineering returned to No. 1.\nEnvironmental engineering moved to No. 1 for the first time.\nThe H. Milton Stewart School of Industrial and Systems Engineering extended a run as the nation’s No. 1 undergraduate program for the 25th straight year.\n\n3rd\n\nOVERALL ENGINEERING\n\n1st among public universities\n\nMeanwhile, every discipline ranked sixth or better, with most in the top three.\n\nAerospace engineering remained No. 2, along with chemical engineering and civil engineering. Electrical engineering and materials science and engineering both ranked third in the nation.\n\nU.S. News uses surveys of deans and senior faculty members at other universities to rank engineering programs and individual disciplines. The publication’s rankings are just one indicator of the quality of an institution, though they can influence undergraduates, professors, prospective students, peer institutions, and the media.\n\nOverall, Georgia Tech is tied at No. 32 nationally, one spot higher than last year. Tech also is tied for ninth among public universities.\n\n2026 Undergraduate Rankings\n\nU.S. News & World Report\nPublished in Fall 2025\n\nSchool Ranking Public Ranking\nBiomedical Engineering 1st (2nd last year) 1st\nEnvironmental Engineering 1st (3rd last year) 1st\nIndustrial Engineering 1st (unchanged) 1st\nAerospace Engineering 2nd (unchanged) 1st\nChemical Engineering 2nd (3rd last year) 1st\nCivil Engineering 2nd (1st last year) 2nd\nElectrical Engineering 3rd (4th last year) 2nd\nMaterials Engineering 3rd (unchanged) 2nd\nMechanical Engineering 4th (2nd last year) 2nd\nComputer Engineering 6th (4th last year) 3rd",
+    "with": [
+      "Chemical Engineering 2nd (3rd last year) 1st",
+      "The Georgia Tech College of Engineering reclaimed the No. 3 position among the na",
+      "Biomedical engineering returned to No. 1.",
+      "U.S. News uses surveys of deans and senior faculty members at other universities "
+    ],
+    "without": [
+      "Facts and Rankings",
+      "Meet the Interim Dean",
+      "Associate Deans",
+      "Georgia Tech Resources"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "reviewed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

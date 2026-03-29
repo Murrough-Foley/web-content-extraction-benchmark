@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.kress.com/en-us/robotic-lawn-mowers/",
+  "file_id": "4247",
+  "ground_truth": {
+    "title": "Robotic lawn mowers",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Robotic lawn mowers\n\nKR800\nQuiet. Autonomous. Crew-ready. Up to 7 acre per charge.\n$ 59,999.99\n\nKR161\nKress RTKⁿ ¼-acre robotic lawn mower\n$ 2,099.99\n\nKR172\nKress RTKⁿ ½-acre robotic lawn mower\n$ 2,499.99\n\nKR173\nKress RTKⁿ ¾-acre robotic lawn mower with OAS (Obstacle Avoidance System)\n$ 2,999.99\n\nKR174\nKress RTKⁿ 1¼-acre robotic lawn mower with OAS (Obstacle Avoidance System)\n$ 3,499.99\n\nKR233\nKress RTKⁿ 3-acre robotic lawn mower with OAS (Obstacle Avoidance System)\n$ 8,499.99\n\nKR236\nKress RTKⁿ 6-acre robotic lawn mower with OAS (Obstacle Avoidance System)\n$ 13,799.99\n\nKR236S\nKress RTKⁿ 6-acre robotic lawn mower with OAS (Obstacle Avoidance System), enhanced motor and V-Wheel.\n$ 14,299.00\n\nKR237\nKress RTKⁿ 7-acre robotic lawn mower with OAS (Obstacle Avoidance System)\n$ 14,999.00",
+    "with": [
+      "Kress RTKⁿ ¾-acre robotic lawn mower with OAS (Obstacle Avoidance System)",
+      "Kress RTKⁿ 3-acre robotic lawn mower with OAS (Obstacle Avoidance System)",
+      "Kress RTKⁿ 7-acre robotic lawn mower with OAS (Obstacle Avoidance System)",
+      "KR236S"
+    ],
+    "without": [
+      "About Kress",
+      "Find a dealer",
+      "Dealer portal",
+      "Loading...",
+      "Store Direction",
+      "We're growing our dealer network"
+    ],
+    "main_content_markdown": "### Robotic lawn mowers\n\n#### KR800\n### Quiet. Autonomous. Crew-ready. Up to 7 acre per charge.\n$ 59,999.99\n\n#### KR161\n### Kress RTKⁿ ¼-acre robotic lawn mower\n$ 2,099.99\n\n#### KR172\n### Kress RTKⁿ ½-acre robotic lawn mower\n$ 2,499.99\n\n#### KR173\n### Kress RTKⁿ ¾-acre robotic lawn mower with OAS (Obstacle Avoidance System)\n$ 2,999.99\n\n#### KR174\n### Kress RTKⁿ 1¼-acre robotic lawn mower with OAS (Obstacle Avoidance System)\n$ 3,499.99\n\n#### KR233\n### Kress RTKⁿ 3-acre robotic lawn mower with OAS (Obstacle Avoidance System)\n$ 8,499.99\n\n#### KR236\n### Kress RTKⁿ 6-acre robotic lawn mower with OAS (Obstacle Avoidance System)\n$ 13,799.99\n\n#### KR236S\n### Kress RTKⁿ 6-acre robotic lawn mower with OAS (Obstacle Avoidance System), enhanced motor and V-Wheel.\n$ 14,299.00\n\n#### KR237\n### Kress RTKⁿ 7-acre robotic lawn mower with OAS (Obstacle Avoidance System)\n$ 14,999.00"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  }
+}

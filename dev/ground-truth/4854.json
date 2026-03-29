@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.artisansgallery.com/",
+  "file_id": "4854",
+  "ground_truth": {
+    "title": "Unique American Handmade Gifts - Artisans Gallery",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Welcome to our unique Gallery!\n\nFor more than 40 years, we have offered a vast selection of Unique American Handmade Gifts where you will surely find something for everyone on your list, including yourself! Jewelry, pottery, exotic wood, handblown glass, kaleidoscopes are just a handful of the offerings.\n\nAn incredible selection of art and craft!\n\nYour “Go-To” Shop for gifts as well as your favorite place to take in the latest collections of work from our talented artisans.\n\nRead what our customers have to say\n\n“Have bought too many items to mention and love them all from jewelry to lazy Susans to hand crafted mugs and glassware! Love this place! Always an adventure”\n\nPlan your visit\n\nVisit Artisans Gallery and enjoy our collection of unique American handmade gifts. We are located in Peddler’s Village, a storybook village with charming colonial-style buildings, award-winning gardens, and distinctive shopping, dining, and lodging. We offer gift cards as well. Please call the shop.\n\nOpen Daily\n\nPlease visit peddlersvillage.com for store hours.\n\nRoutes 202 & 263, Store #35\n\nLahaska, Bucks County, PA 18931\n\n215-794-3112 artisansgallery@comcast.net",
+    "with": [
+      "An incredible selection of art and craft!",
+      "Your “Go-To” Shop for gifts as well as your favorite place to take in the latest",
+      "Visit Artisans Gallery and enjoy our collection of unique American handmade gift"
+    ],
+    "without": [
+      "Shop Now",
+      "Read More",
+      "Contact Us"
+    ],
+    "main_content_markdown": "## Welcome to our unique Gallery!\n\n#### For more than 40 years, we have offered a vast selection of Unique American Handmade Gifts where you will surely find something for everyone on your list, including yourself! Jewelry, pottery, exotic wood, handblown glass, kaleidoscopes are just a handful of the offerings.\n\n## An incredible selection of art and craft!\n\nYour “Go-To” Shop for gifts as well as your favorite place to take in the latest collections of work from our talented artisans.\n\n## Read what our customers have to say\n\n### “Have bought too many items to mention and love them all from jewelry to lazy Susans to hand crafted mugs and glassware! Love this place! Always an adventure”\n\n## Plan your visit\n\nVisit Artisans Gallery and enjoy our collection of unique American handmade gifts. We are located in Peddler’s Village, a storybook village with charming colonial-style buildings, award-winning gardens, and distinctive shopping, dining, and lodging. We offer gift cards as well. Please call the shop.\n\nOpen Daily\n\nPlease visit peddlersvillage.com for store hours.\n\nRoutes 202 & 263, Store #35\n\nLahaska, Bucks County, PA 18931\n\n215-794-3112 artisansgallery@comcast.net"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  }
+}

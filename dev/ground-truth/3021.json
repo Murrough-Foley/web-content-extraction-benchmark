@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.ebay.com/itm/276702815108",
+  "file_id": "3021",
+  "ground_truth": {
+    "title": "next 3 pack ladies top black, white & green size 6",
+    "author": null,
+    "publish_date": null,
+    "main_content": "next 3 pack ladies top black, white & green size 6\n\nSat, Nov 02, 04:33 AM\n\nCondition: not specified\n\nDelivery: Varies\n\nAbout this item\n\nSeller assumes all responsibility for this listing.\n\neBay item number: 276702815108\n\nItem description",
+    "with": [
+      "next 3 pack ladies top black, white & green size 6",
+      "Sat, Nov 02, 04:33 AM",
+      "Condition: not specified",
+      "International shipment of items may be subject to customs processing and additional charges.",
+      "Seller assumes all responsibility for this listing.",
+      "eBay item number: 276702815108"
+    ],
+    "without": [
+      "Skip to main content",
+      "Brand Outlet",
+      "People who viewed this item also viewed"
+    ],
+    "main_content_markdown": "# next 3 pack ladies top black, white & green size 6\n\nSat, Nov 02, 04:33 AM\n\nCondition: not specified\n\nDelivery: Varies\n\nAbout this item\n\nSeller assumes all responsibility for this listing.\n\neBay item number: 276702815108\n\n## Item description"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

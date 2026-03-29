@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.imdb.com/chart/moviemeter/",
+  "file_id": "2907",
+  "ground_truth": {
+    "title": "Most popular movies",
+    "author": null,
+    "publish_date": null,
+    "main_content": "#1 Scream 7 2026 1h 54m R 5.9 (22K)\n#2 The Bluff 2026 1h 43m R 5.8 (9.6K)\n#3 Wuthering Heights 2026 2h 16m R 6.3 (41K)\n#4 Marty Supreme 2025 2h 29m R 7.8 (120K)\n#5 The Housemaid 2025 2h 11m R 6.8 (106K)\n#6 Shelter 2026 1h 47m R 6.2 (15K)\n#7 In the Blink of an Eye 2026 1h 34m PG-13 6.1 (2.6K)\n#8 Mortal Kombat II Releases May 8, 2026 1h 56m R\n#9 Jurassic World: Rebirth 2025 2h 13m PG-13 5.8 (187K)\n#10 One Battle After Another 2025 2h 41m R 7.7 (343K)\n#11 Hamnet 2025 2h 5m PG-13 7.9 (76K)\n#12 Crime 101 2026 2h 20m R 7.1 (16K)\n#13 GOAT 2026 1h 40m PG 6.9 (6.7K)\n#14 The Bride! 2026 2h 6m R 6.1 (5.1K)\n#15 Sinners 2025 2h 17m R 7.5 (419K)\n#16 Bugonia 2025 1h 58m R 7.4 (154K)\n#17 28 Years Later: The Bone Temple 2026 1h 49m R 7.4 (64K)\n#18 Mercy 2026 1h 39m PG-13 6.1 (28K)\n#19 Good Luck, Have Fun, Don't Die 2025 2h 14m R 7.4 (8.1K)\n#20 Send Help 2026 1h 53m R 7.2 (33K)\n#21 Predator: Badlands 2025 1h 47m PG-13 7.2 (127K)\n#22 I Swear Releases Apr 24, 2026 2h R 8.4 (19K)\n#23 Hoppers 2026 1h 44m PG 7.7 (4.7K)\n#24 Firebreak 2026 1h 47m TV-MA 5.7 (2.7K)\n#25 Project Hail Mary Releases Mar 20, 2026 2h 36m PG-13",
+    "with": [
+      "#1 Scream 7 2026 1h 54m R 5.9 (22K)",
+      "#10 One Battle After Another 2025 2h 41m R 7.7 (343K)",
+      "#17 28 Years Later: The Bone Temple 2026 1h 49m R 7.4 (64K)",
+      "#25 Project Hail Mary Releases Mar 20, 2026 2h 36m PG-13"
+    ],
+    "without": [
+      "Release calendar",
+      "Top 250 TV shows",
+      "Browse TV shows by genre",
+      "IMDb Originals"
+    ],
+    "main_content_markdown": "#1 [Scream 7](https://www.imdb.com/title/tt27047903/?ref_=chtmvm_t_1) 2026 1h 54m R 5.9 (22K)\n#2 [The Bluff](https://www.imdb.com/title/tt14181714/?ref_=chtmvm_t_2) 2026 1h 43m R 5.8 (9.6K)\n#3 [Wuthering Heights](https://www.imdb.com/title/tt32897959/?ref_=chtmvm_t_3) 2026 2h 16m R 6.3 (41K)\n#4 [Marty Supreme](https://www.imdb.com/title/tt32916440/?ref_=chtmvm_t_4) 2025 2h 29m R 7.8 (120K)\n#5 [The Housemaid](https://www.imdb.com/title/tt27543632/?ref_=chtmvm_t_5) 2025 2h 11m R 6.8 (106K)\n#6 [Shelter](https://www.imdb.com/title/tt32357218/?ref_=chtmvm_t_6) 2026 1h 47m R 6.2 (15K)\n#7 [In the Blink of an Eye](https://www.imdb.com/title/tt6341826/?ref_=chtmvm_t_7) 2026 1h 34m PG-13 6.1 (2.6K)\n#8 [Mortal Kombat II](https://www.imdb.com/title/tt17490712/?ref_=chtmvm_t_8) Releases May 8, 2026 1h 56m R\n#9 [Jurassic World: Rebirth](https://www.imdb.com/title/tt31036941/?ref_=chtmvm_t_9) 2025 2h 13m PG-13 5.8 (187K)\n#10 [One Battle After Another](https://www.imdb.com/title/tt30144839/?ref_=chtmvm_t_10) 2025 2h 41m R 7.7 (343K)\n#11 [Hamnet](https://www.imdb.com/title/tt14905854/?ref_=chtmvm_t_11) 2025 2h 5m PG-13 7.9 (76K)\n#12 [Crime 101](https://www.imdb.com/title/tt32430579/?ref_=chtmvm_t_12) 2026 2h 20m R 7.1 (16K)\n#13 [GOAT](https://www.imdb.com/title/tt27613895/?ref_=chtmvm_t_13) 2026 1h 40m PG 6.9 (6.7K)\n#14 [The Bride!](https://www.imdb.com/title/tt30851137/?ref_=chtmvm_t_14) 2026 2h 6m R 6.1 (5.1K)\n#15 [Sinners](https://www.imdb.com/title/tt31193180/?ref_=chtmvm_t_15) 2025 2h 17m R 7.5 (419K)\n#16 [Bugonia](https://www.imdb.com/title/tt12300742/?ref_=chtmvm_t_16) 2025 1h 58m R 7.4 (154K)\n#17 [28 Years Later: The Bone Temple](https://www.imdb.com/title/tt32141377/?ref_=chtmvm_t_17) 2026 1h 49m R 7.4 (64K)\n#18 [Mercy](https://www.imdb.com/title/tt31050594/?ref_=chtmvm_t_18) 2026 1h 39m PG-13 6.1 (28K)\n#19 [Good Luck, Have Fun, Don't Die](https://www.imdb.com/title/tt1341338/?ref_=chtmvm_t_19) 2025 2h 14m R 7.4 (8.1K)\n#20 [Send Help](https://www.imdb.com/title/tt8036976/?ref_=chtmvm_t_20) 2026 1h 53m R 7.2 (33K)\n#21 [Predator: Badlands](https://www.imdb.com/title/tt31227572/?ref_=chtmvm_t_21) 2025 1h 47m PG-13 7.2 (127K)\n#22 [I Swear](https://www.imdb.com/title/tt31514146/?ref_=chtmvm_t_22) Releases Apr 24, 2026 2h R 8.4 (19K)\n#23 [Hoppers](https://www.imdb.com/title/tt26443616/?ref_=chtmvm_t_23) 2026 1h 44m PG 7.7 (4.7K)\n#24 [Firebreak](https://www.imdb.com/title/tt33474179/?ref_=chtmvm_t_24) 2026 1h 47m TV-MA 5.7 (2.7K)\n#25 [Project Hail Mary](https://www.imdb.com/title/tt12042730/?ref_=chtmvm_t_25) Releases Mar 20, 2026 2h 36m PG-13"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

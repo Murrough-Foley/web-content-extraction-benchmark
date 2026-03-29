@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "url": "https://lovingpetsproducts.com/?srsltid=AfmBOoqgG7LKufQPV8tqwe-Kuk9dW6PSLpmw3kfZ8yLVB2naoIS2ZT6s",
+  "file_id": "4329",
+  "ground_truth": {
+    "title": "Dog Treats, Bowls & Accessories",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Featured Products\n\nNatural Value\n\nNatural Value Chicken Dental Sticks for Toy / Small (10 Pack)\n\n$1.49\n\nDolce\n\nDolce Bamboo Dog Bowls (3 Colors, 2 Styles & 3 Sizes)\n\n$8.99\n\nCorsa\n\nCorsa Bowls (5 Colors, 3 Sizes)\n\n$8.49\n\nBella Pet Mats\n\nPet Food & Water Mats (9 Styles)\n\n$8.99",
+    "with": [
+      "Natural Value Chicken Dental Sticks for Toy / Small (10 Pack)",
+      "Dolce Bamboo Dog Bowls (3 Colors, 2 Styles & 3 Sizes)"
+    ],
+    "without": [
+      "Single Bowls",
+      "Travel Feeders",
+      "Contact Us",
+      "Dog Chews"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "collection"
+  }
+}

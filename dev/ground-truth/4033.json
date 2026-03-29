@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.ergotron.com/en-us/products/mounts/multi-monitor-mounts",
+  "file_id": "4033",
+  "ground_truth": {
+    "title": "Multiple Monitor Mounts",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Multiple Monitor Mounts\n\nUp your productivity and optimize your workspace with a monitor mount for two, three or even four displays.\n\nAbout Multiple Monitor Mounts from Ergotron\n\nDual-monitor arms and dual-monitor stands show quick ROI payback by placing more information where it's needed. Add even more screen space to your workstation with a 3-monitor or 4-monitor mount. Engineered for superior quality and safety tested, our monitor mounts perform dependably for years (whether in medical imaging, gaming or office applications), which is how we can offer our robust warranty.",
+    "with": [
+      "About Multiple Monitor Mounts from Ergotron",
+      "Dual-monitor arms and dual-monitor stands show quick ROI payback",
+      "Engineered for superior quality and safety tested, our monitor mounts perform dependably for years",
+      "Up your productivity and optimize your workspace with a monitor mount for two, three or even four displays"
+    ],
+    "without": [
+      "Standing Desks",
+      "Mobile Carts",
+      "Workstations",
+      "Find Resellers",
+      "Build a Quote"
+    ],
+    "main_content_markdown": "# Multiple Monitor Mounts\n\n## Up your productivity and optimize your workspace with a monitor mount for two, three or even four displays.\n\n### About Multiple Monitor Mounts from Ergotron\n\nDual-monitor arms and dual-monitor stands show quick [ROI payback](https://www.ergotron.com/en-us/tools/payback-calculator) by placing more information where it's needed. Add even more screen space to your workstation with a 3-monitor or 4-monitor mount. [Engineered for superior quality](https://www.ergotron.com/en-us/company/quality-tested) and safety tested, our monitor mounts perform dependably for years (whether in medical imaging, gaming or office applications), which is how we can offer our [robust warranty](https://www.ergotron.com/en-us/support/warranty-policy)."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  }
+}

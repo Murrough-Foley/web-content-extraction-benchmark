@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "url": "https://nickpardini.substack.com/p/how-to-teach-yourself-finance-and",
+  "file_id": "5541",
+  "ground_truth": {
+    "title": "How to Teach Yourself Finance & Economics",
+    "author": "Nicholas Pardini",
+    "publish_date": "2025-09-16",
+    "main_content": "In this comprehensive guide, I address a common question: How do you self-educate in finance and economics? Drawing from a live stream about valuable resources, Nick presents a detailed curriculum to build a robust understanding of markets, investing, and economics. This step-by-step plan encompasses key areas such as mindset, foundational concepts, risk management, strategic thinking, global macroeconomic factors, tactical application, and practical experience. Featuring recommended books, important videos, and exercises, this video ensures you gain a thorough education in finance and economics. This is perfect for anyone looking to start a career in finance or expand their personal knowledge. Join our journey to mastering financial markets!\n\nLink to Video on Steps to Financial Self-Education",
+    "with": [
+      "In this comprehensive guide, I address a common question: How do you self-educate in finance and economics?",
+      "This step-by-step plan encompasses key areas such as mindset, foundational concepts, risk management",
+      "Link to Video on Steps to Financial Self-Education"
+    ],
+    "without": [
+      "Subscribe",
+      "Schedule a Consultation",
+      "Schedule a Call!"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "article"
+  }
+}

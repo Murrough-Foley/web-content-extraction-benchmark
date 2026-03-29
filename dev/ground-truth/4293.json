@@ -1,0 +1,29 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.shoebank.com/browse/shoes/mens/sneakers",
+  "file_id": "4293",
+  "ground_truth": {
+    "title": "Men's Dress & Casual Sneakers",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Shop Discount Sneakers for Men\n\nShop Clearance Sneakers | Shop Factory Second Sneakers\n\nWe offer elevated dress sneakers that are a step up from the ordinary tennis shoe. Refined leather materials and advanced features make our styles the best men’s dress sneakers you can find right now. We not only shine in leather sneakers for men, but we also offer a wide variety of men’s casual sneakers and athletic dress sneakers. Our casual sneakers are perfect for work and weekend wear. From our tennis shoes that look like dress shoes to our full collection of smart leather sneakers, our designs add a smart and sporty element to your look.\n\nIf you’re wondering how best to style a dress sneaker or men’s casual sneaker, look no further. Our Canyon weatherproof runner lace-up sneaker and our Lightyear lace-up sneaker are the perfect accessory to any casual outing. Try styling them with a pair of relaxed fit jeans. Needing an all-encompassing shoe? Our Courtside sneaker collection and our Burke lace-up sneakers will help round out any wardrobe. \n\nShoe Bank makes it easier than ever to invest in quality footwear with Klarna payment options, allowing you to buy now and pay later in convenient installments. Whether you're shopping for Allen Edmonds boots, dress shoes, or accessories at a lower price, Klarna gives you the flexibility to spread out your payments without compromising on style or craftsmanship. With a quick and seamless checkout process, you can secure the shoes you want today while choosing a payment plan that works for you.",
+    "with": [
+      "Shop Clearance Sneakers | Shop Factory Second Sneakers",
+      "If you’re wondering how best to style a dress sneaker or men’s casual sneaker, l",
+      "Shoe Bank makes it easier than ever to invest in quality footwear with Klarna pa"
+    ],
+    "without": [
+      "Shoe Bank/Mens Shoes/Sneakers/"
+    ],
+    "main_content_markdown": "## Shop Discount Sneakers for Men\n\n[Shop Clearance Sneakers](https://www.shoebank.com/browse/shoes/mens/sneakers/clearance) | [Shop Factory Second Sneakers](https://www.shoebank.com/browse/shoes/mens/sneakers/factory-second)\n\nWe offer elevated dress sneakers that are a step up from the ordinary tennis shoe. Refined leather materials and advanced features make our styles the best men’s dress sneakers you can find right now. We not only shine in leather sneakers for men, but we also offer a wide variety of men’s casual sneakers and athletic dress sneakers. Our casual sneakers are perfect for work and weekend wear. From our tennis shoes that look like dress shoes to our full collection of smart leather sneakers, our designs add a smart and sporty element to your look.\n\nIf you’re wondering how best to style a dress sneaker or men’s casual sneaker, look no further. Our Canyon weatherproof runner lace-up sneaker and our Lightyear lace-up sneaker are the perfect accessory to any casual outing. Try styling them with a pair of relaxed fit jeans. Needing an all-encompassing shoe? Our Courtside sneaker collection and our Burke lace-up sneakers will help round out any wardrobe. \n\nShoe Bank makes it easier than ever to invest in quality footwear with Klarna payment options, allowing you to buy now and pay later in convenient installments. Whether you're shopping for Allen Edmonds boots, dress shoes, or accessories at a lower price, Klarna gives you the flexibility to spread out your payments without compromising on style or craftsmanship. With a quick and seamless checkout process, you can secure the shoes you want today while choosing a payment plan that works for you."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "collection"
+  }
+}

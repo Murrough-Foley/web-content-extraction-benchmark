@@ -1,0 +1,29 @@
+{
+  "schema_version": "2.0",
+  "url": "https://btrpestcontrol.com/",
+  "file_id": "4939",
+  "ground_truth": {
+    "title": "Michigan's Most Trusted Pest Control",
+    "author": null,
+    "publish_date": null,
+    "main_content": "BTR Pest Control is a licensed, eco-friendly pest control company in Livonia, Michigan, serving over 200 cities across 5 counties with a 4.9-star rating and 90-day warranty.\n\nOur Pest Control Services\n\nBTR Pest Control offers general pest control, bed bug treatment, rodent control, wildlife removal, carpenter ant treatment, cockroach extermination, flea treatment, stinging insect removal, and mole control.\n\nGeneral Pest Control\n\nInterior Only $209\n\nExterior Only $209\n\nInterior/Exterior $229\n\nInt/Ext + Flying Insects $255\n\nExt + Flying Insects $229\n\nPrevents: Spiders, Pavement Ants, Box Elders, Stink Bugs, Centipedes, Millipedes, Beetles, Silverfish, Paper Wasps, Rollie Pollies, Mud Dabbers, Lady Bugs, House Flies, Pantry Pests, Carpet Beetles, and Clover Mites\n\n90-Day Warranty\n\nSeasonal Package\n\n$550\n\nComes with 3 visits throughout the year, eliminating general pests. First visit is an interior/exterior to eliminate any insect on the inside of the home also treating the exterior to put a barrier up around the home. 2nd treatment is an exterior treatment 3 months later, to keep the barrier up around the home. The 3rd visit is 3 months after the 2nd to keep the barrier up all year long. Additional discounts are given to our seasonal customers for services not covered in the seasonal package.\n\nYear-round Warranty\n\nCarpenter Ant Treatment\n\n$255\n\nInterior/exterior treatment to eliminate Carpenter ants. The chemical we use on the exterior has a transferring effect. It gets attached to the ants, they bring it back to the colony, contaminating the food source, killing the queen. The carpenter ant treatment comes with a 90 day warranty.\n\n90-day Warranty\n\nBed Bug Treatment\n\nStarting at\n$399\n\nBase price for homes under 4,000sqft includes all the baseboards, empty dresser draws, empty side tables draws and one bed or couch treated. Additional beds and couches are $99 each. The 2nd treatment price is half the price of the 1st treatment. Everyone will have to leave the house for 4-6 hours to let the chemical dry. Prep work is required before the treatment.\n\n2nd Treatment 50% Off\n\nCockroach Treatment\n\nStarting at\n$239\n\nInterior treatment of homes under 4000sqft includes all the baseboards, kitchen, bathroom and laundry room cabinets treated. The 2nd treatment price is half the price of the 1st treatment. Everyone will have to leave the house for 4-6 hours to let the chemical dry. Prep work is required before the treatment.\n\n2nd Treatment 50% Off\n\nFlea Treatment\n\nStarting at\n$275\n\nInterior treatment of homes under 4000sqft includes broadcast spray all the floors, 3 ft up the baseboards, under and the sides of upholstered furniture, box springs, rugs and pet beds treated. The 2nd treatment price is half the price of the 1st treatment. Everyone will have to leave the house for 4-6 hours to let the chemical dry. Prep work is required before the treatment.\n\n2nd Treatment 50% Off\n\nWe Serve All of Southeast Michigan\n\n200+ Cities Across 5 Counties\n\nWayne County\n\nServing\n41 Cities\n\nDetroit • Livonia • Westland • Dearborn + 9 Townships\n\nSame-Day Service\nView All Cities\n\nOakland County\n\nServing\n31 Cities\n\nTroy • Farmington Hills • Southfield • Royal Oak + 21 Townships\n\nSame-Day Service\nView All Cities\n\nWashtenaw County\n\nServing\n7 Cities\n\nAnn Arbor • Ypsilanti • Chelsea • Saline + 20 Townships\n\nSame-Day Service\nView All Cities\n\nMacomb County\n\nServing\n13 Cities\n\nWarren • Sterling Heights • Clinton Township • St. Clair Shores + 11 Townships\n\nSame-Day Service\nView All Cities\n\nLivingston County\n\nServing\n2 Cities\n\nBrighton • Howell • Fowlerville • Pinckney + 16 Townships\n\nSame-Day Service\nView All Cities\n\nWhy Choose BTR Pest Control?\n\nBee Treated Right - Every Time\n\n90-Day Warranty\n\nWe ask that you wait 30 days for all pests to interact with the chemical. If you are still seeing pests after 30 days we will come back and do a retreat. *Bed bugs, exterior rodent setups and wildlife removals do not have a 90 day warranty.\n\nEco-Friendly Solutions\n\nThe chemicals we use are stain-less, odor-less, and EPA approved. We always avoid treating pollinating plants to help the bees and butterflies.\n\nSame-Day Service\n\nEmergency pest problems? We're available daily from 9am-8pm for rapid response.\n\nLicensed & Insured\n\nFully licensed Michigan pest control professionals with comprehensive insurance for your peace of mind.\n\nCommunity Coaches\n\nOwners Chris and his wife are Redford Wrestling coaches, and team member Chris Brown coaches Redford Union Basketball. We're invested in our community on and off the field.\n\nReady to Eliminate Pests for Good?\n\nCall BTR Pest Control at 734-338-1828 for same-day pest control service across Southeast Michigan. Free quotes available.",
+    "with": [
+      "BTR Pest Control offers general pest control, bed bug treatment, rodent control",
+      "Base price for homes under 4,000sqft includes all the baseboards, empty dresser ",
+      "Brighton • Howell • Fowlerville • Pinckney + 16 Townships",
+      "Owners Chris and his wife are Redford Wrestling coaches, and team member Chris B"
+    ],
+    "without": [
+      "Privacy Policy"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "service"
+  }
+}

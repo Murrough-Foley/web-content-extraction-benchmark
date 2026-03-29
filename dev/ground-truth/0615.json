@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.walmart.com/ip/Ninja-Professional-Plus-Kitchen-Blender-System-with-Auto-iQ/562225800",
+  "file_id": "0615",
+  "ground_truth": {
+    "title": "Ninja Professional Plus 72-Oz Kitchen System Blender, Smoothies, Crush, 5 Auto-iQ Preset Programs, 1400PW, BN800 Silver",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Modern Design: Features a new modern design and enhanced functionality compared to Ninja's original Professional Kitchen System (BL770).\n\nPowerful Crushing: Equipped with Ninja Total Crushing Blades and 1400 peak watts of professional power for perfectly crushed ice in smoothies and frozen drinks.\n\nLarge Capacity: Includes a 72 oz. Total Crushing Pitcher (64 oz. max liquid capacity) ideal for preparing large batches for families.\n\nPortable Convenience: Comes with a single-serve cup and spout lid, facilitating easy transport of nutrient-rich smoothies.\n\nVersatile Processing: Features a 64 oz. Precision Processor Bowl for even chopping, smooth purees, and processing up to 2 lbs. of dough.\n\nIntelligent Programs: Offers 5 Auto-iQ preset programs for smoothies, frozen drinks, nutrient extractions, chopped mixtures, and dough preparation.\n\nSpecs\n\nWatts: 1200 W\nVolume capacity: 72 oz\nBlade material: Stainless Steel\nSpeeds: 5",
+    "with": [
+      "Features a new modern design and enhanced functionality compared to Ninja's original Professional Kitchen System (BL770).",
+      "Equipped with Ninja Total Crushing Blades and 1400 peak watts of professional power for perfectly crushed ice in smoothies and frozen drinks.",
+      "Includes a 72 oz. Total Crushing Pitcher (64 oz. max liquid capacity) ideal for preparing large batches for families.",
+      "Comes with a single-serve cup and spout lid, facilitating easy transport of nutrient-rich smoothies."
+    ],
+    "without": [
+      "Add to cart",
+      "Add to list",
+      "Add to registry"
+    ],
+    "main_content_markdown": "Modern Design: Features a new modern design and enhanced functionality compared to Ninja's original Professional Kitchen System (BL770).\n\nPowerful Crushing: Equipped with Ninja Total Crushing Blades and 1400 peak watts of professional power for perfectly crushed ice in smoothies and frozen drinks.\n\nLarge Capacity: Includes a 72 oz. Total Crushing Pitcher (64 oz. max liquid capacity) ideal for preparing large batches for families.\n\nPortable Convenience: Comes with a single-serve cup and spout lid, facilitating easy transport of nutrient-rich smoothies.\n\nVersatile Processing: Features a 64 oz. Precision Processor Bowl for even chopping, smooth purees, and processing up to 2 lbs. of dough.\n\nIntelligent Programs: Offers 5 Auto-iQ preset programs for smoothies, frozen drinks, nutrient extractions, chopped mixtures, and dough preparation.\n\n## Specs\n\nWatts: 1200 W\nVolume capacity: 72 oz\nBlade material: Stainless Steel\nSpeeds: 5"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": []
+    }
+  }
+}

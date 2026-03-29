@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://ascolour.com/staple-tee-5001/",
+  "file_id": "0604",
+  "ground_truth": {
+    "title": "Staple Tee - 5001",
+    "author": null,
+    "publish_date": null,
+    "main_content": "The AS Colour Staple Tee. Enduring comfort in a regular fit, crafted from 5.3 oz 100% combed cotton. Featuring neck ribbing, side seams, and double needle hems for durability and minimal shrinkage, it's a timeless choice for comfort and style. Available in 70+ colours. Built to last.\n\nDetails\n\nFit\nRegular\n\nFabric\nMid weight, 5.3 oz, 28-singles, 100% combed cotton (heathers 15% viscose)\n\nConstruction\nNeck ribbing, side seamed, shoulder to shoulder tape, double needle hems, preshrunk to minimise shrinkage\n\nEmbellishment\nSuited for screen printing, DTG and embroidery\n\nCertifications",
+    "with": [
+      "The AS Colour Staple Tee.",
+      "Enduring comfort in a regular fit, crafted from 5.3 oz 100% combed cotton.",
+      "Featuring neck ribbing, side seams, and double needle hems for durability and minimal shrinkage",
+      "Available in 70+ colours. Built to last."
+    ],
+    "without": [
+      "Add to cart",
+      "Toggle menu",
+      "New Arrivals"
+    ],
+    "main_content_markdown": "The AS Colour Staple Tee. Enduring comfort in a regular fit, crafted from 5.3 oz 100% combed cotton. Featuring neck ribbing, side seams, and double needle hems for durability and minimal shrinkage, it's a timeless choice for comfort and style. Available in 70+ colours. Built to last.\n\nDetails\n\nFit\nRegular\n\nFabric\nMid weight, 5.3 oz, 28-singles, 100% combed cotton (heathers 15% viscose)\n\nConstruction\nNeck ribbing, side seamed, shoulder to shoulder tape, double needle hems, preshrunk to minimise shrinkage\n\nEmbellishment\nSuited for screen printing, DTG and embroidery\n\nCertifications"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": []
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://store.steampowered.com/app/730/Counter-Strike_2/",
+  "file_id": "3043",
+  "ground_truth": {
+    "title": "Counter-Strike 2 on Steam",
+    "author": "",
+    "publish_date": null,
+    "main_content": "For over two decades, Counter-Strike has offered an elite competitive experience, one shaped by millions of players from across the globe. And now the next chapter in the CS story is about to begin. This is Counter-Strike 2.\n\n on Phone\n on Tablet\n\nAccessibility Features (7)\n\n- Adjustable Text Size\n- Color Alternatives\n- Camera Comfort\n- Custom Volume Controls\n- Stereo Sound\n- Surround Sound\n- Playable without Quick Time Events\n\nUses Anti-Cheat Software\n\nVAC (Valve Anti-Cheat)\n\nIncludes Interactive Elements\n\nIn-game purchases, Online interactivity, In-game chat\n\nIncludes 1 Steam Achievements\n\nPoints Shop Items Available\n\nAction, Free To Play\n\nVisit the website View update history Read related news View discussions Visit the Workshop Find Community Groups\n\nPlay Counter-Strike 2\n\nBuy Prime Status Upgrade\n\nCounter-Strike 2 players with Prime Status are matched with other Prime Status players and are eligible to receive Prime-exclusive souvenir items, item drops, and weapon cases. This package grants Prime Account Status in Counter-Strike 2.\n\nThis product is not eligible for refund. Learn more\n\nBuy this bundle to save 10% off all 20 items!",
+    "with": [
+      "For over two decades, Counter-Strike has offered an elite competitive experience, one shaped by millions of players from across the globe. And now the next chapter in the CS story is about to begin. This is Counter-Strike 2.",
+      "- Adjustable Text Size\n- Color Alternatives\n- Camera Comfort\n- Custom Volume Controls\n- Stereo Sound\n- Surround Sound\n- Playable without Quick Time Events",
+      "In-game purchases, Online interactivity, In-game chat",
+      "Visit the website View update history Read related news View discussions Visit the Workshop Find Community Groups"
+    ],
+    "without": [
+      "Install Steam",
+      "Privacy Policy",
+      "Valve Corporation. All rights reserved.",
+      "Steam Subscriber Agreement"
+    ],
+    "main_content_markdown": "For over two decades, Counter-Strike has offered an elite competitive experience, one shaped by millions of players from across the globe. And now the next chapter in the CS story is about to begin. This is Counter-Strike 2.\n\n on Phone\n on Tablet\n\nAccessibility Features (7)\n\n- [Adjustable Text Size](https://store.steampowered.com/category/adjustable_text_size)\n- [Color Alternatives](https://store.steampowered.com/category/color_alternatives)\n- [Camera Comfort](https://store.steampowered.com/category/camera_comfort)\n- [Custom Volume Controls](https://store.steampowered.com/category/custom_volume_controls)\n- [Stereo Sound](https://store.steampowered.com/category/stereo_sound)\n- [Surround Sound](https://store.steampowered.com/category/surround_sound)\n- [Playable without Quick Time Events](https://store.steampowered.com/category/playable_without_timed_input)\n\nUses Anti-Cheat Software\n\nVAC (Valve Anti-Cheat)\n\nIncludes Interactive Elements\n\nIn-game purchases, Online interactivity, In-game chat\n\nIncludes 1 Steam Achievements\n\nPoints Shop Items Available\n\n[Action](https://store.steampowered.com/genre/Action/?snr=1_5_9__408), [Free To Play](https://store.steampowered.com/genre/Free%20to%20Play/?snr=1_5_9__408)\n\n[Visit the website](http://counter-strike.net/) [View update history](https://store.steampowered.com/newshub/?appids=730&snr=1_5_9__408) [Read related news](https://store.steampowered.com/newshub/app/730?snr=1_5_9__408) [View discussions](https://steamcommunity.com/app/730/discussions/) [Visit the Workshop](https://steamcommunity.com/app/730/workshop/) [Find Community Groups](https://steamcommunity.com/actions/Search?T=ClanAccount&K=Counter-Strike%202)\n\n## Play Counter-Strike 2\n\n## Buy Prime Status Upgrade\n\nCounter-Strike 2 players with Prime Status are matched with other Prime Status players and are eligible to receive Prime-exclusive souvenir items, item drops, and weapon cases. This package grants Prime Account Status in Counter-Strike 2.\n\nThis product is not eligible for refund. [Learn more](https://store.steampowered.com/steam_refunds)\n\nBuy this bundle to save 10% off all 20 items!"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.walmart.com/cp/instant-pot/4779092",
+  "file_id": "4203",
+  "ground_truth": {
+    "title": "Instant Pot - Pressure Cookers and Multi Cookers",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Make mealtime amazing\n\nEnjoy quick meals with one of America's most-loved multicookers. Shop now\n\nFresh ways to fry\n\nCreate the perfect crunch using way less oil than deep frying. Shop now\n\nBest sellers\n\nInstant Pot Duo 6-Quart 7-in-1 Electric Pressure Cooker, Slow Cooker, Rice Cooker, Steamer, Sauté, Yogurt Maker, Warmer & Sterilizer, Includes App With Over 800 Recipes, Stainless Steel $148.02\n\n3323 reviews - 4.6 out of 5 Stars\n\nInstant Vortex 6-Quart Air Fryer Oven with Single Basket, 4-in-1 Function, Black $169.99\n\n1797 reviews - 4.5 out of 5 Stars\n\nInstant Pot 10 oz 4-in-1 Electric Milk Steamer, Hot or Cold Foam Maker, Drink Warmer, Black\n\n1860 reviews - 3.9 out of 5 Stars\n\nInstant Pot 6Qt DUO 7-in-1 Multi-Cooker, Pressure Cook, Slow Cook, & more, Stainless Steel $144.99\n\n2227 reviews - 4.4 out of 5 Stars\n\nShop by category\n\nDo it for the 'gram! Share your photos with @InstantPotOfficial or #MealtimeAmazement!\n\nDownload the recipe app\n\nFind fast, delicious, and easy recipes for Instant appliances.\n\nInstant Air Purifiers\n\nHelps remove 99.9% of viruses, bacteria, allergens, & smoke. Shop now",
+    "with": [
+      "Enjoy quick meals with one of America's most-loved multicookers",
+      "Create the perfect crunch using way less oil than deep frying",
+      "Instant Vortex 6-Quart Air Fryer Oven with Single Basket, 4-in-1 Function, Black",
+      "Instant Pot 6Qt DUO 7-in-1 Multi-Cooker, Pressure Cook, Slow Cook, & more, Stainless Steel",
+      "Find fast, delicious, and easy recipes for Instant appliances"
+    ],
+    "without": [
+      "Reorder",
+      "Sign In",
+      "Free delivery",
+      "current price",
+      "Walmart+"
+    ],
+    "main_content_markdown": "## Make mealtime amazing\n\nEnjoy quick meals with one of America's most-loved multicookers. [Shop now](https://www.walmart.com/browse/home/shop-all-instant-pot/4044_623679_4779092_7747488)\n\n## Fresh ways to fry\n\nCreate the perfect crunch using way less oil than deep frying. [Shop now](https://www.walmart.com/browse/home/instant-pot-air-fryers/4044_90548_90546_4824_9960466_7895267)\n\n## Best sellers\n\n### Instant Pot Duo 6-Quart 7-in-1 Electric Pressure Cooker, Slow Cooker, Rice Cooker, Steamer, Sauté, Yogurt Maker, Warmer & Sterilizer, Includes App With Over 800 Recipes, Stainless Steel $148.02\n\n3323 reviews - 4.6 out of 5 Stars\n\n### Instant Vortex 6-Quart Air Fryer Oven with Single Basket, 4-in-1 Function, Black $169.99\n\n1797 reviews - 4.5 out of 5 Stars\n\n### Instant Pot 10 oz 4-in-1 Electric Milk Steamer, Hot or Cold Foam Maker, Drink Warmer, Black\n\n1860 reviews - 3.9 out of 5 Stars\n\n### Instant Pot 6Qt DUO 7-in-1 Multi-Cooker, Pressure Cook, Slow Cook, & more, Stainless Steel $144.99\n\n2227 reviews - 4.4 out of 5 Stars\n\n## Shop by category\n\nDo it for the 'gram! Share your photos with @InstantPotOfficial or #MealtimeAmazement!\n\n## Download the recipe app\n\nFind fast, delicious, and easy recipes for Instant appliances.\n\n## Instant Air Purifiers\n\nHelps remove 99.9% of viruses, bacteria, allergens, & smoke. [Shop now](https://www.walmart.com/browse/home-improvement/air-purifiers/1072864_133032_1231459_46324?facet=brand%3AInstant+Pot)"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  }
+}

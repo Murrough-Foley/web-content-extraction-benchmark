@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://forum.kemper-amps.com/forum/thread/63237-tube-amp-versus-solid-state/",
+  "file_id": "5124",
+  "ground_truth": {
+    "title": "Tube amp versus solid state",
+    "author": null,
+    "publish_date": "2024-03-23",
+    "main_content": "I bought the kemper rack without the amp because for the last 30 plus years the common knowledge was that tube amps are just better. But...now that I gave fallen in love with the kemper tones I'm starting to wonder if my hot rod Deville is making any real tone difference. Plus tube amps are so damn heavy. Anyone have any insight?\n\nI think if you ask here, the majority will say that there's no real tone difference. Some people will say that the kemper is almost there, but not 100%.\n\nI will say, though, that \"solid state\" (from the thread title) is not really the correct term for modeling amps (or profilers, if you want to use the official term for the kemper). Solid state at least originally referred to physical electronic components, not firmware/software stuff. Overdriving these solid state amps (i.e. overdriving the electronic components/circuits) supposedly sounded super crappy (no experience with them myself). So the term \"solid state\" has some very negative connotations to many people that is not really \"fair\" to the sound of profilers and modelers. Whether any specific modeler or profiler is on par with a tube amp is of course a separate question\n\nEDIT: I think I completely misunderstood your comment/question\n\nEvery song you ever liked that was recorded was from the tone of a Mic'd Cabinet. That means you liked the microphone's interpretation of the tone. The tube amp was at the beginning process but not the end result. If you play live for small venues then a tube amp might suit you best. However, if you play large venues or do recordings that required a mic'd cab then you can't beat the Kemper.\n\nThe Kemper is more than just a solid state amp. With the addition of Liquid Profiles, it's more like a Tube amp with A.I. The audience only cares about the end result.\n\nAre you amplifying the Kemper with the HRD? If so, most would agree that it will \"colour\" the rigs/profiles compared to a SS amp and FRFR\n\nIf you are using the HRD to amplify, that’s not a ‘bad’ thing by any means.\n\nAs has been said, it will add color not intended. All I would say is if you’re going to get a dedicated power amp (Class D would be my suggestion. It’s the type used in the Powered models and powered Kab.\n\nA powered Kabinet may be the ticket.\n\nI have a kemper stage and a Fender Hot Rod Deville Michael Landeau (2x12\" Celestion VType) connected directly to power. To me, sound great. I Like it. Its all I need.\n\nAny amplification scenario for the Kemper will have its own sonic characteristics. The speaker in that Hot Rod is going to add its own imprint to every profile you play. The notion of tube amps being superior to solid state amps in the world of guitar amps may be true but that doesn't hold in this application where you simply want clean power to amplify your profiles. I have a powered toaster but prefer to run the monitor output to full range powered monitors. I tried running the toaster's amp into various guitar cabinets but I wasn't pleased with the result. You really just have to have to compare the various options to find out. You may end up preferring your current rig over any other option you try. At least you love your current setup. That's a good starting point.\n\nNot quite clear on what your set up is but I think most people agree:\n\n1) A valve amp stage will add colour - its personal preference if its better or worse. In my personal opinion its pointless having a valve \"emulator\" running through a valve amp. Its unnecessary and has unpredictable results\n\n2) The speaker has a much bigger impact on sound. If you are running the KPA through the Hot rod speaker, that's a bigger factor\n\n3) There is little difference between various SS D class amps - their purpose is \"clean\" power and therefore any good quality one should give negligible difference. I find the SS amp in the Kemper is great",
+    "with": [
+      "I think if you ask here, the majority will say that there's no real tone differe",
+      "The Kemper is more than just a solid state amp. With the addition of Liquid Prof",
+      "I bought the kemper rack without the amp because for the las",
+      "2) The speaker has a much bigger impact on sound. If you are running the KPA thr"
+    ],
+    "without": [
+      "Unresolved Threads",
+      "Kemper Amps Homepage",
+      "Kemper Profiler Forum",
+      "Public forum"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "forum"
+  }
+}

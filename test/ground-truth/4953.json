@@ -1,0 +1,29 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.monroelandscapingny.com/",
+  "file_id": "4953",
+  "ground_truth": {
+    "title": "monroe-landscaping",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Lawn Care & Maintenance\n\nAt Monroe Landscaping, we create our own lawn maintenance programs that are custom fit to your lawns specific needs. We offer Schedule Maintenance for your lawn which can include mowing, thatching, aerating, fertilizing, and much more.\n\nWhether you would like us to do one of these services or all we have you covered!\n\nPatios and Walkways, Fire Pits and Outdoor Kitchens, Retaining Walls and Custom Driveways are all types of ways to increase your properties appearance as well as enhance your living space.\n\nThis makes landscapes look beautiful 24/7, and allows you to enjoy your investment in your property.\n\nSnow Storms are very unpredictable, that being said you need to be prepared for the worst!\n\nWe offer a full variety of snow plowing, removal, and de-icing services. We service a full range of residential and commercial properties. Services we provide are 24/7 snow plowing, snow removal off site, side walk clearing, and de-icing of parking lots and walkways. Call for reliable and affordable services!",
+    "with": [
+      "Whether you would like us to do one of these services or all we have you covered",
+      "Patios and Walkways, Fire Pits and Outdoor Kitchens, Retaining Walls and Custom ",
+      "Snow Storms are very unpredictable, that being said you need to be prepared for "
+    ],
+    "without": [
+      "Services Offered",
+      "845-782-4667"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "service"
+  }
+}

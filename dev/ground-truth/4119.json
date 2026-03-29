@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.masterlock.com/products/bike",
+  "file_id": "4119",
+  "ground_truth": {
+    "title": "Bike Locks",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Bike Locks\n\nMaster Lock protects millions of bikes every day. Our bike locks are built to deter thieves, so whether you choose a cable lock or u-lock you can count on us to secure your bike while you're away.\n\nTrusted Strength\n\nSet-Your-Own Combination\n\nMake it personal. Set your own code to customize your lock.\n\nBuilt For Security\n\nU-Locks stand up better to cutting, sawing, and prying.\n\nFrequently Asked Questions\n\nHow can I protect my bike from theft?\n\nBike thieves look for bikes that will be easy and fast to steal, so the best way to deter thieves is to make your bike too much of a challenge to steal. Prevent your bike from becoming a target with these easy steps:\n\n1. Secure your bike to a solid, immovable object. Inspect it carefully and make sure thieves can't remove the object or part of the bike to slide it free.\n2. Evaluate the environment and how long you'll be away from your bike. Make sure to lock your bicycle in busy area with security cameras nearby.\n3. Use more than one lock to secure your bike. Multiple layers of protection will help discourage bike thieves from attempting to steal your ride.\n\nWhat types of bike locks does Master Lock offer?\n\nMaster Lock offers a wide variety of keyed and combination bike locks including looped end steel cables that you can pair with a lock of your choice, cable locks and Python locks, folding locks and U-locks.\n\nWhat are the pros and cons of each type of bike lock?\n\nWhen selecting your bike lock, you want to make sure you balance strength with convenience:\n\n- U-locks provide exceptional strength and cut resistance, but they're heavier and rigid, making them less adaptable when securing your bike to large objects.\n- Looped-end steel cables are lightweight and versatile but can be easier to cut. These cables are often paired with other locks for multilayered protection.\n- Python locks have flexible cables that can be easier to cut, but they can also be cinched tight for added security.\n- Cable locks have thick, braided steel cables for strength and flexibility, but these can be a target for thieves with bolt cutters.\n- Folding locks are made with hardened steel links for maximum strength, and while they may be heavy, they include a Velcro bracket so they're easier to carry.",
+    "with": [
+      "Master Lock protects millions of bikes every day. Our bike locks are built to deter thieves",
+      "U-Locks stand up better to cutting, sawing, and prying.",
+      "Master Lock offers a wide variety of keyed and combination bike locks including looped end steel cables",
+      "Multiple layers of protection will help discourage bike thieves from attempting to steal your ride.",
+      "Folding locks are made with hardened steel links for maximum strength"
+    ],
+    "without": [
+      "Where to Buy",
+      "Store Your Combo",
+      "Sign up for updates and offers from Master Lock",
+      "Toggle Navigation",
+      "Product Selector"
+    ],
+    "main_content_markdown": "# Bike Locks\n\nMaster Lock protects millions of bikes every day. Our bike locks are built to deter thieves, so whether you choose a cable lock or u-lock you can count on us to secure your bike while you're away.\n\n## Trusted Strength\n\n## Set-Your-Own Combination\n\nMake it personal. Set your own code to customize your lock.\n\n## Built For Security\n\nU-Locks stand up better to cutting, sawing, and prying.\n\n## Frequently Asked Questions\n\nHow can I protect my bike from theft?\n\nBike thieves look for bikes that will be easy and fast to steal, so the best way to deter thieves is to make your bike too much of a challenge to steal. Prevent your bike from becoming a target with these easy steps:\n\n1. Secure your bike to a solid, immovable object. Inspect it carefully and make sure thieves can't remove the object or part of the bike to slide it free.\n2. Evaluate the environment and how long you'll be away from your bike. Make sure to lock your bicycle in busy area with security cameras nearby.\n3. Use more than one lock to secure your bike. Multiple layers of protection will help discourage bike thieves from attempting to steal your ride.\n\nWhat types of bike locks does Master Lock offer?\n\nMaster Lock offers a wide variety of keyed and combination bike locks including looped end steel cables that you can pair with a lock of your choice, [cable locks and Python locks](https://www.masterlock.com/products/bike/chain-cable-locks?personal), [folding locks and U-locks](https://www.masterlock.com/products/bike/u-locks?personal).\n\nWhat are the pros and cons of each type of bike lock?\n\nWhen selecting your bike lock, you want to make sure you balance strength with convenience:\n\n- **U-locks** provide exceptional strength and cut resistance, but they're heavier and rigid, making them less adaptable when securing your bike to large objects.\n- **Looped-end steel cables** are lightweight and versatile but can be easier to cut. These cables are often paired with other locks for multilayered protection.\n- **Python locks** have flexible cables that can be easier to cut, but they can also be cinched tight for added security.\n- **Cable locks** have thick, braided steel cables for strength and flexibility, but these can be a target for thieves with bolt cutters.\n- **Folding locks** are made with hardened steel links for maximum strength, and while they may be heavy, they include a Velcro bracket so they're easier to carry."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  }
+}

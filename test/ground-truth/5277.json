@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.clevelandart.org/whats-on/exhibitions",
+  "file_id": "5277",
+  "ground_truth": {
+    "title": "Exhibitions",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Showing 34 of 34 results\n\nArtLens Gallery\n\nTags For: Artlens Gallery\n\nLast Chance\n\nFeatured\n\nJun 7, 2016 – Mar 22, 2026\n\nPintoricchio Magnified: An Immersive Conservation Experience\n\nTags For: Pintoricchio Magnified: An Immersive Conservation Experience\n\nImmersive Exhibition\n\nFeatured\n\nAug 10, 2025 – Aug 23, 2026\n\n Location:\n\n115 Manuscripts and Textiles\n\nAnn Hamilton: still and moving • the tactile image\n\nTags For: Ann Hamilton: Still and Moving • the Tactile Image\n\nSpecial Exhibition\n\nFeatured\n\nDec 14, 2025 – Apr 19, 2026\n\n Location:\n\n229C Contemporary,\n\n230 Photography\n\nstill/emerging: Native American Works on Paper\n\nTags For: Still/emerging: Native American Works on Paper\n\nSpecial Exhibition\n\nFeatured\n\nFeb 1 – Jun 7, 2026\n\n Location:\n\n101A–B Prints and Drawings,\n\n100 1916 Lobby\n\nAmerican Printed Silks, 1927–1947\n\nTags For: American Printed Silks, 1927–1947\n\nSpecial Exhibition\n\nFeatured\n\nNov 9, 2025 – Nov 8, 2026\n\n Location:\n\n234 Textile Gallery\n\nDara Birnbaum’s “Technology / Transformation: Wonder Woman”\n\nTags For: Dara Birnbaum’s “technology / Transformation: Wonder Woman”\n\nGallery Rotation\n\nJan 13 – Mar 29, 2026\n\n Location:\n\n224B Video\n\nJuxtaposition and Juncture in Korean Modern and Contemporary Art\n\nTags For: Juxtaposition and Juncture In Korean Modern and Contemporary Art\n\nGallery Rotation\n\nMar 21, 2025 – May 3, 2026\n\n Location:\n\n236 Korean\n\nAdorning Ritual: Jewish Ceremonial Art from the Jewish Museum, New York\n\nTags For: Adorning Ritual: Jewish Ceremonial Art From the Jewish Museum, New York\n\nGallery Rotation\n\nMay 25, 2025 – May 10, 2026\n\n Location:\n\nVarious Galleries",
+    "with": [
+      "Tags For: Pintoricchio Magnified: An Immersive Conservation Experience",
+      "still/emerging: Native American Works on Paper",
+      "Tags For: Dara Birnbaum’s “technology / Transformation: Wonder Woman”",
+      "Adorning Ritual: Jewish Ceremonial Art from the Jewish Museum, New York"
+    ],
+    "without": [
+      "Special Events",
+      "Members Only",
+      "Performances",
+      "What&#x27;s On - Exhibitions | Cleveland Museum of Art"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

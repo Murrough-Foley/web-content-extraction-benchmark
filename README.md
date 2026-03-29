@@ -1,473 +1,243 @@
-# Web Content Extraction Benchmark
+# WCEB: Web Content Extraction Benchmark
 
-**A large-scale benchmark for evaluating web content extraction and boilerplate removal algorithms.**
+**The largest open benchmark for evaluating web content extraction, boilerplate removal, and main content detection across diverse page types.**
 
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![Python 3.6+](https://img.shields.io/badge/Python-3.6+-green.svg)](https://www.python.org/)
-[![Dataset: 1,507 pages](https://img.shields.io/badge/Dataset-1%2C507%20pages-orange.svg)](#dataset)
+WCEB provides 2,008 human-reviewed web pages spanning 7 page types and 1,613 domains, with ground truth annotations, HTML source files, and baseline results from 14 extraction systems. Unlike existing benchmarks that focus exclusively on news articles, WCEB evaluates extraction across the full diversity of the modern web — product pages, forums, documentation, service pages, listings, and collections — where current extractors fail most.
 
-This benchmark provides **1,507 modern web pages** (collected in 2026) with AI-generated ground truth annotations for evaluating article body extraction quality. It uses the same evaluation methodology as the widely-cited [ScrapingHub Article Extraction Benchmark](https://github.com/scrapinghub/article-extraction-benchmark), enabling direct comparison while providing 8× more test pages from the modern web.
+## Why WCEB?
 
----
+Existing web content extraction benchmarks have critical blind spots:
 
-## Table of Contents
+| Benchmark | Year | Pages | Page Types | Public |
+|-----------|------|------:|------------|:------:|
+| CleanEval | 2007 | 797 | mixed (untyped) | yes |
+| L3S-GN1 | 2010 | 621 | news only | yes |
+| Dragnet | 2013 | 143 | articles only | yes |
+| ScrapingHub | 2019 | 181 | articles only | yes |
+| Google-Trends | 2017 | 180 | mixed (untyped) | yes |
+| WebMainBench | 2025 | 7,809 | mixed (untyped) | no |
+| **WCEB** | **2026** | **2,008** | **7 labeled types** | **yes** |
 
-- [Results](#results)
-- [Quick Start](#quick-start)
-- [Dataset](#dataset)
-- [Evaluation Methodology](#evaluation-methodology)
-- [Open-Source Libraries](#open-source-libraries)
-- [Running Your Extractor](#running-your-extractor)
-- [Comparison with ScrapingHub Benchmark](#comparison-with-scrapinghub-benchmark)
-- [Why This Benchmark?](#why-this-benchmark)
-- [Data Format](#data-format)
-- [Installation](#installation)
-- [License](#license)
-- [Citation](#citation)
-- [Acknowledgments](#acknowledgments)
+On articles, top extraction systems converge within 2-3 F1 points (0.91-0.93). But on forums, products, and collections, the gap widens to **20-30 F1 points** — a difference invisible to article-only benchmarks. WCEB is designed to reveal these blind spots.
 
----
+## Dataset Overview
 
-## Results
+| | Development Set | Held-Out Test Set | Total |
+|---|---:|---:|---:|
+| **Pages** | 1,497 | 511 | 2,008 |
+| **Domains** | 1,295 | 472 | 1,613 |
+| **SPAs** | 19 | 4 | 23 |
 
-Results of evaluation on **1,507 modern web pages** (January 2026):
+### Page Type Distribution
 
-| Extractor | F1 Score | Precision | Recall | With% ↑ | Without% ↓ |
-|-----------|----------|-----------|--------|---------|------------|
-| **[rs-trafilatura](https://github.com/Murrough-Foley/rs-trafilatura)** | **0.688** | 0.622 | **0.870** | **56.8%** | 6.6% |
-| [trafilatura](https://github.com/adbar/trafilatura) | 0.657 | 0.616 | 0.818 | 55.9% | **5.6%** |
-| [dom-smoothie](https://crates.io/crates/dom-smoothie) | 0.654 | 0.604 | 0.823 | 54.8% | 5.6% |
-| [go-trafilatura](https://github.com/markusmobius/go-trafilatura) | 0.620 | 0.537 | 0.733 | 56.5% | 6.3% |
-| [go-readability](https://github.com/go-shiori/go-readability) | 0.608 | 0.521 | 0.729 | 55.1% | 6.0% |
-| [dom-content-extraction](https://crates.io/crates/dom_content_extraction) | 0.605 | 0.556 | 0.814 | 51.5% | 17.3% |
-| [boilerpy3](https://github.com/jmriebold/BoilerPy3) (DefaultExtractor) | 0.602 | 0.543 | 0.789 | 50.9% | 13.6% |
-| [boilerpy3](https://github.com/jmriebold/BoilerPy3) (ArticleExtractor) | 0.584 | **0.574** | 0.700 | 41.7% | 7.5% |
-| [beautifulsoup](https://www.crummy.com/software/BeautifulSoup/) | 0.576 | 0.554 | 0.745 | 38.8% | 8.9% |
-| [readability-lxml](https://github.com/buriy/python-readability) | 0.503 | 0.399 | 0.834 | 36.0% | 12.0% |
+| Page Type | Dev | Dev % | Test | Test % | Description |
+|-----------|----:|------:|-----:|-------:|-------------|
+| Article | 793 | 53.0% | 257 | 50.3% | Blog posts, news, editorials, guides, reviews |
+| Service | 165 | 11.0% | 59 | 11.5% | SaaS pages, marketing, feature lists, pricing |
+| Product | 119 | 7.9% | 28 | 5.5% | Individual product pages, specs, descriptions |
+| Collection | 117 | 7.8% | 34 | 6.7% | Category pages, product grids, browse pages |
+| Forum | 113 | 7.5% | 51 | 10.0% | Discussion threads, Q&A, community posts |
+| Listing | 99 | 6.6% | 40 | 7.8% | Content indexes, course catalogs, review lists |
+| Documentation | 91 | 6.1% | 42 | 8.2% | API docs, tutorials, wikis, technical references |
 
-**Metric explanations:**
-- **F1 Score**: Harmonic mean of precision and recall (higher is better)
-- **Precision**: Fraction of extracted content that is actual article text (higher is better)
-- **Recall**: Fraction of article text that was successfully extracted (higher is better)
-- **With%**: Percentage of "must-include" sentences found in extraction (higher is better)
-- **Without%**: Percentage of boilerplate text found in extraction (lower is better)
+## Directory Structure
 
-### Key Findings
-
-1. **rs-trafilatura achieves the highest F1 score (0.688)** on this modern web benchmark, with excellent recall (87%)
-2. **trafilatura (Python)** follows closely with F1 of 0.657 and the lowest boilerplate leakage (5.6%)
-3. **Rust-based extractors** (rs-trafilatura, dom-smoothie, dom-content-extraction) show competitive performance
-4. **Modern web is challenging**: All extractors score lower on 2026 web pages compared to legacy benchmarks
-
-> **Note on legacy HTML:** On the [ScrapingHub benchmark](https://github.com/scrapinghub/article-extraction-benchmark) (184 pages from 2019), **trafilatura (Python) achieves F1 of 0.958**, outperforming most other libraries on legacy web pages. The modern web benchmark presented here tests against 2026 design patterns, which pose different challenges. We recommend evaluating extractors on both benchmarks for comprehensive assessment.
-
----
-
-## Quick Start
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/Murrough-Foley/web-content-extraction-benchmark.git
-cd web-content-extraction-benchmark
-
-# 2. Run your extractor on the HTML files and save output to output/
-python your_extractor_script.py  # outputs to output/my-extractor.json
-
-# 3. Evaluate
-python evaluate.py
+```
+wceb/
+dev/
+  ground-truth/       # 1,497 JSON ground truth files
+  html/               # 1,497 gzipped HTML source files (.html.gz)
+test/
+  ground-truth/       # 511 JSON ground truth files
+  html/               # 511 gzipped HTML source files (.html.gz)
+metadata.json         # Page types, domains, split assignments
+evaluate.py           # Standalone evaluation script
+README.md             # This file
+LICENSE               # CC-BY-4.0
 ```
 
-**Output:**
-```
-Extractor                F1             Precision      Recall         Accuracy
---------------------------------------------------------------------------------
-my-extractor             0.725 +/- 0.009  0.698 +/- 0.011  0.754 +/- 0.008  0.142 +/- 0.025
-```
+## Ground Truth Format
 
----
-
-## Dataset
-
-### Overview
-
-| Property | Value |
-|----------|-------|
-| **Total pages** | 1,507 |
-| **Unique domains** | 1,507 (100% diverse) |
-| **Collection date** | 2026 |
-| **Ground truth method** | AI-generated with quality review |
-| **HTML storage** | Gzip-compressed |
-| **Total size** | ~83 MB |
-
-### Content Types
-
-The dataset includes diverse content from across the web:
-
-- **News articles** and journalism
-- **Blog posts** and opinion pieces
-- **Technical documentation** and tutorials
-- **How-to guides** and educational content
-- **Product reviews** and comparisons
-- **Corporate pages** and about pages
-- **Research summaries** and reports
-
-### Content Statistics
-
-| Metric | Value |
-|--------|-------|
-| Min content length | 505 characters |
-| Max content length | 38,600 characters |
-| Median content length | 3,350 characters |
-| Mean content length | 6,198 characters |
-| HTML file size range | 15 KB – 8.5 MB |
-
-### Dataset Curation
-
-Pages were carefully filtered to ensure benchmark quality:
-
-- ✅ **Included**: Article pages with substantial main content
-- ❌ **Excluded**: Category/archive pages, product listings, directory pages
-- ❌ **Excluded**: Pages with very short content (<500 characters)
-
----
-
-## Evaluation Methodology
-
-This benchmark uses the same evaluation approach as the [ScrapingHub Article Extraction Benchmark](https://github.com/scrapinghub/article-extraction-benchmark), enabling direct comparison of results.
-
-### Metrics
-
-| Metric | Description | Formula |
-|--------|-------------|---------|
-| **Precision** | What fraction of extracted text is actual article content? | TP / (TP + FP) |
-| **Recall** | What fraction of the article was successfully extracted? | TP / (TP + FN) |
-| **F1 Score** | Harmonic mean of precision and recall | 2 × (P × R) / (P + R) |
-| **Accuracy** | Exact match after tokenization | extracted_tokens == ground_truth_tokens |
-
-### Shingle-Based Matching
-
-Unlike simple word overlap, this benchmark uses **4-gram shingle matching**:
-
-1. Text is tokenized into words
-2. Words are grouped into overlapping 4-word sequences (shingles)
-3. Shingles are compared between extraction and ground truth
-4. True positives, false positives, and false negatives are computed
-
-**Why shingles?** Simple word overlap ignores word order. Shingle matching penalizes extractors that capture the right words but in the wrong order or context.
-
-### Bootstrap Confidence Intervals
-
-All metrics include ± standard deviation computed via bootstrap resampling (1,000 iterations), enabling statistically meaningful comparisons.
-
-### Snippet Validation
-
-In addition to standard metrics, this benchmark provides **snippet-based validation**:
-
-- **"With" snippets**: Sentences that MUST appear in a good extraction
-- **"Without" snippets**: Boilerplate text that should NOT appear
-
-This catches edge cases where an extractor might score well on aggregate metrics but miss critical content or include obvious boilerplate.
-
----
-
-## Open-Source Libraries
-
-The following content extraction libraries have been evaluated on this benchmark:
-
-### Python Libraries
-
-| Library | Description | GitHub |
-|---------|-------------|--------|
-| **trafilatura** | Fast and accurate extraction with metadata support | [adbar/trafilatura](https://github.com/adbar/trafilatura) |
-| **readability-lxml** | Python port of Mozilla's Readability.js | [buriy/python-readability](https://github.com/buriy/python-readability) |
-| **boilerpy3** | Python port of boilerpipe (Java) | [jmriebold/BoilerPy3](https://github.com/jmriebold/BoilerPy3) |
-| **beautifulsoup** | HTML/XML parsing library (baseline) | [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/) |
-
-### Rust Libraries
-
-| Library | Description | Crates.io |
-|---------|-------------|-----------|
-| **rs-trafilatura** | Rust port of trafilatura | [rs-trafilatura](https://github.com/Murrough-Foley/rs-trafilatura) |
-| **dom-smoothie** | Readability-based extraction | [dom-smoothie](https://crates.io/crates/dom-smoothie) |
-| **dom_content_extraction** | CETR/CETD algorithm implementation | [dom_content_extraction](https://crates.io/crates/dom_content_extraction) |
-
-### Go Libraries
-
-| Library | Description | GitHub |
-|---------|-------------|--------|
-| **go-trafilatura** | Go port of trafilatura | [markusmobius/go-trafilatura](https://github.com/markusmobius/go-trafilatura) |
-| **go-readability** | Go port of Readability.js | [go-shiori/go-readability](https://github.com/go-shiori/go-readability) |
-
-### Other Notable Libraries (Not Yet Benchmarked)
-
-| Library | Language | GitHub |
-|---------|----------|--------|
-| **Readability.js** | JavaScript | [mozilla/readability](https://github.com/mozilla/readability) |
-| **newspaper4k** | Python | [AndyTheFactory/newspaper4k](https://github.com/AndyTheFactory/newspaper4k) |
-| **news-please** | Python | [fhamborg/news-please](https://github.com/fhamborg/news-please) |
-| **Goose3** | Python | [goose3/goose3](https://github.com/goose3/goose3) |
-
-*Want to add your library? Submit a pull request with your results!*
-
----
-
-## Running Your Extractor
-
-### Step 1: Process HTML Files
-
-Read each gzipped HTML file, run your extraction, and collect results:
-
-```python
-import gzip
-import json
-from pathlib import Path
-
-results = {}
-
-for html_path in Path('html').glob('*.html.gz'):
-    file_id = html_path.stem.replace('.html', '')
-
-    # Read gzipped HTML
-    with gzip.open(html_path, 'rt', encoding='utf-8') as f:
-        html = f.read()
-
-    # Run your extractor
-    extracted_text = your_extractor(html)
-
-    results[file_id] = {'articleBody': extracted_text}
-
-# Save results
-with open('output/my-extractor.json', 'w') as f:
-    json.dump(results, f, ensure_ascii=False)
-```
-
-### Step 2: Output Format
-
-Your output JSON must follow this structure:
+Each JSON file follows this schema:
 
 ```json
 {
-  "0001": {"articleBody": "Extracted text for page 0001..."},
-  "0002": {"articleBody": "Extracted text for page 0002..."},
-  "0003": {"articleBody": "Extracted text for page 0003..."}
-}
-```
-
-- Keys must match file IDs (e.g., `0001`, `0002`)
-- Each entry must have an `articleBody` field containing the extracted text
-
-### Step 3: Evaluate
-
-```bash
-python evaluate.py
-```
-
-### Command-Line Options
-
-```bash
-python evaluate.py [OPTIONS]
-
-Options:
-  --n-bootstrap N    Bootstrap iterations for confidence intervals (default: 1000)
-  --output FILE      Save detailed results to JSON file
-  --snippets         Include snippet coverage metrics (With% and Without%)
-  --seed N           Random seed for reproducibility (default: 42)
-```
-
-**Example with all options:**
-```bash
-python evaluate.py --snippets --output results.json --n-bootstrap 2000
-```
-
----
-
-## Comparison with ScrapingHub Benchmark
-
-This benchmark follows the methodology established by [ScrapingHub's Article Extraction Benchmark](https://github.com/scrapinghub/article-extraction-benchmark), the most widely-used benchmark in this domain.
-
-### Side-by-Side Comparison
-
-| Aspect | ScrapingHub (2019) | This Benchmark (2026) |
-|--------|--------------------|-----------------------|
-| **Number of pages** | 184 | **1,507** |
-| **Collection year** | 2019 | **2026** |
-| **Unique domains** | ~100 | **1,507** |
-| **Ground truth method** | Manual annotation | AI + quality review |
-| **Evaluation metrics** | P/R/F1/Accuracy | P/R/F1/Accuracy + snippets |
-| **Bootstrap CI** | Yes | Yes |
-| **Dependencies** | None | None |
-
-### Why Both Benchmarks Matter
-
-**ScrapingHub Benchmark:**
-- Established methodology and wide adoption
-- Manual annotations (gold standard)
-- Good for comparing against historical results
-
-**This Benchmark:**
-- Modern web pages (2026 design patterns)
-- 8× larger dataset for statistical significance
-- Tests against contemporary challenges (SPAs, paywalls, cookie banners)
-- Snippet validation catches edge cases
-
-**Recommendation:** Evaluate on both benchmarks for comprehensive assessment.
-
----
-
-## Why This Benchmark?
-
-### The Problem
-
-Extracting main content from web pages is deceptively difficult. Modern websites contain:
-
-- **Navigation menus** with dozens of links
-- **Sidebars** with ads, related articles, and widgets
-- **Cookie consent banners** and GDPR notices
-- **Paywalls** and subscription prompts
-- **Comment sections** and social sharing buttons
-- **Footers** with legal text and site maps
-
-A naive approach extracting all text will capture far more noise than signal. Sophisticated extraction algorithms must understand DOM structure, text density, and semantic signals.
-
-### Why a New Benchmark?
-
-The web has evolved significantly since 2019:
-
-| Challenge | 2019 | 2026 |
-|-----------|------|------|
-| **JavaScript frameworks** | jQuery, basic React | Next.js, complex SPAs |
-| **Layout patterns** | Simple grids | CSS Grid, Flexbox, containers |
-| **Cookie banners** | Rare | Ubiquitous (GDPR, CCPA) |
-| **Paywalls** | Some news sites | Widespread across content |
-| **AI-generated content** | Minimal | Increasingly common |
-| **Dark patterns** | Few | Newsletter popups, notification requests |
-
-**Extractors optimized for 2019 web pages may struggle with 2026 patterns.** This benchmark provides a modern testbed.
-
-### Key Features
-
-- ✅ **Modern dataset**: 1,507 pages from 2026
-- ✅ **Diverse sources**: Every page from a unique domain
-- ✅ **Zero dependencies**: Evaluation uses only Python standard library
-- ✅ **Industry-standard metrics**: Compatible with ScrapingHub methodology
-- ✅ **Snippet validation**: Catches missed content and boilerplate leakage
-- ✅ **Confidence intervals**: Statistical rigor with bootstrap resampling
-
----
-
-## Data Format
-
-### Ground Truth (ground-truth.json)
-
-```json
-{
-  "0001": {
-    "articleBody": "The main article text that extractors should capture...",
-    "url": "https://example.com/article",
-    "title": "Article Title",
+  "schema_version": "2.0",
+  "url": "https://example.com/page",
+  "file_id": "0001",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified"
+    }
+  },
+  "ground_truth": {
+    "title": "Page Title",
     "author": "Author Name",
     "publish_date": "2025-01-15",
-    "with": [
-      "Sentence that MUST appear in extraction",
-      "Another critical sentence from the article"
-    ],
-    "without": [
-      "Subscribe to our newsletter",
-      "Cookie policy text",
-      "© 2025 Example Inc. All rights reserved."
-    ]
+    "main_content": "The full main content as plain text...",
+    "with": ["snippet that must appear", "another required snippet"],
+    "without": ["boilerplate snippet that must not appear"]
   }
 }
 ```
 
-### HTML Files (html/*.html.gz)
+### Field Descriptions
 
-- Gzip-compressed HTML files
-- UTF-8 encoded
-- Named by file ID (e.g., `0001.html.gz`)
+| Field | Description |
+|-------|-------------|
+| `main_content` | Complete main content as plain text. Headings on their own lines, paragraphs separated by `\n\n`. No markdown or HTML formatting. Never truncated (max ~50K chars). |
+| `with[]` | 3-8 word snippets from the content that a correct extraction must include. Tests content completeness. |
+| `without[]` | 3-8 word snippets from boilerplate (nav, ads, cookie banners) that a correct extraction must exclude. Tests boilerplate filtering. |
+| `title` | Page title/heading. May be `null`. |
+| `author` | Author name. May be `null`. |
+| `publish_date` | Publication date. May be `null`. |
 
-### Prediction Output (output/*.json)
+## Quick Start
 
-```json
-{
-  "0001": {"articleBody": "Your extracted text..."},
-  "0002": {"articleBody": "Your extracted text..."}
-}
+### Evaluate Your Extractor
+
+```python
+python evaluate.py --extractor my_extractor --split dev
 ```
 
----
+Or evaluate manually:
 
-## Installation
+```python
+import json, re
+from pathlib import Path
+from collections import Counter
 
-### Requirements
+def word_f1(predicted: str, reference: str) -> float:
+    """Word-level F1 between predicted and reference text."""
+    pred = Counter(re.findall(r'\w+', predicted.lower()))
+    ref = Counter(re.findall(r'\w+', reference.lower()))
+    if not ref:
+        return 1.0 if not pred else 0.0
+    if not pred:
+        return 0.0
+    overlap = sum((pred & ref).values())
+    p = overlap / sum(pred.values())
+    r = overlap / sum(ref.values())
+    return 2 * p * r / (p + r) if (p + r) > 0 else 0.0
 
-- Python 3.6 or higher
-- No external dependencies (evaluation uses only standard library)
+# Load ground truth
+gt_dir = Path("dev/ground-truth")
+for gt_file in sorted(gt_dir.glob("*.json")):
+    with open(gt_file) as f:
+        data = json.load(f)
+    reference = data["ground_truth"]["main_content"]
+    html_path = Path("dev/html") / f"{gt_file.stem}.html.gz"
 
-### Clone the Repository
+    # Your extractor here:
+    import gzip
+    html = gzip.open(html_path, 'rt', encoding='utf-8').read()
+    predicted = your_extractor(html)
 
-```bash
-git clone https://github.com/Murrough-Foley/web-content-extraction-benchmark.git
-cd web-content-extraction-benchmark
+    f1 = word_f1(predicted, reference)
+    print(f"{gt_file.stem}: F1={f1:.3f}")
 ```
 
-### Verify Installation
+## Baseline Results
 
-```bash
-python evaluate.py --help
-```
+### Development Set (1,497 pages)
 
----
+| System | Type | F1 | Precision | Recall |
+|--------|------|---:|----------:|-------:|
+| rs-trafilatura | Rule+ML | **0.859** | 0.863 | 0.890 |
+| MinerU-HTML (0.6B) | Neural | 0.827 | 0.845 | 0.840 |
+| Trafilatura | Rule | 0.791 | 0.852 | 0.793 |
+| dom-smoothie | Rule | 0.762 | 0.806 | 0.768 |
+| ReaderLM-v2 (1.5B) | Neural | 0.741 | 0.741 | 0.790 |
+| Newspaper4k | Rule | 0.720 | 0.838 | 0.683 |
+| magic-html | Rule | 0.719 | 0.813 | 0.713 |
+| jusText | Rule | 0.707 | 0.771 | 0.695 |
+| BoilerPy3 | Rule | 0.687 | 0.795 | 0.661 |
+| Readability | Rule | 0.675 | 0.685 | 0.713 |
+| Goose3 | Rule | 0.652 | 0.845 | 0.593 |
 
-## License
+### F1 by Page Type (Development Set)
 
-This project is licensed under the **Apache License 2.0** - see the [LICENSE](LICENSE) file for details.
+| Page Type | rs-traf | MinerU | Trafilatura | dom-smoothie | Readability |
+|-----------|--------:|-------:|------------:|-------------:|------------:|
+| Article | **0.932** | 0.928 | 0.926 | 0.908 | 0.825 |
+| Documentation | **0.932** | 0.838 | 0.888 | 0.868 | 0.736 |
+| Service | **0.844** | 0.824 | 0.763 | 0.714 | 0.604 |
+| Forum | **0.808** | 0.794 | 0.585 | 0.530 | 0.466 |
+| Collection | **0.716** | 0.506 | 0.553 | 0.504 | 0.445 |
+| Listing | 0.707 | **0.710** | 0.589 | 0.596 | 0.496 |
+| Product | **0.641** | 0.619 | 0.567 | 0.502 | 0.407 |
 
-You are free to:
-- Use the benchmark for commercial and academic purposes
-- Modify and distribute the code
-- Use the dataset for training and evaluation
+**Key finding:** On articles, all top systems converge (F1 0.91-0.93). On structured page types, the gap widens to 20-30 points — forums, collections, products, and service pages are where web content extraction remains unsolved.
 
----
+### Held-Out Test Set (511 pages)
+
+| System | Dev F1 | Test F1 |
+|--------|-------:|--------:|
+| rs-trafilatura | 0.859 | **0.893** |
+| Trafilatura | 0.791 | 0.833 |
+| dom-smoothie | 0.762 | 0.808 |
+| Readability | 0.675 | 0.726 |
+
+System rankings are preserved across splits, confirming generalization.
+
+## Annotation Methodology
+
+Ground truth was produced through a multi-stage pipeline:
+
+1. **LLM-assisted drafting** — Claude generates initial annotations from HTML
+2. **Multi-pass human review** — 4 independent review passes verify content completeness, boundaries, metadata accuracy, and snippet quality
+3. **Automated quality checks** — 21-point scan verifies encoding, length, snippet validity, and boilerplate detection
+4. **Adversarial review** — Files where top extractors achieve low F1 are flagged for re-examination (low scores often indicate GT errors, not extraction failures)
+
+## Page Type Taxonomy
+
+WCEB defines page types by **HTML structural differences that affect extraction behavior**, not by semantic content:
+
+- **Article**: Single content container with sequential paragraphs. Standard extraction works well.
+- **Forum**: Multiple user posts in sequence. Extractors that filter `class="comment"` elements lose the primary content.
+- **Product**: Content often in JSON-LD structured data, not visible DOM. Tabbed interfaces hide content.
+- **Collection**: Product grids with interleaved filter/navigation panels that extractors include as content.
+- **Listing**: Repeated card elements. Single-node extraction captures one card instead of the full list.
+- **Documentation**: Code blocks with sidebar navigation and TOC that extractors fail to exclude.
+- **Service**: Content distributed across multiple `<section>` elements (hero, features, testimonials, pricing, FAQ). Single-node extraction captures at most one section.
+
+## Use Cases
+
+WCEB is designed for:
+
+- **Benchmarking web content extractors** — main content extraction, boilerplate removal, text extraction from HTML
+- **Evaluating web scraping quality** — how well does your scraper extract the actual content?
+- **Training content extraction models** — 2,008 labeled HTML/text pairs across 7 page types
+- **RAG pipeline evaluation** — is your retrieval-augmented generation system getting clean content?
+- **Search engine indexing** — evaluating content pipelines for web indexing
+- **NLP dataset construction** — ensuring clean text extraction from web sources
+- **LLM training data curation** — filtering boilerplate from web crawl data
 
 ## Citation
 
-If you use this benchmark in your research or development, please cite:
-
 ```bibtex
-@misc{web-content-extraction-benchmark-2026,
-  title={Web Content Extraction Benchmark},
+@article{foley2026wceb,
+  title={{WCEB}: A Multi-Type Web Content Extraction Benchmark},
   author={Foley, Murrough},
   year={2026},
-  url={https://github.com/Murrough-Foley/web-content-extraction-benchmark},
-  note={A benchmark dataset of 1,507 modern web pages for evaluating content extraction algorithms}
+  url={https://github.com/murroughfoley/wceb}
 }
 ```
 
----
+## License
+
+This dataset is released under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC-BY-4.0).
+
+You are free to share and adapt this dataset for any purpose, including commercial use, as long as you provide appropriate attribution.
+
+## Related Resources
+
+- [rs-trafilatura](https://github.com/murroughfoley/rs-trafilatura) — Rust web content extraction library with page-type-aware profiles
+- [web-page-classifier](https://crates.io/crates/web-page-classifier) — XGBoost page type classifier (7 types, 87% accuracy)
+- [Trafilatura](https://github.com/adbar/trafilatura) — Python web content extraction library
+- [MinerU-HTML](https://github.com/opendatalab/MinerU-HTML) — LLM-based HTML content extraction
 
 ## Acknowledgments
 
-- **Evaluation methodology** based on [ScrapingHub Article Extraction Benchmark](https://github.com/scrapinghub/article-extraction-benchmark)
-- **Shingle matching approach** from [Moz Content Extraction Research](https://moz.com/devblog/benchmarking-python-content-extraction-algorithms-dragnet-readability-goose-and-eatiht/)
-- **Ground truth generation** powered by frontier AI models with human quality review
-
----
-
-## Contributing
-
-Contributions are welcome! You can help by:
-
-1. **Adding new extractor results**: Run your library and submit a PR with results
-2. **Improving documentation**: Fix typos, add examples, clarify instructions
-3. **Reporting issues**: Found a problem with the dataset? Open an issue
-
----
-
-<p align="center">
-  <b>Built for the web scraping and content extraction community</b><br>
-  <a href="#results">Results</a> •
-  <a href="#quick-start">Quick Start</a> •
-  <a href="#dataset">Dataset</a> •
-  <a href="#open-source-libraries">Libraries</a>
-</p>
+HTML source files are cached from publicly accessible web pages. Ground truth annotations contain only content visible on the original public pages.

@@ -1,0 +1,29 @@
+{
+  "schema_version": "2.0",
+  "url": "https://forum.prusa3d.com/forum/prusa-app-known-issues-and-troubleshooting/new-to-3d-printing-7/",
+  "file_id": "5132",
+  "ground_truth": {
+    "title": "New to 3D printing",
+    "author": null,
+    "publish_date": null,
+    "main_content": "New to 3D printing\n\nI just got my Prusa MK4S, and was able to print from USB stick. Now I would like to start printing from Printables.com but whenever I try downloading and it doesn't let me download anything. I'm new to 3D printing can someone please guide me in the right direction. Thanks\n\nPosted: 30/03/2025 3:08 pm\n\nA few possibilities:\n\nPrintables is an uncurated mix. There are many low quality and even some unprintable entries - a beginner should only attempt to print parts/models where there are photographs of actual prints, not renders, showing that it is at least possible.\n\nTo avoid several steps where problems can be hidden do not use the Printables tab in PrusaSlicer, instead open https://www.printables.com in your usual browser.\n\nWhen you have found a desirable design click downloads but do not click 'Slice', instead download the .stl .step or .3mf file(s).\n\nNow open PrusaSlicer, Import (File menu) the file(s) and proceed from there.\n\nBe aware that if the built-in shortcuts fail there may be, hopefully minor, issues to fix in the slicing process. In some cases, with some operating systems, security settings block the shortcuts; if you wish you could edit your settings but the slightly longer procedure above should always work.\n\nCheerio,\n\nPosted: 30/03/2025 9:31 pm",
+    "with": [
+      "I just got my Prusa MK4S, and was able to print from USB stick",
+      "Printables is an uncurated mix",
+      "do not use the Printables tab in PrusaSlicer"
+    ],
+    "without": [
+      "Log in to be able to post",
+      "Known issues and troubleshooting"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "forum"
+  }
+}

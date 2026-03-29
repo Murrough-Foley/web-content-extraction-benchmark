@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://conejoadulted.org/technology/graphicdesigncourses/",
+  "file_id": "0339",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "courses",
+        "graphic-design",
+        "adult-education"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Graphic Design Courses",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Adobe Photoshop Elements\n\nIN PERSON\nYou love your photos! Learn to use Photoshop Elements to show them off! Fix your photos, add artistic effects, and even combine images with Photoshop Elements!\nNote: Digital Photo Basics, Computer Basics, or some basic computer skills.\n\nVideo Basics & Creation for Beginners\n\nTake your photographs and video footage from your phone, digital camera, or printed stills and compose these into memorable video presentations. Learn the terminology, best practices, and tips from an experienced instructor using free software for Windows, Mac OSX, Linux, and Google Chrome based computers! You will also learn how to create, edit and use your own voice to narrate the videos that you compose with free available software tools.\nFrom weddings, family, travel, business, and adventure, all of us have memories captured in photos and videos. Learn how to make these come alive in a remarkable presentation!",
+    "with": [
+      "IN PERSON\nYou love your photos!",
+      "Video Basics & Creation for Beginners",
+      "Take your photographs and video footage from your phone, digital camera, or printed stills and compose these into memorable video presentations."
+    ],
+    "without": [
+      "About",
+      "Copyright © 2025 Conejo Valley Adult Education",
+      "Privacy Policy"
+    ],
+    "main_content_markdown": "## Adobe Photoshop Elements\n\nIN PERSON\nYou love your photos! Learn to use Photoshop Elements to show them off! Fix your photos, add artistic effects, and even combine images with Photoshop Elements!\nNote: Digital Photo Basics, Computer Basics, or some basic computer skills.\n\nVideo Basics & Creation for Beginners\n\nTake your photographs and video footage from your phone, digital camera, or printed stills and compose these into memorable video presentations. Learn the terminology, best practices, and tips from an experienced instructor using free software for Windows, Mac OSX, Linux, and Google Chrome based computers! You will also learn how to create, edit and use your own voice to narrate the videos that you compose with free available software tools.\nFrom weddings, family, travel, business, and adventure, all of us have memories captured in photos and videos. Learn how to make these come alive in a remarkable presentation!"
+  }
+}

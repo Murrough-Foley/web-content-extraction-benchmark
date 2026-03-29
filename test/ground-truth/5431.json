@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.5/html/getting_started_with_playbooks/assembly-playbook-practical-example",
+  "file_id": "5431",
+  "ground_truth": {
+    "title": "Chapter 3. A practical example of an Ansible Playbook",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Ansible can communicate with many different device classifications, from cloud-based REST APIs, to Linux and Windows systems, networking hardware, and much more.\n\nThe following is a sample of two Ansible modules automatically updating two types of servers.\n\n3.1. Playbook execution\n\nA playbook runs in order from top to bottom. Within each play, tasks also run in order from top to bottom. Playbooks with multiple 'plays' can orchestrate multi-machine deployments, running one play on your webservers, then another play on your database servers, then a third play on your network infrastructure, and so on.\n\nAt a minimum, each play defines two things:\n\nthe managed nodes to target, using a pattern\n\nat least one task to execute\n\nNote\n\nUse the fully-qualified collection name in your playbooks to ensure the correct module is selected, because multiple collections can contain modules with the same name (for example, user ).\n\nFor further information, see Using collections in a playbook.\n\nIn this example, the first play targets the web servers; the second play targets the database servers.\n\n---\n- name: Update web servers\nhosts: webservers\nbecome: true\n\ntasks:\n- name: Ensure apache is at the latest version\nansible.builtin.yum:\nname: httpd\nstate: latest\n- name: Write the apache config file\nansible.builtin.template:\nsrc: /srv/httpd.j2\ndest: /etc/httpd.conf\nmode: \"0644\"\n\n- name: Update db servers\nhosts: databases\nbecome: true\n\ntasks:\n- name: Ensure postgresql is at the latest version\nansible.builtin.yum:\nname: postgresql\nstate: latest\n- name: Ensure that postgresql is started\nansible.builtin.service:\nname: postgresql\nstate: started\n\nThe playbook contains two plays:\n\nThe first checks if the web server software is up to date and runs the update if necessary.\n\nThe second checks if database server software is up to date and runs the update if necessary.\n\nYour playbook can include more than just a hosts line and tasks.\n\nFor example, this example playbook sets a remote_user for each play. This is the user account for the SSH connection. You can add other Playbook Keywords at the playbook, play, or task level to influence how Ansible behaves. Playbook keywords can control the connection plugin, whether to use privilege escalation, how to handle errors, and more.\n\nTo support a variety of environments, Ansible enables you to set many of these parameters as command-line flags, in your Ansible configuration, or in your inventory. Learning the precedence rules for these sources of data can help you as you expand your Ansible ecosystem",
+    "with": [
+      "The following is a sample of two Ansible modules automatically updating two type",
+      "For further information, see Using collections in a playbook.",
+      "- name: Ensure postgresql is at the latest version",
+      "For example, this example playbook sets a remote_user for each play. This is the"
+    ],
+    "without": [
+      "Start a trial",
+      "Documentation",
+      "Getting started with playbooks",
+      "Providing feedback on Red Hat documentation"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "documentation"
+  }
+}

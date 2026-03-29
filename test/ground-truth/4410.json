@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.giro.com/cycling/accessories/lights/",
+  "file_id": "4410",
+  "ground_truth": {
+    "title": "Giro Sport Design©",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Lights\n\n6 Results\n\nNew\nRoc Loc 5 LED Light\n$34.95\n\nMountain/Urban Recreational Helmet Vent Light\nPrice reduced from $19.95 to $13.99\n\nRegister II/Isode II Helmet Vent Light\n$29.95\n\nCaden Helmet Vent Light\n$21.95\n\nScamp II Helmet Vent Light\n$29.95\n\nSport Recreational Helmet Vent Light\n$19.95",
+    "with": [
+      "Mountain/Urban Recreational Helmet Vent Light",
+      "Roc Loc 5 LED Light",
+      "Scamp II Helmet Vent Light"
+    ],
+    "without": [
+      "New Arrivals",
+      "Best Sellers",
+      "Log In Now",
+      "Newsletter"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "collection"
+  }
+}

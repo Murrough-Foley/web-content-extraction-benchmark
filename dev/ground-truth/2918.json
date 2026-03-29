@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.espn.com/nba/standings",
+  "file_id": "2918",
+  "ground_truth": {
+    "title": "NBA Standings",
+    "author": "",
+    "publish_date": null,
+    "main_content": "League Conference Division\n\n2025-26 2024-25 2023-24 2022-23 2021-22 2020-21 2019-20 2018-19 2017-18 2016-17 2015-16 2014-15 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 2004-05 2003-04 2002-03\n\nRegular Season Preseason\n\nOklahoma City Thunder\n\nMinnesota Timberwolves\n\nGolden State Warriors\n\nPortland Trail Blazers\n\nNew Orleans Pelicans\n\nStandings are updated with the completion of each game.\n\nTeams seeded 7-10 in each conference will compete in a play-in tournament at the end of the regular season.\n\nGlossary\n\n- W : Wins\n- L : Losses\n- PCT : Winning Percentage\n- GB : Games Back\n- HOME : Home Record\n- AWAY : Away Record\n- DIV : Division Record\n- CONF : Conference Record\n- PPG : Points Per Game\n- OPP PPG : Opponent Points Per Game\n- DIFF : Average Point Differential\n- STRK : Current Streak\n- L10 : Record last 10 games",
+    "with": [
+      "League Conference Division",
+      "Oklahoma City Thunder",
+      "Minnesota Timberwolves",
+      "Standings are updated with the completion of each game."
+    ],
+    "without": [
+      "Soccer",
+      "More Sports",
+      "Fantasy"
+    ],
+    "main_content_markdown": "[League](https://www.espn.com/nba/standings/_/group/league) [Conference](https://www.espn.com/nba/standings) [Division](https://www.espn.com/nba/standings/_/group/division)\n\n2025-26 2024-25 2023-24 2022-23 2021-22 2020-21 2019-20 2018-19 2017-18 2016-17 2015-16 2014-15 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 2004-05 2003-04 2002-03\n\nRegular Season Preseason\n\nEastern Conference\n\n| Team | W | L | PCT | GB | HOME | AWAY | DIV | CONF | PPG | OPP PPG | DIFF | STRK | L10 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Detroit Pistons | 45 | 17 | .726 | - | 23-8 | 21-9 | 10-4 | 30-9 | 116.8 | 109.6 | +7.2 | L3 | 6-4 |\n| Boston Celtics | 42 | 21 | .667 | 3.5 | 21-10 | 21-11 | 9-5 | 27-14 | 114.5 | 107.0 | +7.5 | W1 | 8-2 |\n| New York Knicks | 41 | 23 | .641 | 5 | 23-9 | 17-14 | 11-3 | 27-15 | 117.2 | 110.6 | +6.6 | W1 | 7-3 |\n| Cleveland Cavaliers | 39 | 24 | .619 | 6.5 | 21-11 | 18-13 | 8-5 | 25-15 | 119.1 | 114.9 | +4.2 | W2 | 7-3 |\n| Toronto Raptors | 35 | 27 | .565 | 10 | 16-16 | 19-11 | 4-10 | 27-16 | 113.5 | 112.0 | +1.5 | L2 | 5-5 |\n| Orlando Magic | 34 | 28 | .548 | 11 | 19-11 | 14-15 | 7-5 | 20-19 | 114.8 | 114.0 | +0.8 | W3 | 6-4 |\n| Miami Heat | 35 | 29 | .547 | 11 | 20-11 | 15-18 | 6-5 | 19-18 | 120.1 | 116.6 | +3.5 | W4 | 7-3 |\n| Philadelphia 76ers | 34 | 29 | .540 | 11.5 | 17-16 | 17-13 | 8-7 | 21-21 | 115.8 | 116.1 | -0.3 | L1 | 4-6 |\n| Atlanta Hawks | 33 | 31 | .516 | 13 | 15-16 | 18-15 | 7-6 | 19-21 | 117.7 | 117.3 | +0.4 | W6 | 7-3 |\n| Charlotte Hornets | 32 | 32 | .500 | 14 | 14-17 | 18-15 | 9-5 | 20-22 | 116.2 | 112.5 | +3.7 | L1 | 7-3 |\n| Milwaukee Bucks | 27 | 35 | .435 | 18 | 15-16 | 12-19 | 8-5 | 19-23 | 111.4 | 115.5 | -4.1 | W1 | 5-5 |\n| Chicago Bulls | 26 | 37 | .413 | 19.5 | 16-18 | 10-19 | 4-10 | 17-26 | 115.5 | 119.7 | -4.2 | W1 | 2-8 |\n| Washington Wizards | 16 | 46 | .258 | 29 | 11-22 | 5-24 | 2-10 | 11-28 | 112.2 | 123.0 | -10.8 | L7 | 2-8 |\n| Brooklyn Nets | 16 | 47 | .254 | 29.5 | 8-22 | 8-25 | 3-10 | 12-28 | 106.9 | 115.6 | -8.7 | W1 | 1-9 |\n| Indiana Pacers | 15 | 48 | .238 | 30.5 | 10-22 | 5-26 | 3-9 | 11-30 | 111.4 | 119.9 | -8.5 | L8 | 2-8 |\n\nWestern Conference\n\n| Team | W | L | PCT | GB | HOME | AWAY | DIV | CONF | PPG | OPP PPG | DIFF | STRK | L10 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Oklahoma City Thunder | 50 | 15 | .769 | - | 26-6 | 24-8 | 9-3 | 35-9 | 118.6 | 107.6 | +11.0 | W5 | 8-2 |\n| San Antonio Spurs | 46 | 17 | .730 | 3 | 23-6 | 22-11 | 10-3 | 27-13 | 118.2 | 111.4 | +6.8 | W3 | 9-1 |\n| Houston Rockets | 39 | 23 | .629 | 9.5 | 21-8 | 18-15 | 6-5 | 22-17 | 114.5 | 109.3 | +5.2 | W1 | 6-4 |\n| Minnesota Timberwolves | 40 | 24 | .625 | 9.5 | 22-12 | 18-12 | 8-5 | 24-17 | 118.6 | 114.5 | +4.1 | L1 | 8-2 |\n| Denver Nuggets | 39 | 25 | .609 | 10.5 | 17-13 | 22-12 | 6-4 | 23-13 | 120.2 | 116.4 | +3.8 | L1 | 5-5 |\n| Los Angeles Lakers | 38 | 25 | .603 | 11 | 19-12 | 19-13 | 8-7 | 26-16 | 116.0 | 115.3 | +0.7 | W1 | 6-4 |\n| Phoenix Suns | 36 | 27 | .571 | 13 | 21-13 | 15-14 | 10-6 | 25-18 | 112.1 | 111.2 | +0.9 | W1 | 5-5 |\n| Golden State Warriors | 32 | 31 | .508 | 17 | 19-13 | 13-18 | 6-6 | 22-20 | 115.0 | 113.9 | +1.1 | L1 | 4-6 |\n| LA Clippers | 31 | 32 | .492 | 18 | 16-13 | 15-19 | 8-5 | 20-19 | 112.6 | 112.2 | +0.4 | W1 | 6-4 |\n| Portland Trail Blazers | 30 | 34 | .469 | 19.5 | 16-15 | 14-19 | 5-7 | 23-19 | 115.1 | 118.1 | -3.0 | L1 | 4-6 |\n| Memphis Grizzlies | 23 | 39 | .371 | 25.5 | 11-19 | 11-19 | 6-6 | 18-26 | 115.7 | 117.8 | -2.1 | L3 | 3-7 |\n| Dallas Mavericks | 21 | 42 | .333 | 28 | 14-19 | 7-22 | 3-10 | 11-29 | 113.3 | 117.7 | -4.4 | L6 | 2-8 |\n| New Orleans Pelicans | 20 | 45 | .308 | 30 | 11-21 | 9-24 | 6-7 | 13-29 | 115.2 | 120.2 | -5.0 | L1 | 5-5 |\n| Utah Jazz | 19 | 45 | .297 | 30.5 | 11-21 | 8-24 | 1-10 | 10-30 | 117.4 | 125.0 | -7.6 | L1 | 2-8 |\n| Sacramento Kings | 14 | 50 | .219 | 35.5 | 9-22 | 5-28 | 2-10 | 10-34 | 110.4 | 121.3 | -10.9 | L3 | 2-8 |\n\nStandings are updated with the completion of each game.\n\nTeams seeded 7-10 in each conference will compete in a play-in tournament at the end of the regular season.\n\n### Glossary\n\n- W : Wins\n- L : Losses\n- PCT : Winning Percentage\n- GB : Games Back\n- HOME : Home Record\n- AWAY : Away Record\n- DIV : Division Record\n- CONF : Conference Record\n- PPG : Points Per Game\n- OPP PPG : Opponent Points Per Game\n- DIFF : Average Point Differential\n- STRK : Current Streak\n- L10 : Record last 10 games"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

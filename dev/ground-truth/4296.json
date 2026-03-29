@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.allenedmonds.com/browse/shoes/mens/sneakers/casual-sneakers?srsltid=AfmBOopIa46O0JvuoeeiBNI7dLyY8VtPCq40yGu6tlPpOatcOK0fAECe",
+  "file_id": "4296",
+  "ground_truth": {
+    "title": "Casual Sneakers",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Shop Men's Casual Sneakers\n\nSneakers\n\nMen's casual sneakers should be more than just a relaxed choice, they should carry the same hallmarks of quality and craftsmanship found in your dress shoes. At Allen Edmonds, we design the best casual sneakers for men that honor our heritage of shoemaking. Built with premium leathers, durable construction, and a refined aesthetic, these sneakers elevate any look. They're designed with purpose and created to transition effortlessly from casual moments to more polished settings.\n\nOur collection of casual sneakers for men blends sleek profiles with thoughtful details, from hand-finished leather uppers to lightweight, flexible soles. The result is footwear that delivers all-day comfort while maintaining a look that’s sharp and versatile. Whether you’re pairing white casual sneakers with denim, or business casual sneakers with a sport coat, these shoes prove that laid-back style doesn’t have to mean compromising on sophistication.\n\nEach pair reflects the legacy of Allen Edmonds—shoes made to last, evolve with age, and embody timeless appeal. Casual sneakers are not simply an off-duty essential, but an investment in footwear that brings together ease, durability, and understated elegance. With sneakers crafted to this standard, every step becomes a seamless blend of comfort and classic style.\n\nLooking for a shoe that is uniquely yours? The Allen Edmonds Custom Shoes Shop allows you to design one-of-a-kind shoes that reflect your personal style and preferences. Create your own loafers, boots, sneakers, or dress shoes tailored to your specifications. Each custom pair undergoes the same meticulous process Allen Edmonds is known for, combining heritage craftsmanship with modern creativity. Whether you're looking for timeless elegance or a bold statement, our custom shoe service allows you to create footwear that fits your unique vision, ensuring both comfort and style.",
+    "with": [
+      "Our collection of casual sneakers for men blends sleek profiles with thoughtful details",
+      "Each pair reflects the legacy of Allen Edmonds—shoes made to last, evolve with age"
+    ],
+    "without": [
+      "Allen Edmonds/Shoes/Sneakers/Casual Sneakers/",
+      "Earn Rewards. Free Shipping. Exclusive Access.",
+      "Members earn $20 reward for every $300 spent"
+    ],
+    "main_content_markdown": "## Shop Men's Casual Sneakers\n\n[Sneakers](https://www.allenedmonds.com/browse/shoes/mens/sneakers)\n\nMen's casual sneakers should be more than just a relaxed choice, they should carry the same hallmarks of quality and craftsmanship found in your dress shoes. At Allen Edmonds, we design the best casual sneakers for men that honor our heritage of shoemaking. Built with premium leathers, durable construction, and a refined aesthetic, these sneakers elevate any look. They're designed with purpose and created to transition effortlessly from casual moments to more polished settings.\n\nOur collection of casual sneakers for men blends sleek profiles with thoughtful details, from hand-finished leather uppers to lightweight, flexible soles. The result is footwear that delivers all-day comfort while maintaining a look that’s sharp and versatile. Whether you’re pairing white casual sneakers with denim, or business casual sneakers with a sport coat, these shoes prove that laid-back style doesn’t have to mean compromising on sophistication.\n\nEach pair reflects the legacy of Allen Edmonds—shoes made to last, evolve with age, and embody timeless appeal. Casual sneakers are not simply an off-duty essential, but an investment in footwear that brings together ease, durability, and understated elegance. With sneakers crafted to this standard, every step becomes a seamless blend of comfort and classic style.\n\nLooking for a shoe that is uniquely yours? The [Allen Edmonds Custom Shoes Shop](https://www.allenedmonds.com/custom-shop) allows you to design one-of-a-kind shoes that reflect your personal style and preferences. Create your own loafers, boots, sneakers, or dress shoes tailored to your specifications. Each custom pair undergoes the same meticulous process Allen Edmonds is known for, combining heritage craftsmanship with modern creativity. Whether you're looking for timeless elegance or a bold statement, our custom shoe service allows you to create footwear that fits your unique vision, ensuring both comfort and style."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "collection"
+  }
+}

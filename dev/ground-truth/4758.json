@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.glossier.com/en-bg/a/pages/custom-skincare-set?srsltid=AfmBOoo3cAUbrTuuvn5R4DxuFNOG9mH836GK2NvBiXTrNvwncnG3DlSd",
+  "file_id": "4758",
+  "ground_truth": {
+    "title": "Custom Skincare Set",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Custom Skincare Set\n\nCreate your Custom Skincare Set and save 10%.\n\nYour skin is unique and no one knows its needs better than you. Create your personalized skincare routine—you can skip or double down on any step—with 3 to 5 products curated to your skin's needs. Final discounts are applied at the end (Terms & Conditions).\n\nInterested in our skincare philosophy?\n\nSave 10% when you create a Custom Skincare Set\n\n01\n\nCleanse\n\nSelect Your Cleanser\n\nA proper cleanse is critical to ensuring skin is effectively clean and prepped to absorb the rest of your routine.\n\nSelect one or more\n\n02\n\nTreat\n\nSelect Your Treatments\n\nEffective serums and treatments formulated to target specific skin concerns.\n\nSelect one or more\n\n03\n\nMoisturize\n\nSelect Your Moisturizer\n\nAll skin types need hydration (yes, even oily). Choose a moisturizer based on your skin needs, the season, and climate.\n\nSelect one or more\n\n04\n\nSunscreen\n\nAdd Your Sunscreen\n\nNo rest days for SPF. Finish your routine with our fully transparent SPF to prevent sun damage and neutralize free radicals.\n\nOptional\n\n05\n\nAdd-ons\n\nSelect Your Extras\n\nMeet your personal skin goals with our masks or oil serum hybrid—the perfect finishing touch to your routine.\n\nOptional",
+    "with": [
+      "Your skin is unique and no one knows its needs better than you. Create your personalized skincare routine",
+      "Save 10% when you create a Custom Skincare Set",
+      "All skin types need hydration (yes, even oily). Choose a moisturizer based on your skin needs, the season, and climate.",
+      "No rest days for SPF. Finish your routine with our fully transparent SPF to prevent sun damage and neutralize free radicals.",
+      "Meet your personal skin goals with our masks or oil serum hybrid"
+    ],
+    "without": [
+      "Bestsellers",
+      "Returns & exchanges",
+      "International",
+      "Responsible disclosure",
+      "At Glossier, we make products inspired by real life"
+    ],
+    "main_content_markdown": "# Custom Skincare Set\n\n## Create your Custom Skincare Set and save 10%.\n\nYour skin is unique and no one knows its needs better than you. Create your personalized skincare routine—you can skip or double down on any step—with 3 to 5 products curated to your skin's needs. Final discounts are applied at the end ([Terms & Conditions](/pages/skincare-sets-terms-conditions)).\n\nInterested in our skincare philosophy?\n\nSave 10% when you create a Custom Skincare Set\n\n01\n\nCleanse\n\n## Select Your Cleanser\n\nA proper cleanse is critical to ensuring skin is effectively clean and prepped to absorb the rest of your routine.\n\nSelect one or more\n\n02\n\nTreat\n\n## Select Your Treatments\n\nEffective serums and treatments formulated to target specific skin concerns.\n\nSelect one or more\n\n03\n\nMoisturize\n\n## Select Your Moisturizer\n\nAll skin types need hydration (yes, even oily). Choose a moisturizer based on your skin needs, the season, and climate.\n\nSelect one or more\n\n04\n\nSunscreen\n\n## Add Your Sunscreen\n\nNo rest days for SPF. Finish your routine with our fully transparent SPF to prevent sun damage and neutralize free radicals.\n\nOptional\n\n05\n\nAdd-ons\n\n## Select Your Extras\n\nMeet your personal skin goals with our masks or oil serum hybrid—the perfect finishing touch to your routine.\n\nOptional"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "article"
+  }
+}

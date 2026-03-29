@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://scottdavenportphoto.com/blog/5-tips-for-landscape-composition",
+  "file_id": "4171",
+  "ground_truth": {
+    "title": "5 Tips For Landscape Composition",
+    "author": "Scott Davenport",
+    "publish_date": "2017-04-10",
+    "main_content": "5 Tips For Landscape Composition\n\nA recurring theme in my workshops is the question of photo composition. Is a scene well composed? What could make the composition stronger? I'm always happy when I'm asked about composition. Our camera can do a lot for us. It can meter a scene and capture a good exposure. It provides image stabilization and compensate for camera shake or other movement. It captures rich RAW files that we later pull rich colors and fine details from in post processing.\n\nSomething our cameras don't do is create a well composed photo for us. Yes, there are some smart phone apps that assist with composition, although they are pretty basic. And, I prefer to understand composition principles and apply those that makes sense for the scene I'm shooting - or consciously break the \"rules\" when I think it's warranted. So... here's 5 of my favorite composition tips for landscape photos.\n\n1. Leading Lines\n\nGood compositions have lines leading our viewers through the scene. For landscapes, look for natural leading lines - the ridge of a mountain, a footpath, triangular rocks and so on. If the lines converge on a subject or a vanishing point, even better.\n\nOne other thought about lines - they can be implied. For example, picture a silhouette of a person looking across a field toward a distant mountain. The line of sight of the person is an implied line and our minds will that in. We will naturally look into the scene from the perspective of the silhouette.\n\n2. Have A Foreground Subject\n\nThe lack of a foreground subject is a common mistake when we first start out in landscape photography. I know I made this mistake countless times. Make sure to include a foreground anchor - a place or thing your viewer can relate to. It might be an object, like a seashell or flower. It might be the edge of a platform or ledge one would stand on while taking in the landscape you are showing.\n\nThis is an opportunity to use your wide angle lens to exaggerate a foreground subject. Get up close to a nearby flower, rock or tree. Frame it boldly.\n\n3. Use Thirds\n\nIt's no doubt you have heard of the rule of thirds. It's a great guideline for a reason - it works. Generally, placing the horizon on a third creates a more compelling photo. For landscapes, decide whether the sky or the foreground is the more interesting part of the photo and accentuate that.\n\nAlso, go beyond horizon placement. Have something interesting in each third of your frame. Have a foreground, midground and background. Think vertically, too. Is there visual interest in each third of your photo from left to right? If not, you may need to recompose to reduce dead space in your scene.\n\n4. Mind The Corners\n\nUse the corners of your framing wisely. Watch for distracting elements in the corners that pull your viewer away from your subject. Remember those leading lines? I often compose with my lines entering from the corners of the frame, drawing my viewer into the scene.\n\n5. Accentuate The Sky Or The Foreground\n\nFor most landscapes, either the foreground or the sky is the interesting part. Frame your photo to accentuate what's interesting. This is related to using thirds in your scene.\n\nAnd if you happen to have a scene where both the sky and the foreground are killer - hey... that's a great problem to have. Solution? Take a whole bunch of photos with different compositions!\n\nOf course, these are guidelines and not hard rules. There are times where compositional \"rules\" are broken and the photo is stronger for it. If you are just learning composition, start with these hints. As these techniques become second nature, you'll start noticing scenes to break these rules. And don't be shy about doing that.\n\nFor more landscape photography help, check out this post on Pixpa for 25 more tips.",
+    "with": [
+      "Something our cameras don't do is create a well composed photo for us.",
+      "The lack of a foreground subject is a common mistake when we first start out in landscape photography.",
+      "Use the corners of your framing wisely. Watch for distracting elements in the corners that pull your viewer away from your subject.",
+      "Of course, these are guidelines and not hard rules. There are times where compositional \"rules\" are broken and the photo is stronger for it.",
+      "Have a foreground, midground and background. Think vertically, too."
+    ],
+    "without": [
+      "ON1 Effects",
+      "ON1 Photo RAW",
+      "More \"5 Tips\" Posts",
+      "Subscribe"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "article"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.postgresql.org/docs/current/indexes.html",
+  "file_id": "2864",
+  "ground_truth": {
+    "title": "Chapter 11. Indexes",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Table of Contents\n\n11.1. Introduction\n11.2. Index Types\n11.2.1. B-Tree\n11.2.2. Hash\n11.2.3. GiST\n11.2.4. SP-GiST\n11.2.5. GIN\n11.2.6. BRIN\n11.3. Multicolumn Indexes\n11.4. Indexes and ORDER BY\n11.5. Combining Multiple Indexes\n11.6. Unique Indexes\n11.7. Indexes on Expressions\n11.8. Partial Indexes\n11.9. Index-Only Scans and Covering Indexes\n11.10. Operator Classes and Operator Families\n11.11. Indexes and Collations\n11.12. Examining Index Usage\n\nIndexes are a common way to enhance database performance. An index allows the database server to find and retrieve specific rows much faster than it could do without an index. But indexes also add overhead to the database system as a whole, so they should be used sensibly.",
+    "with": [
+      "Indexes are a common way to enhance database performance.",
+      "An index allows the database server to find and retrieve specific rows much faster than it could do without an index.",
+      "But indexes also add overhead to the database system as a whole, so they should be used sensibly.",
+      "11.9. Index-Only Scans and Covering Indexes"
+    ],
+    "without": [
+      "Supported Versions:",
+      "Submit correction",
+      "Policies",
+      "PostgreSQL 18.3, 17.9, 16.13, 15.17, and 14.22 Released!"
+    ],
+    "main_content_markdown": "**Table of Contents**\n\n[11.1. Introduction](https://www.postgresql.org/docs/current/indexes-intro.html)\n[11.2. Index Types](https://www.postgresql.org/docs/current/indexes-types.html)\n[11.2.1. B-Tree](https://www.postgresql.org/docs/current/indexes-types.html#INDEXES-TYPES-BTREE)\n[11.2.2. Hash](https://www.postgresql.org/docs/current/indexes-types.html#INDEXES-TYPES-HASH)\n[11.2.3. GiST](https://www.postgresql.org/docs/current/indexes-types.html#INDEXES-TYPE-GIST)\n[11.2.4. SP-GiST](https://www.postgresql.org/docs/current/indexes-types.html#INDEXES-TYPE-SPGIST)\n[11.2.5. GIN](https://www.postgresql.org/docs/current/indexes-types.html#INDEXES-TYPES-GIN)\n[11.2.6. BRIN](https://www.postgresql.org/docs/current/indexes-types.html#INDEXES-TYPES-BRIN)\n[11.3. Multicolumn Indexes](https://www.postgresql.org/docs/current/indexes-multicolumn.html)\n11.4. Indexes and ORDER BY\n[11.5. Combining Multiple Indexes](https://www.postgresql.org/docs/current/indexes-bitmap-scans.html)\n[11.6. Unique Indexes](https://www.postgresql.org/docs/current/indexes-unique.html)\n[11.7. Indexes on Expressions](https://www.postgresql.org/docs/current/indexes-expressional.html)\n[11.8. Partial Indexes](https://www.postgresql.org/docs/current/indexes-partial.html)\n[11.9. Index-Only Scans and Covering Indexes](https://www.postgresql.org/docs/current/indexes-index-only-scans.html)\n[11.10. Operator Classes and Operator Families](https://www.postgresql.org/docs/current/indexes-opclass.html)\n[11.11. Indexes and Collations](https://www.postgresql.org/docs/current/indexes-collations.html)\n[11.12. Examining Index Usage](https://www.postgresql.org/docs/current/indexes-examine.html)\n\nIndexes are a common way to enhance database performance. An index allows the database server to find and retrieve specific rows much faster than it could do without an index. But indexes also add overhead to the database system as a whole, so they should be used sensibly."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": "verified"
+    }
+  }
+}

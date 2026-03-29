@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://travel.stackexchange.com/questions/74384/tourist-visa-requirements-for-thailand",
+  "file_id": "5175",
+  "ground_truth": {
+    "title": "Tourist visa requirements for Thailand",
+    "author": null,
+    "publish_date": "2016-07-27",
+    "main_content": "As a long-term stayer, the visa requirements in Thailand have varied quite a bit.\n\nFor example, during a brief period, it was not possible to do a same-day border run - instead one had to overnight and come back the next day. Now it's possible to pop out and in again on the same day.\n\nWhere can I go to get either official requirements or unofficial reports of the current situation regarding tourist visas in Thailand?\n\n3 Answers\n\nThe government website for visa information would be Ministry of Foreign Affairs, but even that is not always 100% up to date. Thailand has a history of constantly changing the rules;-)\n\nhttp://www.mfa.go.th/main/en/services/4908\n\nYou can also check the websites for the Thai Embassy or Consulate in your country of residence. Another good but unofficial website would be the ThiaVisa.com forum. Lots of locally knowledgeable participants (plus plenty of obnoxious ones too:-)\n\nThe current basic visa info (applicable to most G7, G8 and developed nations):\n\nVisa Exemption entries are still 30 days by air for all, 30 days by land for G7 nations, 15 days for all others. Currently no restrictions on \"visa runs\" but it is up to the Immigration official if they feel you are \"abusing\" the system to \"live\" in Thailand by making regular visa runs.\n\nTourist visa is still a 60 day stay, but they have a new Multiple Entry Tourist Visa good for six months. The new multiple entry visa does require six months of bank statements showing a minimum amount in the account ($7000 for US citizens, maybe different in other countries). Single entry tourist visas require only a current statement showing $700 (again US).\n\nA 30 day extension once in country is possible, but costs 1900 baht, so no cheaper than a tourist visa and can only be used once to extend your stay. Also an extension is not guaranteed to be 30 days, the Immigration official can choose to extend your stay for a shorter period. Not sure if they track your history of extensions.\n\nAll stays (visa exemption and tourist visas) expire when you leave the country and any remaining days are forfeit. So you can't use a single entry 60 day tourist visa to cover two separate 20 days stays in the Kingdom.\n\nThaiVisa.com Forum (TVF) is indeed the best unofficial source to get up to date info on Thai Visa requirements. There are a few old farts on there, but the mods like UbonJoe and others who have been there for a while can give you up to date advice. I wish they did a better job of renaming thread titles that are misleading, or having a template in which each thread had to contain certain information. Or better yet, that section should have a 'StackExchange'-like Q&A. The forum format is good for trip reports, but often times topics get derailed quickly and sometimes you get 50+ posts of speculation and bickering without much additional value added.\n\nThe problem with official sources like immigration.co.th is that the central official blog which is supposed to post updated information is not always up to date (although they are doing a much better job recently). It doesn't matter where the law is coming from (Royal Gazette, Article 44, Police order, Ministry of Foreign Affairs, etc); just a central place that can post a summary of these changes would be nice.\n\nAdd to that the fact that each Thai consulate or will interpret or enforce additional rules as they see fit. They are likely to update their own consulate website or post a printout on the bulletin board at the consulate first. Also, different borders and local immigration offices may [not] enforce certain policies depending on the political situation at that border. That is why trip reports and such from TVF is good idea. Also if you can connect with a local company that does regular 'visa run' or 'border run' services, you can get fresh updates from their staff WTF the current mood is at that border.\n\nSo both moderators and senior members of TVF do keep contacts with official and sources close to the matter to stay abreast. Also connect with local expats. Many of them do have real lives (and may rarely participate on TVF) and they can still show you more practical workarounds.\n\nIn early 2018 I found quite complete information on this webpage of the Thai Embassy in Rome (Italy). Despite mainly intended for an Italian/EU audience, it is written in English and it includes relevant details about:\n\ncountries and territories entitled for visa exemption and visa on arrival to Thailand,\n\nrequired documents for a variety of visas (single and multiple-entry, tourist, business, long-stay, etc.).",
+    "with": [
+      "For example, during a brief period, it was not possible to do a same-day border ",
+      "The current basic visa info (applicable to most G7, G8 and developed nations):",
+      "The problem with official sources like immigration.co.th is that the central off",
+      "required documents for a variety of visas (single and multiple-entry, tourist, b"
+    ],
+    "without": [
+      "Hot Network Questions",
+      "Featured on Meta",
+      "Highest score",
+      "Sorted by:"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "forum"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.typescriptlang.org/docs/",
+  "file_id": "5415",
+  "ground_truth": {
+    "title": "The starting point for learning TypeScript",
+    "author": null,
+    "publish_date": null,
+    "main_content": "TypeScript Documentation\n\nGet Started\n\nQuick introductions based on your background or preference.\n\nHandbook\n\nA great first read for your daily TS work.\n\nReference\n\nDeep dive reference materials.\n\nModules Reference\n\nHow TypeScript models JavaScript modules.\n\nTutorials\n\nUsing TypeScript in several environments.\n\nDeclaration Files\n\nLearn how to write declaration files to describe existing JavaScript. Important for DefinitelyTyped contributions.\n\nJavaScript\n\nHow to use TypeScript-powered JavaScript tooling.\n\nProject Configuration\n\nCompiler configuration reference.\n\nCheat Sheets\n\nDownloadable syntax reference pages for different parts of everyday TypeScript code.\n\nLearning Resources\n\nTools\n\nRelease Notes",
+    "with": [
+      "A great first read for your daily TS work.",
+      "How TypeScript models JavaScript modules.",
+      "Learn how to write declaration files to describe existing JavaScript. Important ",
+      "How to use TypeScript-powered JavaScript tooling."
+    ],
+    "without": [
+      "Skip to main content",
+      "Microsoft Privacy Policy",
+      "TS for the New Programmer"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "documentation"
+  }
+}

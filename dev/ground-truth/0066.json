@@ -1,0 +1,38 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.xfinity.com/learn/digital-cable-tv",
+  "file_id": "0066",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "telecom",
+        "tv-streaming",
+        "landing-page",
+        "xfinity"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Xfinity TV and Streaming",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Xfinity Entertainment\n\nBuild your plan\n\nImagine all the entertainment you want, all in one place. It's easy with Xfinity.\n\nLive TV\n\nDiscover. Watch. Repeat. Explore channels, TV packages, and add-ons with Xfinity TV.\n\nExplore Xfinity TV\n\nStreamStore\n\nAll your favorite streaming services at your fingertips with simplified billing.\n\nVisit StreamStore\n\nSports\n\nAlways know where to watch your favorite teams and leagues.\n\nExplore Sports\n\nAn unmatched viewing experience\n\nAward-winning Xfinity equipment lets you pair Xfinity entertainment with internet and mobile for unbeatable value.\n\nNo one does gameday like Xfinity\n\nLive odds with Xfinity Odds Zone. Full coverage with Xfinity Sports Zone. Watch four games at once with Multiview. All from the best seat in the house — yours.\n\nShop X1\n\nThe most powerful search engine? Your voice. Find that show everyone's talking about across live TV, apps, On Demand, and your DVR library with the Xfinity Voice Remote.\n\nLearn about Voice Remote\n\nWhatever you want, we have it here\n\nTurn any screen into a TV\n\nWatch your favorite movies and shows on any compatible device from anywhere with the Xfinity Stream app.\n\nAll the top apps in one place\n\nXumo Stream Box from Xfinity gives you all the top apps in one place. Just plug it in to your Xfinity TV to start watching.\n\nAdd-on channels\n\nAdd sports packages, premium channels like Max and Paramount Plus, and more to your plan\n\nView add-ons\n\nLatino TV packages\n\nGet your favorite Spanish-language channels and content\n\nView Latino Packages\n\nInternational\n\nWatch your favorite channels from countries across the globe\n\nView International channels\n\nEntertainment deals you'll love",
+    "with": [
+      "Imagine all the entertainment you want, all in one place. It's easy with Xfinity.",
+      "Discover. Watch. Repeat. Explore channels, TV packages, and add-ons with Xfinity TV.",
+      "Live odds with Xfinity Odds Zone. Full coverage with Xfinity Sports Zone. Watch four games at once with Multiview.",
+      "Xumo Stream Box from Xfinity gives you all the top apps in one place. Just plug it in to your Xfinity TV to start watching.",
+      "Watch your favorite channels from countries across the globe"
+    ],
+    "without": [
+      "My Account",
+      "View & Pay Bill",
+      "Loading...",
+      "My Xfinity"
+    ],
+    "main_content_markdown": "# Xfinity Entertainment\n\nBuild your plan\n\nImagine all the entertainment you want, all in one place. It's easy with Xfinity.\n\n## Live TV\n\n## Discover. Watch. Repeat. Explore channels, TV packages, and add-ons with Xfinity TV.\n\nExplore Xfinity TV\n\n## StreamStore\n\n## All your favorite streaming services at your fingertips with simplified billing.\n\nVisit StreamStore\n\n## Sports\n\n## Always know where to watch your favorite teams and leagues.\n\nExplore Sports\n\nAn unmatched viewing experience\n\nAward-winning Xfinity equipment lets you pair Xfinity entertainment with internet and mobile for unbeatable value.\n\nNo one does gameday like Xfinity\n\nLive odds with Xfinity Odds Zone. Full coverage with Xfinity Sports Zone. Watch four games at once with Multiview. All from the best seat in the house — yours.\n\nShop X1\n\nThe most powerful search engine? Your voice. Find that show everyone's talking about across live TV, apps, On Demand, and your DVR library with the Xfinity Voice Remote.\n\nLearn about Voice Remote\n\nWhatever you want, we have it here\n\n## Turn any screen into a TV\n\nWatch your favorite movies and shows on any compatible device from anywhere with the Xfinity Stream app.\n\n## All the top apps in one place\n\n## Xumo Stream Box from Xfinity gives you all the top apps in one place. Just plug it in to your Xfinity TV to start watching.\n\n## Add-on channels\n\n## Add sports packages, premium channels like Max and Paramount Plus, and more to your plan\n\nView add-ons\n\n## Latino TV packages\n\n## Get your favorite Spanish-language channels and content\n\nView Latino Packages\n\n## International\n\n## Watch your favorite channels from countries across the globe\n\nView International channels\n\nEntertainment deals you'll love"
+  }
+}

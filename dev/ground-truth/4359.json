@@ -1,0 +1,27 @@
+{
+  "schema_version": "2.0",
+  "url": "https://4dayweek.io/remote-jobs/software-engineer",
+  "file_id": "4359",
+  "ground_truth": {
+    "title": "Remote 4 Day Work Week Software Engineer Jobs",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Find your next role at the #1 job board for jobs with a shorter work week e.g. 4 day week at full pay.\n\n3 days ago\n\n5 days ago\n\n4 x 8hr days\nC$ 115k - 145k\nRemote, Canada only\nOffers relocation\n\n1 week ago\n\n4 x 8hr days\nC$ 100k - 125k\nRemote, Canada only\nOffers relocation\n\n1 week ago\n\n1 week ago\n\n1 week ago\n\nWould you like a 4 day work week?\n\n3 weeks ago\n\n1 month ago\n\n1 month ago\n\n1 month ago\n\nWould you like a 4 day work week?",
+    "with": [
+      "Find your next role at the #1 job board for jobs with a shorter work week e.g. 4"
+    ],
+    "without": [
+      "Pros and Cons"
+    ],
+    "main_content_markdown": "## Find your next role at the #1 job board for jobs with a shorter work week e.g. 4 day week at full pay.\n\n3 days ago\n\n5 days ago\n\n4 x 8hr days\nC$ 115k - 145k\n[Remote, Canada only](https://4dayweek.io/jobs/canada)\nOffers relocation\n\n1 week ago\n\n4 x 8hr days\nC$ 100k - 125k\n[Remote, Canada only](https://4dayweek.io/jobs/canada)\nOffers relocation\n\n1 week ago\n\n1 week ago\n\n1 week ago\n\n## Would you like a 4 day work week?\n\n3 weeks ago\n\n1 month ago\n\n1 month ago\n\n1 month ago\n\n## Would you like a 4 day work week?"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

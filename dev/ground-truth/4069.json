@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.fleetfeet.com/browse/gps-watches?srsltid=AfmBOoq3lW3ojpLDwy5FGqV_rUERFKaR5XLgmSH1GqjowCvcIZs1wSz7",
+  "file_id": "4069",
+  "ground_truth": {
+    "title": "GPS Watches",
+    "author": null,
+    "publish_date": null,
+    "main_content": "GPS Watches\n\nWant to know how far you ran or walked? Get a GPS running watch.\n\nThese fitness watches can give you answers to all of your different distance and performance questions. They use a variety of satellites to give you the distance, time and pace of your run. This way you can know exactly how much time those hills added to your run.\n\nFree Shipping & Returns\n\nNot sure about buying a new GPS running watch? Don't sweat it. Get free shipping on orders over $99 when you shop on fleetfeet.com.\n\nIf you don't like how your new watch looks, fits or feels, we'll take it back within 30 days. That's our Happy Fit Guarantee.",
+    "with": [
+      "Want to know how far you ran or walked? Get a GPS running watch.",
+      "They use a variety of satellites to give you the distance, time and pace of your run.",
+      "Not sure about buying a new GPS running watch? Don't sweat it. Get free shipping on orders over $99",
+      "we'll take it back within 30 days. That's our Happy Fit Guarantee."
+    ],
+    "without": [
+      "Sports Bras",
+      "Top Sellers",
+      "Shoes for Work",
+      "HomeAll ProductsGPS Watches + Heart Rate Monitors",
+      "Filter Products Menu"
+    ],
+    "main_content_markdown": "# GPS Watches\n\nWant to know how far you ran or walked? Get a GPS running watch.\n\nThese fitness watches can give you answers to all of your different distance and performance questions. They use a variety of satellites to give you the distance, time and pace of your run. This way you can know exactly how much time those hills added to your run.\n\n## Free Shipping & Returns\n\nNot sure about buying a new GPS running watch? Don't sweat it. Get free shipping on orders over $99 when you shop on fleetfeet.com.\n\nIf you don't like how your new watch looks, fits or feels, we'll take it back within 30 days. That's our [Happy Fit Guarantee](https://www.fleetfeet.com/returns)."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  }
+}

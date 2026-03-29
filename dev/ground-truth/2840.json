@@ -1,0 +1,25 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.notion.so/product",
+  "file_id": "2840",
+  "ground_truth": {
+    "title": "The AI workspace that works for you.",
+    "author": null,
+    "publish_date": null,
+    "main_content": "",
+    "with": [],
+    "without": []
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    },
+    "spa": true
+  }
+}

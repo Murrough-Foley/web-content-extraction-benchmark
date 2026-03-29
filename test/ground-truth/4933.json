@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.cjbpest.com/areas-served/wayne-county/romulus-mi-pest-control",
+  "file_id": "4933",
+  "ground_truth": {
+    "title": "Romulus, Michigan Pest Control",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Pest problems of any kind are enough to send any home or business owner into panic mode. At CJB Pest and Mosquito Control, our team values expertise and trust makes us the right choice for your Romulus, MI pest control needs. Our full portfolio of services includes everything from mosquito spraying to wildlife removal & control, ensuring our team has you covered.\n\nRomulus, MI Exterminator\n\nFinding out that pests have invaded your home or business can be incredibly distressing. That's why, at CJB Pest and Mosquito Control, we not only understand the importance of protecting your property but also the safety and well-being of all those inside it. This is why we are genuinely proud to be the premier exterminator in Romulus, Michigan.\n\nRomulus, MI Pest Control Company\n\nChoosing the wrong provider for your pest control can leave you feeling short-changed. Offering dedicated care and dependable service, CJB Pest and Mosquito Control provides outstanding results to our clients.Utilizing the highest quality solutions and our unmatched expertise, our professionals are equipped to protect your home and business against a multitude of different pests, including:\n\nAnts\n\nSpringtails\n\nClover Mites\n\nFleas\n\nStinging Insects\n\nBed Bugs\n\nRoaches\n\nBoxelders\n\nStink Bugs\n\nGeneral Crawling Insects\n\nAnd More\n\nRomulus, Michigan Mosquito Control\n\nAre you looking for a high level of professional care for your mosquito spraying needs? CJB Pest and Mosquito Control provides the expert touch you need, combined with quality service, to provide outstanding treatment options to all of our clients. Our mosquito spraying services provide the help and support you need, right when you need it most.\n\nWildlife Removal & Control In Romulus, Michigan\n\nWhen it comes to wildlife removal & control, you need and deserve proper care and solutions from the start. Since we value a positive client experience, our team is focused on delivering both the right solutions and the quality care that make for a great relationship. CJB Pest and Mosquito Control is your premiere choice for wildlife removal & control solutions.\n\nRodent Removal & Control\n\nWhen it comes to rodent removal and control, we'll inspect your property, looking for signs of activity and entry points, before customizing a program to help rid these unwanted pests and ensure they do not come back.\n\nThere are a host of benefits when you choose CJB Pest and Mosquito Control, including:\n\nHighly-trained technicians\n\nIndustry-leading treatments\n\nDecades of experience\n\nTop-grade equipment\n\nAnd More\n\nIt’s important to ensure straightforward and effective solutions when looking for a pest control service provider. CJB Pest and Mosquito Control is your solution for all your Romulus, MI pest control needs. Contact us today to learn more!",
+    "with": [
+      "Finding out that pests have invaded your home or business can be incredibly dist",
+      "Are you looking for a high level of professional care for your mosquito spraying",
+      "When it comes to rodent removal and control, we'll inspect your property, lookin",
+      "There are a host of benefits when you choose CJB Pest and Mosquito Control, incl"
+    ],
+    "without": [
+      "Gutter Cleaning",
+      "Commercial Pest Control",
+      "Maintenance Program",
+      "Michigan Exterminator"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "service"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://vuejs.org/api/composition-api-setup",
+  "file_id": "5382",
+  "ground_truth": {
+    "title": "Composition API: setup()",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Composition API: setup()\n\nBasic Usage\n\nThe setup() hook serves as the entry point for Composition API usage in components in the following cases:\nUsing Composition API without a build step;\nIntegrating with Composition-API-based code in an Options API component.\n\nNote\n\nIf you are using Composition API with Single-File Components, <script setup> is strongly recommended for a more succinct and ergonomic syntax.\n\nWe can declare reactive state using Reactivity APIs and expose them to the template by returning an object from setup(). The properties on the returned object will also be made available on the component instance (if other options are used):\n\nvue < script >\nimport { ref } from 'vue'\n\nexport default {\nsetup () {\nconst count = ref ( 0 )\n\n// expose to template and other options API hooks\nreturn {\ncount\n}\n},\n\nmounted () {\nconsole. log ( this.count) // 0\n}\n}\n</ script >\n\n< template >\n< button @click = \"count++\" >{{ count }}</ button >\n</ template >\n\nrefs returned from setup are automatically shallow unwrapped when accessed in the template so you do not need to use.value when accessing them. They are also unwrapped in the same way when accessed on this.\n\nsetup() itself does not have access to the component instance - this will have a value of undefined inside setup(). You can access Composition-API-exposed values from Options API, but not the other way around.\n\nsetup() should return an object synchronously. The only case when async setup() can be used is when the component is a descendant of a Suspense component.\n\nAccessing Props\n\nThe first argument in the setup function is the props argument. Just as you would expect in a standard component, props inside of a setup function are reactive and will be updated when new props are passed in.\n\njs export default {\nprops: {\ntitle: String\n},\nsetup ( props ) {\nconsole. log (props.title)\n}\n}\n\nNote that if you destructure the props object, the destructured variables will lose reactivity. It is therefore recommended to always access props in the form of props.xxx.\n\nIf you really need to destructure the props, or need to pass a prop into an external function while retaining reactivity, you can do so with the toRefs() and toRef() utility APIs:\n\njs import { toRefs, toRef } from 'vue'\n\nexport default {\nsetup ( props ) {\n// turn `props` into an object of refs, then destructure\nconst { title } = toRefs (props)\n// `title` is a ref that tracks `props.title`\nconsole. log (title.value)\n\n// OR, turn a single property on `props` into a ref\nconst title = toRef (props, 'title' )\n}\n}\n\nSetup Context\n\nThe second argument passed to the setup function is a Setup Context object. The context object exposes other values that may be useful inside setup:\n\njs export default {\nsetup ( props, context ) {\n// Attributes (Non-reactive object, equivalent to $attrs)\nconsole. log (context.attrs)\n\n// Slots (Non-reactive object, equivalent to $slots)\nconsole. log (context.slots)\n\n// Emit events (Function, equivalent to $emit)\nconsole. log (context.emit)\n\n// Expose public properties (Function)\nconsole. log (context.expose)\n}\n}\n\nThe context object is not reactive and can be safely destructured:\n\njs export default {\nsetup ( props, { attrs, slots, emit, expose }) {\n...\n}\n}\n\nattrs and slots are stateful objects that are always updated when the component itself is updated. This means you should avoid destructuring them and always reference properties as attrs.x or slots.x. Also note that, unlike props, the properties of attrs and slots are not reactive. If you intend to apply side effects based on changes to attrs or slots, you should do so inside an onBeforeUpdate lifecycle hook.\n\nExposing Public Properties\n\nexpose is a function that can be used to explicitly limit the properties exposed when the component instance is accessed by a parent component via template refs:\n\njs export default {\nsetup ( props, { expose }) {\n// make the instance \"closed\" -\n// i.e. do not expose anything to the parent\nexpose ()\n\nconst publicCount = ref ( 0 )\nconst privateCount = ref ( 0 )\n// selectively expose local state\nexpose ({ count: publicCount })\n}\n}\n\nUsage with Render Functions\n\nsetup can also return a render function which can directly make use of the reactive state declared in the same scope:\n\njs import { h, ref } from 'vue'\n\nexport default {\nsetup () {\nconst count = ref ( 0 )\nreturn () => h ( 'div', count.value)\n}\n}\n\nReturning a render function prevents us from returning anything else. Internally that shouldn't be a problem, but it can be problematic if we want to expose methods of this component to the parent component via template refs.\n\nWe can solve this problem by calling expose():\n\njs import { h, ref } from 'vue'\n\nexport default {\nsetup ( props, { expose }) {\nconst count = ref ( 0 )\nconst increment = () => ++ count.value\n\nexpose ({\nincrement\n})\n\nreturn () => h ( 'div', count.value)\n}\n}\n\nThe increment method would then be available in the parent component via a template ref.",
+    "with": [
+      "Using Composition API without a build step;",
+      "setup() should return an object synchronously. The only case when async setup() ",
+      "// Emit events (Function, equivalent to $emit)",
+      "We can solve this problem by calling expose():"
+    ],
+    "without": [
+      "Quick Start",
+      "Application",
+      "Reactivity: Core",
+      "Reactivity: Utilities"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "documentation"
+  }
+}

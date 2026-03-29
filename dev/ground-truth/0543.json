@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://forum.corsair.com/forums/topic/188682-new-2500x-pc-case/",
+  "file_id": "0543",
+  "ground_truth": {
+    "title": "New 2500X PC Case",
+    "author": "Rabbids",
+    "publish_date": "2024-03-19",
+    "main_content": "Rabbids\nPosted March 19, 2024\n\nNot sure if this is the right place for this question/discussion but does anyone know what these two things are for? The manual says nothing about them but they both look very intentional and with a specific purpose. One is on the outside, right below where the PSU is, and the other one is on the inside bottom panel of the case, where you would mount the bottom intake fans. Thanks!\n\nDevBiker\nPosted March 19, 2024\n\nI've heard a rumor (on reddit, from one of the Corsair mods) the rear one is for some kind of external connection for Link devices.\n\nNot sure about the one on the bottom with the fans.",
+    "with": [
+      "does anyone know what these two things are for",
+      "The manual says nothing about them but they both look very intentional and with a specific purpose",
+      "One is on the outside, right below where the PSU is",
+      "the other one is on the inside bottom panel of the case, where you would mount the bottom intake fans",
+      "I've heard a rumor (on reddit, from one of the Corsair mods) the rear one is for some kind of external connection for Link devices",
+      "Not sure about the one on the bottom with the fans"
+    ],
+    "without": [
+      "Jump to content",
+      "Notice: Forums Closed",
+      "Corsair Community",
+      "More sharing options..."
+    ],
+    "main_content_markdown": "Rabbids\nPosted March 19, 2024\n\nNot sure if this is the right place for this question/discussion but does anyone know what these two things are for? The manual says nothing about them but they both look very intentional and with a specific purpose. One is on the outside, right below where the PSU is, and the other one is on the inside bottom panel of the case, where you would mount the bottom intake fans. Thanks!\n\nDevBiker\nPosted March 19, 2024\n\nI've heard a rumor (on reddit, from one of the Corsair mods) the rear one is for some kind of external connection for Link devices.\n\nNot sure about the one on the bottom with the fans."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": []
+    }
+  }
+}

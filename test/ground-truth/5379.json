@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "url": "https://v1.tailwindcss.com/",
+  "file_id": "5379",
+  "ground_truth": {
+    "title": "Tailwind CSS",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Most CSS frameworks do too much.\n\nUtility-first\n\nThey come with all sorts of predesigned components like buttons, cards, and alerts that might help you move quickly at first, but cause more pain than they cure when it comes time to make your site stand out with a custom design.\n\nTailwind is different.\n\nInstead of opinionated predesigned components, Tailwind provides low-level utility classes that let you build completely custom designs without ever leaving your HTML.\n\nMarketing\nFinding customers for your new business\n\nGetting a new business off the ground is a lot of hard work. Here are five ideas you can use to find your first customers.\n\n< div class = \" md:flex \" >\n< div class = \" md:flex-shrink-0 \" >\n< img class = \" rounded-lg md:w-56 \" src = \" https://images.unsplash.com/photo-1556740738-b6a63e27c4df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=448&q=80 \" alt = \" Woman paying for a purchase \" >\n</ div >\n< div class = \" mt-4 md:mt-0 md:ml-6 \" >\n< div class = \" uppercase tracking-wide text-sm text-indigo-600 font-bold \" > Marketing </ div >\n< a href = \" # \" class = \" block mt-1 text-lg leading-tight font-semibold text-gray-900 hover:underline \" > Finding customers for your new business </ a >\n< p class = \" mt-2 text-gray-600 \" > Getting a new business off the ground is a lot of hard work. Here are five ideas you can use to find your first customers. </ p >\n</ div >\n</ div >\n\nIf you're sick of fighting the framework, overriding unwanted styles, and battling specificity wars, Tailwind was made for you.\n\nLearn more about Tailwind's utility-first workflow →\n\nResponsive to the core\n\nEvery Tailwind utility also comes with responsive variants, making it extremely easy to build responsive interfaces without resorting to custom CSS.\n\nTailwind uses an intuitive {screen}: prefix that makes it easy to notice responsive classes in your markup while keeping the original class name recognizable and intact.\n\n<div class=\" justify-start sm:justify-center md:justify-end lg:justify-between xl:justify-around \"></div>\n\n1\n\n2\n\n3\n\nLearn more about responsive design with Tailwind →\n\nComponent-friendly\n\nWhile you can do a lot with just utility classes, as a project grows it can be useful to codify common patterns into higher level abstractions.\n\nTailwind provides tools for extracting component classes from repeated utility patterns, making it easy to update multiple instances of a component from one place:\n\n< button class = \" bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded \" >\nButton\n</ button >\n\n< button class = \" btn btn-blue \" >\nButton\n</ button >\n\n< style >\n.btn {\n@apply font-bold py-2 px-4 rounded;\n}\n.btn-blue {\n@apply bg- blue -500 text- white;\n}\n.btn-blue:hover {\n@apply bg- blue -600;\n}\n</ style >\n\nLearn more about extracting components with Tailwind →\n\nDesigned to be customized\n\nIf it makes sense to be customizable, Tailwind lets you customize it. This includes colors, border sizes, font weights, spacing utilities, breakpoints, shadows, and tons more.\n\nTailwind is written in PostCSS and configured in JavaScript, which means you have the full power of a real programming language at your fingertips.\n\nTailwind is more than a CSS framework, it's an engine for creating design systems.\nmodule. exports = {\ntheme: {\nscreens: {\ntablet: '768px',\ndesktop: '1024px',\n},\ncolors: {\nprimary: {\n100: '#ebf8ff',\n300: '#90cdf4',\n500: '#4299e1',\n700: '#2b6cb0',\n900: '#2a4365',\n},\nsecondary: {\n100: '#fffff0',\n300: '#faf089',\n500: '#ecc94b',\n700: '#b7791f',\n900: '#744210',\n},\n},\nextend: {\nboxShadow: {\nhuge: '0 30px 60px -15px rgba(0, 0, 0,.25)'\n}\n}\n}\n}\n\nLearn more about customizing Tailwind →",
+    "with": [
+      "Instead of opinionated predesigned components, Tailwind provides low-level utili",
+      "If you're sick of fighting the framework, overriding unwanted styles, and battli",
+      "Tailwind provides tools for extracting component classes from repeated utility p",
+      "Tailwind is more than a CSS framework, it's an engine for creating design system"
+    ],
+    "without": [
+      "Documentation",
+      "Screencasts"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "documentation"
+  }
+}

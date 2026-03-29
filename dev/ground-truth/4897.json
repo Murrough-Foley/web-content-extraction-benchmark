@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://resumeandcareerservices.com/product/professional-resume-writing-service/",
+  "file_id": "4897",
+  "ground_truth": {
+    "title": "Professional Resume Writing Service",
+    "author": null,
+    "publish_date": "2022-10-28",
+    "main_content": "$399.00\n\nOoops… This content is reserved for members only.\n\nWe’re so glad you’ve stumbled across Resume and Career Services. If you’re a job seeker, you’re probably looking for some quality information to help on your search—and we’d love to help!\n\nOur Career Advancement Program walks you through everything you need to know to secure multiple offers in your job search. We start with creating your career goal, help you develop your personal brand on your resume and LinkedIn, walk you through how to effectively network, and hone your interview skills so you can secure the offer.\n\nInterested in joining us? Click below to learn more and sign up!",
+    "with": [
+      "Ooops… This content is reserved for members only.",
+      "Our Career Advancement Program walks you through everything you need to know to ",
+      "Interested in joining us? Click below to learn more and sign up!"
+    ],
+    "without": [
+      "What to Expect",
+      "Career Insights",
+      "Outplacement Services",
+      "Privacy Policy"
+    ],
+    "main_content_markdown": "$399.00\n\n#### Ooops… This content is reserved for members only.\n\nWe’re so glad you’ve stumbled across Resume and Career Services. If you’re a job seeker, you’re probably looking for some quality information to help on your search—and we’d love to help!\n\nOur Career Advancement Program walks you through everything you need to know to secure multiple offers in your job search. We start with creating your career goal, help you develop your personal brand on your resume and LinkedIn, walk you through how to effectively network, and hone your interview skills so you can secure the offer.\n\nInterested in joining us? Click below to learn more and sign up!"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "service"
+  }
+}

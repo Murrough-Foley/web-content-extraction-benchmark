@@ -1,0 +1,28 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.thomann.de/gb/microphones.html",
+  "file_id": "3008",
+  "ground_truth": {
+    "title": "Microphones",
+    "author": null,
+    "publish_date": null,
+    "main_content": "",
+    "with": [],
+    "without": [
+      "Repair Service",
+      "Payment Security",
+      "Signal Proc."
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "web-sourced"
+      ]
+    },
+    "spa": true
+  }
+}

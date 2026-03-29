@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.artistsandfleas.com/",
+  "file_id": "4848",
+  "ground_truth": {
+    "title": "Maker Markets with Unique Art, Jewelry, and Handmade Goods",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Make Artists & Fleas your home this Spring. Join our community and apply today!\n\nLocal, Curated, Intentional.\n\nSince our founding in 2003, our guiding belief has remained the same: to give merchants a platform to turn their personal craft into a business, and to give shoppers the thrill of discovering something original and truly meaningful.\n\nHello Returning MerchantHave you applied and been approved to sell with Artists & Fleas in the last year?\n\nWilliamsburg\n\nBrooklyn\n\nSetting up shop at our flagship Williamsburg location means spending the weekend connecting with established creatives and young tastemakers alike who flock to North Brooklyn to discover the latest in art, design and fashion.\n\nGet In Touch\n brooklyn@artistsandfleas.com\n\nAmenities Indoors with heat, AC, electricity and WiFi\n\nBooking Periods Saturday-Sunday \nStarting April, Friday - Sunday\n\nSpace Sizes 50 sq ft\n\nChelsea\n\nNYC\n\nSituated under the Highline, one of New York City’s most visited tourist attractions, our Chelsea Market location captures the hustle and bustle of Chelsea’s most colorful marketplace. Visitors from all over the world see memories and experiences in the goods they take home with them.\n\nIf you’ve always wanted to sell at our Chelsea Market location, now’s the time to dive in. Week-long bookings, Hudson River views, Highline action and the fabulous food that makes Chelsea Market a legendary NYC icon like no other. Get in the mix for this special opportunity—apply today!\n\nGet In Touch\n chelsea@artistsandfleas.com\n\nAmenities Indoors with heat, AC, electricity and WiFi\n\nBooking Periods Monday-Sunday\n\nSpace Sizes 50 sq ft",
+    "with": [
+      "Make Artists & Fleas your home this Spring. Join our community and apply today!",
+      "Amenities Indoors with heat, AC, electricity and WiFi\n\nBooking Periods Saturday-Sunday \nStarting April, Friday - Sunday\n\nSpace Sizes 50 sq ft",
+      "Amenities Indoors with heat, AC, electricity and WiFi\n\nBooking Periods Monday-Sunday\n\nSpace Sizes 50 sq ft"
+    ],
+    "without": [
+      "Williamsburg Brooklyn",
+      "WilliamsburgBrooklyn",
+      "Partnerships",
+      "Merchant FAQs"
+    ],
+    "main_content_markdown": "**Make Artists & Fleas your home this Spring. Join our community and [apply today!](https://www.artistsandfleas.com/sell-with-us/apply)**\n\n# Local, Curated, Intentional.\n\nSince our founding in 2003, our guiding belief has remained the same: to give merchants a platform to turn their personal craft into a business, and to give shoppers the thrill of discovering something original and truly meaningful.\n\nHello Returning MerchantHave you applied and been approved to sell with Artists & Fleas in the last year?\n\n### Williamsburg\n\nBrooklyn\n\nSetting up shop at our flagship Williamsburg location means spending the weekend connecting with established creatives and young tastemakers alike who flock to North Brooklyn to discover the latest in art, design and fashion.\n\nGet In Touch\n brooklyn@artistsandfleas.com\n\nAmenities Indoors with heat, AC, electricity and WiFi\n\nBooking Periods Saturday-Sunday \nStarting April, Friday - Sunday\n\nSpace Sizes 50 sq ft\n\n### Chelsea\n\nNYC\n\nSituated under the Highline, one of New York City’s most visited tourist attractions, our Chelsea Market location captures the hustle and bustle of Chelsea’s most colorful marketplace. Visitors from all over the world see memories and experiences in the goods they take home with them.\n\nIf you’ve always wanted to sell at our Chelsea Market location, now’s the time to dive in. Week-long bookings, Hudson River views, Highline action and the fabulous food that makes Chelsea Market a legendary NYC icon like no other. Get in the mix for this special opportunity—apply today!\n\nGet In Touch\n chelsea@artistsandfleas.com\n\nAmenities Indoors with heat, AC, electricity and WiFi\n\nBooking Periods Monday-Sunday\n\nSpace Sizes 50 sq ft"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  }
+}

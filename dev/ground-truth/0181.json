@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.redfishtech.com/machine-learning-recruiting/",
+  "file_id": "0181",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "recruiting",
+        "machine-learning",
+        "executive-search",
+        "technology"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Machine Learning Recruiters and Executive Search",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Your Machine Learning and AI Recruitment Specialists\n\nWe're no strangers to emerging technology at Redfish. Today, machine learning and artificial intelligence experts are crucial talent for countless industries: financial trend forecasting, manufacturing management, health research, transportation development--and we're just getting started. These tools give an organization the ability to bring order to a large amount of data, find a pattern in that information, and turn it into a prediction model for the future, improving both the end user experience and business outcomes.\n\nWhy Should You Partner with Redfish?\n\nWhile a plethora of industries use machine learning algorithms, many leaders don't even know what acronyms like NLP mean, much less how to leverage that technology for their business. It's hard to set job requirements that will attract the right person if you don't even know what background and type of skills to look for during the interview process. That's where Redfish's machine learning recruitment professionals can make an impact. We understand the data science world and can spot top talent well-versed in selecting data sets that make sense for your industry, who know how to train an algorithm, avoid overfitting and underfitting to maximize its accuracy, control for bias, and develop a comprehensive AI strategy that will deliver results.\n\nThe Redfish Recruitment Process\n\nOur team is proud to leverage the diverse creativity of the Redfish network to unlock the future. Our candidates have a passion for technology, along with expertise in statistics, data analysis, data models, and other skills crucial for success in data scientist jobs. Most importantly, we take a hands-on approach to understanding the employer's needs and preferences, using these in-depth candidate profiles as the basis of our selection process. In short, we ensure the candidate is a good fit before we send them along for an interview. As industry demands evolve at the speed of light, our dedicated ML and AI recruiters help you tackle trends and anticipate what lies ahead.\n\nRecruit with Redfish\n\nRedfish Technology lives at the intersection of creativity, resourcefulness, and innovation. Founded in 1996, our unique expertise in machine learning recruiting has helped grow businesses from coast to coast, with deep roots in the country's biggest tech hubs. Are you ready to take your company to the next level?",
+    "with": [
+      "We're no strangers to emerging technology at Redfish.",
+      "We understand the data science world and can spot top talent well-versed in selecting data sets that make sense for your industry",
+      "Our candidates have a passion for technology, along with expertise in statistics, data analysis, data models, and other skills crucial for success in data scientist jobs.",
+      "Redfish Technology lives at the intersection of creativity, resourcefulness, and innovation."
+    ],
+    "without": [
+      "Privacy Policy",
+      "Download My Machine Learning Salary Guide",
+      "Join the many companies that have recruited roles with Redfish Technology",
+      "Partner with Redfish Technology"
+    ],
+    "main_content_markdown": "## Your Machine Learning and AI Recruitment Specialists\n\nWe're no strangers to emerging technology at Redfish. Today, machine learning and artificial intelligence experts are crucial talent for countless industries: financial trend forecasting, manufacturing management, health research, transportation development--and we're just getting started. These tools give an organization the ability to bring order to a large amount of data, find a pattern in that information, and turn it into a prediction model for the future, improving both the end user experience and business outcomes.\n\n## Why Should You Partner with Redfish?\n\nWhile a plethora of industries use machine learning algorithms, many leaders don't even know what acronyms like NLP mean, much less how to leverage that technology for their business. It's hard to set job requirements that will attract the right person if you don't even know what background and type of skills to look for during the interview process. That's where Redfish's machine learning recruitment professionals can make an impact. We understand the data science world and can spot top talent well-versed in selecting data sets that make sense for your industry, who know how to train an algorithm, avoid overfitting and underfitting to maximize its accuracy, control for bias, and develop a comprehensive AI strategy that will deliver results.\n\n## The Redfish Recruitment Process\n\nOur team is proud to leverage the diverse creativity of the Redfish network to unlock the future. Our candidates have a passion for technology, along with expertise in statistics, data analysis, data models, and other skills crucial for success in data scientist jobs. Most importantly, we take a hands-on approach to understanding the employer's needs and preferences, using these in-depth candidate profiles as the basis of our selection process. In short, we ensure the candidate is a good fit before we send them along for an interview. As industry demands evolve at the speed of light, our dedicated ML and AI recruiters help you tackle trends and anticipate what lies ahead.\n\n## Recruit with Redfish\n\nRedfish Technology lives at the intersection of creativity, resourcefulness, and innovation. Founded in 1996, our unique expertise in machine learning recruiting has helped grow businesses from coast to coast, with deep roots in the country's biggest tech hubs. Are you ready to take your company to the next level?"
+  }
+}

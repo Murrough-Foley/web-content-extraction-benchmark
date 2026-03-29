@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.brooklinen.com/collections/all-sheets",
+  "file_id": "0634",
+  "ground_truth": {
+    "title": "All Sheets",
+    "author": null,
+    "publish_date": null,
+    "main_content": "A sheet fabric for every kind of sleeper. Shop award-winning sheets for your best sleep.\n\nSheets for Your Sleep Sanctuary\n\nThe makings of your ideal sleep space start with intention. Create a bed that is beautiful and sets a new standard for softness with the most comfortable bed sheets. Our range of color and fabric options means you can customize your coziest spaces to look and feel like home. We've created the most comfortable bed sheets, so your sleep routine becomes something worth looking forward to. Shift your approach to bedtime by prioritizing the ways in which you approach the bedroom—this space is just as important as those you use to entertain, work, and play. The right sheets allow you to elevate your relaxation and create a thoughtful (and crucial) part of your routine to support your best waking moments. When you invest in the best bed sheets, bedtime becomes more than a necessity; it becomes an indulgence to round out all your wellness practices. There are big benefits when it comes to getting your bedding just right.\n\nNot Just Any Bedding:\n\n- Fall asleep faster and stay asleep longer with sheets made for every kind of sleeper and space.\n- Our high-quality materials make for a lasting investment in your sleep space.\n- The right fabric means you can have a bed that fits your climate and desired room temperature.\n- Color options allow you to design a room that's uniquely you and refresh for seasons or changing design tastes.\n- Good sleep is a game changer for your mood and overall health, so creating a space that makes bedtime well-spent is always worth it.",
+    "with": [
+      "A sheet fabric for every kind of sleeper.",
+      "The makings of your ideal sleep space start with intention.",
+      "Create a bed that is beautiful and sets a new standard for softness with the most comfortable bed sheets.",
+      "Our range of color and fabric options means you can customize your coziest spaces to look and feel like home.",
+      "Shift your approach to bedtime by prioritizing the ways in which you approach the bedroom—this space is just as important as those you use to entertain, work, and play."
+    ],
+    "without": [
+      "Add to Cart",
+      "Luxe Sateen",
+      "Classic Percale",
+      "Comforters"
+    ],
+    "main_content_markdown": "A sheet fabric for every kind of sleeper. Shop award-winning sheets for your best sleep.\n\n#### Sheets for Your Sleep Sanctuary\n\nThe makings of your ideal sleep space start with intention. Create a bed that is beautiful and sets a new standard for softness with the most comfortable bed sheets. Our range of color and fabric options means you can customize your coziest spaces to look and feel like home. We've created the most comfortable bed sheets, so your sleep routine becomes something worth looking forward to. Shift your approach to bedtime by prioritizing the ways in which you approach the bedroom-this space is just as important as those you use to entertain, work, and play. The right sheets allow you to elevate your relaxation and create a thoughtful (and crucial) part of your routine to support your best waking moments. When you invest in the best bed sheets, bedtime becomes more than a necessity; it becomes an indulgence to round out all your wellness practices. There are big benefits when it comes to getting your bedding just right.\n\nNot Just Any Bedding:\n\n- Fall asleep faster and stay asleep longer with sheets made for every kind of sleeper and space.\n- Our high-quality materials make for a lasting investment in your sleep space.\n- The right fabric means you can have a bed that fits your climate and desired room temperature.\n- Color options allow you to design a room that's uniquely you and refresh for seasons or changing design tastes.\n- Good sleep is a game changer for your mood and overall health, so creating a space that makes bedtime well-spent is always worth it."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": []
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.containerstore.com/s/office/1",
+  "file_id": "4335",
+  "ground_truth": {
+    "title": "Office Organizers",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Although the world is becoming more digital and relying less on paper every day, it hasn't diminished the importance of an organized and tidy office space. The Container Store's assortment of home office storage solutions can help clear your workspace (as well as your mind), boosting your productivity and creating a more multifunctional space. Our comprehensive range of office bestsellers includes:\n- Desktop organizers available in elegant finishes such as wood, acrylic, and stainless steel.\n- Filing cabinets and paper storage totes to keep your documents from getting out of control.\n- Drawer organizers that help keep all of your office supplies tidy.\n- Adhesive labels that allow you to customize your home storage systems.\n- Cord control and tech accessories that prevent your device's cables from becoming a tangled mess.\n- Message and bulletin boards for posting notes or favorite photos.\n- Notebooks, planners and calendars for maintaining an organized schedule.\n- Craft and hobby storage containers for organizing everything from sewing needles to scrapbooking supplies.\n- Rolling storage carts that allow you to create easily customizable mobile storage units.\n- Desks and office chairs that provide a more comfortable working experience.\n- Trash cans for your paper waste.\nWe can also create a custom office storage solution for you using our Elfa or Preston product lines.\n\nHow can I choose the right organization products for my home office or workspace?\n\nConsider the size of your workspace, the type of work you do, and what items you need to have within reach. Our product descriptions offer insights into how each item can be used, and our customer service team is always ready to help you make the perfect choice for your needs.\n\nDo you offer solutions for small workspaces?\n\nAbsolutely! We specialize in space-saving solutions like modular desks, stackable storage, and wall-mounted organizers that are perfect for small offices or home workspaces. You can maximize your space without sacrificing functionality.\n\nAre there customizable office organization options available?\n\nYes, we offer customizable solutions such as adjustable shelving, desks, and components that can be combined to fit your specific workspace and organizational needs. This allows you to create a setup that's tailor-made for your space and workflow. Click here to schedule a free custom design consultation!\n\nWhat are some basic DIY office organization and productivity tips?\n- Wherever possible, declutter and go paperless to prevent messiness and waste.\n- Choose a comfortable, ergonomic office chair suitable for long hours of sitting.\n- Consider the location and style of your office when selecting the right storage system. For example, if your office space is in your living room, you may want to choose storage options that coordinate with the rest of your home decor.\n- Place your device chargers and other tech items in an easily accessible area where the cords are contained and clearly labeled.\n- For long-term paper storage—especially tax time storage—choose a portable plastic storage box or caddy that can be hauled from your closet to your workspace with ease.\n- Seek out underutilized areas with a lot of storage potential find a way to use it wisely. For instance, adding an overdoor storage rack to the back of a door or a small shelving unit to an empty corner greatly increases your space's storage possibilities.\n- Be sure to keep a water bottle nearby to stay hydrated throughout the day.\n\nHow do I maintain and clean my office organization products?\n\nMost storage products can be easily cleaned with a soft, damp cloth. For specific materials or products, maintenance instructions are provided on our website or can be obtained from our customer service. Regular cleaning and maintenance will keep your office organization solutions looking great for years to come.\n\nWhat is The Container Store's return policy on office organization products?\n\nYour satisfaction is our priority. If you're not happy with your purchase, please review our return policy detailed on our website, or contact our customer service team for assistance. Returns are accepted within a certain timeframe, with terms varying by product.\n\nDo office organization products come with a warranty?\n\nMany of our office organization products come with a manufacturer's warranty. Warranty details, including duration and coverage, vary by product and are available on our product information pages or by contacting customer service.\n\nCheck out our Projects & Inspiration page for even more office organization ideas!",
+    "with": [
+      "available in elegant finishes such as wood, acrylic, and stainless steel.",
+      "We can also create a custom office storage solution for you using our Elfa or Preston product lines.",
+      "Place your device chargers and other tech items in an easily accessible area where the cords are contained and clearly labeled.",
+      "Many of our office organization products come with a manufacturer's warranty."
+    ],
+    "without": [
+      "Elfa Closet Designer",
+      "Customer Photos",
+      "Containers Stories Blog",
+      "Sign In"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "collection"
+  }
+}

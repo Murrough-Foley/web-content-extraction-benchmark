@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.veros.com/housing-market-predictions-for-2026",
+  "file_id": "4132",
+  "ground_truth": {
+    "title": "Housing Market Predictions for 2026",
+    "author": "Matthew Bozorgi",
+    "publish_date": "2025-12-30",
+    "main_content": "As 2025 draws to a close, the outlook for the 2026 housing market is coming into focus. In the eighth episode of RiskWire: On the House, Veros' economists provide their predictions, covering everything from affordability and mortgage rates to the impact of population shifts.\n\nHere are the key takeaways from the episode:\n\n- If you are waiting for pre-pandemic pricing, you may be disappointed. Since 2020, home prices have surged by approximately 50%, while incomes have only climbed 29%. This widening gap ensures that affordability will remain a primary challenge for buyers throughout 2026.\n- Despite potential Federal Reserve cuts, Veros' economists predict mortgage rates will hover around 6.2% in 2026. While this is a slight improvement from the 6.6% average seen in 2025, it remains significantly higher than the lows of previous years.\n\nThe 2026 market will be defined by geographic divergence rather than a single national trend:\n\n- The Winners: The Northeast and Midwest (e.g., New York and Connecticut) are expected to see strong demand and rising prices.\n- The Losers: The Sunbelt and West (e.g., Austin and Tampa) are weakening as they grapple with oversupply and rising secondary costs.\n\nWant the complete breakdown of what to expect in 2026? Watch the full episode of RiskWire: On the House today.\n\nFor ongoing economic updates and housing market insights, visit RiskWire.com! You can also find RiskWire: On the House on Apple Podcasts, Spotify, and YouTube Podcasts.",
+    "with": [
+      "Here are the key takeaways from the episode:",
+      "Despite potential Federal Reserve cuts, Veros' economists predict mortgage rates will hover around 6.2% in 2026",
+      "The Losers: The Sunbelt and West (e.g., Austin and Tampa) are weakening as they grapple with oversupply",
+      "home prices have surged by approximately 50%, while incomes have only climbed 29%"
+    ],
+    "without": [
+      "VeroVALUE AVM",
+      "VeroVALUE Preferred",
+      "AVM Cascades",
+      "ValuSTREAM AVM Cascade"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "article"
+  }
+}

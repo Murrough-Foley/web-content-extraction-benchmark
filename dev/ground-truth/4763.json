@@ -1,0 +1,23 @@
+{
+  "schema_version": "2.0",
+  "url": "https://buy.glossier.com/bestsellers-rtg?product=shopify://glossier-admin/8940009718005?tile=4da73816-485d-4f2d-a93c-c84a2e936a76",
+  "file_id": "4763",
+  "ground_truth": {
+    "title": "Glossier",
+    "author": null,
+    "publish_date": null,
+    "main_content": "",
+    "with": [],
+    "without": []
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product",
+    "spa": true
+  }
+}

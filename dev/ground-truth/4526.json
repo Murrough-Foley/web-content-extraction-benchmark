@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.logitech.com/en-us/discover/a/workstation-setup",
+  "file_id": "4526",
+  "ground_truth": {
+    "title": "Setting up an ergonomic workspace",
+    "author": null,
+    "publish_date": null,
+    "main_content": "5 steps to a feel-better setup\n\nMost of us spend up to 8+ hours a day at our desks â and it can take a toll on our posture and sense of wellbeing. But there are some simple and easy steps you can take to make your workspace more ergonomic â and productive.\n\nSETUP STEP #1\n\nSit up straight â Just like mom always told you to\n\nTurn your attention to your chair. Adjust the height of your chair so your knees are at close to a right angle, so that your thighs are horizontal and your feet are fully rested on the floor.\n\nSETUP STEP #2\n\nRelax your shoulders, align your elbows\n\nAdjust the height of your desk to ensure your elbows are flush with the table. Raise or lower your desk just below your elbows height until your arms are in a straight line. Then adjust your armrest so your elbows can relax on it. Your shoulders / arms should be relaxed. Finally, make sure your back is well-supported.\n\nSETUP STEP #3\n\nKeep your screen at armâs length\n\nOnce your chair and desk are adjusted, turn your attention to your screen. Position your screen at arm's length (fist closed), and make sure the top of your screen is aligned with your eye level to avoid tension in your neck.\n\nIf youâre working on a laptop, try using a laptop-stand or some books to elevate the top of the screen to eye level.\n\nIf youâre using two screens, ensure your main screen is placed directly in front of you while the second stays right next to it to avoid excessive neck movements.\n\nSETUP STEP #4\n\nKeep your mouse and keyboard close\n\nBring your mouse and keyboard closer to your body so that you donât need to reach for them. If you use the letter keys more than the number pad, then the H key should line up with the middle of your body. If you are using a split keyboard, place your keyboard so that the split is aligned with the center of your body and the center of your screen. Ensure your wrists are straight and align them with your forearms. \n\nSETUP STEP #5\n\nUse an ergo series mouse and keyboard\n\nUsing ergonomic products designed with a human-centered approach can improve posture, increase comfort, lower muscle strain â and even lead to a greater sense of wellness at work. Ergonomic mice and keyboards place your hands, wrists, and forearms in a more natural posture â which in turn can help relax your entire upper body. A more natural posture leads to a quantifiable reduction in muscle activity â meaning you can work just as productively while putting less stress on your body.",
+    "with": [
+      "Sit up straight â Just like mom always told you to",
+      "Adjust the height of your desk to ensure your elbows are flush with the table. R",
+      "If youâre using two screens, ensure your main screen is placed directly in fro",
+      "Bring your mouse and keyboard closer to your body so that you donât need to re"
+    ],
+    "without": [
+      "SKIP TO MAIN CONTENT",
+      "Sign up now to unlock a welcome offer, plus access to subscriber exclusives.",
+      "©2026 Logitech. All rights reserved",
+      "Cookie Settings",
+      "Terms of Use"
+    ],
+    "main_content_markdown": "## 5 steps to a feel-better setup\n\nMost of us spend up to 8+ hours a day at our desks â and it can take a toll on our posture and sense of wellbeing. But there are some simple and easy steps you can take to make your workspace more ergonomic â and productive.\n\nSETUP STEP #1\n\n### Sit up straight â Just like mom always told you to\n\nTurn your attention to your chair. Adjust the height of your chair so your knees are at close to a right angle, so that your thighs are horizontal and your feet are fully rested on the floor.\n\nSETUP STEP #2\n\n### Relax your shoulders, align your elbows\n\nAdjust the height of your desk to ensure your elbows are flush with the table. Raise or lower your desk just below your elbows height until your arms are in a straight line. Then adjust your armrest so your elbows can relax on it. Your shoulders / arms should be relaxed. Finally, make sure your back is well-supported.\n\nSETUP STEP #3\n\n### Keep your screen at armâs length\n\nOnce your chair and desk are adjusted, turn your attention to your screen. Position your screen at arm's length (fist closed), and make sure the top of your screen is aligned with your eye level to avoid tension in your neck.\n\nIf youâre working on a laptop, try using a laptop-stand or some books to elevate the top of the screen to eye level.\n\nIf youâre using two screens, ensure your main screen is placed directly in front of you while the second stays right next to it to avoid excessive neck movements.\n\nSETUP STEP #4\n\n### Keep your mouse and keyboard close\n\nBring your mouse and keyboard closer to your body so that you donât need to reach for them. If you use the letter keys more than the number pad, then the H key should line up with the middle of your body. If you are using a [split keyboard](https://www.logitech.com/en-us/shop/p/k860-split-ergonomic.html), place your keyboard so that the split is aligned with the center of your body and the center of your screen. Ensure your wrists are straight and align them with your forearms. \n\nSETUP STEP #5\n\n### Use an ergo series mouse and keyboard\n\nUsing ergonomic products [designed with a human-centered approach](https://www.logitech.com/discover/a/design-lab) can improve posture, increase comfort, lower muscle strain â and even lead to a greater sense of wellness at work. [Ergonomic mice and keyboards](https://www.logitech.com/en-us/discover/c/ergo-products.html) place your hands, wrists, and forearms in a more natural posture â which in turn can help relax your entire upper body. A more natural posture leads to a quantifiable reduction in muscle activity â meaning you can work just as productively while putting less stress on your body."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "article"
+  }
+}

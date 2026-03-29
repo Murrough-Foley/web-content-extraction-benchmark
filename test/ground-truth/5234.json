@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "http://www.crimewriterson.com/listen/bestpodcasts2025",
+  "file_id": "5234",
+  "ground_truth": {
+    "title": "Best Podcasts of 2025",
+    "author": null,
+    "publish_date": "2025-12-08",
+    "main_content": "Hard-hitting investigations, compelling profiles, and a chorus of people who just don’t believe what women tell them—there was something for everyone in our top ten lists. We reveal the best podcasts of 2025!\n\n2025 was a solid year for podcasts. There were multiple investigative series, retrospectives on the history you thought you knew, and even some light‑hearted fare that was quirky and entertaining. But which titles truly stood out? We’ll hear from crime writers as they share their top 10 podcasts we reviewed in 2025.\n\nLara's top 10 podcasts:\n\nSpotlight: Snitch City\n\nLiberty Lost\n\nThe Preventionist\n\nThe Retrievals season 2\n\nNot a Very Good Murderer\n\nWisecrack\n\nBreakdown: Three Days in May\n\nUncover: Sea of Lies\n\nScam Factory\n\nBone Valley Season 3 | Graves County\n\nToby's top 10 podcasts:\n\nBone Valley Season 3 | Graves County\n\nScam Factory\n\nFinal Thoughts: Jerry Springer\n\nBreakdown: Three Days in May\n\nUncover: Sea of Lies\n\nNot a Very Good Murderer\n\nWisecrack\n\nStakeknife\n\nDirtbag Climber\n\nLords of Death\n\nKevin's top 10 podcasts:\n\nWisecrack\n\nSpotlight: Snitch City\n\nStakeknife\n\nFinal Thoughts: Jerry Springer\n\nThe Copernic Affair\n\nNot a Very Good Murderer\n\nThe Retrievals season 2\n\nBone Valley Season 3 | Graves County\n\nDeath County, PA\n\nThe Preventionist\n\nRebecca's top 10 podcasts:\n\nWisecrack\n\nBone Valley Season 3 | Graves County\n\nSpotlight: Snitch City\n\nStakeknife\n\nThe Retrievals season 2\n\nNot a Very Good Murderer\n\nDirtbag Climber\n\nDeath County PA\n\nFinal Thoughts: Jerry Springer\n\nLiberty Lost\n\nThe Crime Writers On Best of 2025 Podcast List\n\nWisecrack\n\nSpotlight: Snitch City\n\nBone Valley Season 3 | Graves County\n\nNot a Very Good Murderer\n\nStakeknife\n\nThe Retrievals season 2\n\nFinal Thoughts: Jerry Springer\n\nBreakdown: Three Days in May\n\nScam Factory\n\nLiberty Lost",
+    "with": [
+      "Hard-hitting investigations, compelling profiles, and a chorus of people who jus",
+      "2025 was a solid year for podcasts. There were multiple investigative series, re",
+      "The Crime Writers On Best of 2025 Podcast List"
+    ],
+    "without": [
+      "Best TV of 2025",
+      "Hush: Love Thy Neighbor",
+      "Back to Top",
+      "crimewriterson@gmail.com"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.glossier.com/en-bg/collections/skincare-sets?srsltid=AfmBOorGBao_0Zz0cm0zwR71MEKIchWInICHCUiWWDGbjYVqPZmQCeRs",
+  "file_id": "4757",
+  "ground_truth": {
+    "title": "Skincare Sets",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Skincare Sets\n\n4 items\n\nBalm Dotcom Trio\nOriginal formula\nSale price: €49,95\nRegular price: €57,95\n\nThe Super Pack\nAll three serums\nSale price: €104,95\nRegular price: €121,95\n\nThe Dewy Look\nCloud Paint + Futuredew\nSale price: €51,95\nRegular price: €64,95\n\nSip + Smile Duo\nSale price: €35,95\nRegular price: €40,95",
+    "with": [
+      "Balm Dotcom Trio",
+      "The Super Pack",
+      "The Dewy Look",
+      "Sip + Smile Duo"
+    ],
+    "without": [
+      "Bestsellers",
+      "Returns & exchanges",
+      "International",
+      "Responsible disclosure"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "article"
+  }
+}

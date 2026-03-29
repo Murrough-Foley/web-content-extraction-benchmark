@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://kineticlabs.com/keyboards/keychron/keychron-k2-he-keyboard",
+  "file_id": "4169",
+  "ground_truth": {
+    "title": "Keychron K2 HE 75% Wireless Mechanical Keyboard",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Keychron K2 HE 75% Wireless Mechanical Keyboard\n\nKeychron\n\nPre-Built\n\nHall Effect\n\n75% layout with wireless connectivity\nMagnetic switches optimal for gaming\n\n$139.99\n\nColor: Black\n\nOut of stock\n\n14-Day Returns\n\nQuality Guarantee\n\nAll orders are inspected by hand in our New Jersey warehouse before they ship out. If any of your items are defective or bad quality, we'll replace them right away!\n\nShipping & Returns\n\nMost orders ship within 24-48 hours of ordering.\n\nYou may return unused items within 14 days of receiving the item for a full refund minus the cost of shipping and a 5% re-stocking fee. Please see the Returns & Refunds page for more info.",
+    "with": [
+      "All orders are inspected by hand in our New Jersey warehouse before they ship out.",
+      "Most orders ship within 24-48 hours of ordering.",
+      "You may return unused items within 14 days of receiving the item for a full refund",
+      "75% layout with wireless connectivity",
+      "Magnetic switches optimal for gaming"
+    ],
+    "without": [
+      "Free shipping for orders over $150",
+      "Join Kinetic Labs!",
+      "Sign up to our weekly newsletter",
+      "support@kineticlabs.com"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "high",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  }
+}

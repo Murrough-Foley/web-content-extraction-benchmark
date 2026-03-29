@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.ergodirect.com/234-ergonomic-mice?srsltid=AfmBOopQU4nyINnzSmGWR0PJg-Mq6J-v_m4ROoJmuIslWhUZtoDpc8iu",
+  "file_id": "4061",
+  "ground_truth": {
+    "title": "Ergonomic Mice",
+    "author": null,
+    "publish_date": null,
+    "main_content": "An ergonomic mouse helps keep the hand and wrist in a neutral position. We use mice much more than we notice, and the repetitive motion of mousing can lead to tension and soreness if the forearm is twisted. Ergonomic mice keep your wrist and forearm in a straighter line. Individuals with tennis elbow, tendonitis, chronic wrist pain, or arthritis will benefit from an ergonomic mouse. We carry vertical, wireless, trackball, bluetooth and wired mice. Learn more about ergonomic mice on our blog.",
+    "with": [
+      "An ergonomic mouse helps keep the hand and wrist in a neutral position",
+      "repetitive motion of mousing can lead to tension and soreness",
+      "We carry vertical, wireless, trackball, bluetooth and wired mice"
+    ],
+    "without": [
+      "Product Finder",
+      "Work From Home",
+      "Apple Compatible",
+      "Audio Visual"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  },
+  "page_type": "listing"
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.theguardian.com/technology",
+  "file_id": "2966",
+  "ground_truth": {
+    "title": "The Guardian",
+    "author": null,
+    "publish_date": null,
+    "main_content": "",
+    "with": [],
+    "without": [
+      "Support the Guardian",
+      "Fund independent journalism",
+      "Print subscriptions",
+      "Search jobs"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "web-sourced"
+      ]
+    },
+    "spa": true
+  }
+}

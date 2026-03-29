@@ -1,0 +1,23 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.flexispot.com/category/desk-converters?srsltid=AfmBOorZQ0fnZ_YtOhAWw1mxhZJen6CDqxA82mXfwXgqmpzRhhcZG_iF",
+  "file_id": "4788",
+  "ground_truth": {
+    "title": "Rise to New Heights: FlexiSpot Standing Desk Converter",
+    "author": null,
+    "publish_date": null,
+    "main_content": "",
+    "with": [],
+    "without": []
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product",
+    "spa": true
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://createandbabble.com/10-easy-diy-wood-projects-to-make/",
+  "file_id": "4449",
+  "ground_truth": {
+    "title": "10 Easy DIY Wood Projects to Make",
+    "author": "Jeanie Emmert",
+    "publish_date": "2018-07-19",
+    "main_content": "Some of my best blogging friends and I are sharing our favorite easy DIY wood projects that we made using power tools. While mine is not a big piece of furniture or a complicated build, it is definitely one of my favorite projects.\n\n10 Easy DIY Wood Projects\n\nI made this wooden quilt block wall art back in April and wrote all about how to make it here.\n\nAs soon as I hung it up on my kitchen wall I thought how cool it would be to build more of these blocks with different but coordinating papers and have a wooden quilt on the wall! I haven’t made any more yet but maybe I can do that over the winter months.\n\nI can’t wait to see what my friends’ favorite projects are:\n\nIndustrial Pipe Bookshelf\n\nReclaimed Wood Arrows\n\nDIY Lanterns\n\nRustic Fireplace Mantel\n\nCornhole Boards\n\n2 x 4 Bench\n\nDIY Murphy Bed\n\nCordless Drill Organizer\n\nRepurposed Frame Wall Shelf\n\nWhat would you like to make? I hope these projects have inspired you to pick up a power tool and make something for your home.",
+    "with": [
+      "I made this wooden quilt block wall art back in April",
+      "Industrial Pipe Bookshelf",
+      "Cordless Drill Organizer",
+      "pick up a power tool and make something for your home"
+    ],
+    "without": [
+      "Privacy Policy",
+      "Home Improvement",
+      "Furniture Makeovers",
+      "Filed Under"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "article"
+  }
+}

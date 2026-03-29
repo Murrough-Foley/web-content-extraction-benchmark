@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.activeendeavors.com/ms-nano-puff-jacket.html?srsltid=AfmBOopyvpKhTttP0ZiOsNwmqYYeQT1NQHO1Zo_97APeTYkQql8qtMm4",
+  "file_id": "4206",
+  "ground_truth": {
+    "title": "Patagonia Men's Nano Puff Jacket",
+    "author": null,
+    "publish_date": null,
+    "main_content": "PATAGONIA\n\nMen's Nano Puff Jacket\n\n$229.00 Excl. tax\n\nIn stock (1)\n\nEngineered as a weather-resistant, lightweight, and packable synthetic insulation layer for climbers, the warm-even-when-wet Nano Puff series from Patagonia has become a favorite for daily, year-round use both around town or at the crag.\n\nProduct description\n\nSpecs:\n\n- Weight: 13 oz (369 g)\n- 100% recycled polyester ripstop shell with DWR (durable water repellent) finish\n- PrimaLoft® Gold Insulation Eco 100% postconsumer recycled polyester with P.U.R.E (Produced Using Reduced Emissions) technology for excellent warmth-to-weight ratio\n- Improved shoulder and elbow fit for greater range of motion\n- Two zippered handwarmer pockets and interior zippered chest pocket; packs down into interior chest pocket\n- Made in a Fair Trade Certified™ factory",
+    "with": [
+      "Engineered as a weather-resistant, lightweight, and packable synthetic insulation layer for climbers",
+      "warm-even-when-wet Nano Puff series from Patagonia has become a favorite for daily, year-round use",
+      "PrimaLoft® Gold Insulation Eco 100% postconsumer recycled polyester with P.U.R.E",
+      "Two zippered handwarmer pockets and interior zippered chest pocket; packs down into interior chest pocket",
+      "Made in a Fair Trade Certified™ factory"
+    ],
+    "without": [
+      "New Spring Arrivals",
+      "Subscribe to our newsletter",
+      "FREE SHIPPING over $100",
+      "Locally owned small Iowa business",
+      "Shop Online | Pick-up In Store"
+    ],
+    "main_content_markdown": "PATAGONIA\n\n# Men's Nano Puff Jacket\n\n$229.00 Excl. tax\n\nIn stock (1)\n\nEngineered as a weather-resistant, lightweight, and packable synthetic insulation layer for climbers, the warm-even-when-wet Nano Puff series from Patagonia has become a favorite for daily, year-round use both around town or at the crag.\n\n### Product description\n\n**Specs:**\n\n- Weight: 13 oz (369 g)\n- 100% recycled polyester ripstop shell with DWR (durable water repellent) finish\n- PrimaLoft® Gold Insulation Eco 100% postconsumer recycled polyester with P.U.R.E (Produced Using Reduced Emissions) technology for excellent warmth-to-weight ratio\n- Improved shoulder and elbow fit for greater range of motion\n- Two zippered handwarmer pockets and interior zippered chest pocket; packs down into interior chest pocket\n- Made in a Fair Trade Certified™ factory"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "high",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "2.0",
+  "url": "https://developers.slashdot.org/story/25/12/19/236259/stanford-computer-science-grads-find-their-degrees-no-longer-guarantee-jobs",
+  "file_id": "0396",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "technology",
+        "jobs",
+        "AI",
+        "education",
+        "cs-graduates"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Stanford Computer Science Grads Find Their Degrees No Longer Guarantee Jobs",
+    "author": "BeauHD",
+    "publish_date": "2025-12-19",
+    "main_content": "Elite computer science degrees are no longer a guaranteed on-ramp to tech jobs, as AI-driven coding tools slash demand for entry-level engineers and concentrate hiring around a small pool of already \"elite\" or AI-savvy developers. The Los Angeles Times reports: \"Stanford computer science graduates are struggling to find entry-level jobs\" with the most prominent tech brands, said Jan Liphardt, associate professor of bioengineering at Stanford University. \"I think that's crazy.\" While the rapidly advancing coding capabilities of generative AI have made experienced engineers more productive, they have also hobbled the job prospects of early-career software engineers. Stanford students describe a suddenly skewed job market, where just a small slice of graduates -- those considered \"cracked engineers\" who already have thick resumes building products and doing research -- are getting the few good jobs, leaving everyone else to fight for scraps.\n\n\"There's definitely a very dreary mood on campus,\" said a recent computer science graduate who asked not to be named so they could speak freely. \"People [who are] job hunting are very stressed out, and it's very hard for them to actually secure jobs.\" The shake-up is being felt across California colleges, including UC Berkeley, USC and others. The job search has been even tougher for those with less prestigious degrees. [...] Data suggests that even though AI startups like OpenAI and Anthropic are hiring many people, it is not offsetting the decline in hiring elsewhere. Employment for specific groups, such as early-career software developers between the ages of 22 and 25 has declined by nearly 20% from its peak in late 2022, according to a Stanford study. [...]\n\nA common sentiment from hiring managers is that where they previously needed ten engineers, they now only need \"two skilled engineers and one of these LLM-based agents,\" which can be just as productive, said Nenad Medvidovic, a computer science professor at the University of Southern California. \"We don't need the junior developers anymore,\" said Amr Awadallah, CEO of Vectara, a Palo Alto-based AI startup. \"The AI now can code better than the average junior developer that comes out of the best schools out there.\" [...] Stanford students say they are arriving at the job market and finding a split in the road; capable AI engineers can find jobs, but basic, old-school computer science jobs are disappearing. As they hit this surprise speed bump, some students are lowering their standards and joining companies they wouldn't have considered before. Some are creating their own startups. A large group of frustrated grads are deciding to continue their studies to beef up their resumes and add more skills needed to compete with AI.",
+    "with": [
+      "rapidly advancing coding capabilities of generative AI have made experienced engineers more productive, they have also hobbled the job prospects of early-career software engineers.",
+      "Employment for specific groups, such as early-career software developers between the ages of 22 and 25 has declined by nearly 20% from its peak in late 2022, according to a Stanford study.",
+      "We don't need the junior developers anymore,\" said Amr Awadallah, CEO of Vectara, a Palo Alto-based AI startup.",
+      "A large group of frustrated grads are deciding to continue their studies to beef up their resumes and add more skills needed to compete with AI."
+    ],
+    "without": [
+      "MongoDB Atlas: Multi-cloud, modern database on AWS, Azure, and Google Cloud.",
+      "Blog",
+      "About",
+      "Login"
+    ],
+    "main_content_markdown": "Elite computer science degrees are [no longer a guaranteed on-ramp to tech jobs](https://www.latimes.com/business/story/2025-12-19/they-graduated-from-stanford-due-to-ai-they-cant-find-job), as AI-driven coding tools slash demand for entry-level engineers and concentrate hiring around a small pool of already \"elite\" or AI-savvy developers. The Los Angeles Times reports: \"Stanford computer science graduates are struggling to find entry-level jobs\" with the most prominent tech brands, said Jan Liphardt, associate professor of bioengineering at Stanford University. \"I think that's crazy.\" While the rapidly advancing coding capabilities of generative AI have made experienced engineers more productive, they have also hobbled the job prospects of early-career software engineers. Stanford students describe a suddenly skewed job market, where just a small slice of graduates -- those considered \"cracked engineers\" who already have thick resumes building products and doing research -- are getting the few good jobs, leaving everyone else to fight for scraps.\n\n\"There's definitely a very dreary mood on campus,\" said a recent computer science graduate who asked not to be named so they could speak freely. \"People [who are] job hunting are very stressed out, and it's very hard for them to actually secure jobs.\" The shake-up is being felt across California colleges, including UC Berkeley, USC and others. The job search has been even tougher for those with less prestigious degrees. [...] Data suggests that even though AI startups like OpenAI and Anthropic are hiring many people, it is not offsetting the decline in hiring elsewhere. Employment for specific groups, such as early-career software developers between the ages of 22 and 25 has declined by nearly 20% from its peak in late 2022, according to a Stanford study. [...]\n\nA common sentiment from hiring managers is that where they previously needed ten engineers, they now only need \"two skilled engineers and one of these LLM-based agents,\" which can be just as productive, said Nenad Medvidovic, a computer science professor at the University of Southern California. \"We don't need the junior developers anymore,\" said Amr Awadallah, CEO of Vectara, a Palo Alto-based AI startup. \"The AI now can code better than the average junior developer that comes out of the best schools out there.\" [...] Stanford students say they are arriving at the job market and finding a split in the road; capable AI engineers can find jobs, but basic, old-school computer science jobs are disappearing. As they hit this surprise speed bump, some students are lowering their standards and joining companies they wouldn't have considered before. Some are creating their own startups. A large group of frustrated grads are deciding to continue their studies to beef up their resumes and add more skills needed to compete with AI."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://linear.app/",
+  "file_id": "2834",
+  "ground_truth": {
+    "title": "The system for product development",
+    "author": null,
+    "publish_date": null,
+    "main_content": "The product development system for teams and agents\n\nPurpose-built for planning and building products. Designed for the AI era.\n\nA new species of product tool.\n\nPurpose-built for modern teams with AI workflows at its core, Linear sets a new standard for planning and building products.\n\nBuilt for purpose\n\nLinear is shaped by the practices and principles of world-class product teams.\n\nPowered by AI agents\n\nDesigned for workflows shared by humans and agents. From drafting PRDs to pushing PRs.\n\nDesigned for speed\n\nReduces noise and restores momentum to help teams ship with high velocity and focus.\n\nMake product operations self-driving\n\nTurn conversations and customer feedback into actionable issues that are routed, labeled, and prioritized for the right team.\n\nDefine the product direction\n\nPlan and navigate from idea to launch. Align your team with product initiatives, strategic roadmaps, and clear, up-to-date PRDs.\n\nMove work forward across teams and agents\n\nBuild and deploy AI agents that work alongside your team. Work on complex tasks together or delegate entire issues end-to-end.\n\nReview PRs and agent output\n\nUnderstand code changes at a glance with structural diffs for human and agent output. Review, discuss, and merge — all within Linear.\n\nUnderstand progress at scale\n\nTake the guesswork out of product development with project updates, analytics, and dashboards that surface what needs your attention.\n\nDeeplink to AI coding tools\n\nStarting an issue used to mean manually creating a feature branch. Now it means assembling the right context so your coding agent can take a first pass. We've made this much easier to do in Linear.\n\nAdvanced filters and share issues in private teams\n\nRefine your searches, views, and dashboards with advanced filters. Combine multiple AND/OR conditions to define exactly what you want to see.\n\nLinear MCP for product management\n\nWe've expanded Linear's MCP server with support for initiatives, project milestones, and updates. These allow product managers to keep plans up to date and communicate progress from other tools like Cursor and Claude.\n\nTime in status\n\nTime spent in individual statuses is now tracked and available throughout Linear. Hover over any issue's status indicator to see the cumulative time it's spent in each status. You can use this to spot where things are getting stuck, identify bottlenecks, and optimize your development process.\n\nYou just have to use it and you will see, you will just feel it.\nGabriel Peal, OpenAI\n\nOur speed is intense and Linear helps us be action biased.\nNik Koblov, Head of Engineering, Ramp\n\nLinear is excellent, just excellent. It has the right opinions for fast moving teams.\nKaz Nejatian, Opendoor\n\nLinear powers over 25,000 product teams. From ambitious startups to major enterprises.\n\nBuilt for the future. Available today.",
+    "with": [
+      "Purpose-built for planning and building products. Designed for the AI era",
+      "Turn conversations and customer feedback into actionable issues that are routed, labeled, and prioritized for the right team",
+      "Build and deploy AI agents that work alongside your team",
+      "Linear powers over 25,000 product teams"
+    ],
+    "without": [
+      "Skip to content",
+      "Open app",
+      "Log in"
+    ],
+    "main_content_markdown": "The product development system for teams and agents\n\nPurpose-built for planning and building products. Designed for the AI era.\n\n## A new species of product tool.\n\nPurpose-built for modern teams with AI workflows at its core, Linear sets a new standard for planning and building products.\n\nBuilt for purpose\n\nLinear is shaped by the practices and principles of world-class product teams.\n\nPowered by AI agents\n\nDesigned for workflows shared by humans and agents. From drafting PRDs to pushing PRs.\n\nDesigned for speed\n\nReduces noise and restores momentum to help teams ship with high velocity and focus.\n\nMake product operations self-driving\n\nTurn conversations and customer feedback into actionable issues that are routed, labeled, and prioritized for the right team.\n\nDefine the product direction\n\nPlan and navigate from idea to launch. Align your team with product initiatives, strategic roadmaps, and clear, up-to-date PRDs.\n\nMove work forward across teams and agents\n\nBuild and deploy AI agents that work alongside your team. Work on complex tasks together or delegate entire issues end-to-end.\n\n## Review PRs and agent output\n\nUnderstand code changes at a glance with structural diffs for human and agent output. Review, discuss, and merge — all within Linear.\n\nUnderstand progress at scale\n\nTake the guesswork out of product development with project updates, analytics, and dashboards that surface what needs your attention.\n\nDeeplink to AI coding tools\n\nStarting an issue used to mean manually creating a feature branch. Now it means assembling the right context so your coding agent can take a first pass. We've made this much easier to do in Linear.\n\nAdvanced filters and share issues in private teams\n\nRefine your searches, views, and dashboards with advanced filters. Combine multiple AND/OR conditions to define exactly what you want to see.\n\nLinear MCP for product management\n\nWe've expanded Linear's MCP server with support for initiatives, project milestones, and updates. These allow product managers to keep plans up to date and communicate progress from other tools like Cursor and Claude.\n\nTime in status\n\nTime spent in individual statuses is now tracked and available throughout Linear. Hover over any issue's status indicator to see the cumulative time it's spent in each status. You can use this to spot where things are getting stuck, identify bottlenecks, and optimize your development process.\n\n> You just have to use it and you will see, you will just feel it.\nGabriel Peal, OpenAI\n\n> Our speed is intense and Linear helps us be action biased.\nNik Koblov, Head of Engineering, Ramp\n\n> Linear is excellent, just excellent. It has the right opinions for fast moving teams.\nKaz Nejatian, Opendoor\n\nLinear powers over **25,000** product teams. From ambitious startups to major enterprises.\n\n## Built for the future. Available today."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

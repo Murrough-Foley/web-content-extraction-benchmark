@@ -1,0 +1,29 @@
+{
+  "schema_version": "2.0",
+  "url": "https://activategood.org/",
+  "file_id": "5342",
+  "ground_truth": {
+    "title": "Activate Good",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Feeling overwhelmed about how to make a difference? You’re not alone—but it’s easier than you think.\n\nActivate Good makes it simple for people of all ages to take meaningful action. Through learning, hands-on experiences, and connection with others, you’ll discover just how powerful your spark can be. Join us in creating real, positive change across the Triangle.\n\nOur Mission\n\nActivate Good improves our community through people-powered projects for good.\n\nOur Vision\n\nActivate Good envisions a world in which all people realize and act on their power to improve their communities.\n\nEvery year, over 26,000 people take action through Activate Good, joining a movement that supports more than 600 community partners across the Triangle. Whether you’re new to getting involved or ready to do more, we make it simple to find your spark.\n\nExplore opportunities to learn, connect, and create change that matters—right here in your community.\n\nUpcoming Events\n\nNational Volunteer Week is our local call to action as part of Points of Light’s larger nationwide campaign. Since 1974, this annual celebration has recognized the power of volunteers to…\n\nThis Earth Day, Activate Good invites you to take action for a cleaner, greener Triangle. Whether you’re passionate about protecting local parks, reducing waste, or making a difference in your…\n\nWhen you sponsor Activate Good, you power our service initiatives – projects that combat food insecurity and homelessness, bolster education, support kids and families, and mobilize people of all ages…\n\nTAKE ACTION\n\nHelp create a better world for all.\nView and sign up for volunteer needs around the Triangle shared by hundreds of local causes. Search by issue area, date, and more!\n\nGiving Back Blog\n\nDoing Good Across the Greater Triangle\n\n200,000+\n\nVOLUNTEER\nCONNECTIONS\n\n600+\n\nLOCAL\nCAUSES SERVED\n\n70,000+\n\nVOLUNTEERS\nACTIVATED",
+    "with": [
+      "Feeling overwhelmed about how to make a difference? You’re not alone—but it’s ea",
+      "Activate Good envisions a world in which all people realize and act on their pow",
+      "When you sponsor Activate Good, you power our service initiatives – projects tha",
+      "View and sign up for volunteer needs around the Triangle shared by hundreds of lo"
+    ],
+    "without": [
+      "Our Commitment to Equity and Belonging"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

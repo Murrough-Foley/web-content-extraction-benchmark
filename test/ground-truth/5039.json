@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "url": "https://lowendtalk.com/discussion/205826/has-anyone-built-a-custom-mechanical-keyboard-looking-for-advice",
+  "file_id": "5039",
+  "ground_truth": {
+    "title": "Has Anyone Built a Custom Mechanical Keyboard? Looking for Advice",
+    "author": null,
+    "publish_date": "2025-05-20",
+    "main_content": "I've been using standard keyboards forever but recently fell down the rabbit hole of custom mechanical keyboards after watching some YouTube videos. The customization possibilities seem endless but also overwhelming for a newcomer.\n\nI'm thinking about building my first custom keyboard but have no idea where to start. Should I go with a hot-swap PCB for easier assembly? Are pre-lubed switches worth it or should I learn to lube them myself? And what's with all the different profiles for keycaps?\n\nMy budget is around $150-200 for everything, and I'd prefer something with a 75% layout for daily use and some light gaming. I'm leaning toward tactile switches since I do quite a bit of typing.\n\nFor those who've built their own keyboards - what do you wish you knew when you started? Any particular mistakes to avoid or components that are worth splurging on vs. saving money?\n\nI’ve tried buying various components to assemble a mechanical keyboard myself, and even got a soldering iron. But to be honest, it didn’t turn out that well. It might have just been an impulsive desire to build something or the appeal of trying something new. In the end, the finished product didn’t feel any better than a mass-produced mechanical keyboard I could have bought for the same budget.\n\nI'm wayyyy too into keyboards haha, I'd definitely recommend a hotswap board. Not worth saving $15 on a non hotswap board in any circumstance, unless you plan to build it and never touch it again (which never happens) A pretty good hotswap board if you're fine with going prebuilt and messing with it later is the bridge 75. It punches way above its weight when it comes to quality, and comes with prelubed tactiles ( MMD Princess ) which feel alright. I'm decently big into tactiles and have built 10+ keyboards in the past several years, the bridge gets you like 80% of the way there out of the box and felt around as good as some $3-400 builds I've done. If you don't like the bridge 75, make sure you get a QMK + VIA compatible board, it'll save you a lot of headache in the future. If you want to go 100% custom, vendors sort of depend on where you live. You will be paying more in order to do everything yourself though.\n\nAs long as you don't know your switches, go hotswap. I also recommend tmk / qmk based boards to get the layout and features you want in hardware. Having quality keycaps will improve the fun you have. I would rather save up and spend 200 to 400$ for the board.\n\ni went this route a few years back, I had a cooler master TKL (forgot which one) with blue switches (not hotswap, sucks) so I got the NJ80 board with baby kangaroo switches (<200$, via aliexpress) which is what i am currently using. /r/budgetkeebs was my goto when i was researching.",
+    "with": [
+      "I'm thinking about building my first custom keyboard but have no idea where to s",
+      "I’ve tried buying various components to assemble a mechanical keyboard myself, a",
+      "I'm wayyyy too into keyboards haha, I'd definitely recommend a hotswap board.",
+      "As long as you don't know your switches, go hotswap. I also recommend tmk / qmk "
+    ],
+    "without": [
+      "Howdy, Stranger!",
+      "Community Rules"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "forum"
+  }
+}

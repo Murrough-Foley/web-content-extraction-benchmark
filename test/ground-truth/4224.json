@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.nintendo.com/us/store/products/nintendo-switch-oled-model-white-set-refurbished-117023/?srsltid=AfmBOorJFSIVGsWxbhL9JU8_DHW9LjpqVUWdK_KTyVVsu1tTL4xJxODA",
+  "file_id": "4224",
+  "ground_truth": {
+    "title": "Nintendo Switch - OLED Model White set",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Nintendo Switch™ - OLED Model White set - REFURBISHED\n\nPlay at home on the TV or on-the-go with a vibrant 7-inch OLED screen with the Nintendo Switch™ system - OLED model.\n\nIn addition to a new screen with vivid colors and sharp contrast, the Nintendo Switch - OLED model includes a wide adjustable stand for more comfortable viewing angles, a dock with a wired LAN port for TV mode (LAN cable sold separately), 64GB of internal storage, and enhanced audio in Handheld and Tabletop modes using the system’s speakers.\n\nFeatures:\n\n7-inch OLED screen - Enjoy vivid colors and crisp contrast with a screen that makes colors pop\n\nWide adjustable stand – Freely angle the system’s wide, adjustable stand for comfortable viewing in Tabletop mode\n\nWired LAN port - Use the dock’s LAN port when playing in TV mode for a wired internet connection\n\n64 GB internal storage - Save games to your system with 64 GB of internal storage\n\nEnhanced audio – Enjoy enhanced sound from the system’s onboard speakers when playing in Handheld and Tabletop modes\n\nSupports all Joy-Con™ controllers and Nintendo Switch software*\n\nIncludes:\n\nNintendo Switch console\n\nNintendo Switch dock\n\nJoy-Con (L)\n\nJoy-Con (R)\n\nJoy-Con straps\n\nJoy-Con grip\n\nHigh Speed HDMI Cable\n\nNintendo Switch AC Adapter\n\nAuthentic Refurbished Product:\n\nOnly from Nintendo, this Nintendo Switch - OLED Model is available as an Authentic Nintendo Refurbished product. That means it has been inspected by Nintendo, restored and verified to be fully functional, and made available at a lower price than non-refurbished products. Refurbished products may have minor cosmetic blemishes but otherwise work as expected. Includes a one-year limited warranty.\n\n*There may be software where the game experience may differ due to the new capabilities of the system, such as the larger screen size.\n\nAbout this item\n\nSystem\n\nPublisher\n\nManufacturer\n\nSKU\n\n117023\n\nUPC\n\n00045496883577",
+    "with": [
+      "Play at home on the TV or on-the-go with a vibrant 7-inch OLED screen with the Nintendo Switch™ system - OLED",
+      "7-inch OLED screen - Enjoy vivid colors and crisp contrast with a screen that makes colors pop\n\nWide",
+      "Enhanced audio – Enjoy enhanced sound from the system’s onboard speakers when playing in Handheld and",
+      "Only from Nintendo, this Nintendo Switch - OLED Model is available as an Authentic Nintendo Refurbished"
+    ],
+    "without": [
+      "About Nintendo",
+      "My Nintendo Store",
+      "Wish List"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://english.meta.stackexchange.com/questions/15596/are-there-any-differences-between-u-s-grammar-usage-and-british-grammar-usa",
+  "file_id": "5182",
+  "ground_truth": {
+    "title": "Are there any differences between U.S. Grammar & Usage and British Grammar & Usage?",
+    "author": null,
+    "publish_date": "2023-04-28",
+    "main_content": "Are there any differences between U.S. Grammar & Usage and British Grammar & Usage? Are there separate areas here in English Grammar & Usage for U.S. English use and for British English use? The reason I ask is that when I’ve read some answers in English Grammar & Usage, I’ve seen seen examples from the Cambridge dictionary and from the Guardian newspaper (I’m assuming the British edition). I find English grammar can be very complex, so if there is any difference, I need to stick with the American version. Thank you for your help! [I do not have enough “reputation” to post this in Meta. I apologize.]\n\n@Andrew Leach - request for edit: Should those who answer questions here on English Language & Usage Stack Exchange SHOW if their answer refers to American English or British English when the question does not have a tag denoting American or British usage? Thank you.\n\n1 Answer\n\nAre there any differences between U.S. Grammar & Usage and British Grammar & Usage?\n\nYes, there are differences. For example, BrE does not always require do-support when asking a question with the main verb \"to have\" (e.g., \"Have you any wool?\") whereas AmE does require it (e.g., \"Do you have any wool?\"). In a comment, Peter Shor offers this question as an example of another difference.\n\nAre there separate areas here in English Grammar & Usage for U.S. English use and for British English use?... I need to stick with the American version.\n\nNo, there aren't separate areas. However, if you are interested in only one dialect, you can go to the tags page, enter \"english\" into the search box, and pick one of the tags that appear, which include \"american-english\".",
+    "with": [
+      "@Andrew Leach - request for edit: Should those who answer questions here on Engl",
+      "Are there any differences between U.S. Grammar & Usage and British Grammar & Usa",
+      "Are there separate areas here in English Grammar & Usage for U.S. English use an",
+      "No, there aren't separate areas. However, if you are interested in only one dial"
+    ],
+    "without": [
+      "Start here for a quick overview of the site",
+      "Hot Network Questions",
+      "Skip to main content",
+      "Stack Exchange Network"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "forum"
+  }
+}

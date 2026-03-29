@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://claremore.com/library/",
+  "file_id": "5356",
+  "ground_truth": {
+    "title": "Library - Claremore",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Will Rogers Library\n\nWelcome to the Will Rogers Library, proudly serving Claremore and Rogers County. With more than 120,000 physical and e-book items, a Library of Things (games, baking items, hotspots, a seed library and more!), plus a variety of programs for all ages, there is always something to check out at at the library!\n\nBe sure to check out the full month's calendar of events here: Library Calendar of Events\n\nWill Rogers Library\n\n1515 N. Florence Ave.\n\nClaremore, OK 74017\n\nPhone: 918-341-1564\n\nHours*\n\nMonday -Tuesday 9:30 am – 8:00 pm\n\nWednesday – Thursday 9:30 am – 6:00 pm\n\nFriday – Saturday 9:30 am – 5:00 pm\n\n*Please see event listings above for closures, holidays or adjustments to hours.",
+    "with": [
+      "Welcome to the Will Rogers Library, proudly serving Claremore and Rogers County",
+      "Library of Things (games, baking items, hotspots, a seed library and more!)",
+      "Friday – Saturday 9:30 am – 5:00 pm",
+      "Please see event listings above for closures, holidays or adjustments to hours"
+    ],
+    "without": [
+      "View My Bill",
+      "Claremore Electric",
+      "City of Claremore",
+      "Utilities"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

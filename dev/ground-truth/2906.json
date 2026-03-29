@@ -1,0 +1,24 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.imdb.com/chart/top/",
+  "file_id": "2906",
+  "ground_truth": {
+    "title": "IMDb Top 250 movies",
+    "author": null,
+    "publish_date": null,
+    "main_content": "",
+    "with": [],
+    "without": []
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "web-sourced"
+      ]
+    },
+    "spa": true
+  }
+}

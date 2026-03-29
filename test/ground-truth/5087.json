@@ -1,0 +1,29 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.trailgroove.com/forums/?srsltid=AfmBOoqTckcqZVKedSAzBZbyR0MWjMYvp4U6EpRFbUHdQP44Eoty-GMU",
+  "file_id": "5087",
+  "ground_truth": {
+    "title": "TrailGroove Forum",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Forums\n\nCommunity\n\nTrailGroove Magazine\n\nGeneral discussion about the magazine, articles, features, & reviews.\n\n346\nposts\n\nIssue 59 Released\n\nBy\n\nAaron Zagrodnick,\n\nFireside Chatter\n\nDiscussion of random & off topic subjects.\n\n996\nposts\n\nMerry Christmas and Happy Holidays to one and all\n\nBy\n\nAaron Zagrodnick,\n\nMeet & Greet\n\nNew to the forum? Introduce yourself here.\n\n1.7k\nposts\n\nGreetings from Alabama\n\nBy\n\nAaron Zagrodnick,\n\nOutside\n\nOther Outdoor Activities\n\nFor all those other outdoor interests, sports, and hobbies.\n\n146\nposts\n\nSkiing the Backcountry\n\nBy\n\nppine,\n\nTrip Reports\n\nPictures and stories of recent and past adventures.\n\n816\nposts\n\nYosemite Once More\n\nBy\n\nbalzaccom,\n\nCamp Kitchen\n\nCooking techniques, methods, and food in general.\n\n419\nposts\n\nMountain House Buffalo Style Mac & Cheese Meal in Issue 53\n\nBy\n\nAaron Zagrodnick,\n\nSale & Swap\n\nBuy and sell personal gear.\n\n301\nposts\n\nDeuter Women's 30L Speed Lite Pack Size Small\n\nBy\n\nbslcsw,\n\nGear\n\nFrom gadgets to goosedown, chat about it here.\n\n2.9k\nposts\n\nGlue for tarps?\n\nBy\n\nMichael aka Mac,\n\nGeneral Backpacking & Hiking\n\nSkill, technique, questions, & all things backpacking or hiking related.\n\n1.7k\nposts\n\nWhere to find fellow hikers?\n\nBy\n\nbowers32,\n\nRegional Discussions\n\nInternational\n\nAll things abroad.\n\n113\nposts\n\nBackpacking in the Arctic: Mountain Adventure in Norway and Sweden\n\nBy\n\nAaron Zagrodnick,\n\nPacific\n\nAlaska, California, Hawaii, Oregon, & Washington.\n\n325\nposts\n\nSierra is opening up\n\nBy\n\nbalzaccom,\n\nMountain\n\nArizona, Colorado, Idaho, Montana, Nevada, New Mexico, Utah, & Wyoming.\n\n443\nposts\n\nAnyone been to Kaibab National Forest?\n\nBy\n\nppine,\n\nSouth Central\n\nArkansas, Louisiana, Oklahoma, & Texas.\n\n96\nposts\n\nHiking Guadalupe Mountains National Park\n\nBy\n\nAaron Zagrodnick,\n\nSoutheast\n\nAlabama, Florida, Georgia, Kentucky, Mississippi, North Carolina, South Carolina, Tennessee, Virginia, & West Virginia.\n\n214\nposts\n\nA Southeastern Treasure: Kentucky’s Red River Gorge\n\nBy\n\nAaron Zagrodnick,\n\nMidwest\n\nIllinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, & Wisconsin.\n\n83\nposts\n\nThru-hiking the Border Route Trail\n\nBy\n\nDogwood,\n\nNortheast\n\nConnecticut, Delaware, Maine, Maryland, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, & Vermont.\n\n130\nposts\n\nHidden Treasures In Meriden, CT that I discovered in my travels from NY to MA\n\nBy\n\nMichael aka Mac,\n\nThe Long Trails\n\nOther Long Trails\n\nInterested in hiking another trail? (Scenic, historic, & others) talk about it here. From the NCT to the ADT to the PNT...\n\n105\nposts\n\nSuggestions for a 20-25day long-distance hike\n\nBy\n\nfrancesco06,\n\nContinental Divide Trail\n\nDiscuss the CDT - The longest and wildest of the \"Big three\".\n\n11\nposts\n\nTrail Maintenance on the CDT in Montana\n\nBy\n\nAaron Zagrodnick,\n\nPacific Crest Trail\n\nBorder to border, (And a bit beyond) - All things related to the PCT.\n\n47\nposts\n\nThru-hiking the Pacific Crest Trail\n\nBy\n\nppine,\n\nAppalachian Trail\n\nThruhike? Day hike? The place to talk about the AT, America's most storied long trail.\n\n93\nposts\n\nBaseweight of 32lbs too much?\n\nBy\n\nDogwood,",
+    "with": [
+      "Discussion of random & off topic subjects.",
+      "Deuter Women's 30L Speed Lite Pack Size Small",
+      "Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North ",
+      "Border to border, (And a bit beyond) - All things related to the PCT."
+    ],
+    "without": [
+      "Affiliate Advertising Disclosure"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "forum"
+  }
+}

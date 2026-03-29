@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://uizard.io/figma-alternative/",
+  "file_id": "5637",
+  "ground_truth": {
+    "title": "Uizard Vs Figma",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Go from idea to design in minutes...\n\nUizard was build with speed, ease-of-use, and customization in mind - making it the perfect alternative to vector-based design tools.\n\nPowered by AI, Uizard empowers you to bring your ideas to life rapidly and collaboratively like never before.\n\nWhy Uizard?\n\nUizard was built with product teams in mind, with the goal of empowering its users to design digital products at speed - no complicated vector-based design skills required.\n\nWith Uizard, you can design apps, websites, and UIs in minutes, whether you are creating something from scratch or leveraging powerful AI to generate UI designs from text prompts.\n\nThe Uizard team prides itself on providing a magical design solution to product teams the world over.\n\nFor product teams\n\nJust like Figma, with Uizard you can invite anyone to collaborate in real-time regardless of whether they are sitting next to you in the office or working from home on the other side of the planet. Use our smart sharing features to share your project with the click of a button.\n\nAI Design Assistant\n\nUizard's powerful AI design features give you countless ways to navigate product discovery. Generate screens, themes, images, and text with Uizard's AI UI generator, Autodesigner, or iterate on established features and screens with Screenshot Scanner.\n\nDynamic product templates\n\nNo more blank screens! Uizard templates always reflect your project theme and increase your flexibility while decreasing your work time. Designing digital products has never been so easy.\n\nIn-browser mastery\n\nUizard works directly in your web browser: no software or plugin install required!\n\nWhatever operating system you're working on, you're only a few clicks away from kickstarting your next digital product design project. Sign up today.",
+    "with": [
+      "Uizard was build with speed, ease-of-use, and customization in mind - making it ",
+      "Just like Figma, with Uizard you can invite anyone to collaborate in real-time r",
+      "Whatever operating system you're working on, you're only a few clicks away from "
+    ],
+    "without": [
+      "Templates",
+      "Wireframes",
+      "Solutions",
+      "Privacy Policy"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "service"
+  }
+}

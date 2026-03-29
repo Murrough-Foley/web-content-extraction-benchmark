@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.deathwishcoffee.com/products/death-wish-coffee",
+  "file_id": "0583",
+  "ground_truth": {
+    "title": "Dark Roast Coffee",
+    "author": null,
+    "publish_date": null,
+    "main_content": "DARKER ROAST FOR BOLDER DAYS.\nMeet the yin to your yang. While you grit your teeth through the daily grind, know this bold and delicious dark roast brew will have your back all day long. Certified Fair Trade and Organic, our balanced blend of arabica beans for smooth flavor and robusta for natural strength will kick the midday crash to the curb. Find harmony, no matter the horrors your day has in store.\nSUBSCRIBE & SAVE:\nJoin the Society of Strong Coffee to save 30% off your first shipment and up to 20% off future deliveries. Plus, unlock free shipping on all subscription orders and keep an eye out for exclusive access to upcoming releases.\nUnless specified in promotional messaging, coffee subscriptions are not eligible for additional discounts or promotional offers.",
+    "main_content_markdown": "#### DARKER ROAST FOR BOLDER DAYS.\nMeet the yin to your yang. While you grit your teeth through the daily grind, know this bold and delicious dark roast brew will have your back all day long. Certified Fair Trade and Organic, our balanced blend of arabica beans for smooth flavor and robusta for natural strength will kick the midday crash to the curb. Find harmony, no matter the horrors your day has in store.\n**SUBSCRIBE & SAVE:**\nJoin the Society of Strong Coffee to save 30% off your first shipment and up to 20% off future deliveries. Plus, unlock free shipping on all subscription orders and keep an eye out for exclusive access to upcoming releases.\n*Unless specified in promotional messaging, coffee subscriptions are not eligible for additional discounts or promotional offers.*",
+    "with": [
+      "While you grit your teeth through the daily grind, know this bold and delicious dark roast brew will have your back all day long.",
+      "Certified Fair Trade and Organic, our balanced blend of arabica beans for smooth flavor and robusta for natural strength will kick the midday crash to the curb.",
+      "Find harmony, no matter the horrors your day has in store.",
+      "SUBSCRIBE & SAVE:\nJoin the Society of Strong Coffee to save 30% off your first shipment and up to 20% off future deliveries."
+    ],
+    "without": [
+      "Add to cart",
+      "Add to bag",
+      "Buy now"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": []
+    }
+  }
+}

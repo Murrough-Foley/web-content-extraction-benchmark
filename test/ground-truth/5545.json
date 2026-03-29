@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://antonvorobets.substack.com/p/the-finance-and-economics-problem",
+  "file_id": "5545",
+  "ground_truth": {
+    "title": "The Finance and Economics Problem",
+    "author": "Anton Vorobets",
+    "publish_date": "2024-12-17",
+    "main_content": "This article discusses the common problem found in many academic finance and economics theories.\n\nGetting fundamental assumptions right is essential for successful investment and risk management.\n\nThe aspects that enable us to build portfolios intelligently and outperform the market are subtle nuances that are not easily accessible to most investors.\n\nIf you do not believe me, check out this video Note where the legendary Jim Simons explains it.\n\nExactly wrong or wrong by construction\n\nThe issue with academic finance and economics is that most of the theories are exactly wrong in the sense that they very carelessly make fundamental assumptions and then very rigorously work within the boundaries of these assumptions. This makes the theories and methods practically useless and, in many cases, harmful.\n\nI illustrate this important issue in a playful way in the video below:\n\nThere is an investment management alternative\n\nWhen it comes to investment management, there exists an alternative that avoids these fundamentally wrong assumptions.\n\nThis alternative approach illustrates that covariance matrix estimation and mean-variance analysis are not that important.\n\nThe focus should rather be on generating fully general Monte Carlo market paths and analyzing their tail risks.\n\nConsidering how much current business there is related to covariance matrix estimation and mean-variance in the form of articles, books, courses and software, it naturally upsets the people who have a vested interest in maintaining the status quo.\n\nHowever, as an investment manager who is genuinely interested in generating higher tail risk-adjusted returns, you probably will find it very useful.\n\nThe next generation investment framework, which utilizes fully general Monte Carlo distributions, Sequential Entropy Pooling 1, and CVaR is thoroughly and pedagogically presented in the Portfolio Construction and Risk Management book 2.\n\nFor more information about the book, watch the video below:\n\n1\n\nEntropy Pooling Collection: https://antonvorobets.substack.com/p/entropy-pooling-collection\n\n2\n\nPortfolio Construction and Risk Management Book Substack post: https://antonvorobets.substack.com/p/pcrm-book",
+    "with": [
+      "Getting fundamental assumptions right is essential for successful investment and",
+      "I illustrate this important issue in a playful way in the video below:",
+      "Considering how much current business there is related to covariance matrix esti",
+      "Entropy Pooling Collection: https://antonvorobets.substack.com/p/entropy-pooling"
+    ],
+    "without": [
+      "Subscribe",
+      "Thanks for reading",
+      "Get the app"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "article"
+  }
+}

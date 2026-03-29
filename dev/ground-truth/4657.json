@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.capitalgroup.com/individual/planning/tools/retirement-planning-calculator.htm",
+  "file_id": "4657",
+  "ground_truth": {
+    "title": "Retirement Planning Calculator",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Use this calculator to find out how much money you might need in retirement and whether your current savings plan could get you to your goal.\n\nThe calculator results will provide a chart that compares your projected savings with your retirement goal. You’ll then be able to try different scenarios to see how changes in your savings plan might affect your results.\n\nCalculator Tips\n\n- Revisit the calculator each year, since your financial situation and goals may change.\n- Discuss your results with your financial professional. The calculator is for illustrative purposes only and is not intended to provide investment advice or portray actual investment results.\n\nSelect a Version of the Calculator\n\nQuick Analysis — 4 questions (about 5 minutes)\n\nUse this version for a quick look at your retirement outlook. It’s best for those who don’t have a lot of different investments.\n\nDetailed Analysis — 15 questions (about 15 minutes)\n\nUse this version if you want to enter more details about your personal situation and retirement investments.\n\nInformation You’ll Need\n\nSee what information you’ll need for each version of the calculator.\n\nIndicate Your Marital Status\n\nIf you and your spouse plan to retire at different times, consider running the detailed version of the calculator separately for each spouse and indicating “Single.”\n\nThis calculator is for illustrative purposes only and is not intended to provide investment advice or portray actual investment results. Your financial situation and goals may change, so you might want to revisit the calculator at least once a year. Be sure to discuss your results with your financial professional.\n\nThe calculator does not take certain factors into account, including early withdrawal penalties, required minimum distributions and holding periods. Regular investing does not ensure a profit or protect against loss. Hypothetical annual rates of return are not intended to reflect actual results; your results may vary based on market conditions. The calculator compounds earnings annually and assumes that withdrawals are made at the beginning of the year.\n\nThis analyzer was developed by KJE Computer Solutions, which is not affiliated with American Funds. It is intended for use in making a rough estimate of retirement savings plans. We do not guarantee the accuracy of the results or their relevance to your particular circumstances.",
+    "with": [
+      "Use this calculator to find out how much money you might need in retirement",
+      "The calculator results will provide a chart that compares your projected savings with your retirement goal",
+      "Revisit the calculator each year, since your financial situation and goals may change",
+      "This analyzer was developed by KJE Computer Solutions, which is not affiliated with American Funds",
+      "Use this version if you want to enter more details about your personal situation and retirement investments"
+    ],
+    "without": [
+      "Skip to main content",
+      "Capitalgroup.com/participant",
+      "Planning/Retirement Planning Calculator"
+    ],
+    "main_content_markdown": "Use this calculator to find out how much money you might need in retirement and whether your current savings plan could get you to your goal.\n\nThe calculator results will provide a chart that compares your projected savings with your retirement goal. You’ll then be able to try different scenarios to see how changes in your savings plan might affect your results.\n\n### Calculator Tips\n\n- Revisit the calculator each year, since your financial situation and goals may change.\n- Discuss your results with your financial professional. The calculator is for illustrative purposes only and is not intended to provide investment advice or portray actual investment results.\n\n### Select a Version of the Calculator\n\n**Quick Analysis** — 4 questions (about 5 minutes)\n\nUse this version for a quick look at your retirement outlook. It’s best for those who don’t have a lot of different investments.\n\n**Detailed Analysis** — 15 questions (about 15 minutes)\n\nUse this version if you want to enter more details about your personal situation and retirement investments.\n\n#### Information You’ll Need\n\nSee what [information you’ll need](https://www.capitalgroup.com/individual/planning/tools/retirement-planning-calculator/help/info-you-need.htm) for each version of the calculator.\n\n### Indicate Your Marital Status\n\nIf you and your spouse plan to retire at different times, consider running the detailed version of the calculator separately for each spouse and indicating “Single.”\n\nThis calculator is for illustrative purposes only and is not intended to provide investment advice or portray actual investment results. Your financial situation and goals may change, so you might want to revisit the calculator at least once a year. Be sure to discuss your results with your financial professional.\n\nThe calculator does not take certain factors into account, including early withdrawal penalties, required minimum distributions and holding periods. Regular investing does not ensure a profit or protect against loss. Hypothetical annual rates of return are not intended to reflect actual results; your results may vary based on market conditions. The calculator compounds earnings annually and assumes that withdrawals are made at the beginning of the year.\n\nThis analyzer was developed by KJE Computer Solutions, which is not affiliated with American Funds. It is intended for use in making a rough estimate of retirement savings plans. We do not guarantee the accuracy of the results or their relevance to your particular circumstances."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "article"
+  }
+}

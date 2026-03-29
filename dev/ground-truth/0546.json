@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://forum.squarespace.com/topic/319445-squarespace-roadmap-discussion/",
+  "file_id": "0546",
+  "ground_truth": {
+    "title": "Squarespace Roadmap Discussion",
+    "author": "ron1cne",
+    "publish_date": "2024-08-26",
+    "main_content": "ron1cne\nAugust 26, 2024\n\nHi, I'd like to know the Squarespace roadmap for future products and version releases. It appears the only forum information posted are changes to the released products. Thank you!\n\npaul2009\nAugust 27, 2024\n\nOn 8/26/2024 at 5:29 PM, ron1cne said:\n\nI'd like to know the Squarespace roadmap for future products\n\nFor more insight into Squarespace products and the roadmap, you may want to check if you are eligible to join the Squarespace Circle.",
+    "with": [
+      "I'd like to know the Squarespace roadmap for future products and version releases.",
+      "It appears the only forum information posted are changes to the released products.",
+      "For more insight into Squarespace products and the roadmap, you may want to check if you are eligible to join the Squarespace Circle.",
+      "On 8/26/2024 at 5:29 PM, ron1cne said:"
+    ],
+    "without": [
+      "Create an account or sign in to comment",
+      "Register a new account",
+      "Sign In Now"
+    ],
+    "main_content_markdown": "ron1cne\nAugust 26, 2024\n\nHi, I'd like to know the Squarespace roadmap for future products and version releases. It appears the only forum information posted are changes to the released products. Thank you!\n\npaul2009\nAugust 27, 2024\n\nOn 8/26/2024 at 5:29 PM, ron1cne said:\n\nI'd like to know the Squarespace roadmap for future products\n\nFor more insight into Squarespace products and the roadmap, you may want to check if you are eligible to join the [Squarespace Circle](https://support.squarespace.com/hc/en-us/articles/218890098-Getting-started-with-Squarespace-Circle)."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": []
+    }
+  }
+}

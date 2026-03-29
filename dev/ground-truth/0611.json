@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.supernaturalkitchen.com/shop-supernatural/natural-plant-based-food-coloring",
+  "file_id": "0611",
+  "ground_truth": {
+    "title": "Plant-Based Food Colors",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Regular baking dyes come from coal and other nasties, but our cleaned-up color powders come from hyper-concentrated veggies and spices.\n\nSafe for use in human treats, dog treats, bath bombs, homemade cosmetics, slime, and more, our natural hues are the most vibrant, concentrated natural colors on the shelf, and were even featured on the Today Show as one of their favorite natural products to try.\n\n- Colors from plants & spices\n- Tested for heavy metals and pesticides\n- Allergy-friendly\n- 100% Vegan\n- Certified Kosher\n- 4 - 2gm Packets: Red, Yellow, Orange & Blue\n- Use your plant-based colors like a pro with our how-to!\n\nIngredients: Red: Vegetable Juice and Beta Carotene; Yellow: Beta Carotene; Orange: Beta Carotene; Blue: Spirulina Extract\n\nFor allergen information, see this chart.\n\nUse your plant-based food colors like a pro with this handy how-to:",
+    "with": [
+      "Regular baking dyes come from coal and other nasties, but our cleaned-up color powders come from hyper-concentrated veggies and spices.",
+      "Safe for use in human treats, dog treats, bath bombs, homemade cosmetics, slime, and more, our natural hues are the most vibrant, concentrated natural colors on the shelf",
+      "Colors from plants & spices",
+      "Tested for heavy metals and pesticides",
+      "4 - 2gm Packets: Red, Yellow, Orange & Blue"
+    ],
+    "without": [
+      "Add To Cart",
+      "You Might Also Like",
+      "Coming Soon!",
+      "Get notified by email when this product is in stock"
+    ],
+    "main_content_markdown": "**Regular baking dyes come from coal and other nasties, but our cleaned-up color powders come from hyper-concentrated veggies and spices.**\n\nSafe for use in human treats, dog treats, bath bombs, homemade cosmetics, slime, and more, our natural hues are the most vibrant, concentrated natural colors on the shelf, and were even featured on the Today Show as one of their favorite natural products to try.\n\n- Colors from plants & spices\n- Tested for heavy metals and pesticides\n- Allergy-friendly\n- 100% Vegan\n- Certified Kosher\n- 4 - 2gm Packets: Red, Yellow, Orange & Blue\n- [**Use your plant-based colors like a pro with our how-to**](https://www.supernaturalkitchen.com/how-to-use-natural-food-colors)!\n\nIngredients: Red: Vegetable Juice and Beta Carotene; Yellow: Beta Carotene; Orange: Beta Carotene; Blue: Spirulina Extract\n\n*For allergen information,* [*see this chart*](https://www.supernaturalkitchen.com/faq).\n\nUse your plant-based food colors like a pro with this handy how-to:"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": []
+    }
+  }
+}

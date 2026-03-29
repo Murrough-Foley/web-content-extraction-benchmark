@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.gymshark.com/collections/all-products",
+  "file_id": "0633",
+  "ground_truth": {
+    "title": "T-Shirts & Tops",
+    "author": "",
+    "publish_date": null,
+    "main_content": "mens\n\nT-Shirts & Tops\n\n400 Products\n\nRunning Graphic T-Shirt\noversized fit\nGS Black\n$36\n\nGeo Seamless T-Shirt\nslim fit\nStorm Blue / Stealth Blue\n$36\n\nShadow Seamless T Shirt\nmuscle fit\nBlack\n$38\n\nArrival Block T-Shirt\nWhite\n$19.20\n\nVital Seamless T-Shirt\nslim fit\nBlack/Silhouette Grey\n$38\n\nCritical Drop Arm Tank\nslim fit\nBlack\n$24\n\nOversized Performance T-Shirt\noversized fit\nBlack\n$26\n\nOversized Performance T-Shirt\noversized fit\nWhite\n$26\n\nRibbed Tank 1PK\nmuscle fit\nBlack\n$16\n\nCrest T-Shirt\nregular fit\nLight Grey Marl\n$22\n\nArrival T-Shirt\nregular fit\nNavy\n$22\n\nCrest Long Sleeve T-Shirt\nregular fit\nBlack\n$26\n\nCrest T-Shirt\nregular fit\nNavy\n$22\n\nCrest T-Shirt\nregular fit\nBlack\n$22\n\nCritical Tank\nslim fit\nBlack\n$22\n\nPower T-Shirt\noversized fit\nGS Stealth Blue\n$36\n\nPower T-Shirt\noversized fit\nBlack/Asphalt Grey\n$36\n\nPower T-Shirt\noversized fit\nBlack/Conditioning Red\n$36\n\nPower Cut Off Tank\noversized fit\nBlack/Asphalt Grey\n$30\n\nLegacy Drop Arm Tank\nslim fit\nBlack\n$24\n\nGeo Seamless T-Shirt\nslim fit\nBlack/Charcoal Grey\n$36\n\nElement Baselayer T-Shirt\ncompression fit\nBlack/Brand Blue\n$34\n\nShadow Seamless T Shirt\nmuscle fit\nBlack/Brand Blue\n$38\n\nPower T-Shirt\noversized fit\nMushroom Grey\n$28.80\n\nPower T-Shirt\noversized fit\nOnyx Grey\n$28.80\n\nElement Tank\ncompression fit\nBlack\n$24\n\nElement Baselayer Long Sleeve T-Shirt\ncompression fit\nBlack\n$32\n\nArrival T-Shirt\nregular fit\nBlack\n$22\n\nPower Cut Off Tank\noversized fit\nBlack/Conditioning Red\n$30\n\nSet The Pace Tank\noversized fit\nGraphite Grey\n$30\n\nAtlas T-Shirt\noversized fit\nBlack\n$40\n\nLegacy T-Shirt\nslim fit\nBlack\n$28\n\nRibbed Tank 1PK\nmuscle fit\nBlack/White\n$16\n\nElement Tank\ncompression fit\nWhite\n$24\n\nRibbed Tank 1PK\nmuscle fit\nWhite\n$16",
+    "with": [
+      "400 Products",
+      "Running Graphic T-Shirt",
+      "Geo Seamless T-Shirt\nslim fit\nStorm Blue / Stealth Blue",
+      "Critical Drop Arm Tank\nslim fit\nBlack\n$24",
+      "Element Baselayer Long Sleeve T-Shirt\ncompression fit\nBlack\n$32"
+    ],
+    "without": [
+      "Accessibility Statement",
+      "skip to Women",
+      "Free Shipping",
+      "add to wishlist",
+      "New Arrivals"
+    ],
+    "main_content_markdown": "## mens\n\nT-Shirts & Tops\n\n### 400 Products\n\n[Running Graphic T-Shirt](https://www.gymshark.com/products/gymshark-running-graphic-t-shirt-ss-tops-black-ss26)\noversized fit\nGS Black\n$36\n\n[Geo Seamless T-Shirt](https://www.gymshark.com/products/gymshark-geo-seamless-t-shirt-ss-tops-blue-ss26)\nslim fit\nStorm Blue / Stealth Blue\n$36\n\n[Shadow Seamless T Shirt](https://www.gymshark.com/products/gymshark-shadow-seamless-t-shirt-black-aw24)\nmuscle fit\nBlack\n$38\n\n[Arrival Block T-Shirt](https://www.gymshark.com/products/gymshark-arrival-block-t-shirt-ss-tops-white-aw25)\nWhite\n$19.20\n\n[Vital Seamless T-Shirt](https://www.gymshark.com/products/gymshark-vital-seamless-t-shirt-ss-tops-black-ss25)\nslim fit\nBlack/Silhouette Grey\n$38\n\n[Critical Drop Arm Tank](https://www.gymshark.com/products/gymshark-critical-drop-arm-tank-black-ss25)\nslim fit\nBlack\n$24\n\n[Oversized Performance T-Shirt](https://www.gymshark.com/products/gymshark-oversized-performance-t-shirt-black-ss24)\noversized fit\nBlack\n$26\n\n[Oversized Performance T-Shirt](https://www.gymshark.com/products/gymshark-oversized-performance-t-shirt-white-ss25)\noversized fit\nWhite\n$26\n\nRibbed Tank 1PK\nmuscle fit\nBlack\n$16\n\nCrest T-Shirt\nregular fit\nLight Grey Marl\n$22\n\nArrival T-Shirt\nregular fit\nNavy\n$22\n\n[Crest Long Sleeve T-Shirt](https://www.gymshark.com/products/gymshark-crest-long-sleeve-t-shirt-black-ss22)\nregular fit\nBlack\n$26\n\nCrest T-Shirt\nregular fit\nNavy\n$22\n\nCrest T-Shirt\nregular fit\nBlack\n$22\n\nCritical Tank\nslim fit\nBlack\n$22\n\nPower T-Shirt\noversized fit\nGS Stealth Blue\n$36\n\nPower T-Shirt\noversized fit\nBlack/Asphalt Grey\n$36\n\nPower T-Shirt\noversized fit\nBlack/Conditioning Red\n$36\n\nPower Cut Off Tank\noversized fit\nBlack/Asphalt Grey\n$30\n\n[Legacy Drop Arm Tank](https://www.gymshark.com/products/gymshark-legacy-drop-arm-tank-black-aw23)\nslim fit\nBlack\n$24\n\n[Geo Seamless T-Shirt](https://www.gymshark.com/products/gymshark-geo-seamless-t-shirt-black-charcoal-grey-ss23)\nslim fit\nBlack/Charcoal Grey\n$36\n\n[Element Baselayer T-Shirt](https://www.gymshark.com/products/gymshark-element-baselayer-t-shirt-ss-tops)\ncompression fit\nBlack/Brand Blue\n$34\n\n[Shadow Seamless T Shirt](https://www.gymshark.com/products/gymshark-shadow-seamless-t-shirt-ss-tops)\nmuscle fit\nBlack/Brand Blue\n$38\n\nPower T-Shirt\noversized fit\nMushroom Grey\n$28.80\n\nPower T-Shirt\noversized fit\nOnyx Grey\n$28.80\n\nElement Tank\ncompression fit\nBlack\n$24\n\n[Element Baselayer Long Sleeve T-Shirt](https://www.gymshark.com/products/gymshark-element-baselayer-long-sleeve-t-shirt-ls-tops-black-ss25)\ncompression fit\nBlack\n$32\n\nArrival T-Shirt\nregular fit\nBlack\n$22\n\nPower Cut Off Tank\noversized fit\nBlack/Conditioning Red\n$30\n\n[Set The Pace Tank](https://www.gymshark.com/products/gymshark-set-the-pace-tank-sleeveless-tops-grey-ss26)\noversized fit\nGraphite Grey\n$30\n\nAtlas T-Shirt\noversized fit\nBlack\n$40\n\nLegacy T-Shirt\nslim fit\nBlack\n$28\n\nRibbed Tank 1PK\nmuscle fit\nBlack/White\n$16\n\nElement Tank\ncompression fit\nWhite\n$24\n\nRibbed Tank 1PK\nmuscle fit\nWhite\n$16"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": []
+    }
+  }
+}

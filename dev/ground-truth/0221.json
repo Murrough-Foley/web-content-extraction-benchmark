@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.statnews.com/2025/12/18/weight-loss-drugs-wegovy-zepbound-health-plans/",
+  "file_id": "0221",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "healthcare",
+        "pharmaceuticals",
+        "obesity",
+        "insurance",
+        "policy"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Employers drop coverage for weight loss drugs as pharma’s direct-to-consumer programs grow",
+    "author": "Elaine Chen",
+    "publish_date": "2025-12-18",
+    "main_content": "When HCA Healthcare, one of the largest hospital systems in the U.S., recently told employees it would stop covering blockbuster obesity drugs Zepbound and Wegovy next year, it pointed them to an alternative way to get the treatments: Buy them themselves. In a notice viewed by STAT, HCA said use of the GLP-1 weight loss drugs surged 90% this year, ‘significantly’ raising costs. It instead suggested employees enroll in discount programs introduced by the drugs’ manufacturers, Eli Lilly and Novo Nordisk, which allow patients to buy the medicines without using insurance at cash prices that are lower than the list prices. ‘Another way of phrasing what HCA said is, ‘I’m gonna direct you to this manufacturer plan, because for me as a company, that’s a lot cheaper than me buying you the drug,’’ said Craig Garthwaite, director of health care at Northwestern University’s Kellogg School of Management. HCA declined to comment. It isn’t the only company dropping coverage. Doctors and groups representing employers said they’re increasingly hearing about companies cutting weight loss drugs out of health plans next year as costs mount. Experts say the growth of Lilly’s and Novo’s consumer offerings may be contributing to this shift. The drugmakers have heavily advertised these programs as a way to expand access, and President Trump has embraced them as part of his drug pricing policies. But counterintuitively, these programs may be making it easier for employers to stop covering the injections through insurance, thereby making them less affordable for everyday people. Because of the complicated nature of the U.S. health care system — which involves pharmacy benefits managers and manufacturer rebates — employers often don’t know the actual price they pay for each medicine in their health plans. Some are starting to wonder whether they’re paying more for obesity drugs than the cash prices being offered, which range from $200 to $450 a month depending on the dose, said Jim Winkler, chief strategy officer of the Business Group on Health, a coalition of large employers. That’s leading companies to think it makes more sense for workers to get the drugs on their own, he added. In fact, HCA said in its notice, ‘in many cases, the discounts available [through Lilly and Novo’s programs] make the medications less expensive than what group health plans can negotiate with the manufacturers at this time.’",
+    "with": [
+      "When HCA Healthcare, one of the largest hospital systems in the U.S., recently told employees it would stop covering blockbuster obesity drugs Zepbound and Wegovy next year, it pointed them to an alternative way to get the treatments: Buy them themselves.",
+      "Experts say the growth of Lilly’s and Novo’s consumer offerings may be contributing to this shift.",
+      "The drugmakers have heavily advertised these programs as a way to expand access, and President Trump has embraced them as part of his drug pricing policies.",
+      "HCA said in its notice, ‘in many cases, the discounts available [through Lilly and Novo’s programs] make the medications less expensive than what group health plans can negotiate with the manufacturers at this time.’"
+    ],
+    "without": [
+      "This article is exclusive to STAT+ subscribers",
+      "Log In",
+      "Privacy Policy"
+    ],
+    "main_content_markdown": "When HCA Healthcare, one of the largest hospital systems in the U.S., recently told employees it would stop covering blockbuster obesity drugs Zepbound and Wegovy next year, it pointed them to an alternative way to get the treatments: Buy them themselves. In a notice viewed by STAT, HCA said use of the GLP-1 weight loss drugs surged 90% this year, 'significantly' raising costs. It instead suggested employees enroll in discount programs introduced by the drugs' manufacturers, Eli Lilly and Novo Nordisk, which allow patients to buy the medicines without using insurance at cash prices that are lower than the list prices. 'Another way of phrasing what HCA said is, 'I'm gonna direct you to this manufacturer plan, because for me as a company, that's a lot cheaper than me buying you the drug,'' said Craig Garthwaite, director of health care at Northwestern University's Kellogg School of Management. HCA declined to comment. It isn't the only company dropping coverage. Doctors and groups representing employers said they're increasingly hearing about companies cutting weight loss drugs out of health plans next year as costs mount. Experts say the growth of Lilly's and Novo's consumer offerings may be contributing to this shift. The drugmakers have heavily advertised these programs as a way to expand access, and President Trump has [embraced them](https://www.statnews.com/2025/11/06/trumprx-weight-loss-drug-discounts-wegovy-zepbound/) as part of his drug pricing policies. But counterintuitively, these programs may be making it easier for employers to stop covering the injections through insurance, thereby making them less affordable for everyday people. Because of the complicated nature of the U.S. health care system - which involves pharmacy benefits managers and manufacturer rebates - employers often don't know the actual price they pay for each medicine in their health plans. Some are starting to wonder whether they're paying more for obesity drugs than the cash prices being offered, which range from $200 to $450 a month depending on the dose, said Jim Winkler, chief strategy officer of the Business Group on Health, a coalition of large employers. That's leading companies to think it makes more sense for workers to get the drugs on their own, he added. In fact, HCA said in its notice, 'in many cases, the discounts available [through Lilly and Novo's programs] make the medications less expensive than what group health plans can negotiate with the manufacturers at this time.'"
+  }
+}

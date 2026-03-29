@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.scottishconstructionnow.com/articles/and-finally-trouble-brewing",
+  "file_id": "0457",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "news",
+        "construction",
+        "and-finally"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "And finally… trouble brewing",
+    "author": null,
+    "publish_date": "2025-12-19",
+    "main_content": "New research from The Federation of Master Builders (FMB) shows less than half of homeowners aren't offering their builder a hot drink, despite mounting pressure on building companies to get jobs finished for homeowners in time for Christmas.\n\nThe research found that 42% of homeowners don't offer their builder a brew. It comes as the Chartered Institute of Building (CIOB) highlights the pressures builders are facing behind the scenes. The CIOB reports 94% of construction workers experienced stress in the past year, with 83% suffering with anxiety, and 60% experiencing depression. Unrealistic deadlines, heavy workloads, communication and staffing issues were among the leading reasons.\n\nA clear generational divide also emerged in the research. Older homeowners were far more likely to offer a drink, with 74% of over-65s and 68% of those aged 55-64 saying they would do so, compared with just 40% of 18-24s, or the Gen Z's.\n\nBrian Berry, chief executive of the FMB, said: 'The mental health pressures facing builders are significant all year round, but they often peak in December. Many are juggling long hours, the cold weather and the responsibility of keeping projects finished before Christmas. Small acts of kindness really do matter, like offering your builder a cup of tea or taking a moment to chat will make a real difference at a very demanding time.'\n\nMartin Daly, the FMB's youngest board member, said: 'Being offered a cup of tea or a coffee may seem like a small gesture, but it goes a long way. Building relationships with clients is part of the job so chatting over a brew helps build that bond. Also, there is nothing better than a hot drink this time of year!'",
+    "with": [
+      "New research from The Federation of Master Builders (FMB) shows less than half of homeowners aren't offering their builder a hot drink",
+      "The research found that 42% of homeowners don't offer their builder a brew",
+      "The CIOB reports 94% of construction workers experienced stress in the past year"
+    ],
+    "without": [
+      "Scottish Construction Summit",
+      "SUBSCRIBE",
+      "Cookies",
+      "© Dundee Press Agency Ltd 2025"
+    ],
+    "main_content_markdown": "New research from The Federation of Master Builders (FMB) shows less than half of homeowners aren't offering their builder a hot drink, despite mounting pressure on building companies to get jobs finished for homeowners in time for Christmas.\n\nThe research found that 42% of homeowners don't offer their builder a brew. It comes as the Chartered Institute of Building (CIOB) highlights the pressures builders are facing behind the scenes. The CIOB reports 94% of construction workers experienced stress in the past year, with 83% suffering with anxiety, and 60% experiencing depression. Unrealistic deadlines, heavy workloads, communication and staffing issues were among the leading reasons.\n\nA clear generational divide also emerged in the research. Older homeowners were far more likely to offer a drink, with 74% of over-65s and 68% of those aged 55-64 saying they would do so, compared with just 40% of 18-24s, or the Gen Z's.\n\nBrian Berry, chief executive of the FMB, said: 'The mental health pressures facing builders are significant all year round, but they often peak in December. Many are juggling long hours, the cold weather and the responsibility of keeping projects finished before Christmas. Small acts of kindness really do matter, like offering your builder a cup of tea or taking a moment to chat will make a real difference at a very demanding time.'\n\nMartin Daly, the FMB's youngest board member, said: 'Being offered a cup of tea or a coffee may seem like a small gesture, but it goes a long way. Building relationships with clients is part of the job so chatting over a brew helps build that bond. Also, there is nothing better than a hot drink this time of year!'"
+  }
+}

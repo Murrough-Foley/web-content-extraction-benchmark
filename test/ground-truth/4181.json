@@ -1,0 +1,25 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.uclastore.com/32oz-Wide-Mouth-Hydro-Flask?srsltid=AfmBOorSbunLDAUE518kvGe8C_M-cYOauW4j4xOGCWd9F87Eln41RXVf",
+  "file_id": "4181",
+  "ground_truth": {
+    "title": null,
+    "author": null,
+    "publish_date": null,
+    "main_content": null,
+    "with": [],
+    "without": []
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "low",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product",
+    "unextractable": true,
+    "unextractable_reason": "JavaScript-rendered SuiteCommerce SPA; HTML shell contains no product content — title tag is empty, <div id='main'> contains only placeholder text. All product data loaded via AJAX.",
+    "spa": true
+  }
+}

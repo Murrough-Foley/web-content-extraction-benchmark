@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://thevolunteercenter.org/volunteers/",
+  "file_id": "5345",
+  "ground_truth": {
+    "title": "Volunteers",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Volunteers\n\nDid you know that The Center runs the largest volunteer database in the Triangle?\n\nHandsOn Triangle is home to over 1,400 agencies and 15,000 volunteers!\n\nAre you a nonprofit seeking volunteers? Or a volunteer seeking new and exciting opportunities? You’re in the right place!\n\nVolunteers\n\nVisit HandsOnTriangle.org to search for volunteer opportunities with our over 1,400 partner agencies.\n\nSearch by location, time/date, organization focus, and more. Find other opportunities using the HandsOnTriangle calendar.\n\nNonprofits\n\nCreate your HandsOnTriangle nonprofit profile to post volunteer opportunities and events. Over 1,400 agencies have registered for this online service!\n\nConnect with nearly 15,000 individuals who use the site to find service opportunities. When you create an account, you will also receive information about the many resources TNVLC offers to local nonprofits.",
+    "with": [
+      "HandsOn Triangle is home to over 1,400 agencies and 15,000 volunteers!",
+      "Are you a nonprofit seeking volunteers? Or a volunteer seeking new and exciting ",
+      "Search by location, time/date, organization focus, and more. Find other opportun",
+      "Create your HandsOnTriangle nonprofit profile to post volunteer opportunities an"
+    ],
+    "without": [
+      "Skip to content",
+      "Nonprofit of the Week",
+      "Current Trainings",
+      "Service Enterprise"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

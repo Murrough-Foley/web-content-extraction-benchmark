@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://sawmillcreek.org/forums/design-forum.5/",
+  "file_id": "5097",
+  "ground_truth": {
+    "title": "Design Forum",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Project and Design Discussion\n\nSMC Design Critiques\nAaron Koehl - Dec 22, 2004 - Replies 0 - Views 63K\n\nBasement sink base with Kohler cast iron sink\nBrian Runau - Feb 10, 2026 - Replies 5 - Views 1K\n\nHow should I build this shack door?\nCharlie Kaiser - Feb 27, 2026 - Replies 6 - Views 349\n\nTensegrity table\nGeorge Newcomer - Feb 15, 2026 - Replies 3 - Views 681\n\nCabinet Door overlay\nCaleb weaver - Jan 25, 2026 - Replies 2 - Views 764\n\nI know what I want to make, yet keep forgetting about it!!\nGeorge Speed - Jan 18, 2026 - Replies 5 - Views 708\n\nAdvice on discreet embellishment\nDavid Storer - Jan 14, 2026 - Replies 2 - Views 543\n\nTo figure or not to figure\nJames Jayko - Dec 9, 2025 - Replies 4 - Views 2K\n\nValve turn-er-offer\nMaurice Mcmurry - Jan 29, 2026 - Replies 7 - Views 579\n\nShow off your legs! Seeking design ideas\nLeo Zick - Jan 11, 2026 - Replies 5 - Views 832\n\ncompound angles?\nScott Welty - Jan 10, 2026 - Replies 21 - Views 2K\n\nHelp on Replicating a Nightstand\nNoah Mateen - Jan 3, 2026 - Replies 5 - Views 1K\n\nHomemade veneer over prefinished plywood\nEduard Nemirovsky - Jan 6, 2026 - Replies 9 - Views 2K\n\nlooking for sketch / plans for stickley highlands pedestal dining table\nNolan Lassiter - Jan 2, 2026 - Replies 4 - Views 924\n\nKitchen Cabinet Side Panels\nCarolyn Melo - Jan 1, 2026 - Replies 4 - Views 911\n\nLarge drawer solid wood bottoms\nJosko Catipovic - Dec 16, 2025 - Replies 11 - Views 4K\n\nDesktop for sit-stand desk\nDavid Fells - Dec 3, 2025 - Replies 8 - Views 3K\n\nStorage under workbenches\nJosko Catipovic - Dec 4, 2025 - Replies 5 - Views 1K\n\nSketchUp for Furniture Design with Dave Richards\ntim walker - Dec 2, 2025 - Replies 1 - Views 792\n\nTable to leg connection question\nPrashun Patel - Oct 23, 2025 - Replies 14 - Views 5K\n\nNeed some very simple woodworking plans\nTyler Bancroft - Nov 30, 2025 - Replies 0 - Views 643",
+    "with": [
+      "SMC Design Critiques",
+      "Basement sink base with Kohler cast iron sink",
+      "Tensegrity table",
+      "Large drawer solid wood bottoms",
+      "Table to leg connection question"
+    ],
+    "without": [
+      "Community platform by XenForo",
+      "Install the app",
+      "What's new"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "forum"
+  }
+}

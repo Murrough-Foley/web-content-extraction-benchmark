@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://kval.com/topic/Car%20Rental",
+  "file_id": "1795",
+  "ground_truth": {
+    "title": "Eugene Topic Car Rental",
+    "author": null,
+    "publish_date": null,
+    "main_content": "CAR RENTAL\n\nThanksgiving travel hits new record with 82 million travelers, AAA reports\n\nThanksgiving is the busiest travel holiday of the year, and this year is no different.\n\nCalifornia car rental company fuels nationwide crime-tourism spree\n\nFederal and local authorities uncovered a crime-tourism ring that operated under the guise of a car rental company.\n\nNerdWallet travel expert: Flying is likely cheapest option for spring, summer trips\n\nAs gas prices remain high, air travel may be the best way to get around the country. According to NerdWallet travel writer Sally French, despite the feeling that everything is more expensive these days, traveling by plane may still be cheaper than driving.\n\n$29,000 for an average used car? Would-be buyers are shocked\n\nDETROIT (AP) — A couple of months ago, a woman paid a visit to Jeff Schrier's used car lot in Omaha, Nebraska. She was on a tight budget, she said, and was desperate for a vehicle to commute to work.\n\nMultiple rental cars catch fire at the Pensacola International Airport\n\nPENSACOLA, Fla. (WEAR) — Multiple rental cars caught fire at the Pensacola International Airport Saturday. Police told Channel 3 news the fire happened around 1 p. m. in a rental car cleaning facility on the north end of the property.\n\nProfitt Report: Beware buying a used rental car\n\nIf you're thinking of buying a used car directly from a rental-car company, you could be getting a steal. But before you dive in, make sure you look into the life of the car. Consumer Reports explains. Rental cars can be a good deal, but there are some things to watch out for.\n\nEugene Airport reports rental car shortage\n\nEUGENE, Ore. -- A heads up for travelers - Eugene Airport officials say rental cars at the airport are in high demand, and that means cars are running low. They say spring break and their growing airport are both to blame for the shortage.\n\nNRA faces corporate backlash after latest school shooting\n\nThe National Rifle Association is facing a corporate backlash as companies take a closer look at their investments, co-branding deals and other ties to the gun industry following the latest school massacre.",
+    "with": [
+      "Thanksgiving is the busiest travel holiday of the year, and this year is no different.",
+      "Federal and local authorities uncovered a crime-tourism ring that operated under the guise of a car rental company.",
+      "As gas prices remain high, air travel may be the best way to get around the country.",
+      "Multiple rental cars caught fire at the Pensacola International Airport Saturday.",
+      "If you're thinking of buying a used car directly from a rental-car company, you could be getting a steal."
+    ],
+    "without": [
+      "Download the App",
+      "Loading...",
+      "Skip to main content",
+      "Get your news faster with our mobile experience"
+    ],
+    "main_content_markdown": "CAR RENTAL\n\n[Thanksgiving travel hits new record with 82 million travelers, AAA reports](https://kval.com/news/nation-world/thanksgiving-travel-hits-new-record-with-82-million-aaa-reports-thursday-november-27-2025-airplane-rental-car-traffic-orlando-atlanta-las-vegas-los-angeles-newark-holiday-travel-flying-congestion#)\n\nThanksgiving is the busiest travel holiday of the year, and this year is no different.\n\n[California car rental company fuels nationwide crime-tourism spree](https://kval.com/news/nation-world/california-losa-angeles-based-car-rental-company-fuels-nationwide-crime-tourism-spree-us-attorney-martin-estrada-river-power-rentals-juan-carlos-thola-duran-ana-maria-arriagada#)\n\nFederal and local authorities uncovered a crime-tourism ring that operated under the guise of a car rental company.\n\n[NerdWallet travel expert: Flying is likely cheapest option for spring, summer trips](https://kval.com/news/nation-world/nerdwallet-travel-expert-flying-is-likely-cheapest-option-for-spring-summer-trips-high-gas-prices-plane-tickets-labor-shortages-rise-in-demand-bookings#)\n\nAs gas prices remain high, air travel may be the best way to get around the country. According to NerdWallet travel writer Sally French, despite the feeling that everything is more expensive these days, traveling by plane may still be cheaper than driving.\n\n[$29,000 for an average used car? Would-be buyers are shocked](https://kval.com/news/coronavirus/29000-for-an-average-used-car-would-be-buyers-are-aghast#)\n\nDETROIT (AP) - A couple of months ago, a woman paid a visit to Jeff Schrier's used car lot in Omaha, Nebraska. She was on a tight budget, she said, and was desperate for a vehicle to commute to work.\n\n[Multiple rental cars catch fire at the Pensacola International Airport](https://kval.com/news/nation-world/multiple-rental-cars-catch-fire-at-the-pensacola-international-airport#)\n\nPENSACOLA, Fla. (WEAR) - Multiple rental cars caught fire at the Pensacola International Airport Saturday. Police told Channel 3 news the fire happened around 1 p. m. in a rental car cleaning facility on the north end of the property.\n\n[Profitt Report: Beware buying a used rental car](https://kval.com/news/auto-matters/profitt-report-beware-buying-a-used-rental-car#)\n\nIf you're thinking of buying a used car directly from a rental-car company, you could be getting a steal. But before you dive in, make sure you look into the life of the car. Consumer Reports explains. Rental cars can be a good deal, but there are some things to watch out for.\n\n[Eugene Airport reports rental car shortage](https://kval.com/news/local/eugene-airport-reports-rental-car-shortage#)\n\nEUGENE, Ore. -- A heads up for travelers - Eugene Airport officials say rental cars at the airport are in high demand, and that means cars are running low. They say spring break and their growing airport are both to blame for the shortage.\n\n[NRA faces corporate backlash after latest school shooting](https://kval.com/news/nation-world/nra-faces-corporate-backlash-after-latest-school-shooting#)\n\nThe National Rifle Association is facing a corporate backlash as companies take a closer look at their investments, co-branding deals and other ties to the gun industry following the latest school massacre."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "pool-import"
+      ]
+    }
+  }
+}

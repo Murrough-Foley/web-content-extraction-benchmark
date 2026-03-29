@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "url": "https://pumble.com/compare/free-slack-alternative",
+  "file_id": "5646",
+  "ground_truth": {
+    "title": "Free Slack Alternative",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Like Slack but without any limits\n\nPumble is a business messaging alternative to Slack. It lets your team communicate and see entire message history from the beginning.\n\nWhy Pumble, not Slack\n\nSend and search all your messages and files, send meeting links, and much more for a more affordable price.\n\nCommunicate without time limit\n\nPumble allows you to see ALL of the messages you’ve ever sent, without any limit. You can look up an important message in your team’s discussion history, no matter how long ago it happened.\n\nSend meeting links\n\nSend an invitation link to people you need to join the meeting. Copy the link, paste it in calendars or send as a message, the choice is yours.\n\nShare 10GB of files without limits\n\nAll files shared in the channels, threads or direct messages will be available for your team, without any time limitations. In Pumble you’ll have a 10GB storage per workspace.\n\nMore affordable alternative to Slack\n\nIf you have a medium-sized company with around 80 employees, all of whom must be on Slack you’ll have to pay at least $8400 every year. With Pumble, for the same number of users, you’ll pay $2900.\n\nPay 64% less for better features\n\nHow to import data from Slack\n\nImport public channels, messages, and your team from Slack.\n\nSee what users have to say\n\nAvailable support 24 hours a day, every day of the week, including holidays.\n\nFREE Unlimited users and message history, free forever.\n\n47% fewer emails and 30% increased productivity.\n\nWhy choose Pumble over Slack\n\nBest Slack alternatives\n\nEight of the most prominent team chat apps go head-to-head in a tournament to reveal the best alternative to Slack.\n\nMove from Slack to Pumble\n\nSlack users can move their data to Pumble and continue collaborating without interruptions.\n\nPumble vs Slack\n\nCheck what are the main differences between Pumble and Slack, including feature breakdown, ease of use, and price.",
+    "with": [
+      "Pumble is a business messaging alternative to Slack",
+      "Pumble allows you to see ALL of the messages",
+      "pay at least $8400 every year. With Pumble, for the same number of users"
+    ],
+    "without": [
+      "Sign Up",
+      "Log In",
+      "Contact us"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "service"
+  }
+}

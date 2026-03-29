@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.intern-list.com/",
+  "file_id": "5301",
+  "ground_truth": {
+    "title": "Top 2026 U.S. Internships: Software, Data, Marketing, Product, Design, and more",
+    "author": null,
+    "publish_date": null,
+    "main_content": "The Ultimate 2026 U.S. & Canada Internships List\n\nLooking for an internship? Get hourly updates from LinkedIn, Indeed, Handshake, and 200K+ career sites - so you never miss a single opportunity.\n\nUnited States\n\nCanada\n\nSoftware Engineering\nData Analysis\nMachine Learning and AI\nProduct Management\nAccounting and Finance\nEngineering and Development\nBusiness Analyst\nMarketing\nCybersecurity\nConsulting\nCreatives and Design\nManagement and Executive\nPublic Sector and Government\nLegal and Compliance\nHuman Resources\nArts and Entertainment\nSales\nCustomer Service and Support\nEducation and Training\nHealthcare\nSupply Chain",
+    "with": [
+      "Looking for an internship? Get hourly updates from LinkedIn, Indeed, Handshake",
+      "Machine Learning and AI",
+      "Public Sector and Government",
+      "Customer Service and Support"
+    ],
+    "without": [
+      "2026 New Graduate Jobs List",
+      "Top AI/ML Jobs",
+      "Guide by Job Function",
+      "Master Job Search"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

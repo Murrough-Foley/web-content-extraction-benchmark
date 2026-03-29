@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.grainger.com/content/mc/product-collections/industries/public-sector/state-local-government/public-safety",
+  "file_id": "5511",
+  "ground_truth": {
+    "title": "Sorry, we're unable to complete your request",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Sorry, we're unable to complete your request\n\nWe cannot complete your request due to a technical difficulty. You may return to the previous page or go to the homepage and explore other options. For immediate assistance please call us.\n\nPrevious Page\n\nReturn to your previous page\n\nHomepage\n\nReturn to Grainger homepage\n\nCall Us\n\n1-800-GRAINGER (1-800-472-4643)",
+    "with": [
+      "We cannot complete your request due to a technical difficulty",
+      "Return to Grainger homepage",
+      "1-800-GRAINGER (1-800-472-4643)"
+    ],
+    "without": [
+      "Whoops, we couldn't find that."
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "collection",
+    "removal_reason": "soft_404_error_page",
+    "verdict": "replace"
+  }
+}

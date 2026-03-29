@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.farmersmarketbluffton.org/",
+  "file_id": "5268",
+  "ground_truth": {
+    "title": "Bluffton Farmer's Market",
+    "author": null,
+    "publish_date": null,
+    "main_content": "SIGN-UP FOR TEXT ALERTS\n\nReceive market updates, weather cancellations, etc. by texting the word\n'FARMER' to 484848\n\nThursdays Year Round\n\nSeptember-May 12-4 PM\nJune, July, August 10-2 PM\n\nNewsletter Sign-Up\n\nWe look forward to hearing from you. Please contact us to discover how we can make a difference on your next visit.",
+    "with": [
+      "Receive market updates, weather cancellations, etc. by texting the word",
+      "September-May 12-4 PM",
+      "We look forward to hearing from you"
+    ],
+    "without": [
+      "This Week at the Market",
+      "Meet Our Vendors",
+      "Hazel Digital Media"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

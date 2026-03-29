@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.terminix.com/coupons-and-discounts/",
+  "file_id": "0338",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "pest-control",
+        "coupons",
+        "discounts",
+        "service-promotions"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Terminix discounts, coupons, and promo codes",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Terminix discounts, coupons, and promo codes\n\nPest control specials\n\nSave $50 on pest control!\n\nSave $50 on your initial pest control service. Use code SAVE50 at checkout!\n\nWildlife offers\n\nSave $100 when you protect your home from rodents and wildlife.\n\nProtect your home from unwanted animals and damage with expert wildlife control and exclusion.\n\nCombine and save\n\nProtection plans for complete coverage\n\nCombine services in one simple plan to save more while shielding your home from multiple pests.\n\nGet pest control deals with special offers from Terminix\n\nWith Terminix, you get proven pest control solutions backed by over 95 years of experience—plus great savings. Take advantage of a Terminix discount to help treat common household pests like cockroaches, ants, spiders, and rodents.\n\nWhether you're searching for the latest Terminix promo code or exploring available coupons, these offers help you save while protecting your home with expert service. When you work with us, our technicians will customize a treatment plan that meets the unique needs of your home. Leave your home in the hands of the industry-leading experts at Terminix.",
+    "with": [
+      "Save $50 on your initial pest control service. Use code SAVE50 at checkout!",
+      "Save $100 when you protect your home from rodents and wildlife.",
+      "With Terminix, you get proven pest control solutions backed by over 95 years of experience—plus great savings.",
+      "When you work with us, our technicians will customize a treatment plan that meets the unique needs of your home."
+    ],
+    "without": [
+      "Sign up for deals, updates and a free guide",
+      "Terms of Use",
+      "Privacy Policy",
+      "Accessibility"
+    ],
+    "main_content_markdown": "# Terminix discounts, coupons, and promo codes\n\n## Pest control specials\n\n### Save $50 on pest control!\n\n**Save $50** on your initial pest control service. **Use code SAVE50** at checkout!\n\n## Wildlife offers\n\n### Save $100 when you protect your home from rodents and wildlife.\n\nProtect your home from unwanted animals and damage with expert wildlife control and exclusion.\n\n## Combine and save\n\n### Protection plans for complete coverage\n\nCombine services in one simple plan to save more while shielding your home from multiple pests.\n\n## Get pest control deals with special offers from Terminix\n\nWith Terminix, you get proven pest control solutions backed by over 95 years of experience-plus great savings. Take advantage of a Terminix discount to help treat common household pests like cockroaches, ants, spiders, and rodents.\n\nWhether you're searching for the latest Terminix promo code or exploring available coupons, these offers help you save while protecting your home with expert service. When you work with us, our technicians will customize a treatment plan that meets the unique needs of your home. Leave your home in the hands of the industry-leading experts at Terminix."
+  }
+}

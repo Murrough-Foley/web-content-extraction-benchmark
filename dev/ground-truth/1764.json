@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://forum.audacityteam.org/t/best-practices-in-modern-software-development/145837",
+  "file_id": "1764",
+  "ground_truth": {
+    "title": "Best Practices in Modern Software Development",
+    "author": "ChirsRoot",
+    "publish_date": "2025-07-26",
+    "main_content": "ChirsRoot\n\nHello everyone,\n\nAs software development continues to evolve rapidly, I wanted to start a professional discussion around the best practices that developers and teams are actively applying in 2025.\n\nWith the shift toward microservices, containerization, and AI-driven development tools, it's clear that writing clean code is no longer enough scalability, security, and maintainability are now at the core of good development.\n\nHere are a few practices I'm currently focusing on:\n\n- Test-Driven Development (TDD): It's helped me write more stable and maintainable code from the start.\n- DevOps integration: CI/CD pipelines have transformed the way we deploy and manage releases.\n- Code reviews and documentation: Investing time in proper reviews and clear documentation has improved team productivity.\n- Learning cloud-first development: Tools like Docker, Kubernetes, and serverless functions are becoming essential.\n\nI'm curious to know from this community:\n\n- What modern practices have become part of your workflow?\n- How do you balance innovation with technical debt?\n- Are there tools or methodologies that you now consider essential?\n\nLet's use this space to share insights, real-world strategies, and even lessons learned from past challenges. Looking forward to hearing how other developers and teams are approaching software development in today's fast-paced environment.\n\nkozikowski\n\nThere aren't any developers here. This isn't a Help Desk. This is a forum with users helping each other.\n\nKoz\n\nkozikowski\n\nAre you having trouble recording your audiobook?\n\nKoz",
+    "main_content_markdown": "ChirsRoot\n\nHello everyone,\n\nAs software development continues to evolve rapidly, I wanted to start a professional discussion around the best practices that developers and teams are actively applying in 2025.\n\nWith the shift toward microservices, containerization, and AI-driven development tools, it's clear that writing clean code is no longer enough scalability, security, and maintainability are now at the core of good development.\n\nHere are a few practices I'm currently focusing on:\n\nTest-Driven Development (TDD): It's helped me write more stable and maintainable code from the start.\n- DevOps integration: CI/CD pipelines have transformed the way we deploy and manage releases.\n- Code reviews and documentation: Investing time in proper reviews and clear documentation has improved team productivity.\n- Learning cloud-first development: Tools like Docker, Kubernetes, and serverless functions are becoming essential.\n\nI'm curious to know from this community:\n\n- What modern practices have become part of your workflow?\n- How do you balance innovation with technical debt?\n- Are there tools or methodologies that you now consider essential?\n\nLet's use this space to share insights, real-world strategies, and even lessons learned from past challenges. Looking forward to hearing how other developers and teams are approaching software development in today's fast-paced environment.\n\nkozikowski\n\nThere aren't any developers here. This isn't a Help Desk. This is a forum with users helping each other.\n\nKoz\n\nkozikowski\n\nAre you having trouble recording your audiobook?\n\nKoz",
+    "with": [
+      "As software development continues to evolve rapidly, I wanted to start a professional discussion around the best practices that developers and teams are actively applying in 2025.",
+      "With the shift toward microservices, containerization, and AI-driven development tools, it's clear that writing clean code is no longer enough scalability, security, and maintainability are now at the core of good development.",
+      "Test-Driven Development (TDD): It's helped me write more stable and maintainable code from the start.",
+      "DevOps integration: CI/CD pipelines have transformed the way we deploy and manage releases.",
+      "There aren't any developers here. This isn't a Help Desk. This is a forum with users helping each other."
+    ],
+    "without": [
+      "Audacity Forum",
+      "This topic was automatically closed after 30 days. New replies are no longer allowed.",
+      "Programming and Development"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "pool-import"
+      ]
+    }
+  }
+}

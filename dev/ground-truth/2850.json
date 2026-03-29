@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://posthog.com/",
+  "file_id": "2850",
+  "ground_truth": {
+    "title": "PostHog",
+    "author": null,
+    "publish_date": null,
+    "main_content": "PostHog data stack, built for data teams and loved by product teams\n\nBuilt-in, Product OS ships with:\n\n- A data warehouse\n- 120+ sources/destinations\n- SQL editor + BI + data viz\n- User activity feed (CDP-lite)\n- API, webhooks\n\nWhen you're analyzing how customers use your product, you should be operating from the full set of data.\n\nThis includes customer information that happens outside your product:\n\n- payments from Stripe\n- exceptions in an error tracking tool\n- tickets in your support platform\n\nHaving all the data in one place means you can make more informed decisions about what to build next.\n\nPostHog's Product OS isn't just analytics – it's the entire suite of tools built to give you a single source of truth about your customers.\n\nUsage-based pricing\n\nOur whole philosophy is that you shouldn't have to worry about pricing.\n\nAll our paid products are pay-per-use with generous monthly free tiers. In fact, 98% of our customers use PostHog for free.\n\nWe aim to be the cheapest option at scale – PostHog should be a no-brainer. You never have to \"jump on a quick call\" with sales.\n\nHere are some examples of how we charge for most popular products:\n\n1. Product Analytics\nFree tier: 1 million events/mo\nPricing: $0.00005/event\n\n2. Session Replay\nFree tier: 5,000 recordings/mo\nPricing: $0.005/recording\n\n3. Feature Flags\nFree tier: 1 million requests/mo\nPricing: $0.0001/request\n\n4. Managed warehouse\nFree tier: 1 million rows/mo\nPricing: $0.000015/row\n\nHow can AI help analyze data and build products faster?\n\nWe have several teams working on AI on a handful of fronts. PostHog AI works across PostHog – and it’s way more than just generating insights.\n\nPostHog AI helps you automate monotonous tasks of gathering context and summarizing information – and will soon have the ability to make code changes to fix bugs and improve software.\n\nWhy PostHog?\n\nWe’re different from most companies for a bunch of reasons:\n\nTransparency. You can read our company handbook, our sales manual, and company strategy.\n\nWe ship fast. See our changelog.\n\nActually-technical support. Our support folks all have engineering backgrounds.",
+    "with": [
+      "PostHog's Product OS isn't just analytics",
+      "Having all the data in one place means you can make more informed decisions about what to build next",
+      "98% of our customers use PostHog for free",
+      "Usage-based pricing",
+      "120+ sources/destinations"
+    ],
+    "without": [
+      "Get started - free",
+      "README: PostHog data stack.md",
+      "Open customers.mdx",
+      "Shameless CTA"
+    ],
+    "main_content_markdown": "## PostHog data stack, built for data teams and loved by product teams\n\n**Built-in, Product OS ships with:**\n\n- A data warehouse\n- 120+ sources/destinations\n- SQL editor + BI + data viz\n- User activity feed (CDP-lite)\n- API, webhooks\n\nWhen you're analyzing how customers use your product, you should be operating from *the full set of data*.\n\nThis includes customer information that happens *outside your product*:\n\n- payments from Stripe\n- exceptions in an error tracking tool\n- tickets in your support platform\n\nHaving all the data in one place means you can make more informed decisions about what to build next.\n\nPostHog's Product OS isn't just analytics – it's the entire suite of tools built to give you a single source of truth about your customers.\n\n## Usage-based pricing\n\nOur whole philosophy is that you shouldn't have to worry about pricing.\n\nAll our paid products are pay-per-use with generous monthly free tiers. In fact, 98% of our customers use PostHog for free.\n\nWe aim to be the cheapest option at scale – PostHog should be a no-brainer. You never have to \"jump on a quick call\" with sales.\n\nHere are some examples of how we charge for most popular products:\n\n1. [Product Analytics](https://posthog.com/product-analytics)\nFree tier: 1 million events/mo\nPricing: $0.00005/event\n\n2. [Session Replay](https://posthog.com/session-replay)\nFree tier: 5,000 recordings/mo\nPricing: $0.005/recording\n\n3. [Feature Flags](https://posthog.com/feature-flags)\nFree tier: 1 million requests/mo\nPricing: $0.0001/request\n\n4. [Managed warehouse](https://posthog.com/data-stack/managed-warehouse)\nFree tier: 1 million rows/mo\nPricing: $0.000015/row\n\n## How can AI help analyze data and build products faster?\n\nWe have several teams working on AI on a handful of fronts. PostHog AI works across PostHog – and it’s *way* more than just generating insights.\n\nPostHog AI helps you automate monotonous tasks of gathering context and summarizing information – and will soon have the ability to make code changes to fix bugs and improve software.\n\n## Why PostHog?\n\nWe’re different from most companies for a bunch of reasons:\n\n**Transparency.** You can read our [company handbook](https://posthog.com/handbook), our [sales manual](https://posthog.com/handbook/growth/sales/overview), and [company strategy](https://posthog.com/handbook/why-does-posthog-exist).\n\n**We ship fast.** See our [changelog](https://posthog.com/changelog).\n\n***Actually***-**technical support.** Our [support folks](https://posthog.com/teams/support) all have engineering backgrounds."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": "",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

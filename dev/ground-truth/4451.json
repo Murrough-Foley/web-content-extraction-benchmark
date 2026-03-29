@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.erinspain.com/12-diy-woodworking-projects/",
+  "file_id": "4451",
+  "ground_truth": {
+    "title": "12 DIY Woodworking Projects",
+    "author": "Erin Spain",
+    "publish_date": "2017-05-03",
+    "main_content": "Every month I team up with my fellow “DIY Housewives” team of bloggers to bring you posts from each of our archives dedicated to a monthly theme. This month, our theme is DIY woodworking projects, and we are sharing 12 of them to inspire you! Whether you are a beginner woodworker or a seasoned pro, there’s something for everyone.\n\nThe project I’m sharing is this DIY Faux Concrete and Gold Leaf planter I built. You can CLICK HERE for the full tutorial.\n\nBe sure to check out the rest of the DIY Housewives’ projects below!",
+    "with": [
+      "The project I’m sharing is this DIY Faux Concrete and Gold Leaf planter I built.",
+      "Every month I team up with my fellow “DIY Housewives” team of bloggers to bring",
+      "Be sure to check out the rest of the DIY Housewives’ projects below!"
+    ],
+    "without": [
+      "Filed Under: DIY , Home & DIY Blog , Woodworking",
+      "Copyright © 2026 Erin Spain. Log in",
+      "Privacy Policy"
+    ],
+    "main_content_markdown": "Every month I team up with my fellow “DIY Housewives” team of bloggers to bring you posts from each of our archives dedicated to a monthly theme. This month, our theme is DIY woodworking projects, and we are sharing 12 of them to inspire you! Whether you are a beginner woodworker or a seasoned pro, there’s something for everyone.\n\nThe project I’m sharing is this DIY Faux Concrete and Gold Leaf planter I built. You can CLICK HERE for the full tutorial.\n\nBe sure to check out the rest of the DIY Housewives’ projects below!"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "article"
+  }
+}

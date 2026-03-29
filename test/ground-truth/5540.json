@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://phinancenet.substack.com/p/financial-economics-what-kind-of",
+  "file_id": "5540",
+  "ground_truth": {
+    "title": "'Financial Economics: What Kind of Science Is It?' by Marta Szymanowska and Conrad Heilmann",
+    "author": "Emiliano Ippoliti",
+    "publish_date": "2025-03-06",
+    "main_content": "10 April 2025, 18:00 - Rome time @ In conversation: Exploring the Philosophy of Money and Finance\n\nIn conversation: Exploring the Philosophy of Money and Finance\n\nInterviews with contributing authors of The Philosophy of Money and Finance (OUP, 2024)\n\nFinancial Economics: What Kind of Science Is It?\n\nby\n\nMarta Szymanowska and Conrad Heilmann\n\n10 April 2025\n\nIn conversation is organized by Phinance, the Philosophy & Finance Network\n\n18:00 Marta Szymanowska and Conrad Heilmann (Erasmus University Rotterdam), Financial Economics: What Kind of Science Is It?\n\n18:20 Debate\n\nInterviewer: Emiliano Ippoliti (Roma Sapienza)\n\nChair: Lisa Warenski (CUNY, UConn)\n\nOrganization: Emiliano Ippoliti (Roma Sapienza); Lisa Warenski (CUNY Graduate Center and University of Connecticut); Joakim Sandberg (University of Gothenburg)\n\nAbstract\n\nIn this interview, Marta and Conrad argue that financial economics is best characterized by its use of models and its performative nature. They show that the model-based and performative character of financial economics is: (1) visible in the history of its emergence and its current scientific practice; (2) central to the kind of insights it aims to generate; and (3) key to understanding what kind of ethical values are at play. We do so by focusing on the CAPM. As a model that is both theoretically and practically important, it is a good starting point for asking how philosophers of science should go about assessing the epistemic performance of financial economics.\n\nA debate follows the interview.\n\n‘In Conversation: Exploring the Philosophy of Money and Finance’ is a series of meetings that delve into the relationship between philosophy, money, and finance. Each interview is followed by a live debate, encouraging active audience participation. The sessions (interview plus debate) are 30 minutes long.",
+    "with": [
+      "In conversation: Exploring the Philosophy of Money and Finance",
+      "Financial Economics: What Kind of Science Is It?",
+      "Interviewer: Emiliano Ippoliti (Roma Sapienza)",
+      "In this interview, Marta and Conrad argue that financial economics is best chara"
+    ],
+    "without": [
+      "Subscribe",
+      "Ready for more?",
+      "Get the app"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "article"
+  }
+}

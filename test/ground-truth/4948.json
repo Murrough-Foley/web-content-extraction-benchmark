@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.tidy.com/locations/los-angeles-ca/house-cleaning",
+  "file_id": "4948",
+  "ground_truth": {
+    "title": "House Cleaning in Los Angeles, CA",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Standard house and property cleaning services\n\nTrusted, background-checked pros\n\nSame-day availability in most areas\n\nTransparent pricing — no hidden fees\n\n4.8 • 150+ happy customers near Los Angeles\n\nAlso Available in Nearby Areas\n\nHow TIDY Works\n\nHouse Cleaning in Los Angeles — simple, modern, and fully managed\n\n1. Book Your Cleaning\n\nChoose your preferred date and time for house cleaning in Los Angeles\n\n2. Your Pro Arrives\n\nUse your own pro or find new ones through Smart Pro Search. TIDY handles scheduling and reminders.\n\n3. Enjoy & Repeat\n\nSet up recurring cleanings, track quality with digital checklists, and manage everything from your phone.\n\nAbout House Cleaning\n\nKeep your property spotless by using TIDY to get, vet, and manage House Cleaning professionals. Use our tools to track cleaning history, inventory, and more.\n\nWhat's Included\nConsistent, thorough cleaning on your schedule. Custom to you, including your vetting preferences.\nAccess experienced cleaning professionals, with tools to manage vetting and background checks as needed.\nCustomizable cleaning checklists to ensure your needs are met Book House Cleaning\n\nHouse Cleaning in Los Angeles\n\nTIDY helps you manage house cleaning in Los Angeles with trusted professionals and modern tools.\n\nQuick Response Time\n\nSame-day or next-day availability in most areas\n\nPopular Areas Served\n\nServing all neighborhoods in Los Angeles Add Your Pro To Manage\n\nThe Largest Pro Network on the Planet\n\nTop-rated pros available in Los Angeles\n\nEO\n\nEmily O.\n\n4.6 ( 9 jobs)\n\nSJ\n\nSamantha J.\n\n4.9 ( 175 jobs)\n\nGS\n\nGrace S.\n\n4.9 ( 19 jobs)\n\nBook with Confidence in Los Angeles\n\nTIDY helps you get unheard of quality and reliability\n\nYour Standards, Your Pros\n\nSet your requirements for pros in Los Angeles — background checks, insurance, experience level. You're always in control.\n\nTransparent Pricing\n\nSee the full price before you book. No introductory rates that change, no hidden subscription fees.\n\nManage From Your Phone\n\nBook, reschedule, communicate with pros, and track quality — all from one app.\n\nWhat Customers Near Los Angeles Say\n\nReal reviews from customers who use TIDY\n\n“ The House Cleaning service has been fantastic. My vacation rental is always spotless and ready for guests. ”\n\nMZ\n\nMargaret Z.\n\nMargaret Z. • 5 stars\n\n“ Consistent quality every time. I've been using this service for my home for 6 months and couldn't be happier. ”\n\nRT\n\nRobert T.\n\nRobert T. • 5 stars\n\n“ Good cleaning service, met my expectations. ”\n\nDL\n\nDavid L.\n\nDavid L. • 4 stars\n\n“ Sandrs was amazing! My place looks so good! ”\n\nCS\n\nCourtney S\n\nCleaning Service From Courtney S in Los Angeles\n\n“ great as usual ”\n\nCJ\n\nCheri J\n\nCleaning Service From Cheri J in Los Angeles\n\n“ Great job!:) ”\n\nLV\n\nLori V\n\nCleaning Service From Lori V in Los Angeles\n\nFrequently Asked Questions\n\nCommon questions about house cleaning in Los Angeles\n\nHow much does house cleaning cost in Los Angeles, CA?\n\nHouse cleaning prices in Los Angeles vary by home size and service type. TIDY shows you the full price before you book — no hidden fees or introductory rates that change later.\n\nCan I book same-day house cleaning in Los Angeles?\n\nYes, many pros in Los Angeles offer same-day availability. Book through TIDY and we'll match you with available pros in your area.\n\nCan I use my own cleaner with TIDY in Los Angeles?\n\nAbsolutely. TIDY works with your existing pros — they won't even know you're using TIDY. We handle scheduling, reminders, and checklists. You can also use Smart Pro Search to find new pros in Los Angeles.\n\nAre house cleaners in Los Angeles background-checked?\n\nYou set your requirements for pros in Los Angeles. TIDY gives you tools to require background checks, insurance verification, and other vetting criteria.\n\nCan I schedule recurring house cleaning in Los Angeles?\n\nYes. TIDY makes it easy to set up weekly, biweekly, or monthly cleaning schedules. Your pro handles the rest, and TIDY sends automatic reminders and confirmations.\n\nWhat makes TIDY different from other cleaning services in Los Angeles?\n\nTIDY is a technology platform, not a cleaning company. You keep full control of your pros and schedule. TIDY automates the management — scheduling, messaging, checklists, and quality tracking — so you don't have to.\n\nReady for House Cleaning in Los Angeles?\n\nGet started in 60 seconds. Book House Cleaning",
+    "with": [
+      "4.8 • 150+ happy customers near Los Angeles",
+      "Serving all neighborhoods in Los Angeles Add Your Pro To Manage",
+      "How much does house cleaning cost in Los Angeles, CA?",
+      "TIDY is a technology platform, not a cleaning company. You keep full control of "
+    ],
+    "without": [
+      "Integrations",
+      "Rentals/Hosts",
+      "Orange County",
+      "Washington DC"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "service"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://cooking.meta.stackexchange.com/questions/1584/how-can-we-make-substitution-questions-more-helpful",
+  "file_id": "5172",
+  "ground_truth": {
+    "title": "How can we make substitution questions more helpful?",
+    "author": null,
+    "publish_date": "2012-12-19",
+    "main_content": "There seem to be lots of questions asking for ingredient substitutions.\n\nWhat guidance should we give to make it easier for the askers to give the right information, so that they can get helpful answers?\n\n3 Answers\n\nThis isn't terribly different from any other category of questions. New users will often not include all the necessary information in their questions, and in those cases we have to ask them to provide it, and sometimes even edit their questions.\n\nPeople who write questions with missing information are not generally people who will go out of their way to read FAQ or really anything that's not present on the \"ask a question\" page. Editing tag wikis is a good way to help with that, since people often do enter correct tags, and the page then pops up an excerpt of that tag's wiki. For example, the \"substitutions\" tag excerpt just reads \"Questions about possible substitutions for an ingredient.\" It could be a bit more helpful. But beyond that, it's inevitable that sometimes we just have to ask for more information, regardless of the question topic.\n\nIt's possible that the stackexchange engine could be even more proactive about this by adapting the help/hint text based on the content of the question. If it were able to infer that \"substitutions\" was likely a good tag based on the question, it could provide relevant advice. But of course, these things are hard, and it's a balance - if you show too much information, or change it too often, people won't read it. In any case, that's a much more general discussion, and one to have on stackoverflow meta on behalf of all of stackexchange, not just cooking.\n\nWhen asking a question about ingredient substitutions, please:\n\nSay why you need the substitution (allergy, dietary guidelines, simply out of the ingredient, not available where you live, you just don't like the taste), since that may drive different answers.\n\nGive some context of the recipe or technique where the ingredient is being used, since the role that ingredient plays in the recipe may indicate different substitutions.\n\nDoing these things will help people who answer you give information that will actually help. After all, if you are allergic to sesame, and we suggest using sesame seeds in place of sesame oil for flavor, that information won't be helpful.\n\nEdit/suggest an edit to the tag wiki.\n\n(Seriously - that is the #1 thing you can do to make questions in any particular tag more helpful. Not everybody will read it, but the more people in the know, the more it will improve.)",
+    "with": [
+      "What guidance should we give to make it easier for the askers to give the right ",
+      "People who write questions with missing information are not generally people who",
+      "Give some context of the recipe or technique where the ingredient is being used,",
+      "(Seriously - that is the #1 thing you can do to make questions in any particular"
+    ],
+    "without": [
+      "Seasoned Advice Meta",
+      "Site design / logo",
+      "user contributions licensed under",
+      "Stack Exchange Inc"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "forum"
+  }
+}

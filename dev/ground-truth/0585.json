@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "url": "https://ruggable.com/products/beatrice-tan-tufted-rug",
+  "file_id": "0585",
+  "ground_truth": {
+    "title": "Beatrice Tan Rug",
+    "author": "",
+    "publish_date": null,
+    "main_content": "",
+    "with": [],
+    "without": [
+      "Sign in",
+      "Create account",
+      "Add to cart",
+      "Checkout",
+      "View cart",
+      "Shop All",
+      "New Arrivals",
+      "Copyright",
+      "Privacy Policy",
+      "Terms of Service",
+      "6RYrXgXDKoVbbT78qy57Dj",
+      "3HPviiSEwKyJSpux2KKy0O",
+      "7JH955CVbBAZIOEz7rmHDy"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": []
+    },
+    "spa": true
+  }
+}

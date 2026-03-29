@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.nintendo.com/us/gaming-systems/switch/oled-model/?srsltid=AfmBOoq8TjV7iR1yQUwSnz3J7gMuc6qPRYwcVBt8gQEMQkhmXlxlQrch",
+  "file_id": "4221",
+  "ground_truth": {
+    "title": "Nintendo Switch",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Nintendo Switch – OLED Model\n\nAvailable now\n\n$399.99 MSRP* Buy now\n\nEnhanced features, brilliant fun\n\nThis model features a vibrant 7-inch OLED screen, a wide adjustable stand, a dock with a wired LAN port (LAN cable sold separately), 64 GB of internal storage (a portion of which is reserved for use by the system), and enhanced audio in handheld and tabletop modes.\n\n7-inch OLED screen\n\nFeast your eyes on vivid colors and crisp contrast when you play on-the-go.\n\nSee the difference the vibrant screen makes, whether you're racing at top speed or squaring off against enemies.\n\nTV mode\n\nDock your system to enjoy HD gaming on your TV.\n\nTabletop mode\n\nFlip the stand to share the screen, then share the fun with a multiplayer* game.\n\nHandheld mode\n\nPick it up and play with the Joy-Con™ controllers attached to enjoy the 7-inch OLED screen.\n\nChoose your control style\n\nOne controller or two, vertical or sideways, attached to the console or separate. You can play multiple ways, depending on the game.\n\nShare with a friend\n\nFlip the stand to share the screen, then share the fun with a multiplayer game.\n\nTry something new\n\nHD Rumble puts you in the game with physical feedback, while the IR Motion Camera opens up new experiences.\n\nBetter together: Multiplayer gaming options\n\nLocal co-op\n\nPlay on the big screen at home with friends.*\n\nLocal wireless\n\nLink up to eight Nintendo Switch family systems together to play multiplayer games anywhere.\n\nOnline play\n\nTeam up or face off with others online in compatible games with a Nintendo Switch Online membership.\n\nLearn more and sign up\n\nMore system features\n\nNintendo eShop\n\nFind and buy digital versions of full games and DLC from Nintendo eShop on your system or our online store.\n\nShop for games\n\nNintendo Switch Online\n\nAccess your membership's benefits right from the system's HOME menu.\n\nLearn more\n\nNews\n\nGet the latest game updates, announcements, and more with this up-to-date news feed.\n\nAlbum\n\nEasily take and save screenshots using the Capture Button. Then view, add text, and share to social networks from your album.\n\nSo many games to play\n\nThe Nintendo Switch family is home to exclusive games from franchises like Super Smash Bros.™, The Legend of Zelda™, Mario Kart™, and many more.\n\nYou’ll also find great games from other developers—with more added every week.\n\nMore than 5,000 games...and counting See all Nintendo Switch games\n\nParental Controls\n\nSettings that let you keep the focus on fun. Learn more\n\nNintendo Switch Family\n\nThree ways to play\n\nCompare features\n\nNintendo Switch - OLED Model\n\nNintendo Switch\n\nNintendo Switch Lite\n\n*Manufacturer’s Suggested Retail Price, actual price may vary. See retailer for details.\n\nAny Nintendo Switch Online membership (sold separately) and Nintendo Account required for online play. Not available in all countries. Internet access required for online features. Terms apply. nintendo.com/switch/online-service\n\n*Additional Joy-Con or Nintendo Switch Pro controllers required for multiplayer modes; sold separately. Multiplayer features vary by game; see individual games for details.",
+    "with": [
+      "This model features a vibrant 7-inch OLED screen, a wide adjustable stand, a dock with a wired LAN",
+      "Flip the stand to share the screen, then share the fun with a multiplayer game.",
+      "Easily take and save screenshots using the Capture Button. Then view, add text, and share to social",
+      "Any Nintendo Switch Online membership (sold separately) and Nintendo Account r",
+      "Pick it up and play with the Joy-Con™ controllers attached to enjoy the 7-inch OLED screen.\n\nChoose"
+    ],
+    "without": [
+      "About Nintendo",
+      "Nintendo Switch 2",
+      "My Nintendo Store",
+      "Terms of Use"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "draft",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  }
+}

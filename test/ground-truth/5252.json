@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.internationalstudent.com/study_usa/financing/scholarships/",
+  "file_id": "5252",
+  "ground_truth": {
+    "title": "International Scholarships",
+    "author": null,
+    "publish_date": null,
+    "main_content": "There are many resources available to students to search for scholarships, and there are also many services that charge students for either access to their scholarship database or to conduct a scholarship search on a student’s behalf. If you have the time and available resources, most of the scholarship searches can be found online for free. InternationalScholarships.com is one that offers a free scholarship search, and with a little research you can find many more out there. Take your time, do your homework and you will be able to find all the information you need.\n\nFor international students hoping to study in the US, scholarships can be an invaluable help toward financing your goals. Whether you are an incoming first year, a student going on to graduate school, or simply returning to college for a new year, there is financial assistance out there for you.\n\nAsk Your School\n\nNo matter where you live or attend school, your first step when searching for scholarships should be your school’s financial aid office. Most colleges offer scholarship programs specifically for international students attending the institution. Check out your school’s financial aid website, or call or email the office if you can’t find what you’re looking for.\n\nAm I eligible for a scholarship?\n\nEligibility for a scholarship depends entirely on the scholarship; there is no general rule of thumb on whether you are eligible for a financial award. Some scholarships require students to have a certain TOEFL score; some ask that you are from a certain country; some ask for you to have a certain grade point average. You will need to do your own research to see if you are eligible for a scholarship. It can be confusing, but remember that college admissions officers and financial aid experts are there to help you find as much money as you qualify for.\n\nHow do I apply?\n\nAs with eligibility, there is no set rule on how to apply for scholarships. While some just require you to complete an application form, others may require a specially written piece of work, or for you to be pursuing studies in a certain field. If you find a scholarship for which you think that you may be eligible, contact the award administrator of that award. All the scholarships found in the InternationalStudent.com Scholarship search contain contact details of the award administrator.\n\nFind a Scholarship\n\nScholarship Scams\n\nScholarship scams are all over the place, and as an international student you are a prime target for people trying to scam you out of money. To help you, we have created a list of things to look out for and help you spot a Scholarship Scam.\n\nRead the full article »",
+    "with": [
+      "For international students hoping to study in the US, scholarships can be an inv",
+      "No matter where you live or attend school, your first step when searching for sc",
+      "As with eligibility, there is no set rule on how to apply for scholarships. Whil"
+    ],
+    "without": [
+      "USA School Search",
+      "Canada School Search",
+      "School Search",
+      "UK School Search"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

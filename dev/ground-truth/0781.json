@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.lsc.gov/about-lsc/what-legal-aid/i-need-legal-help",
+  "file_id": "0781",
+  "ground_truth": {
+    "title": "I Need Legal Help",
+    "author": null,
+    "publish_date": null,
+    "main_content": "LSC is an independent nonprofit established by Congress in 1974 to provide financial support for civil legal aid to low-income Americans. The Corporation currently provides funding to 130 independent nonprofit legal aid organizations in every state, the District of Columbia, and U.S. Territories.\n\nIf you are looking for help with a civil legal problem, enter an address or city below to find an LSC-funded legal aid organization near you.\n\nYou can also visit LawHelp.org to look up information about your legal questions and find free legal forms.\n\nBegin typing an address in the search box below, then select one of the suggested results. You can also click on the map.\n\nContact a legal aid organization in your area\n\nPlease search for an address or click on the map.\n\nLSC-funded legal aid in the red-shaded region is administered by:\n\nFor legal help, call",
+    "with": [
+      "If you are looking for help with a civil legal problem, enter an address or city below to find an LSC-funded legal aid organization near you.",
+      "You can also visit LawHelp.org to look up information about your legal questions and find free legal forms.",
+      "Please search for an address or click on the map.",
+      "LSC is an independent nonprofit established by Congress in 1974 to provide financial support for civil legal aid to low-income Americans.",
+      "Contact a legal aid organization in your area"
+    ],
+    "without": [
+      "Skip to main content",
+      "Donate",
+      "Stay Informed With LSC",
+      "© 2025 Legal Services Corporation"
+    ],
+    "main_content_markdown": "LSC is an independent nonprofit established by Congress in 1974 to provide financial support for civil legal aid to low-income Americans. The Corporation currently provides funding to 130 independent nonprofit legal aid organizations in every state, the District of Columbia, and U.S. Territories.\n\nIf you are looking for help with a civil legal problem, enter an address or city below to find an LSC-funded legal aid organization near you.\n\nYou can also visit [LawHelp.org](http://www.lawhelp.org/) to look up information about your legal questions and find free legal forms.\n\nBegin typing an address in the search box below, then select one of the suggested results. You can also click on the map.\n\nContact a legal aid organization in your area\n\nPlease search for an address or click on the map.\n\nLSC-funded legal aid in the red-shaded region is administered by:\n\nFor legal help, call"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": "",
+      "tags": []
+    }
+  }
+}

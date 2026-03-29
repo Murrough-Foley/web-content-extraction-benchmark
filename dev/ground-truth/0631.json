@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://bg.iherb.com/pr/almondina-toastees-toasted-almond-thins-cranberry-almond-5-25-oz-149-g-discontinued-item/61856",
+  "file_id": "0631",
+  "ground_truth": {
+    "title": "Almondina, Toastees, Toasted Almond Thins, Cranberry Almond, 5.25 oz (149 g)",
+    "author": null,
+    "publish_date": null,
+    "main_content": "By Almondina\n\nProduct code: ALD-00601\nUPC: 722325006016\nPackage quantity: 148 g\nDimensions: 9.7 x 12.4 x 6.6 cm, 0.16 kg\n\nProduct overview\n\nLow Fat\nNo Added Salt\nNo Preservatives\nDairy Free\nCalories 120 | Protein 3 g | Cholesterol 0% - Per Serving\nBaked Snack\nKosher Pareve\nBaked in Small Batches\nMade from Scratch\n\nOur family created these delicious crunchy almond crisps for special occasions and get-togethers. It's a lighter version of grandma Dina's original secret family recipe. The crisps quickly became a highly requested snack item at the office, school events, on road trips and at parties.\n\nBaked with simple ingredients found in most kitchens, these crisps contain no cholesterol, no dairy, no preservatives, no added fat and salt. Extremely snackable and crunchy, Almondina Toastees are perfect on their own or with toppings. Excellent when paired with cheeses, enjoy with coffee, superb in ice cream or yogurt and a great treat for children of all ages. Have a nice crunch!\n\nTamar & Jason - Next Generation of the Almondina Family\n\nNutrition Facts\n\nServing Size: 12 Pieces (29 g)\nServings Per Container: About 5\n\nCalories: 120\nTotal Fat: 2 g (3%)\nSaturated Fat: 0 g (0%)\nTrans Fat: 0 g\nCholesterol: 0 mg (0%)\nSodium: 30 mg (1%)\nTotal Carbohydrate: 23.5 g (8%)\nDietary Fiber: <1 g (3%)\nTotal Sugars: 13 g\nIncl. 11 g Added Sugars (22%)\nProtein: 3 g\nVitamin D: 0 mcg (0%)\nCalcium: 10 mg (2%)\nIron: 0.3 mg (2%)\nPotassium: 50 mg (2%)\n\nIngredients\n\nFlour (wheat flour, malted barley flour), cane sugar, egg whites, almonds, sweetened dried cranberries (cranberries, cane sugar, sunflower oil), natural flavors, baking powder (sodium acid pyrophosphate, sodium bicarbonate, corn starch, monocalcium phosphate).\n\nContains: Wheat, eggs and almonds.\nBaked in a facility that uses coconut, pecans, hazelnuts, sesame and pistachios.",
+    "main_content_markdown": "By [Almondina](https://bg.iherb.com/)\n\nProduct code: ALD-00601\nUPC: 722325006016\nPackage quantity: 148 g\nDimensions: 9.7 x 12.4 x 6.6 cm, 0.16 kg\n\n## Product overview\n\nLow Fat\nNo Added Salt\nNo Preservatives\nDairy Free\nCalories 120 | Protein 3 g | Cholesterol 0% - Per Serving\nBaked Snack\nKosher Pareve\nBaked in Small Batches\nMade from Scratch\n\nOur family created these delicious crunchy almond crisps for special occasions and get-togethers. It's a lighter version of grandma Dina's original secret family recipe. The crisps quickly became a highly requested snack item at the office, school events, on road trips and at parties.\n\nBaked with simple ingredients found in most kitchens, these crisps contain no cholesterol, no dairy, no preservatives, no added fat and salt. Extremely snackable and crunchy, Almondina Toastees are perfect on their own or with toppings. Excellent when paired with cheeses, enjoy with coffee, superb in ice cream or yogurt and a great treat for children of all ages. Have a nice crunch!\n\nTamar & Jason - Next Generation of the Almondina Family\n\nNutrition Facts\n\nServing Size: 12 Pieces (29 g)\nServings Per Container: About 5\n\nCalories: 120\nTotal Fat: 2 g (3%)\nSaturated Fat: 0 g (0%)\nTrans Fat: 0 g\nCholesterol: 0 mg (0%)\nSodium: 30 mg (1%)\nTotal Carbohydrate: 23.5 g (8%)\nDietary Fiber: <1 g (3%)\nTotal Sugars: 13 g\nIncl. 11 g Added Sugars (22%)\nProtein: 3 g\nVitamin D: 0 mcg (0%)\nCalcium: 10 mg (2%)\nIron: 0.3 mg (2%)\nPotassium: 50 mg (2%)\n\n### Ingredients\n\nFlour (wheat flour, malted barley flour), cane sugar, egg whites, almonds, sweetened dried cranberries (cranberries, cane sugar, sunflower oil), natural flavors, baking powder (sodium acid pyrophosphate, sodium bicarbonate, corn starch, monocalcium phosphate).\n\nContains: Wheat, eggs and almonds.\nBaked in a facility that uses coconut, pecans, hazelnuts, sesame and pistachios.",
+    "with": [
+      "Our family created these delicious crunchy almond crisps for special occasions and get-togethers.",
+      "It's a lighter version of grandma Dina's original secret family recipe.",
+      "Baked with simple ingredients found in most kitchens, these crisps contain no cholesterol, no dairy, no preservatives, no added fat and salt.",
+      "Extremely snackable and crunchy, Almondina Toastees are perfect on their own or with toppings."
+    ],
+    "without": [
+      "Add to cart",
+      "Email a Friend",
+      "Discontinued"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": []
+    }
+  }
+}

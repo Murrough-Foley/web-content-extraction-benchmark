@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://locations.youfit.com/orlando-colonial-dr",
+  "file_id": "5364",
+  "ground_truth": {
+    "title": "YouFit Gyms Orlando Colonial",
+    "author": null,
+    "publish_date": null,
+    "main_content": "About YouFit Gyms Orlando Colonial\n\nYouFit Gyms offers a personalized and inclusive gym experience at an incredibly accessible price. At YouFit Gyms, you'll find exactly what you need to get your heart pumping, build strength, tone muscles, lose weight, and increase flexibility. We offer small group training classes led by a personal trainer, Olympic weightlifting platforms and bumper plates, energizing group fitness classes, and endless cardio machines.\n\nServices\n\nCardio Equipment, Free Weights, & Resistance Machines\nPerformance Lifting Area\nLocker Rooms\nGroup Exercise Classes\n\nWHY CHOOSE YOUFIT GYMS?\n\nAll Fitness Levels\n\nWhether you're a seasoned athlete or just beginning your fitness journey, YouFit Gyms is the perfect place to work out. All members receive a free fitness assessment and workout plan to help reach their goals.\n\nAffordable Fitness Options\n\nAt YouFit Gyms, we believe that fitness should be accessible to everyone. That's why we offer flexible and affordable membership with no hidden fees. Choose from a variety of plans to find one that fits your budget and fitness needs.\n\nState-of-the-Art Equipment\n\nOur gym features a wide range of modern, high-quality, and functional exercise equipment. From weights, and cardio machines to specialized training areas, we have everything you need to achieve your fitness goals.\n\nTRAIN WITH YOUFIT GYMS\n\nMOVE WITH YOUR COMMUNITY\n\nWhether you're dancing through Zumba, powering up with Les Mills, finding your flow in yoga, or moving at your own pace with Silver Sneakers, our classes keep you motivated and coming back for more. With great music, expert instructors, and an awesome community, it's the most fun you'll have getting fit.\n\nTRAINING PROGRAMS BUILT FOR YOU\n\nOur certified personal trainers provide the motivation, personalized fitness plans, accountability, and education you need to achieve your goals.\n\nTRAIN WITH YOUR COMMUNITY\n\nResults-driven classes designed with YOU in mind. Achieve a full body workout, tone your abs & glutes, and stretch & recover and more with a personal trainer by your side. Classes are capped at 10 members, so you receive 1:1 attention from our personal trainers.\n\nSo many amenities. So little time.\n\nSmall Group Training\n\nGet 1:1 attention and expect to hit all major muscle groups and improve your fitness performance in our signature high-intensity small group training class led by a personal trainer.\n\nFree Weights & Machines\n\nGet your strength training done on the weight room floor. Build muscle endurance, sculpt and tone with free weights including dumbbells, barbells and plates, and weighted machines.\n\nCardio Machines\n\nWith an endless collection of cardio machines, from treadmills to ellipticals, you'll never have to wait to get your workout in.\n\nIndoor Training Turf\n\nPivot and stretch without skidding or slipping ever again. Our training turf provides stability to easily absorb changes in weight or pressure.\n\nFAQs\n\nCAN I BRING A GUEST?\n\nAbsolutely. Your guest can join a group class simply by paying a $5.00 fee. The guest must follow all guest policies and present a photo ID. You are allowed a guest each visit if you have a Premium+ membership. Premium and Premium+ members get 50% off guest passes.\n\nARE THERE ANY HIDDEN FEES?\n\nNope! Upon enrollment, all members are given documentation that outlines any and all charges, so there are no surprises. Membership materials can also be emailed. Just ask!\n\nHOW MUCH IS THE ANNUAL FEE?\n\nAnnual fees vary by membership type. If you are unsure of your specific Annual Fee, please contact us at info@youfit.com or visit the gym for more details.",
+    "with": [
+      "Cardio Equipment, Free Weights, & Resistance Machines",
+      "Whether you're dancing through Zumba, powering up with Les Mills",
+      "With an endless collection of cardio machines, from treadmills to ellipticals",
+      "Nope! Upon enrollment, all members are given documentation that outlines any and"
+    ],
+    "without": [
+      "Memberships",
+      "Skip to main content",
+      "GET STARTED WITH A FREE 3-DAY PASS"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

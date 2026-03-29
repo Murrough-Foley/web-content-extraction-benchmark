@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.internhacker.com/internships/al-us",
+  "file_id": "5302",
+  "ground_truth": {
+    "title": "Tech Internships in Alabama",
+    "author": null,
+    "publish_date": null,
+    "main_content": "United States\n\n33\n\nActive Internships\n\nLatest Internships in Alabama Showing 10 of 33\n\nSoftware Engineer Intern\n\nNew\n\nLeidos\n\nHuntsville, AL • Summer 2026 View internship details\n\nSoftware Engineer Intern\n\nTeledyne\n\nHuntsville, AL • Summer 2026 View internship details\n\nComputer Engineer Intern\n\nParsons\n\nHuntsville, AL • Summer 2026 View internship details\n\nEngineering Intern\n\nMarmon Holdings\n\nDecatur, AL • Summer 2026 View internship details\n\nEngineering Intern\n\nMarmon Holdings\n\nDecatur, AL • Summer 2026 View internship details\n\nProduct Information Management Intern\n\nGenuine Parts Company\n\nBirmingham, AL • Summer 2026 View internship details\n\nR&D Co-Op\n\nRheem\n\nMontgomery, AL • Summer 2026 View internship details\n\nHardware Engineer Intern\n\nRadiance Technologies\n\nHuntsville, AL • Summer 2026 View internship details\n\nCo-op System Engineer\n\nSymbotic\n\nDecatur, AL • Summer 2026 View internship details\n\nIntern Software Engineer Intern\n\nRTX\n\nHuntsville, AL • Summer 2026 View internship details\n\nTop Companies Hiring in Alabama\n\nExplore Other States\n\nFrequently Asked Questions About Internships in Alabama\n\nHow many tech internships are available in Alabama?\n\nThere are currently 33+ active tech internship positions available in Alabama. This includes software engineering, data science, product management, and other technical roles across the state.\n\nWhat companies offer internships in Alabama?\n\nTop companies hiring interns in Alabama include CFD Research Corporation, Amentum, Leidos, Marmon Holdings, Teledyne. These companies offer competitive internship programs with opportunities for full-time conversion.\n\nWhat cities in Alabama have the most internships?\n\nThe cities with the most tech internship opportunities in Alabama include Huntsville, Decatur, Birmingham, H, Hackleburg. These cities are home to major tech companies and startups offering internship programs.\n\nWhat types of internships are available in Alabama?\n\nAlabama offers a diverse range of tech internships including software engineering, data science, machine learning, product management, UX/UI design, and DevOps roles. Many positions are available for summer, fall, and spring terms.\n\nAre there remote internship options in Alabama?\n\nYes, many Alabama-based companies offer hybrid or fully remote internship options. You can filter our listings to show remote-friendly positions.",
+    "with": [
+      "Huntsville, AL • Summer 2026 View internship details",
+      "Montgomery, AL • Summer 2026 View internship details",
+      "What companies offer internships in Alabama?",
+      "Are there remote internship options in Alabama?"
+    ],
+    "without": [
+      "Intern Hacker",
+      "All Locations",
+      "Denver, CO",
+      "Kansas City, MO"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

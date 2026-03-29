@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.loom.com/",
+  "file_id": "2845",
+  "ground_truth": {
+    "title": "Loom",
+    "author": null,
+    "publish_date": null,
+    "main_content": "One video is worth a thousand words\n\nEasily record and share AI-powered video messages with your teammates and customers to supercharge productivity\n\nMillions of people across 400,000 companies choose Loom\n\nLoom Rewind 2025\n\nLoom customers recorded 93M videos this year, reducing the need for 245M meetings. Learn about the milestones and achievements that made 2025 unforgettable.\n\nThe easiest screen recorder you'll ever use\n\nRecord in a few clicks. Share anywhere. Collaborate better.\n\nLightning fast screen recording\n\nEasily record your screen and camera. Record on any device using Loom's Chrome extension, desktop app or mobile app.\n\nSo much more than a screen recorder\n\nEdit your videos like a pro\n\nLoom's intuitive editor lets you trim, stitch clips, add eye-catching backgrounds, and even enhance your message with text, arrows, and box overlays. The result? Engaging videos you can deliver fast.\n\nShare or embed video anywhere you work\n\nFrom Google Workspace to Slack, Loom videos seamlessly integrate with hundreds of tools you use every day.\n\nEngage and connect with video\n\nEasily collaborate by adding emojis, comments, tasks and CTAs to your video message. Empower remote teams to communicate better across timezones using transcripts and captions in 50+ languages.\n\nKeep your content safe\n\nEnterprise-grade security to keep your data and your customer's data private and secure. We offer SSO, SCIM as well as custom data retention policies and privacy settings.\n\nVideo messaging for all use cases\n\n- Sales: Personalize your pitch with video outreach to close more deals.\n- Engineering: Add visual context to your code to accelerate your sprints.\n- Customer support: Troubleshoot over video to reach resolutions faster.\n- Design: Share ideas and provide feedback over video to enhance designs.\n\nPowerful features for easy, custom recordings\n\n- Screen and camera recording\n- Easy sharing and embedding\n- Trim and stitch video clips\n- Download and upload\n- Transcriptions and closed captions\n- Video privacy controls\n- Custom background\n- Video and viewer insights\n\nLoom for Enterprise\n\nLoom for Enterprise helps teams securely manage and organize async video communication at scale",
+    "with": [
+      "Easily record and share AI-powered video messages with your teammates and customers to supercharge productivity",
+      "Loom's intuitive editor lets you trim, stitch clips, add eye-catching backgrounds, and even enhance your message with text, arrows, and box overlays.",
+      "From Google Workspace to Slack, Loom videos seamlessly integrate with hundreds of tools you use every day.",
+      "Enterprise-grade security to keep your data and your customer's data private and secure.",
+      "Loom for Enterprise helps teams securely manage and organize async video communication at scale"
+    ],
+    "without": [
+      "Get Loom for free",
+      "Download now",
+      "Record now",
+      "Start sharing"
+    ],
+    "main_content_markdown": "# One video is worth a thousand words\n\nEasily record and share AI-powered video messages with your teammates and customers to supercharge productivity\n\n## Millions of people across 400,000 companies choose Loom\n\n## Loom Rewind 2025\n\nLoom customers recorded 93M videos this year, reducing the need for 245M meetings. Learn about the milestones and achievements that made 2025 unforgettable.\n\n## The easiest screen recorder you'll ever use\n\nRecord in a few clicks. Share anywhere. Collaborate better.\n\n## Lightning fast screen recording\n\nEasily record your screen and camera. Record on any device using Loom's Chrome extension, desktop app or mobile app.\n\n## So much more than a screen recorder\n\n### Edit your videos like a pro\n\nLoom's intuitive editor lets you trim, stitch clips, add eye-catching backgrounds, and even enhance your message with text, arrows, and box overlays. The result? Engaging videos you can deliver fast.\n\n### Share or embed video anywhere you work\n\nFrom Google Workspace to Slack, Loom videos seamlessly integrate with hundreds of tools you use every day.\n\n### Engage and connect with video\n\nEasily collaborate by adding emojis, comments, tasks and CTAs to your video message. Empower remote teams to communicate better across timezones using transcripts and captions in 50+ languages.\n\n## Keep your content safe\n\nEnterprise-grade security to keep your data and your customer's data private and secure. We offer SSO, SCIM as well as custom data retention policies and privacy settings.\n\n## Video messaging for all use cases\n\n- Sales: Personalize your pitch with video outreach to close more deals.\n- Engineering: Add visual context to your code to accelerate your sprints.\n- Customer support: Troubleshoot over video to reach resolutions faster.\n- Design: Share ideas and provide feedback over video to enhance designs.\n\n## Powerful features for easy, custom recordings\n\n- Screen and camera recording\n- Easy sharing and embedding\n- Trim and stitch video clips\n- Download and upload\n- Transcriptions and closed captions\n- Video privacy controls\n- Custom background\n- Video and viewer insights\n\n## Loom for Enterprise\n\nLoom for Enterprise helps teams securely manage and organize async video communication at scale"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

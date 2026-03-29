@@ -1,0 +1,33 @@
+{
+  "ground_truth": {
+    "title": "Building Department",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Department Function\n\nThe function of the Building Department is to promote public safety by enforcing building standards. Building Department services include:\n\n- Building permits - Permits authorize construction and inspections.\n- Contractor licensing - Contractors and sub-contractors must be licensed, bonded, and insured to work in the City of Portage.\n- Inspections - Construction is inspected for conformance with the plan, the permit, and with state and local building codes.\n- Plan review - Construction plans are reviewed for compliance with state and local requirements.\n\nTypical Projects Requiring Inspections\n\n- Building\n- Electrical\n- HVAC\n- Plumbing\n\nTypical Activities Requiring a Permit\n\n- Carports, Change of Use, Concrete pads, Decks, Detached Garages, Driveways, Exterior/interior remodeling\n- Mobile Homes, New building construction, Occupancy Permits, Parking lots, Pool, Porches, Roofing\n- Room additions, Sheds, Sidewalks, Signs and Awnings, Windows and Siding",
+    "with": [
+      "promote public safety by enforcing building standards",
+      "Contractor licensing",
+      "licensed, bonded, and insured",
+      "Typical Projects Requiring Inspections",
+      "Typical Activities Requiring a Permit",
+      "Carports, Change of Use, Concrete pads"
+    ],
+    "without": [
+      "Skip to Main Content",
+      "Create a Website Account",
+      "Website Sign In",
+      "Stay Connected"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "inferred",
+      "needs_review": false,
+      "tags": []
+    }
+  },
+  "schema_version": "2.0",
+  "url": "https://www.portagein.gov/158/Building-Department",
+  "file_id": "4547"
+}

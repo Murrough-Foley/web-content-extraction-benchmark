@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://github.blog/",
+  "file_id": "2902",
+  "ground_truth": {
+    "title": "The GitHub Blog",
+    "author": null,
+    "publish_date": null,
+    "main_content": "AI & ML\n\nHow to scan for vulnerabilities with GitHub Security Lab's open source AI-powered framework\n\nGitHub Security Lab Taskflow Agent is very effective at finding Auth Bypasses, IDORs, Token Leaks, and other high-impact vulnerabilities.\n\nMan Yue Mo & Peter Stöckli, March 6, 2026\n\nAI & ML\n\n60 million Copilot code reviews and counting\n\nHow Copilot code review helps teams keep up with AI-accelerated code changes.\n\nRia Gopu & David Apirian, March 5, 2026\n\nCareer growth\n\nScaling AI opportunity across the globe: Learnings from GitHub and Andela\n\nDevelopers connected to Andela share how they're learning AI tools inside real production workflows.\n\nAdmas Kanyagia & Ali Condah, March 5, 2026\n\nArchitecture & optimization\n\nHow we rebuilt the search architecture for high availability in GitHub Enterprise Server\n\nDavid Tippett, March 3, 2026\n\nLatest\n\nAI & ML\n\nJoin or host a GitHub Copilot Dev Days event near you\n\nKathleen Ann Savage, March 3, 2026\n\nDeveloper skills\n\nGitHub for Beginners: Getting started with GitHub Issues and Projects\n\nKedasha Kerr, March 2, 2026\n\nAI & ML\n\nFrom idea to pull request: A practical guide to building with GitHub Copilot CLI\n\nAri LiVigni, February 27, 2026\n\nAI & ML\n\nSpec-driven development with AI: Get started with a new open source toolkit\n\nDen Delimarsky, September 2, 2025\n\nChangelog\n\nFigma MCP server can now generate design layers from VS Code, March 6, 2026\nGitHub Copilot in Visual Studio Code v1.110 - February release, March 6, 2026\nGPT-5.4 is generally available in GitHub Copilot, March 5, 2026\nDiscover and manage agent activity with new session filters, March 5, 2026\n\nEngineering\n\nFrom pixels to characters: The engineering behind GitHub Copilot CLI's animated ASCII banner\n\nAaron Winston, January 28, 2026\n\nWhen protections outlive their purpose: A lesson on managing defense systems at scale\n\nThomas Kjær Aabo, January 15, 2026\n\nPost-quantum security for SSH access on GitHub\n\nbrian m. carlson & Taylor Blau, September 15, 2025\n\nHow GitHub engineers tackle platform problems\n\nFabian Aguilar Gomez, June 10, 2025\n\nGitHub Issues search now supports nested queries and boolean operators\n\nDeborah Digges, May 13, 2025\n\nSpotlight\n\nOctoverse 2025: AI, India, and the new #1 programming language\n\nThe untold story of Log4j and Log4Shell\n\nTwo decades of Git: A conversation with creator Linus Torvalds\n\nNews & insights\n\nGitHub availability report: January 2026\n\nJakub Oleksy, February 11, 2026\n\nPick your agent: Use Claude and Codex on Agent HQ\n\nMario Rodriguez, February 4, 2026\n\nWhat the fastest-growing tools reveal about how software is being built\n\nDylan Birtolo, February 3, 2026\n\nYear recap and future goals for the GitHub Innovation Graph\n\nKevin Xu, January 28, 2026\n\nHelp shape the future of open source in Europe\n\nMathias Schindler, January 27, 2026\n\nBuild an agent into any app with the GitHub Copilot SDK\n\nMario Rodriguez, January 22, 2026",
+    "with": [
+      "How to scan for vulnerabilities with GitHub Security Lab's open source AI-powered framework",
+      "60 million Copilot code reviews and counting",
+      "How we rebuilt the search architecture for high availability in GitHub Enterprise Server",
+      "GitHub availability report: January 2026"
+    ],
+    "without": [
+      "Skip to content",
+      "Customer stories",
+      "Try GitHub Copilot"
+    ],
+    "main_content_markdown": "AI & ML\n\nHow to scan for vulnerabilities with GitHub Security Lab's open source AI-powered framework\n\nGitHub Security Lab Taskflow Agent is very effective at finding Auth Bypasses, IDORs, Token Leaks, and other high-impact vulnerabilities.\n\nMan Yue Mo & Peter Stöckli, March 6, 2026\n\nAI & ML\n\n60 million Copilot code reviews and counting\n\nHow Copilot code review helps teams keep up with AI-accelerated code changes.\n\nRia Gopu & David Apirian, March 5, 2026\n\nCareer growth\n\nScaling AI opportunity across the globe: Learnings from GitHub and Andela\n\nDevelopers connected to Andela share how they're learning AI tools inside real production workflows.\n\nAdmas Kanyagia & Ali Condah, March 5, 2026\n\nArchitecture & optimization\n\nHow we rebuilt the search architecture for high availability in GitHub Enterprise Server\n\nDavid Tippett, March 3, 2026\n\nLatest\n\nAI & ML\n\nJoin or host a GitHub Copilot Dev Days event near you\n\nKathleen Ann Savage, March 3, 2026\n\nDeveloper skills\n\nGitHub for Beginners: Getting started with GitHub Issues and Projects\n\nKedasha Kerr, March 2, 2026\n\nAI & ML\n\nFrom idea to pull request: A practical guide to building with GitHub Copilot CLI\n\nAri LiVigni, February 27, 2026\n\nAI & ML\n\nSpec-driven development with AI: Get started with a new open source toolkit\n\nDen Delimarsky, September 2, 2025\n\nChangelog\n\nFigma MCP server can now generate design layers from VS Code, March 6, 2026\nGitHub Copilot in Visual Studio Code v1.110 - February release, March 6, 2026\nGPT-5.4 is generally available in GitHub Copilot, March 5, 2026\nDiscover and manage agent activity with new session filters, March 5, 2026\n\nEngineering\n\nFrom pixels to characters: The engineering behind GitHub Copilot CLI's animated ASCII banner\n\nAaron Winston, January 28, 2026\n\nWhen protections outlive their purpose: A lesson on managing defense systems at scale\n\nThomas Kjær Aabo, January 15, 2026\n\nPost-quantum security for SSH access on GitHub\n\nbrian m. carlson & Taylor Blau, September 15, 2025\n\nHow GitHub engineers tackle platform problems\n\nFabian Aguilar Gomez, June 10, 2025\n\nGitHub Issues search now supports nested queries and boolean operators\n\nDeborah Digges, May 13, 2025\n\nSpotlight\n\nOctoverse 2025: AI, India, and the new #1 programming language\n\nThe untold story of Log4j and Log4Shell\n\nTwo decades of Git: A conversation with creator Linus Torvalds\n\nNews & insights\n\nGitHub availability report: January 2026\n\nJakub Oleksy, February 11, 2026\n\nPick your agent: Use Claude and Codex on Agent HQ\n\nMario Rodriguez, February 4, 2026\n\nWhat the fastest-growing tools reveal about how software is being built\n\nDylan Birtolo, February 3, 2026\n\nYear recap and future goals for the GitHub Innovation Graph\n\nKevin Xu, January 28, 2026\n\nHelp shape the future of open source in Europe\n\nMathias Schindler, January 27, 2026\n\nBuild an agent into any app with the GitHub Copilot SDK\n\nMario Rodriguez, January 22, 2026"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "web-sourced",
+        "verified"
+      ]
+    }
+  }
+}

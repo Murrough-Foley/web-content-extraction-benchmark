@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://hackernoon.com/",
+  "file_id": "3015",
+  "ground_truth": {
+    "title": "read, write and learn about any technology",
+    "author": null,
+    "publish_date": null,
+    "main_content": "IDENTITY-SHIFT\n\nWhy You Know What to Do… and Still Don’t Do It\n\nBenoitMalige\n\nMar 07, 2026 | 4 min read\n\nJAVASCRIPT\n\nBeating JavaScript Performance Limits With Rust and N-API: Building a Faster Image Diff Tool\n\nTeimur Gasanov\n\nMar 07, 2026 | 13 min read\n\nINDIE-GAMING\n\nYour Life as an RPG: Why Lifespans Feels Uncomfortably True\n\nJake Watermelon\n\nMar 06, 2026 | 2 min read\n\nPROOF-OF-USEFULNESS-HACKATHON\n\nHackerNoon Projects of the Week: Black Market SSP, CutePetPal & SudoDocs\n\nProof of Usefulness\n\nMar 06, 2026 | 3 min read\n\nUX-DESIGN\n\nYour \"AI Designer\" Has Never Disagreed With You\n\nTanya Donska\n\nMar 06, 2026 | 5 min read",
+    "with": [
+      "Why You Know What to Do… and Still Don’t Do It",
+      "Beating JavaScript Performance Limits With Rust and N-API: Building a Faster Image Diff Tool",
+      "Your Life as an RPG: Why Lifespans Feels Uncomfortably True",
+      "HackerNoon Projects of the Week: Black Market SSP, CutePetPal & SudoDocs",
+      "Your \"AI Designer\" Has Never Disagreed With You"
+    ],
+    "without": [
+      "BUSINESS BLOGGING",
+      "AI Hackathon: Win from $150k",
+      "Get onApp Store",
+      "About Us For Readers For Writers For Businesses"
+    ],
+    "main_content_markdown": "IDENTITY-SHIFT\n\n## Why You Know What to Do… and Still Don’t Do It\n\n[BenoitMalige](https://hackernoon.com/u/benoitmalige)\n\nMar 07, 2026 | 4 min read\n\nJAVASCRIPT\n\n## Beating JavaScript Performance Limits With Rust and N-API: Building a Faster Image Diff Tool\n\n[Teimur Gasanov](https://hackernoon.com/u/teimurjan)\n\nMar 07, 2026 | 13 min read\n\nINDIE-GAMING\n\n## Your Life as an RPG: Why Lifespans Feels Uncomfortably True\n\n[Jake Watermelon](https://hackernoon.com/u/jakewatermelon)\n\nMar 06, 2026 | 2 min read\n\nPROOF-OF-USEFULNESS-HACKATHON\n\n## HackerNoon Projects of the Week: Black Market SSP, CutePetPal & SudoDocs\n\n[Proof of Usefulness](https://hackernoon.com/u/proofofusefulness)\n\nMar 06, 2026 | 3 min read\n\nUX-DESIGN\n\n## Your \"AI Designer\" Has Never Disagreed With You\n\n[Tanya Donska](https://hackernoon.com/u/tanyadonska)\n\nMar 06, 2026 | 5 min read"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.topuniversities.com/university-subject-rankings/engineering-technology",
+  "file_id": "5208",
+  "ground_truth": {
+    "title": "QS World University Rankings for Engineering & Technology 2025",
+    "author": "Keshala Jayawickrama",
+    "publish_date": "2026-03-05",
+    "main_content": "Discover which universities around the world are the best for your chosen subject with the QS World University Rankings by Subject.\n\nEight individual subjects are included within the broad subject area of engineering and technology, including computer science and a range of engineering disciplines.\n\nThe below table compares universities across this entire broad subject area. Of the top 10, Tsinghua University is the most improved this year, having climbed four places to seventh.",
+    "with": [
+      "Eight individual subjects are included within the broad subject area of engineer",
+      "Discover which universities around the world are the best for your chosen subjec",
+      "Tsinghua University is the most improved this year, having climbed four places to"
+    ],
+    "without": [
+      "Rankings Overview",
+      "QS Sustainability Rankings",
+      "Sign me up",
+      "Use our tool to find your perfect course"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "reviewed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

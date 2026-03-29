@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.nrmlaonline.org/2026/01/30/best-places-to-retire-in-2026",
+  "file_id": "5215",
+  "ground_truth": {
+    "title": "Best Places to Retire in 2026",
+    "author": "Darryl Hicks",
+    "publish_date": "2026-01-30",
+    "main_content": "Want to know where America’s aging population may be moving to next? According to WalletHub’s analysis, the best places to retire in 2026 are:\n\nWyoming: Known for its low taxes, no estate or inheritance tax, and low cost of living, making it a financial and lifestyle-friendly state for retirees.\n\nFlorida: Offers tax advantages and amenities geared toward seniors.\n\nSouth Dakota: Balances affordability with strong health care access and livability.\n\nColorado: Known for outdoor recreation and wellness, Colorado is a great option for those who enjoy nature and outdoor activities.\n\nMinnesota: Ranks top for health care, making it an excellent choice for those who prioritize medical care in their retirement.\n\nThe bottom line: These states are ranked based on a combination of affordability, health care, and quality of life, ensuring that retirees can stretch their savings further while maintaining a high quality of life.\n\nWhat they’re saying: “Retirement is supposed to be relaxing, but it can also be incredibly stressful given that it typically puts people on a fixed income, which may not be enough for them to live comfortably,” WalletHub analyst Chip Lupo said in a statement. “As a result, the best states for retirees are those that have low taxes and a low cost of living to help retirees’ budgets stretch as far as possible.”",
+    "with": [
+      "Wyoming: Known for its low taxes, no estate or inheritance tax, and low cost of ",
+      "Florida: Offers tax advantages and amenities geared toward seniors.",
+      "Minnesota: Ranks top for health care, making it an excellent choice for those wh",
+      "The bottom line: These states are ranked based on a combination of affordability"
+    ],
+    "without": [
+      "About NRMLA",
+      "Board/Staff",
+      "Code of Ethics",
+      "Submitting Ethics Complaints"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

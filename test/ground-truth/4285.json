@@ -1,0 +1,25 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.express.com/womens-clothing/dresses/summer-dresses/cat2780008",
+  "file_id": "4285",
+  "ground_truth": {
+    "title": null,
+    "author": null,
+    "publish_date": null,
+    "main_content": null,
+    "with": [],
+    "without": []
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "collection",
+    "spa": true,
+    "unextractable": true,
+    "unextractable_reason": "JavaScript-rendered Express SPA; HTML contains only <div id=\"root\"></div> skeleton loader. No product listings or content in static HTML."
+  }
+}

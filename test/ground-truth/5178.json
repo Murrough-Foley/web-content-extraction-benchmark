@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://ell.stackexchange.com/questions/181667/understanding-english-grammar-and-proper-word-usage",
+  "file_id": "5178",
+  "ground_truth": {
+    "title": "Understanding English grammar and proper word usage",
+    "author": null,
+    "publish_date": "2018-10-05",
+    "main_content": "Would someone please help me identify the type of each word in the following sentence? In learning Spanish (using Duolingo and lovin' it) I'm realizing my English is \"accidentally\" good. My knowledge of grammar is embarrassing. A sentence Duolingo used (I personally would never word it this way) was:\n\n\"I am going to tell you something later.\"\n\nI know the verb is tell.\n\nI think the subject is you... or is it I...\n\nThe object might be something.\n\nWhat is going?\n\nAnywho, I need to know the type of each word to properly format sentences in Spanish.\n\n1 Answer\n\n\"I am going to tell you something later.\"\n\nI is the subject. The actor performing action.\n\nam going to are auxiliaries to the main verb, whose purpose is to define the time the verb is taking place in.\n\ntell is the main verb.\n\nyou is the indirect object. The person for whom the action is taking place.\n\nsomething is the direct object. That of which the subject is talking about.\n\nlater is an adverb. Further describes the time, which is redundant in this case, since the auxiliary verbs already did that and it's not really providing any additional information.",
+    "with": [
+      "\"I am going to tell you something later.\"",
+      "Anywho, I need to know the type of each word to properly format sentences in Spa",
+      "am going to are auxiliaries to the main verb, whose purpose is to define the tim",
+      "something is the direct object. That of which the subject is talking about."
+    ],
+    "without": [
+      "English Language Learners",
+      "Hot Network Questions",
+      "Featured on Meta",
+      "current community"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "forum"
+  }
+}

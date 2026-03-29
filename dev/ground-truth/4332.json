@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "url": "https://csrankings.org/",
+  "file_id": "4332",
+  "ground_truth": {
+    "title": "CSRankings: Computer Science Rankings",
+    "author": "Emery Berger",
+    "publish_date": null,
+    "main_content": "CSRankings is a metrics-based ranking of top computer science institutions based on faculty publications at selective conferences.\n\nAI\n\nArtificial intelligence\nComputer vision\nMachine learning\nNatural language processing\nThe Web & information retrieval\n\nSystems\n\nComputer architecture\nComputer networks\nComputer security\nDatabases\nDesign automation\nEmbedded & real-time systems\nHigh-performance computing\nMobile computing\nMeasurement & perf. analysis\nOperating systems\nProgramming languages\nSoftware engineering\n\nTheory\n\nAlgorithms & complexity\nCryptography\nLogic & verification\n\nInterdisciplinary Areas\n\nComp. bio & bioinformatics\nComputer graphics\nComputer science education\nEconomics & computation\nHuman-computer interaction\nRobotics\nVisualization",
+    "with": [
+      "CSRankings is a metrics-based ranking of top computer science institutions based"
+    ],
+    "without": [
+      "If you find CSrankings useful, please consider becoming a sponsor.",
+      "You have been randomly selected to take a 5-minute survey on CSrankings for a scientific study.",
+      "Open sponsor page",
+      "Add/Update Faculty"
+    ],
+    "main_content_markdown": "CSRankings is a metrics-based ranking of top computer science institutions based on faculty publications at selective conferences.\n\n## AI\n\nArtificial intelligence\nComputer vision\nMachine learning\nNatural language processing\nThe Web & information retrieval\n\n## Systems\n\nComputer architecture\nComputer networks\nComputer security\nDatabases\nDesign automation\nEmbedded & real-time systems\nHigh-performance computing\nMobile computing\nMeasurement & perf. analysis\nOperating systems\nProgramming languages\nSoftware engineering\n\n## Theory\n\nAlgorithms & complexity\nCryptography\nLogic & verification\n\n## Interdisciplinary Areas\n\nComp. bio & bioinformatics\nComputer graphics\nComputer science education\nEconomics & computation\nHuman-computer interaction\nRobotics\nVisualization"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "hint",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://docs.stripe.com/payments/use-cases/get-started",
+  "file_id": "5390",
+  "ground_truth": {
+    "title": "Design a payments integration",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Learn which payments integration fits your business.\n\nUse Stripe to accept payments for your business online and around the world with scalable payments solutions. This guide helps you understand which Stripe payments products and services best fit your business. Explore the differences between Checkout and Elements integrations in our interactive demo.\n\nYou have to register for a Stripe account and verify your email before you use any of these products or solutions. After you register, you can access the Dashboard to manage and configure your account and business.\n\nAccept payments without code\n\nUse Payment Links to accept payments without a website or mobile app. Create a payment link to get started.\n\nBuild a checkout page\n\nUse Checkout to set up a Stripe-hosted page, embed a payments form, or use payments embedded components.\n\nBuild an advanced integration\n\nUse Stripe Elements to build a customizable payments form and checkout for your customers.\n\nBuild an in-app integration\n\nUse Mobile Elements to accept payments in iOS and Android apps.\n\nExplore no-code integrations\n\nSell and get paid online\nAccept payments without building a website or app.\n\nGet and retain subscribers\nSupport and automate your subscribers' lifecycle.\n\nCreate quotes and invoices\nCreate, customize, and send invoices from the Dashboard.\n\nAccept in-person payments\nTake payments in person with your iPhone or Android mobile device.\n\nAccept tips and donations\nOffer customers a way to pay what they want.",
+    "with": [
+      "Use Stripe to accept payments for your business online and around the world with",
+      "Use Payment Links to accept payments without a website or mobile app.",
+      "Use Checkout to set up a Stripe-hosted page, embed a payments form",
+      "Accept tips and donations"
+    ],
+    "without": [
+      "Sign in",
+      "Contact Support",
+      "Get started"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "documentation"
+  }
+}

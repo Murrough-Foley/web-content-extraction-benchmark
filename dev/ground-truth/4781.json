@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.yeti.com/drinkware/tumblers/rambler-30oz.html",
+  "file_id": "4781",
+  "ground_truth": {
+    "title": "YETI Rambler 30 oz Tumbler With MagSlider Lid",
+    "author": null,
+    "publish_date": null,
+    "main_content": "YETI Rambler 30 oz Tumbler with MagSlider Lid\n\n$40.00\n\nYour drink of choice on the go. Fits in most cupholders.\n\n- Cupholder compatible\n- Splash resistant\n- Dishwasher safe\n- Double-wall vacuum insulated\n\nIced coffee, sweet tea, lemonade, water, you name it, you’re set.\n\nThe Rambler 30 oz. is the tumbler that gets you through the day. Your morning brew will stay hot or your iced coffee will stay cold - so take your time. Kitchen-grade stainless steel with double-wall vacuum insulation work together protect your drink at all costs. Like the entire Rambler Drinkware Family, the 30 oz. Tumbler and MagSlider Lid are dishwasher-safe for easy cleaning. While the magnet on the included MagSlider Lid adds an additional barrier of protection for keeping drinks contained and preventing heat or cold from escaping, this magnet slider is not leakproof and will not prevent spills.",
+    "with": [
+      "Your drink of choice on the go. Fits in most cupholders.",
+      "Cupholder compatible",
+      "Double-wall vacuum insulated"
+    ],
+    "without": [
+      "Pick Up in Store",
+      "Free Returns",
+      "Add the essentials"
+    ],
+    "main_content_markdown": "YETI Rambler 30 oz Tumbler with MagSlider Lid\n\n$40.00\n\n#### Your drink of choice on the go. Fits in most cupholders.\n\n- Cupholder compatible\n- Splash resistant\n- Dishwasher safe\n- Double-wall vacuum insulated\n\nIced coffee, sweet tea, lemonade, water, you name it, you\u2019re set.\n\nThe Rambler 30 oz. is the tumbler that gets you through the day. Your morning brew will stay hot or your iced coffee will stay cold - so take your time. Kitchen-grade stainless steel with double-wall vacuum insulation work together protect your drink at all costs. Like the entire Rambler Drinkware Family, the 30 oz. Tumbler and MagSlider Lid are dishwasher-safe for easy cleaning. While the magnet on the included MagSlider Lid adds an additional barrier of protection for keeping drinks contained and preventing heat or cold from escaping, this magnet slider is not leakproof and will not prevent spills."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.surplusgiant.com/sub-categories/mobile-adapters-cables",
+  "file_id": "4369",
+  "ground_truth": {
+    "title": "Chargers & Cables",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Chargers & Cables\n\nGet the highest-quality adapters and cables from global brands that you know and trust. We buy large excess inventories directly from our leading manufacturers, offering you name brand adapters and cables in their original, ready-to-sell retail packaging.\n\nFeatured Products\n\nMophie 6.5ft 2-in-1 MFI lightning and micro cable to USB-A\nby Mophie\n\nBelkin 2-Port Swivel Home Charger with 4' MicroUSB Cable\nby Belkin\n\nHarley-Davidson Venture Series 2-Port USB Wall Charger\nby Harley-Davidson\n\nWireless Gear iPad 3 In 1 Charger\nby Wireless Gear\n\nWall Charger\nby COKeM\n\nUSB to Micro USB Cable, 3'\nby Griffin\n\nUSB Car Charger-White\nby Pilot\n\nUniversal Mini Car Charger\nby Incase\n\nSync and Charge Cable\nby Incase\n\nLowest Pricing on Adapters and Cables, Every Time — Guaranteed\n\nOur decades-long relationships with manufacturers gives us the inside track for special pricing on adapters and cables that you won’t see anywhere else. We buy complete lots from each partner, so you’ll never have to shop around for the best price to get the the value and scalability your business demands and put you in complete control of your resale market.\n\nTry us. Our price quotes tend to raise a few eyebrows. Contact us now for pricing. It’s quick and easy.",
+    "with": [
+      "Get the highest-quality adapters and cables from global brands",
+      "Mophie 6.5ft 2-in-1 MFI lightning and micro cable to USB-A",
+      "Lowest Pricing on Adapters and Cables, Every Time",
+      "Our decades-long relationships with manufacturers gives us the inside track"
+    ],
+    "without": [
+      "Oops! Something went wrong while submitting the form",
+      "Reseller Sign-Up",
+      "Product Categories",
+      "All Brands"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "collection"
+  }
+}

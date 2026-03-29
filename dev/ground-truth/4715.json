@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://apps.shopify.com/stories/merchant-tech-stack-klatch-coffee",
+  "file_id": "4715",
+  "ground_truth": {
+    "title": "Klatch Coffee",
+    "author": null,
+    "publish_date": "2024-12-20",
+    "main_content": "From wifi-enabled smart scales that help customers replenish when they’re running low to a Direct Trade Coffee model that cuts out the middleman, Klatch Coffee company is always looking for new ways to improve their customer experience—and that includes the commerce apps the family-owned company uses to keep business brewing.\n\nPerk up sales\n\nKlatch offers such a rich variety of coffees, customers sometimes need help pinpointing the right brew. Octane.AI serves up recommendations based on a few simple questions, and lets people opt-in for email marketing to get a coupon for their first order.\n\nBrewed just for you\n\nKlaviyo lets Klatch send timely custom emails and texts based on each customer’s preferences, from their favorite flavor to roast levels. By grouping customers by taste, they ensure everyone gets messages that truly fit their unique coffee tastes.\n\nCultivate community\n\nWith Judge.me, Klatch not only collects and shares product reviews, they’ve also used the app’s robust Q&A feature to create a lively coffee community where customers can exchange insights and brewing tips.\n\nKlatch Coffee has a 30 year history of award-winning coffee roasting in Southern California. Our website is a critical part of our efforts to share specialty coffee with our customers, but we have some unique requirements. The Shopify App Store allows us to quickly and easily add functionality, helping us deliver a great coffee experience.\n\nKrystal Hernandez, Marketing, Klatch Coffee",
+    "with": [
+      "wifi-enabled smart scales that help customers replenish",
+      "Octane.AI serves up recommendations based on a few simple questions",
+      "Klaviyo lets Klatch send timely custom emails and texts",
+      "robust Q&A feature to create a lively coffee community",
+      "30 year history of award-winning coffee roasting in Southern California",
+      "Krystal Hernandez, Marketing, Klatch Coffee"
+    ],
+    "without": [
+      "Log in to the Shopify App Store",
+      "How other merchants stack up",
+      "Merchant tech stacks"
+    ],
+    "main_content_markdown": "From wifi-enabled smart scales that help customers replenish when they’re running low to a Direct Trade Coffee model that cuts out the middleman, [Klatch Coffee](https://www.klatchcoffee.com/) company is always looking for new ways to improve their customer experience—and that includes the commerce apps the family-owned company uses to keep business brewing.\n\n## Perk up sales\n\nKlatch offers such a rich variety of coffees, customers sometimes need help pinpointing the right brew. Octane.AI serves up recommendations based on a few simple questions, and lets people opt-in for email marketing to get a coupon for their first order.\n\n## Brewed just for you\n\nKlaviyo lets Klatch send timely custom emails and texts based on each customer’s preferences, from their favorite flavor to roast levels. By grouping customers by taste, they ensure everyone gets messages that truly fit their unique coffee tastes.\n\n## Cultivate community\n\nWith Judge.me, Klatch not only collects and shares product reviews, they’ve also used the app’s robust Q&A feature to create a lively coffee community where customers can exchange insights and brewing tips.\n\n> Klatch Coffee has a 30 year history of award-winning coffee roasting in Southern California. Our website is a critical part of our efforts to share specialty coffee with our customers, but we have some unique requirements. The Shopify App Store allows us to quickly and easily add functionality, helping us deliver a great coffee experience.\n\nKrystal Hernandez, Marketing, [Klatch Coffee](https://www.klatchcoffee.com/)"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  }
+}

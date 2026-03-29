@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://memoriediangelina.com/",
+  "file_id": "5572",
+  "ground_truth": {
+    "title": "Memorie di Angelina",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Risotto alla milanese (Milanese Style Risotto)\n\nRisotto alla milanese is the signature dish of Milan, capital of the Lombardy region and economic and financial capital of Italy. Iconic as it may be, the dish is actually quite straighforward to make. You prepare risotto alla milanese much as you would a basic risotto in bianco. But it has two defining\n\nMeatless Lenten Recipes\n\nMaritozzi\n\nErbazzone (Savory Greens Pie)\n\nWelcome to Memorie di Angelina!\n\nI'm Frank. I'm an international lawyer by day, but when I get home at night, I like nothing better than to cook. I've always loved to cook, ever since I was barely tall enough to peer over the top of a stove. Cooking is the best way I know to unwind from a stressful day's work. And sharing the dishes I make is a profound way to connect with friends and loved ones.\n\nFundamentals of Italian Cooking\n\nItalian Food Culture: A primer\n\nThere is much more to Italian food culture than many people outside Italy realize. Mastering the art...\n\nAuthentic Italian Food: A Beginner's Guide\n\nThe Italian Pantry\n\nOn Measurements\n\nGlossary of Italian Cooking Terms\n\nJeanne Caròla Francesconi: La Cucina Napoletana\n\nAda Boni: Il Talismano della Felicità\n\nStarters/Antipasti\n\nInsalata di radicchio arance e noci\n\nPizzelle fritte (Little Fried Pizzas)\n\nInvoltini di melanzane (Eggplant Rolls)\n\nCrudo di mare (Raw Seafood Platter)\n\nPastas, Soups and Risotti/Primi Piatti\n\nRisotto alla milanese (Milanese Style Risotto)\n\nGiuseppe Verdi's Risotto alla milanese\n\nPasta in bianco\n\nMains/Secondi Piatti\n\nCostoletta alla valdostana\n\nSedani alla pratese (Stuffed Celery Prato Style)\n\nFrittata di cipolle (Onion Frittata)\n\nSides/Contorni\n\nPiselli con la stracciatella\n\nDessert/Dolci\n\nBefanini\n\nCroccante alle mandorle (Almond Brittle)\n\nCastagnaccio\n\nPignoli Cookies\n\nRicotta al caffè",
+    "with": [
+      "I'm Frank. I'm an international lawyer by day, but when I get home at night",
+      "Jeanne Caròla Francesconi: La Cucina Napoletana",
+      "Risotto alla milanese (Milanese Style Risotto)",
+      "Starters/Antipasti"
+    ],
+    "without": [
+      "Read More",
+      "How to Use This Site",
+      "What Our Readers Are Saying",
+      "Find Your Perfect Recipe"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "article"
+  }
+}

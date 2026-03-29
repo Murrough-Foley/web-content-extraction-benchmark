@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://thewhetpalette.com/2026/02/09/the-worlds-50-best-restaurants-awards-heads-to-abu-dhabi-for-the-first-time/",
+  "file_id": "5205",
+  "ground_truth": {
+    "title": "World's 50 Best Restaurants 2026: Abu Dhabi Hosts Awards",
+    "author": null,
+    "publish_date": "2026-02-09",
+    "main_content": "The World’s 50 Best Restaurants 2026 awards, sponsored by S.Pellegrino and Acqua Panna, will take place in November 2026, marking a new chapter for one of the most influential platforms in global gastronomy.\n\nSet against Abu Dhabi ’s rapidly evolving dining scene, the week-long program will culminate in the highly anticipated awards ceremony, revealing the 2026 ranking. Supported by host partner, the Department of Culture and Tourism – Abu Dhabi, the event will invite chefs, restaurateurs, and media from around the world to experience the UAE capital’s growing culinary ambition, from boundary-pushing fine dining to deeply rooted regional traditions.\n\nThe announcement follows the 2025 awards held in Turin, where I was on the ground last summer covering the ceremony and its surrounding events. That experience offered a firsthand look at how host cities shape the tone, energy, and cultural dialogue of the 50 Best program, a perspective explored in depth in my Turin recap. Abu Dhabi is now stepping into that global spotlight, with the opportunity to tell its own culinary story on an international stage.\n\nCraig Hawtin-Butcher, Managing Director of 50 Best, said the organization is “thrilled” to bring the awards to Abu Dhabi, citing the city’s dynamic dining scene and its balance of long-standing traditions with world-class international cuisine. “ We cannot wait to gather the international culinary community in a city that both embraces and values its food culture, ” he noted.\n\nAs in previous years, the program will feature cornerstone events including #50BestTalks, the thought-leadership forum addressing key issues shaping hospitality today; 50 Best Signature Sessions, collaborative public dining experiences pairing internationally ranked chefs with local talent; a Chefs’ Feast spotlighting regional ingredients and techniques; and the awards ceremony itself.\n\nThe November 2026 ceremony will be preceded by a series of special award announcements recognizing individual and institutional achievements across the industry.\n\nAt the 2025 ceremony in Turin, Maido in Lima, Peru, was named The World’s Best Restaurant. As a result, Maido joins The Best of the Best list and will no longer be eligible for future rankings, opening the door for a new No. 1 to emerge in 2026.\n\nWith Abu Dhabi now confirmed as host, the countdown to November 2026 begins, and with it, another opportunity to observe how place, culture, and cuisine intersect on one of the world’s most influential culinary stages.",
+    "with": [
+      "Set against Abu Dhabi ’s rapidly evolving dining scene, the week-long program wi",
+      "Craig Hawtin-Butcher, Managing Director of 50 Best, said the organization is “th",
+      "At the 2025 ceremony in Turin, Maido in Lima, Peru, was named The World’s Best"
+    ],
+    "without": [
+      "Post navigation",
+      "Subscribe to Blog via Email",
+      "Enter your email address",
+      "Consulting"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "reviewed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

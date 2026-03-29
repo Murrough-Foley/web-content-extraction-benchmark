@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://shopinthekitchen.com/collections/lodge?srsltid=AfmBOooxjeo28KBSFe37Nt0DZXSzKIBsafdNUr6xigjHHhUXF-ML8IVv",
+  "file_id": "4021",
+  "ground_truth": {
+    "title": "Lodge Cast Iron",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Lodge Cast Iron\n\nLODGE\n12\" CAST IRON SKILLET\n$49.99 USD\n\nLODGE\nCAST IRON SKILLET 9\" LODGE L6SK3\n$34.99 USD\n\nLODGE\nCAST IRON SKILLET 10.5\" SQ LODGE L8SQ3\n$39.99 USD\n\nLODGE\n10\" CAST IRON SKILLET\n$39.99 USD\n\nLODGE\nCAST IRON LID 9\" LODGE L6SC3 (DSC)\n$31.99 USD\n\nLODGE\nSILICONE HOT HANDLE HOLDER - RED\n$6.99 USD\n\nLODGE\nRECTANGULAR GRILL PRESS\n$36.99 USD\n\nLODGE\nGRILL PAN SCRAPERS\n$6.99 USD\n\nLODGE\nCAST IRON GRILL PAN 10\" RND LODGE L8GP3 (DSC)\n$32.99 USD\n\nLODGE\nSILICONE HOT HANDLE HOLDER - BLUE\n$6.99 USD\n\nLODGE\nSILICONE HOT HANDLE HOLDER - BLACK\n$6.99 USD\n\nLODGE\nCAST IRON SKILLET 8\" LODGE L5SK3\n$29.99 USD",
+    "with": [
+      "CAST IRON GRILL PAN 10\" RND LODGE L8GP3 (DSC)",
+      "CAST IRON SKILLET 10.5\" SQ LODGE L8SQ3",
+      "RECTANGULAR GRILL PRESS",
+      "SILICONE HOT HANDLE HOLDER - RED",
+      "CAST IRON LID 9\" LODGE L6SC3 (DSC)"
+    ],
+    "without": [
+      "Baking Liners",
+      "Cookie Cutters",
+      "Cookie Scoops",
+      "Copyright © 2026",
+      "Powered by Shopify"
+    ],
+    "main_content_markdown": "# Lodge Cast Iron\n\nLODGE\n[12\" CAST IRON SKILLET](/collections/lodge/products/0afa8de1-1464-11e9-edec-4a619a5a322a)\n$49.99 USD\n\nLODGE\n[CAST IRON SKILLET 9\" LODGE L6SK3](/collections/lodge/products/0afa8de1-1464-11e9-edec-4a63f7c5ab90)\n$34.99 USD\n\nLODGE\n[CAST IRON SKILLET 10.5\" SQ LODGE L8SQ3](/collections/lodge/products/0afa8de1-1464-11e9-edec-4a618d1fdeb9)\n$39.99 USD\n\nLODGE\n[10\" CAST IRON SKILLET](/collections/lodge/products/skillet1025)\n$39.99 USD\n\nLODGE\n[CAST IRON LID 9\" LODGE L6SC3 (DSC)](/collections/lodge/products/0afa8de1-1464-11e9-edec-4a63d612461c)\n$31.99 USD\n\nLODGE\n[SILICONE HOT HANDLE HOLDER - RED](/collections/lodge/products/0afa8de1-1464-11e9-edec-4a614e335a54)\n$6.99 USD\n\nLODGE\n[RECTANGULAR GRILL PRESS](/collections/lodge/products/0afa8de1-1464-11e9-edec-4a635c24eadb)\n$36.99 USD\n\nLODGE\n[GRILL PAN SCRAPERS](/collections/lodge/products/0afa8de1-1464-11e9-edec-4a5fc88731fc)\n$6.99 USD\n\nLODGE\n[CAST IRON GRILL PAN 10\" RND LODGE L8GP3 (DSC)](/collections/lodge/products/0afa8de1-1464-11e9-edec-4a609e85c427)\n$32.99 USD\n\nLODGE\n[SILICONE HOT HANDLE HOLDER - BLUE](/collections/lodge/products/0afa8de1-1464-11e9-edec-4a614e1e6120)\n$6.99 USD\n\nLODGE\n[SILICONE HOT HANDLE HOLDER - BLACK](/collections/lodge/products/0afa8de1-1464-11e9-edec-4a614e08bbbe)\n$6.99 USD\n\nLODGE\n[CAST IRON SKILLET 8\" LODGE L5SK3](/collections/lodge/products/0afa8de1-1464-11e9-edec-4a619a26a8ca)\n$29.99 USD"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  }
+}

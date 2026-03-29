@@ -1,0 +1,38 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.talkinghomerenovations.com/home/home-networks-and-cyber-security/",
+  "file_id": "0107",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "podcast",
+        "technology",
+        "home-networking",
+        "cybersecurity"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Home Networks and Cyber Security",
+    "author": null,
+    "publish_date": "2021-01-27",
+    "main_content": "Now that many of us are doing business out of our homes, is it time for an upgrade to your home network? What does that look like? Should you be concerned about cyber security? Michael Oh of TSP joins me to answer these questions and more.\n\nCheck out TSP's website for more information about available smart home services at tsp.space.\n\nHere is a link to his podcast Grepcast.\n\nA link to an interesting tech renovation in Cambridge MA is available here.\n\nabout this week's guest:\n\nMichael Oh was a freshman at MIT studying aerospace engineering when he began his entrepreneurship journey. He founded Tech Superpowers in 1992, the first iteration of TSP. The name was inspired by a magazine Michael had read referring to two recently released Apple computers as \"superpowers.\" Fascinated by computers having grown up during the beginning of the personal computer tech revolution, he worked at a computer shop in the summers as a teenager. What started as a side venture while in school quickly blossomed into a formidable IT company in Boston that focused on fostering efficiency in both home and business environments.",
+    "with": [
+      "Now that many of us are doing business out of our homes, is it time for an upgrade to your home network?",
+      "Michael Oh of TSP joins me to answer these questions and more.",
+      "He founded Tech Superpowers in 1992, the first iteration of TSP.",
+      "What started as a side venture while in school quickly blossomed into a formidable IT company in Boston"
+    ],
+    "without": [
+      "Join our mailing list",
+      "Join the Facebook group",
+      "Cookie settings",
+      "Help me spread the word about this podcast!"
+    ],
+    "main_content_markdown": "Now that many of us are doing business out of our homes, is it time for an upgrade to your home network? What does that look like? Should you be concerned about cyber security? Michael Oh of TSP joins me to answer these questions and more.\n\nCheck out TSP's website for more information about available smart home services at tsp.space.\n\nHere is a link to his podcast [Grepcast](https://www.tsp.me/tech-resources/grepcast/).\n\nA link to an interesting tech renovation in Cambridge MA is available here.\n\nabout this week's guest:\n\nMichael Oh was a freshman at MIT studying aerospace engineering when he began his entrepreneurship journey. He founded Tech Superpowers in 1992, the first iteration of [TSP](https://tsp.me/). The name was inspired by a magazine Michael had read referring to two recently released Apple computers as \"superpowers.\" Fascinated by computers having grown up during the beginning of the personal computer tech revolution, he worked at a computer shop in the summers as a teenager. What started as a side venture while in school quickly blossomed into a formidable [IT company in Boston](https://tsp.me/about-us) that focused on fostering efficiency in both home and business environments."
+  }
+}

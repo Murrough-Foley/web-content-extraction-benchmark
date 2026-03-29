@@ -1,0 +1,25 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.creditkarma.com/Error_Credit_Karma.htm?referenceerror=18.d4e1202.1773517969.11a18e45",
+  "file_id": "4542",
+  "ground_truth": {
+    "title": "Credit Karma",
+    "author": null,
+    "publish_date": null,
+    "main_content": null,
+    "with": [],
+    "without": []
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "reviewed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "article",
+    "remove": true,
+    "remove_reason": "error_page",
+    "notes": "Credit Karma error/outage page. No real content."
+  }
+}

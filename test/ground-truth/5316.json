@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.houstonhumane.org/",
+  "file_id": "5316",
+  "ground_truth": {
+    "title": "Houston Humane Society",
+    "author": null,
+    "publish_date": null,
+    "main_content": "The Houston Humane Society is dedicated to ending animal cruelty, abuse & the overpopulation of animals in Houston, Sugar Land, Houston Metro Area.\n\nOur Vision\nTo lead the way in creating a more humane Greater Houston, where every pet is safe in a loving home and every wild animal thrives in its natural habitat.\n\nAdopt a Pet\nOPEN YOUR HEART, OPEN YOUR HOME In our community, there are thousands and thousands of animals without homes. When you adopt an animal from HHS, you are saving two lives, giving one animal a forever home and making space for a homeless pet at our animal shelter. If you're interested in our dog or cat adoptions, we welcome you to stop by our pet adoption center in Houston, TX today.\n\ndogs\ncats\nother adoptables\n\nClinic Services\nThe main goal of our Animal Wellness Clinic is to provide affordable and accessible veterinary services to pet owners in the greater Brazoria, Ft. Bend, Harris, and surrounding counties. Our animal clinic & friendly veterinary staff provides low-cost preventative animal services such as pet vaccinations, spay & neuter, pet surgery, dental care, and many more. Contact us today to learn more about our veterinary services, schedule an appointment, or stop by our walk-in animal clinic for the vet care your pet needs!\n\nservices appointments\nspay neuter appointment\ndog services\ncat services\n\nHow You Can Help\n\nVolunteer\nJoin our wonderful team of Volunteers at the Houston Humane Society. There are many opportunities at our shelter and clinic where you can help make a difference. Volunteer on your own or with a group! We are always recruiting new volunteers.\n\nFoster\nHelp foster happiness in animals without a home. Be a foster, save a life. As a foster you are providing temporary housing for our most vulnerable, dogs, cats, puppies and kittens who need extra care outside of the shelter environment.\n\nHOUSTON HUMANE SOCIETY\nLatest\nStay up to date with the latest news and stories from the Houston Humane Society.",
+    "with": [
+      "To lead the way in creating a more humane Greater Houston, where every pet is sa",
+      "OPEN YOUR HEART, OPEN YOUR HOME In our community, there are thousands and thous",
+      "Join our wonderful team of Volunteers at the Houston Humane Society. There are m",
+      "Help foster happiness in animals without a home. Be a foster, save a life. As a "
+    ],
+    "without": [
+      "Report Cruelty",
+      "Events Calendar",
+      "All Rights Reserved.",
+      "Donate"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

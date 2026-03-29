@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.hfotusa.org/donor-tips-importance-charity-ratings/",
+  "file_id": "5289",
+  "ground_truth": {
+    "title": "DONOR TIPS: The importance of charity ratings",
+    "author": "Lisa Duffy",
+    "publish_date": "2023-07-11",
+    "main_content": "According to the National Center for Charitable Statistics, there are more than 1.5 million nonprofits registered in the United States vying for donor dollars. Two important questions to consider when donating to a charity include: Will they be good stewards of your money? Do they have your best interest at heart?\n\nDonors must become educated supporters. Listed below are helpful tips on how to be confident your donation is going to the heart of an organization’s mission.\n\nThe best way to become an educated donor is to visit the top three charity watchdog websites: Charity Navigator, CharityWatch. While each of these sites bases their ratings on different criteria, they all review and measure nonprofits based on accountability and transparency, donor privacy, and the efficiency of how donations are spent. The more knowledge and insight you have, the more confident you will be in your decision.\n\nHomes For Our Troops has a four star rating from Charity Navigator and an A rating from Charity Watch.\n\nHere are some other helpful tips to gain a better understanding of the charity:\n\nReview the 990 – IRS Form 990 provides the public with financial information about a nonprofit organization. Review this form to learn how much is spent on salaries and fundraising versus programs.\n\nVisit the charity’s website – Learn more about the senior-level executives and the Board.\n\nVerify – Determine the organization’s nonprofit status. Call and speak to a representative and ask for a copy of their financial statements.\n\nEvaluate – Assess the charity’s impact and the impact your donation is making.\n\nBeware of charities not rated – Any charity that has full transparency will cooperate with watchdog organizations who play a critical role in altering the public when activities appear to go against the public interest.\n\nRemember, regardless of the size of your gift; always find a charity that makes the greatest impact. Learn as much as you can about the organization and choose wisely.",
+    "with": [
+      "Donors must become educated supporters. Listed below are helpful tips on how to ",
+      "Homes For Our Troops has a four star rating from Charity Navigator and an A rati",
+      "Verify – Determine the organization’s nonprofit status. Call and speak to a repr",
+      "Beware of charities not rated – Any charity that has full transparency will coop"
+    ],
+    "without": [
+      "6 Main Street",
+      "866-787-6677"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "reviewed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "2.0",
+  "url": "https://forums.tomshardware.com/threads/want-to-know-the-comparison-between-these-gpu.3859106/",
+  "file_id": "4312",
+  "ground_truth": {
+    "title": "Question - Want to know the comparison between these GPU",
+    "author": "ridwan123",
+    "publish_date": "2024-11-01",
+    "main_content": "I am planning to buy rx 7900 xtx for upgrade but i am confused because 7900 xtx has many brand like xfx,asrock,asus and many more.according to my budget there is 7900 xtx brand which is 7900 xtx xfx mercury air and i think it match with my spending.but the problem is i am little bit confused ,is it better than xfx speedster rx 7900 xtx?.i think the xfx rx 7900 xtx speedster is more expensive and idk if i buy the mercury air is good or thing get worst because it is the low end of 7900 xtx? or i just buy the asrock phantom 7900xtx or maybe 7900xt hell hound for 60+fps in all game 1440p no dlss fsr\n\nPrices of GPU's vary according to region, can you please pass on links from the sites you have access to, to the GPU's you're looking at? Most differentiations between cards from their own portfolio and their competitors are their cooling, aesthetics and perhaps factory overclocking, not to mention the reverse engineered designs.\n\nIf this GPU is being purchased for gaming, what sort of titles do you want to tax the GPU with?\n\nMost if not all graphics cards of the same GPU model will be within a few % of each other in real world gaming tests.\n\nI think the xfx 7900 xtx mercury air do not include in this video\n\nPerformance between multiple cards in the same tier is virtually the same. The more notable differences between them will be looks and cooling at personalized fan curves.",
+    "with": [
+      "I am planning to buy rx 7900 xtx for upgrade but i am confused because 7900 xtx has many brand like xfx,asrock,asus and many more",
+      "Prices of GPU's vary according to region, can you please pass on links from the sites you have access to"
+    ],
+    "without": [
+      "Tom's Hardware Forum"
+    ],
+    "main_content_markdown": "I am planning to buy rx 7900 xtx for upgrade but i am confused because 7900 xtx has many brand like xfx,asrock,asus and many more.according to my budget there is 7900 xtx brand which is 7900 xtx xfx mercury air and i think it match with my spending.but the problem is i am little bit confused ,is it better than xfx speedster rx 7900 xtx?.i think the xfx rx 7900 xtx speedster is more expensive and idk if i buy the mercury air is good or thing get worst because it is the low end of 7900 xtx? or i just buy the asrock phantom 7900xtx or maybe 7900xt hell hound for 60+fps in all game 1440p no dlss fsr\n\nPrices of GPU's vary according to region, can you please pass on links from the sites you have access to, to the GPU's you're looking at? Most differentiations between cards from their own portfolio and their competitors are their cooling, aesthetics and perhaps factory overclocking, not to mention the reverse engineered designs.\n\nIf this GPU is being purchased for gaming, what sort of titles do you want to tax the GPU with?\n\nMost if not all graphics cards of the same GPU model will be within a few % of each other in real world gaming tests.\n\nI think the xfx 7900 xtx mercury air do not include in this video\n\nPerformance between multiple cards in the same tier is virtually the same. The more notable differences between them will be looks and cooling at personalized fan curves."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "high",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "forum"
+  }
+}

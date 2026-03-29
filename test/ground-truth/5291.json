@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.nonprofitaccountingbasics.org/form-990/charity-ratings-why-they-matter-ways-improve",
+  "file_id": "5291",
+  "ground_truth": {
+    "title": "Charity Ratings:  Why They Matter and Ways to Improve",
+    "author": "Tracey Bible",
+    "publish_date": "2021-06-01",
+    "main_content": "What are charity ratings? Charity ratings are evaluations created by charity watchdog organizations who are also nonprofit entities. The mission of charity watchdogs is to help donors make informed choices about the charitable organizations they want to support. Most of these organizations also post helpful resources for donors and nonprofits on their websites. In addition, charity watchdogs are called “watch dogs” for a reason. They post warnings about organizations they determine to be poorly governed, wasteful, or inefficient.\n\nWho are the top charity watchdogs?\n\nThe most widely known charity watchdog is Charity Navigator because they rate the most organizations annually. The next two most widely known are CharityWatch and Give.org (the Better Business Bureau’s Wise Giving Alliance). There are other charity rating organizations and if your nonprofit organization is a 501(c)(3) charity, you should consider browsing these sites to determine if your organization has been rated. Listed below are some of the other charity ratings organizations.\nGiveWell: aims to direct donor funding to nonprofits saving or improving the most lives\nGlobalGiving: connects nonprofits, donors, and companies worldwide to serve those in need\nGreat Nonprofits: leading platform for community-sourced impact stories about nonprofits\n\nWhy charity ratings matter?\n\nThe primary reason charitable organizations should care about charity ratings is the potential impact on donors and donations. A great rating increases fundraising potential, and a poor rating may result in more than lost donations because of the rating on an organization’s reputation.\n\nConsider the following groups who can research your organization on charity ratings websites:\nBoard members: use ratings to assess whether to accept an invitation to join a board\nStakeholders: volunteers, institutional funders, and partnering organizations use ratings to benchmark organizations against peers\nFuture nonprofit leaders: use ratings to evaluate whether to apply for key positions\n\nWhat is GuideStar? A different kind of Charity Watchdog!\n\nMost people know that GuideStar is the place to go for looking up Form 990 data for tax-exempt organizations, but they do much more. GuideStar is a charity watchdog that does not actually rate organizations. Instead, GuideStar offers a platform for organizations to publish information and earn various “seals of transparency”. This GuideStar rating system enables organizations to control their narrative by what they report on Form 990 along with what they publish for their GuideStar profile.\n\nFurthermore, GuideStar provides a lot of free resources along with other helpful services which require a subscription or fee. Another benefit of claiming and updating a GuideStar profile is that this site enables a nonprofit to expand its reach. How? This is accomplished through the institutional partners that power their platforms with GuideStar data: AmazonSmile, Google for Nonprofits, Fidelity Charitable donor advised funds, Network for Good, and others.\n\nHelpful GuideStar resources:\nHow to claim your FREE GuideStar profile – click on “ Learn more ” to get help\nInformation needed to earn each of the GuideStar Seals\nGo for the top Platinum seal\nHelp with selecting metrics or key performance indicators\n\nHow to improve your charity ratings?\nStart with reviewing your Form 990: This document is used by all the charity watchdogs and drives many of the ratings. Pay attention to what the watchdogs “watch” for your review:\nProgram Service Accomplishments [Part III]: provide quantitative data and highlight impact.\nGovernance, Management, and Disclosure [Part VI]: Make sure you can mark “yes” for Section A: 12a, 13, 14 and 15.\nCompensation [Part VII]: Make sure key executive and volunteer information is accurate\nStatement of Functional Expenses [Part IX]: ensure that you are properly allocating expense between administrative, fundraising, and program functions.\nEarn a GuideStar platinum seal of transparency: GuideStar does more than just maintain a database of Form 990 filings. Research links earning a GuideStar Seal of transparency to a 53% increase in contributions. Read the next section “What is GuideStar?” for more information on seals of transparency.\nUpdate your website: promote transparency and create a call to action by assessing whether your site includes these components of the best-rated charities:\nImpact – Show how your programs and activities are making a difference.\nSupport Opportunities – Let donor and volunteer know about opportunities.\nCommunity Engagement – Include event calendars and activities – keep it current.\nAccountability and Transparency – Include links to the most recently filed Form 990 and financial statement audit.\n\nDo you or your board need help understanding the Form 990 or want to learn more about accounting best practice to support financial transparency? Talk with your auditors or consider working with an external accounting firm with a focus on the nonprofit sector or with a nonprofit practice.",
+    "with": [
+      "The most widely known charity watchdog is Charity Navigator because they rate th",
+      "Future nonprofit leaders: use ratings to evaluate whether to apply for key posit",
+      "Governance, Management, and Disclosure [Part VI]: Make sure you can mark “yes” f",
+      "Accountability and Transparency – Include links to the most recently filed Form "
+    ],
+    "without": [
+      "Terms & Conditions",
+      "Copyright 2026"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

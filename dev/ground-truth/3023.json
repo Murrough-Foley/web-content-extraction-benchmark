@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.ifixit.com/products/moray-driver-kit",
+  "file_id": "3023",
+  "ground_truth": {
+    "title": "Moray Driver Kit",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Compact Bit Set\n\nCompact precision bit set for everyday repair\n\nDescription\n\nMeet the Moray, Minnow's slightly bigger brother. Measuring a portable .9\" x 3.1\" x 4.9\", the Moray is the perfect every-day-carry toolkit or junk drawer standby to prevent your stuff from becoming junk.\n\nWe built the Moray using data from thousands of repair manuals and teardowns, ensuring you have a compact assortment of bits for electronics and home repair. Our 4 mm, polymer handle, precision bit driver has an integrated SIM Eject pin, magnetic bit socket, knurled grip, and swivel top with in-handle bit storage—and the 32 precision driver bits have a 4 mm hex shank and extended-reach long necks.\n\nStandard and security bits like Phillips and Pentalobes will get you into most electronic devices and small household appliances, and an assortment of Hex and specialty bits come in handy for furniture and older devices. Whether you're a professional fixer or a weekend warrior, the Moray has what you need to disassemble and repair smartphones, laptops, new and vintage game consoles, kitchen appliances, and more.\n\nSpecifications\n\nDriver Material\nPolymer\n\nBit Metal\nS2 Steel\n\nDimensions\n4.9\" x 3.1\" x .9\" / 12.4 x 7.8 x 2.2 cm\n\niFixit Part Number\nIF145-475-1\n\nKit Contents\n\nLifetime Guarantee\n\nCalifornia Residents: Prop 65 WARNING\n\nBits for Every Thing\n\nFlathead\n1.0 mm\n2.5 mm\n4.0 mm\n\nGamebit\n3.8 mm\n4.5 mm\n\n1.5 mm\n3.0 mm\n\niPhone Standoff\n\nNut Driver\n5.0 mm\n\nOval Drive\n\nPentalobe\n\nPhillips\n\nSIM Eject\n\nTORX\n\nTORX Security\n\nTri-point\n\nTriangle\n\nCarry the Essentials\n\nThe Moray Driver Kit fits seamlessly into your life with its compact size, making it an ideal everyday carry toolkit or a reliable standby for unexpected repair needs.\n\nThoughtfully Designed Driver\n\nOur lightweight plastic 4 mm driver offers an ergonomic grip and a magnetic bit holder for effortless screw management. The smooth swivel cap cleverly integrates storage for up to three bits and a SIM Eject Tool.\n\nVersatile Bit Assortment\n\nThe Moray boasts 32 precision driver bits with extended necks made from durable S2 steel making it a great choice for both beginners and pros.\n\nWhich bits does the Moray include?",
+    "with": [
+      "Meet the Moray, Minnow's slightly bigger brother",
+      "The Moray Driver Kit fits seamlessly into your life with its compact size",
+      "The Moray boasts 32 precision driver bits with extended necks made from durable S2 steel",
+      "Which bits does the Moray include?"
+    ],
+    "without": [
+      "Fix Your Stuff",
+      "Repair Guides",
+      "Learn how to fix just about anything with our step-by-step guides."
+    ],
+    "main_content_markdown": "## Compact Bit Set\n\nCompact precision bit set for everyday repair\n\n### Description\n\nMeet the Moray, [Minnow](https://www.ifixit.com/products/minnow-driver-kit-16-bit-driver-kit)'s slightly bigger brother. Measuring a portable .9\" x 3.1\" x 4.9\", the Moray is the perfect every-day-carry toolkit or junk drawer standby to prevent your stuff from becoming junk.\n\nWe built the Moray using data from thousands of repair manuals and teardowns, ensuring you have a compact assortment of bits for electronics and home repair. Our 4 mm, polymer handle, precision bit driver has an integrated SIM Eject pin, magnetic bit socket, knurled grip, and swivel top with in-handle bit storage—and the 32 precision driver bits have a 4 mm hex shank and extended-reach long necks.\n\nStandard and security bits like Phillips and Pentalobes will get you into most electronic devices and small household appliances, and an assortment of Hex and specialty bits come in handy for furniture and older devices. Whether you're a professional fixer or a weekend warrior, the Moray has what you need to disassemble and repair smartphones, laptops, new and vintage game consoles, kitchen appliances, and more.\n\n### Specifications\n\n| Driver Material | Polymer |\n| --- | --- |\n| Bit Metal | S2 Steel |\n| Dimensions | 4.9\" x 3.1\" x .9\" / 12.4 x 7.8 x 2.2 cm |\n| iFixit Part Number | IF145-475-1 |\n\n### Kit Contents\n\n[Lifetime Guarantee](https://www.ifixit.com/Info/Warranty)\n\nCalifornia Residents: Prop 65 WARNING\n\n## Bits for Every Thing\n\nFlathead\n1.0 mm\n2.5 mm\n4.0 mm\n\nGamebit\n3.8 mm\n4.5 mm\n\n1.5 mm\n3.0 mm\n\niPhone Standoff\n\nNut Driver\n5.0 mm\n\nOval Drive\n\nPentalobe\n\nPhillips\n\nSIM Eject\n\nTORX\n\nTORX Security\n\nTri-point\n\nTriangle\n\n## Carry the Essentials\n\nThe Moray Driver Kit fits seamlessly into your life with its compact size, making it an ideal everyday carry toolkit or a reliable standby for unexpected repair needs.\n\n## Thoughtfully Designed Driver\n\nOur lightweight plastic 4 mm driver offers an ergonomic grip and a magnetic bit holder for effortless screw management. The smooth swivel cap cleverly integrates storage for up to three bits and a SIM Eject Tool.\n\n## Versatile Bit Assortment\n\nThe Moray boasts 32 precision driver bits with extended necks made from durable S2 steel making it a great choice for both beginners and pros.\n\n### Which bits does the Moray include?"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

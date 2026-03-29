@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.glossier.com/en-bg/pages/skincare-sets-terms-conditions?srsltid=AfmBOopq2neDFhT6rldK9NtzUyBm2xChlXQhh7frHyuOSEQFGvMJWElg",
+  "file_id": "4759",
+  "ground_truth": {
+    "title": "Custom Skincare Sets Promo Terms",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Custom Skincare Sets Promo Terms\n\nReceive ten (10)% off your purchase of three (3) to five (5) individual skincare products (\u201cProducts\u201d) to create a custom set (\u201cCustom Skincare Set\u201d) at all Glossier retail locations and at glossier.com (the \u201cDiscount\u201d), excluding any taxes, shipping and delivery charges. Online purchases are restricted to residents of US, Canada, UK, Ireland, Sweden, Denmark, and France only. Discount is non-transferable, not valid on previous purchases, cannot be combined with other offers. Discount will not be granted, may be revoked, and may not be redeemed for a future purchase if initial transaction is canceled or item(s) are returned. Discount may be suspended or terminated at any time and may be subject to product restrictions or exclusions. Discount will be automatically applied at checkout. Custom Skincare Sets are limited to one (1) per purchase and must contain unique items to be eligible for the discount. Discount is subject to all applicable laws and is void where prohibited.",
+    "with": [
+      "Receive ten (10)% off your purchase of three (3) to five (5) individual skincare products",
+      "Discount is non-transferable, not valid on previous purchases, cannot be combined with other offers",
+      "Custom Skincare Sets are limited to one (1) per purchase and must contain unique items"
+    ],
+    "without": [
+      "Bestsellers",
+      "Returns & exchanges",
+      "International",
+      "Responsible disclosure",
+      "At Glossier, we make products inspired by real life"
+    ],
+    "main_content_markdown": "# Custom Skincare Sets Promo Terms\n\nReceive ten (10)% off your purchase of three (3) to five (5) individual skincare products (\u201c**Products**\u201d) to create a custom set (\u201c**Custom Skincare Set**\u201d) at all Glossier retail locations and at glossier.com (the \u201c**Discount**\u201d), excluding any taxes, shipping and delivery charges. Online purchases are restricted to residents of US, Canada, UK, Ireland, Sweden, Denmark, and France only. Discount is non-transferable, not valid on previous purchases, cannot be combined with other offers. Discount will not be granted, may be revoked, and may not be redeemed for a future purchase if initial transaction is canceled or item(s) are returned. Discount may be suspended or terminated at any time and may be subject to product restrictions or exclusions. Discount will be automatically applied at checkout. Custom Skincare Sets are limited to one (1) per purchase and must contain unique items to be eligible for the discount. Discount is subject to all applicable laws and is void where prohibited."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "article"
+  }
+}

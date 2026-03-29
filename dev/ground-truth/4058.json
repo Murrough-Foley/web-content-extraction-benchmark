@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.health.harvard.edu/mind-and-mood/regular-physical-activity-can-boost-mood",
+  "file_id": "4058",
+  "ground_truth": {
+    "title": "Regular physical activity can boost mood",
+    "author": "Maureen Salamon",
+    "publish_date": "2023-07-01",
+    "main_content": "Exercising regularly can improve symptoms of mild to moderate depression as well as anxiety and psychological distress, a review of many prior published studies suggests.\n\nThe analysis, published online Feb. 16, 2023, by the British Journal of Sports Medicine, used 97 earlier research reviews involving more than 1,000 trials with a total of 128,119 people. Researchers compared the effects of exercise to standard care across a wide range of adults, including healthy people, those with diagnosed mental health disorders, and people with chronic diseases.\n\nWhen compared with people who were sedentary, those who engaged in all types of physical activity and exercise studied, including walking, resistance training, Pilates, and yoga, showed greater improvements in symptoms of mild to moderate depression. Yoga and other mind-body exercises helped reduce anxiety the most, while resistance exercise appeared to help the most with depression.\n\nThe review findings don't mean that people with mental health conditions should sidestep standard care such as medication and counseling. Rather, the results suggest that regular exercise is also an important approach and deserves renewed focus.",
+    "with": [
+      "Exercising regularly can improve symptoms of mild to moderate depression",
+      "used 97 earlier research reviews involving more than 1,000 trials",
+      "When compared with people who were sedentary",
+      "regular exercise is also an important approach and deserves renewed focus"
+    ],
+    "without": [
+      "Customer Service",
+      "Content Licensing",
+      "Free HealthBeat Signup",
+      "Subscriptions",
+      "Special Health Reports"
+    ],
+    "main_content_markdown": "Exercising regularly can improve symptoms of mild to moderate depression as well as anxiety and psychological distress, a review of many prior published studies suggests.\n\nThe analysis, published online Feb. 16, 2023, by the *British Journal of Sports Medicine*, used 97 earlier research reviews involving more than 1,000 trials with a total of 128,119 people. Researchers compared the effects of exercise to standard care across a wide range of adults, including healthy people, those with diagnosed mental health disorders, and people with chronic diseases.\n\nWhen compared with people who were sedentary, those who engaged in all types of physical activity and exercise studied, including walking, resistance training, Pilates, and yoga, showed greater improvements in symptoms of mild to moderate depression. Yoga and other mind-body exercises helped reduce anxiety the most, while resistance exercise appeared to help the most with depression.\n\nThe review findings don't mean that people with mental health conditions should sidestep standard care such as medication and counseling. Rather, the results suggest that regular exercise is also an important approach and deserves renewed focus."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "article"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.analuisa.com/collections/sterling-silver-earrings/",
+  "file_id": "4396",
+  "ground_truth": {
+    "title": "Sterling Silver Earrings",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Sterling Silver Earrings\n\n31 products\n\nNate\nBold Huggie Hoops\n$75\n\nElios\nSun Huggie Hoops\n$65\n\nMini Huggie Hoops\nSterling Silver\n$65\n\nSterling Silver Mini Huggie Hoops\n$65\n\nToda\nDouble Hoop Earrings\n$85\n\nSuzanne\nHuggie Hoop Earrings\n$75\n\nZara\nSmall Stud Earring\n$50\n\nRox Mini Silver\nSterling Silver Elongated Mini Hoops\n$75\n\nLo Medium\nMedium Slim Endless Hoops\n$95\n\nNava\nHuggie Hoops\n$75\n\nLo Small\nSmall Slim Endless Hoops\n$85\n\nToda Silver\nDouble Hoop Earrings\n$85\n\nSuzanne Silver\nHuggie Hoop Earrings\n$75\n\nHarley\nDouble Hoop Earrings\n$75\n\nSuzanne Medium\nPavé Huggie Hoops\n$95\n\nLo Small Silver\nSmall Slim Endless Hoops\n$85\n\nLo Medium Silver\nMedium Slim Endless Hoops\n$95\n\nDebbie\nGold Stud Earrings\n$50\n\nRox Mini\nGold Hoop Earrings\n$75\n\nRox Small\nGold Hoop Earrings\n$85\n\nRox Small Silver\nSmall Hoop Earrings\n$85",
+    "with": [
+      "Sterling Silver Earrings",
+      "Bold Huggie Hoops",
+      "Sun Huggie Hoops",
+      "Double Hoop Earrings",
+      "Small Slim Endless Hoops",
+      "Pavé Huggie Hoops"
+    ],
+    "without": [
+      "Be the first to know",
+      "Our Mission",
+      "Sms Privacy Policy",
+      "Secure Checkout Options"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "collection"
+  }
+}

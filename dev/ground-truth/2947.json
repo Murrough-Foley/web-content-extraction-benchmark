@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.thomann.de/gb/fender_player_ii_strat_rw_bcg.htm",
+  "file_id": "2947",
+  "ground_truth": {
+    "title": "Fender Player II Strat RW BCG",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Electric Guitar\n\n- Body: Alder\n- Bolt-on neck: Maple\n- Fingerboard: Rosewood\n- White dot fingerboard inlays\n- Fingerboard radius: 241 mm (9.5\")\n- Scale: 648 mm (25.5\")\n- Nut width: 42 mm (1.650\")\n- Synthetic bone nut\n- Neck profile: Modern \"C\"\n- 22 Medium jumbo frets\n- Pickups: 3 Player Series Alnico 5 Strat single coils\n- One master volume and two tone controls\n- 5-Way switch\n- 3-Ply parchment pickguard\n- 2-Point synchronised tremolo with bent steel saddles\n- Fender ClassicGear machine heads\n- Nickel/Chrome hardware\n- Original strings: Fender USA 250L Nickel-plated steel .009 - .042\n- Colour: Birch Green\n\nAvailable since July 2024\n\nItem number 595247\n\nColour: Green\nBody: Alder\nTop: None\nNeck: Maple\nFretboard: Rosewood\nFrets: 22\nScale: 648 mm\nPickups: SSS\nTremolo: 2-Point Deluxe Synchronized Tremolo\nIncl. Bag: No\nIncluding Case: No",
+    "with": [
+      "Electric Guitar",
+      "Body: Alder",
+      "Pickups: 3 Player Series Alnico 5 Strat single coils",
+      "2-Point synchronised tremolo with bent steel saddles",
+      "Fender ClassicGear machine heads",
+      "Item number 595247"
+    ],
+    "without": [
+      "Free Shipping Over",
+      "This is what customers who viewed this product bought",
+      "Smart Navigator",
+      "Thomann Newsletter"
+    ],
+    "main_content_markdown": "## Electric Guitar\n\n- Body: Alder\nBolt-on neck: Maple\n- Fingerboard: Rosewood\n- White dot fingerboard inlays\n- Fingerboard radius: 241 mm (9.5\")\n- Scale: 648 mm (25.5\")\n- Nut width: 42 mm (1.650\")\n- Synthetic bone nut\n- Neck profile: Modern \"C\"\n- 22 Medium jumbo frets\n- Pickups: 3 Player Series Alnico 5 Strat single coils\n- One master volume and two tone controls\n- 5-Way switch\n- 3-Ply parchment pickguard\n- 2-Point synchronised tremolo with bent steel saddles\n- Fender ClassicGear machine heads\n- Nickel/Chrome hardware\n- Original strings: Fender USA 250L Nickel-plated steel .009 - .042\n- Colour: Birch Green\n\nAvailable since July 2024\n\nItem number 595247\n\nColour: Green\nBody: Alder\nTop: None\nNeck: Maple\nFretboard: Rosewood\nFrets: 22\nScale: 648 mm\nPickups: SSS\nTremolo: 2-Point Deluxe Synchronized Tremolo\nIncl. Bag: No\nIncluding Case: No"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

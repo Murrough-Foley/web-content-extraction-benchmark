@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.figma.com/",
+  "file_id": "2833",
+  "ground_truth": {
+    "title": "Figma: The Collaborative Interface Design Tool",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Make anything possible, all in Figma\n\nFigma lets you turn big ideas into real products. Brainstorm, design, and build with your team.\n\nPrompt, code, and design from first idea to final product\n\nPrompt to code anything you can imagine with AI.\n\nFigma helps us paint the north star for the whole company. It keeps everyone aligned and excited.\n\nHenry Modisett, Head of Design\n\nBring everyone together with systems that scale\n\nShare libraries and design systems across teams. Create reusable components, variables, and brand assets to keep your entire organization building with the same visual language.\n\nUnlock your team with on-brand templates. Share templates with your organization so anyone can quickly create social media assets, display ads, one-pagers, and more.\n\nCreate one source of truth for devs and designers. Get specs, annotations, and code snippets in one dedicated space with Dev Mode.\n\nShip products, any way you want\n\nTurn Figma context into code\n\nOur Figma MCP server lets you bring Figma context directly into your agentic coding tools.\n\nPublish custom websites—with or without code\n\nDesign responsive websites in Figma Sites, then tweak with code or AI until everything is just right.\n\nShip products faster with AI\n\nDrop a design file into Figma Make and chat with AI to quickly create a live, functional app.\n\nNearly everything that designers and developers need is available in Figma.\n\nDiana Mounter, Head of Design\n\nStart with a template. Make just about anything.",
+    "with": [
+      "Figma lets you turn big ideas into real products. Brainstorm, design, and build with your team",
+      "Share libraries and design systems across teams",
+      "Our Figma MCP server lets you bring Figma context directly into your agentic coding tools",
+      "Drop a design file into Figma Make and chat with AI to quickly create a live, functional app",
+      "Nearly everything that designers and developers need is available in Figma"
+    ],
+    "without": [
+      "Skip to main content",
+      "Log in",
+      "Contact sales",
+      "Figma Support"
+    ],
+    "main_content_markdown": "# Make anything possible, all in Figma\n\nFigma lets you turn big ideas into real products. Brainstorm, design, and build with your team.\n\n## Prompt, code, and design from first idea to final product\n\nPrompt to code anything you can imagine with AI.\n\nFigma helps us paint the north star for the whole company. It keeps everyone aligned and excited.\n\nHenry Modisett, Head of Design\n\n## Bring everyone together with systems that scale\n\nShare libraries and design systems across teams. Create reusable components, variables, and brand assets to keep your entire organization building with the same visual language.\n\nUnlock your team with on-brand templates. Share templates with your organization so anyone can quickly create social media assets, display ads, one-pagers, and more.\n\nCreate one source of truth for devs and designers. Get specs, annotations, and code snippets in one dedicated space with Dev Mode.\n\n## Ship products, any way you want\n\n### Turn Figma context into code\n\nOur Figma MCP server lets you bring Figma context directly into your agentic coding tools.\n\nPublish custom websites-with or without code\n\nDesign responsive websites in Figma Sites, then tweak with code or AI until everything is just right.\n\n### Ship products faster with AI\n\nDrop a design file into Figma Make and chat with AI to quickly create a live, functional app.\n\nNearly everything that designers and developers need is available in Figma.\n\nDiana Mounter, Head of Design\n\n## Start with a template. Make just about anything."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

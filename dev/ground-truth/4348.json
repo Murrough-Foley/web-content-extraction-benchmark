@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://skillsbuild.org/students/course-catalog/data-science",
+  "file_id": "4348",
+  "ground_truth": {
+    "title": "Free Data Science Courses for Students",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Data science\n\nFree learning and resources\n\nOver five billion people around the world are online these days. And we're all creating tons of data every time we do a google search or open an app. But what happens to that data? How do companies make use of it to grow their business? What do you need to know to be a more informed consumer? Explore these questions and get answers in our free data science courses.\n\n  \n\nFor students\n\nDive into our free resources and learn what data science is and how it’s used in different industries (like music and streaming). And explore data science career paths!\n\nFor educators\n\nYou can use these data science resources to plan lessons and implement content with your students. The curriculum map lays out student goals, local standards addressed (for you to fill in and customize), course and activity links, student objectives, estimated time, available assessments, and associated teacher resources.\n\nReady to start building your future?\n\nStart exploring the tech and workplace topics and skills that interest you. Gain new skills, earn digital badges, and build the future you want. What’re you waiting for?",
+    "with": [
+      "Over five billion people around the world are online these days. And we're all c",
+      "You can use these data science resources to plan lessons and implement content w",
+      "Start exploring the tech and workplace topics and skills that interest you. Gain"
+    ],
+    "without": [
+      "Explore learning",
+      "Digital credentials",
+      "Try it before you register",
+      "Course catalog",
+      "Artificial intelligence"
+    ],
+    "main_content_markdown": "# Data science\n\n## Free learning and resources\n\nOver five billion people around the world are online these days. And we're all creating tons of data every time we do a google search or open an app. But what happens to that data? How do companies make use of it to grow their business? What do you need to know to be a more informed consumer? Explore these questions and get answers in our free data science courses.\n\n  \n\n## For students\n\nDive into our free resources and learn what data science is and how it’s used in different industries (like music and streaming). And explore data science career paths!\n\n## For educators\n\nYou can use these data science resources to plan lessons and implement content with your students. The curriculum map lays out student goals, local standards addressed (for you to fill in and customize), course and activity links, student objectives, estimated time, available assessments, and associated teacher resources.\n\n## Ready to start building your future?\n\nStart exploring the tech and workplace topics and skills that interest you. Gain new skills, earn digital badges, and build the future you want. What’re you waiting for?"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "high",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

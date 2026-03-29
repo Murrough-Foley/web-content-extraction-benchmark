@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://superuser.com/questions/442960/windows-7-explorer-keyboard-shortcut-set-focus-to-files-folders-content-area",
+  "file_id": "0565",
+  "ground_truth": {
+    "title": "Windows 7 Explorer keyboard shortcut: set focus to files/folders/content area?",
+    "author": "Pup",
+    "publish_date": "2012-06-29",
+    "main_content": "Is there a Windows 7 Explorer keyboard shortcut to set focus to files/folders/content area (depicted below)?\n\nThis has bothered me for so long...\nI want to set my explorer window's focus to the files pane (shown below). What's the most efficient way to do that with a keyboard?\n\nHere's what I've been doing:\n- Tab / Shift+Tab to move focus through interactive window elements until it looks like a selection rectangle appears over one of the files in my window.\n- Alt+V, Alt+D to change appearance setting of a folder contents' icons. Doesn't always work, depending on what's selected at the time.\n\nAsked by Pup on Jun 29, 2012\n\nAccepted Answer by iglvzx\n\nYou can use AutoHotkey to move the keyboard focus to the file pane. In this example, I use the hotkey Win+Space:\n\n#IfWinActive ahk_class CabinetWClass ; Windows Explorer\n    #Space::\n        ControlFocus, DirectUIHWND3, A\n        SendInput, {Space}\n        return\n#IfWinActive\n\nSee Also:\n\n- AutoHotkey: Hotkeys\n\nAnswer by Edward J Beckett\n\nTry Ctrl+Tab, that should do it.\n\nFor the record the terminology you are referring to is called \"Property Tab Navigation\" ...\n\nProperties control\n\nCTRL+TAB/CTRL+SHIFT+TAB: Move through the property tabs\n\nAnswer by RashaMatt\n\nCtrl+E (or Ctrl+F) followed by Esc\n\nWorks in Windows 7, 8.1, 10",
+    "with": [
+      "Is there a Windows 7 Explorer keyboard shortcut to set focus to files/folders/content area",
+      "I want to set my explorer window's focus to the files pane",
+      "You can use AutoHotkey to move the keyboard focus to the file pane.",
+      "ControlFocus, DirectUIHWND3, A",
+      "Try Ctrl+Tab, that should do it."
+    ],
+    "without": [
+      "Skip to main content",
+      "Stack Exchange network consists of 183 Q&A communities",
+      "Sign up or log in"
+    ],
+    "main_content_markdown": "## Is there a Windows 7 Explorer keyboard shortcut to set focus to files/folders/content area (depicted below)?\n\nThis has bothered me for so long...\nI want to set my explorer window's focus to the files pane (shown below). What's the most efficient way to do that with a keyboard?\n\nHere's what I've been doing:\n- Tab / `Shift+Tab` to move focus through interactive window elements until it looks like a selection rectangle appears over one of the files in my window.\n- Alt+V, `Alt+D` to change appearance setting of a folder contents' icons. Doesn't always work, depending on what's selected at the time.\n\nAsked by Pup on Jun 29, 2012\n\nAccepted Answer by [iglvzx](https://superuser.com/users/100787/iglvzx)\n\nYou can use [AutoHotkey](http://autohotkey.com) to move the keyboard focus to the file pane. In this example, I use the hotkey Win+Space:\n\n```\n#IfWinActive ahk_class CabinetWClass ; Windows Explorer\n    #Space::\n        ControlFocus, DirectUIHWND3, A\n        SendInput, {Space}\n        return\n#IfWinActive\n```\n\n**See Also:**\n- [AutoHotkey: **Hotkeys**](http://www.autohotkey.com/docs/Hotkeys.htm)\n\nAnswer by [Edward J Beckett](https://superuser.com/users/108438/edward-j-beckett)\n\nTry `Ctrl+Tab`, that should do it.\n\nFor the record the terminology you are referring to is called [\"Property Tab Navigation\"](http://support.microsoft.com/kb/126449) ...\n\n> Properties control\n\n```\nCTRL+TAB/CTRL+SHIFT+TAB: Move through the property tabs\n```\n\nAnswer by [RashaMatt](https://superuser.com/users/257454/rashamatt)\n\nCtrl+E (or Ctrl+F) followed by `Esc`\n\nWorks in Windows 7, 8.1, 10"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": []
+    }
+  }
+}

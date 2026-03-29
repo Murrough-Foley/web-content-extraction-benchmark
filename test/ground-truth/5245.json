@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.edupass.org/paying-for-college/scholarships/databases/",
+  "file_id": "5245",
+  "ground_truth": {
+    "title": "List of Scholarships for International Students",
+    "author": "Archit Soni",
+    "publish_date": "2020-09-16",
+    "main_content": "The best way to win a scholarship is to apply for those with criteria that fit your specific profile. But how do you find those elusive scholarships? By looking at the list for international students that we've compiled for you below!\n\nApplying to college as an international student can be daunting enough without thinking about how to pay for it. However, there are many companies with scholarships for prospective undergraduate students studying in the United States. International applicants, especially undergraduate students, often find it hard to find fully funded scholarships. That's why we created our list of partners that support the dreams of international students with everything from undergraduate scholarships right through to MBA funding opportunities.\n\nYou may also be interested in the list of scholarships for international students.\n\nScholarship Competitions for International Students\n\nAll\n\nScholarships for Women\n\nStudents Looking to Make a Difference\n\nStudents from Developing Countries\n\nStudents from Around the World\n\nThe Aga Khan Foundation International Scholarship provides scholarships to students from select developing countries who have no other source of financial help for their graduate studies. The scholarships are 50 percent grant and 50 percent loan.\n\nThe American Association of University Women offers fellowships for non-American women who want to earn a Master's or doctorate in the USA. Priority is given to women who can demonstrate commitment to the advancement of women and girls, and the scholarship may be reapplied every year of the program.\n\nThe Civil Society Leadership Awards offers full scholarships for Master's students from specific countries who are dedicated to fostering social change.\n\nConacyt provides scholarships for Mexican students pursuing post-graduate studies in institutions abroad.\n\nColFuturo provides scholarships for Colombian students pursuing post-graduate studies abroad.\n\nForeign Fulbright Student Program offers scholarships for graduate students from around the world (as well as young professionals and artists) to study in the USA.\n\nInternational Student has a comprehensive and searchable database of grants, scholarships, loan programs, and other information for international students.\n\nThe Joint Japan/World Bank Graduate Scholarship Program provides comprehensive financial coverage, including tuition, a monthly stipend, airfare, health insurance, and travel allowance, to students from developing countries who have provided support to their home country's development and who are applying for a development-related Master's program.\n\nMPOWER Financing offers scholarships for international and DACA students. Its Global Citizen Scholarship Program has the broadest eligibility criteria and is offered throughout the year, and niche scholarships are also available.\n\nThe P.E.O. International Peace Scholarship awards scholarships to women from other countries who are earning their graduate degree in the USA.\n\nWebsites That Allow International Students to Search for Scholarships\n\nThe College Board supports 7 million students each year as they prepare for college and also oversees the SAT college admission test. Their website offers scholarship and other financial aid and internship information from more than 2,200 programs.\n\nInternational Student specifically provides a scholarship search for international students. Its comprehensive and searchable database of grants, scholarships, loan programs and other information ensures that students from around the world have as many resources as possible to find ways to pay for college.\n\nFastweb provides access to 1.5 million scholarships worth $3.4 billion. Students create a profile and are able to keep track of their applications on the website.\n\nBuddy4Study is a scholarship search engine for Indian students applying to schools in the USA and in other countries.\n\nEdukasyon lists various scholarships for students from the Philippines.\n\nScholarships for other countries",
+    "with": [
+      "Applying to college as an international student can be daunting enough without t",
+      "The Civil Society Leadership Awards offers full scholarships for Master's stude",
+      "The P.E.O. International Peace Scholarship awards scholarships to women from ot",
+      "Buddy4Study is a scholarship search engine for Indian students applying to schoo"
+    ],
+    "without": [
+      "Getting into College",
+      "Should You Apply",
+      "Before You Apply",
+      "Don't miss important scholarship announcements and other vit"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

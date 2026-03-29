@@ -1,0 +1,23 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.bestbuy.com/site/microsoft-surface-laptop-copilot-pc-13-8-touchscreen-snapdragon-x-plus-2024-16gb-memory-512gb-storage-7th-ed-dune/6582841.p",
+  "file_id": "0618",
+  "ground_truth": {
+    "title": "Microsoft - Surface Laptop - Copilot+ PC - 13.8\" Touchscreen - Snapdragon X Plus 2024 - 16GB Memory",
+    "author": null,
+    "publish_date": null,
+    "main_content": "",
+    "with": [],
+    "without": []
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": []
+    },
+    "spa": true
+  }
+}

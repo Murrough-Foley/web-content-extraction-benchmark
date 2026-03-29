@@ -1,0 +1,29 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.dickblick.com/?srsltid=AfmBOoqluK5BsaQoQbUSgBpCl8irE7MUU6O0GxidH8d_C8xqSy3VTIEn",
+  "file_id": "4418",
+  "ground_truth": {
+    "title": "Blick Art Materials",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Featured Gifts Shop All Gifts\n\nFeatured Art Supplies\n\nBrowse Featured Categories View All\n\nGifts\n\nNew Products\n\nDeals\n\nClearance\n\nOverstock Liquidation Sale\n\nCustom Canvas & Framing\n\nWatercolor Paint\n\nAcrylic Paint\n\nOil Paint\n\nPaint & Mediums\n\nCanvas & Surfaces\n\nBrushes & Painting Tools\n\nColored Pencils\n\nMarkers\n\nFine Writing Supplies\n\nDrawing & Illustration\n\nPaper & Boards\n\nEasels & Furniture\n\nFrames & Framing Supplies\n\nCeramics & Sculpture\n\nPrintmaking\n\nCrafts & Textiles\n\nKids Art Supplies\n\nTattoo Supplies",
+    "with": [
+      "Featured Art Supplies",
+      "Browse Featured Categories"
+    ],
+    "without": [
+      "Sign In",
+      "My Account",
+      "Customer Service"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "collection"
+  }
+}

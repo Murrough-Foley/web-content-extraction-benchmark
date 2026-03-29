@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://community.home-assistant.io/t/2024-4-4-2024-5-0-issue-stuck-on-home-assistant-is-starting/724779",
+  "file_id": "0503",
+  "ground_truth": {
+    "title": "2024.4.4 -> 2024.5.0 issue: stuck on \"Home Assistant is starting\"",
+    "author": "raoul",
+    "publish_date": "2024-05-03",
+    "main_content": "raoul\nMay 3, 2024, 8:45am\n\n2024.4.4 -> 2024.5.0 issue\nI have just installed version 2024.5.0, but at every reboot attempt the message \"Home Assistant is starting, not everything will be available until it is finished\" remains visible and I have verified that several devices are not available. I then went back to version 2024.4.4 and with this everything works fine. I tried to put the registry here, but it turns out to be too large. How can I do? Could you help me solve the problem? Thank you.\n\nraoul\nMay 3, 2024, 11:39am\n\nThis is part of the log, I hope it is sufficient:\n\n2024-05-03 10:09:38.163 ERROR (MainThread) [homeassistant] Error doing job: Future exception was never retrieved\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.12/concurrent/futures/thread.py\", line 58, in run\n    result = self.fn(*self.args, **self.kwargs)\n  File \"/config/custom_components/tuya_local/device.py\", line 147, in actually_start\n    self._refresh_task = self._hass.async_create_task(self.receive_loop())\n  File \"/usr/src/homeassistant/homeassistant/core.py\", line 816, in async_create_task\n    self.verify_event_loop_thread(\"async_create_task\")\n  File \"/usr/src/homeassistant/homeassistant/core.py\", line 440, in verify_event_loop_thread\n    frame.report(\n  File \"/usr/src/homeassistant/homeassistant/helpers/frame.py\", line 162, in report\n    _report_integration(what, integration_frame, level, error_if_integration)\n  File \"/usr/src/homeassistant/homeassistant/helpers/frame.py\", line 203, in _report_integration\n    raise RuntimeError(\nRuntimeError: Detected that custom integration 'tuya_local' calls async_create_task from a thread at custom_components/tuya_local/device.py, line 147: self._refresh_task = self._hass.async_create_task(self.receive_loop()). Please report it to the author of the 'tuya_local' custom integration.\n\ncode-in-progress (Bill - I write code.)\nMay 3, 2024, 12:16pm\n\nLooks like it's something to do with the tuya_local integration. Try disabling it and restarting.\n\nYou might also want to open an issue on the custom integration's github as well.\n\nraoul\nMay 3, 2024, 1:23pm\n\nI found a thread already open on GitHub:\n\nLast update don't solve my problem with HA 2024.5.0 stops the integration\n\nIt seems to be a general problem and is being discussed.\nThanks for the suggestion.",
+    "main_content_markdown": "raoul\nMay 3, 2024, 8:45am\n\n2024.4.4 -> 2024.5.0 issue\nI have just installed version 2024.5.0, but at every reboot attempt the message \"Home Assistant is starting, not everything will be available until it is finished\" remains visible and I have verified that several devices are not available. I then went back to version 2024.4.4 and with this everything works fine. I tried to put the registry here, but it turns out to be too large. How can I do? Could you help me solve the problem? Thank you.\n\nraoul\nMay 3, 2024, 11:39am\n\nThis is part of the log, I hope it is sufficient:\n\n2024-05-03 10:09:38.163 ERROR (MainThread) [homeassistant] Error doing job: Future exception was never retrieved\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.12/concurrent/futures/thread.py\", line 58, in run\n    result = self.fn(*self.args, **self.kwargs)\n  File \"/config/custom_components/tuya_local/device.py\", line 147, in actually_start\n    self._refresh_task = self._hass.async_create_task(self.receive_loop())\n  File \"/usr/src/homeassistant/homeassistant/core.py\", line 816, in async_create_task\n    self.verify_event_loop_thread(\"async_create_task\")\n  File \"/usr/src/homeassistant/homeassistant/core.py\", line 440, in verify_event_loop_thread\n    frame.report(\n  File \"/usr/src/homeassistant/homeassistant/helpers/frame.py\", line 162, in report\n    _report_integration(what, integration_frame, level, error_if_integration)\n  File \"/usr/src/homeassistant/homeassistant/helpers/frame.py\", line 203, in _report_integration\n    raise RuntimeError(\nRuntimeError: Detected that custom integration 'tuya_local' calls async_create_task from a thread at custom_components/tuya_local/device.py, line 147: self._refresh_task = self._hass.async_create_task(self.receive_loop()). Please report it to the author of the 'tuya_local' custom integration.\n\ncode-in-progress (Bill - I write code.)\nMay 3, 2024, 12:16pm\n\nLooks like it's something to do with the tuya_local integration. Try disabling it and restarting.\n\nYou might also want to open an issue on the custom integration's github as well.\n\nraoul\nMay 3, 2024, 1:23pm\n\nI found a thread already open on GitHub:\n\nLast update don't solve my problem with HA 2024.5.0 stops the integration\n\nIt seems to be a general problem and is being discussed.\nThanks for the suggestion.",
+    "with": [
+      "I have just installed version 2024.5.0, but at every reboot attempt the message \"Home Assistant is starting, not everything will be available until it is finished\" remains visible",
+      "I then went back to version 2024.4.4 and with this everything works fine.",
+      "RuntimeError: Detected that custom integration 'tuya_local' calls async_create_task from a thread",
+      "Looks like it's something to do with the tuya_local integration. Try disabling it and restarting.",
+      "You might also want to open an issue on the custom integration's github as well."
+    ],
+    "without": [
+      "Home Assistant Community",
+      "Powered by Discourse",
+      "Categories",
+      "Guidelines"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": []
+    }
+  }
+}

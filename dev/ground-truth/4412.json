@@ -1,0 +1,29 @@
+{
+  "schema_version": "2.0",
+  "url": "https://docs.aws.amazon.com/prescriptive-guidance/latest/postgresql-query-tuning/introduction.html",
+  "file_id": "4412",
+  "ground_truth": {
+    "title": "Optimizing PostgreSQL query performance",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Amazon Web Services (contributors)\n\nApril 2024 ( document history )\n\nPostgreSQL is an open source object-relational database system that is powerful, flexible,\nand reliable. There are many ways to optimize the performance of a PostgreSQL query. The\nprocess of optimizing the query depends on the use case. Knowing the current query plan can\nhelp you to identify and understand any issues and make the necessary changes. Sometimes,\nyou might need to analyze the tables to keep the database statistics up to date. The\nPostgreSQL optimizer will use those statistics to run the query faster. This guide focuses\non best practices for improving the performance of PostgreSQL queries.\n\nThis guide assumes that you have an existing Amazon Relational Database Service (Amazon RDS) for PostgreSQL or\nAmazon Aurora PostgreSQL-Compatible database instance.\n\nUse cases for query performance tuning\n\nThis guide covers five use cases, with explanations and examples:\n\n- Collations\n- Data type mismatch\n- Function call in the SELECT statement\n- IN or EXISTS\n- Subqueries or Common Table Expressions (CTEs)\n\nEach use case provides details of the initial run plan, how to analyze the plan to\nidentify the problem, and a solution. Implementing these use cases typically results in\nfaster response times for queries, reduced load on the server, and overall enhanced\nsystem efficiency. Those improvements can lead to a better user experience and increased\nsystem reliability.",
+    "with": [
+      "and reliable. There are many ways to optimize the performance of a PostgreSQL qu",
+      "on best practices for improving the performance of PostgreSQL queries.",
+      "identify the problem, and a solution. Implementing these use cases typically res"
+    ],
+    "without": [
+      "DocumentationAWS Prescriptive GuidanceOptimizing PostgreSQL "
+    ],
+    "main_content_markdown": "*Amazon Web Services* ([contributors](https://docs.aws.amazon.com/prescriptive-guidance/latest/postgresql-query-tuning/contributors.html))\n\n*April 2024* ( [document history](https://docs.aws.amazon.com/prescriptive-guidance/latest/postgresql-query-tuning/doc-history.html) )\n\nPostgreSQL is an open source object-relational database system that is powerful, flexible,\nand reliable. There are many ways to optimize the performance of a PostgreSQL query. The\nprocess of optimizing the query depends on the use case. Knowing the current query plan can\nhelp you to identify and understand any issues and make the necessary changes. Sometimes,\nyou might need to analyze the tables to keep the database statistics up to date. The\nPostgreSQL optimizer will use those statistics to run the query faster. This guide focuses\non best practices for improving the performance of PostgreSQL queries.\n\nThis guide assumes that you have an existing Amazon Relational Database Service (Amazon RDS) for PostgreSQL or\nAmazon Aurora PostgreSQL-Compatible database instance.\n\n## Use cases for query performance tuning\n\nThis guide covers five use cases, with explanations and examples:\n\n- Collations\n- Data type mismatch\n- Function call in the SELECT statement\n- IN or EXISTS\n- Subqueries or Common Table Expressions (CTEs)\n\nEach use case provides details of the initial run plan, how to analyze the plan to\nidentify the problem, and a solution. Implementing these use cases typically results in\nfaster response times for queries, reduced load on the server, and overall enhanced\nsystem efficiency. Those improvements can lead to a better user experience and increased\nsystem reliability."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "documentation"
+  }
+}

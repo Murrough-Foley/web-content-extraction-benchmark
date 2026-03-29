@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://mkecowork.com/",
+  "file_id": "5263",
+  "ground_truth": {
+    "title": "CoWork Office Spaces",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Just need a spot to work on a laptop? Great, membership is perfect. Growing and need your own office but can't afford to get your own property? We have multiple different size offices that can grow as your business demands change!\n\nLook, coffee shops are cool for a while but at some point, you need a professional spot to call your own; one you can meet clients and bump shoulders with like-minded folks.\n\nWe Heart Small Business\n\nYou don't have to spend thousands of bucks a month to get access to a top notch office space.\n\nPLAN PRICE\nMEMBERSHIP OPTIONS Day Pass $30/Day\nMEMBERSHIP OPTIONS 24/7 Access $100/Month\nCONFERENCE ROOMS 4 Person Room $40/Hour\nCONFERENCE ROOMS 5 Person Room $40/Hour\nCONFERENCE ROOMS 7 Person Room $60/Hour\nCONFERENCE ROOMS 20 Person Room $150/Hour\nCONFERENCE ROOMS Garage/Courtyard $200/Hour\nPRIVATE ROOMS Contact Us for Details hello@mkecowork.com\nDiscounts available for recurring meetings and events.\n\nAmenities\n\nFiber Internet\n\nFull Kitchen\n\nRemote Access\n\nMastermind Deck\n\nModern Furniture\n\nSurveillance Security\n\nMastermind Events\n\nWeekly Cleaning Service\n\nUtilities & Maintenance",
+    "with": [
+      "Look, coffee shops are cool for a while but at some point, you need a professional spot to call your own",
+      "PRIVATE ROOMS Contact Us for Details hello@mkecowork.com",
+      "Discounts available for recurring meetings and events.",
+      "Fiber Internet"
+    ],
+    "without": [
+      "© 2026 MKE CoWork",
+      "Book a Conference Room",
+      "Member Login"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

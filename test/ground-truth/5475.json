@@ -1,0 +1,28 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.uniqlo.com/us/en/special-feature/work/men?srsltid=AfmBOooWyNvTrbta_oDkCk1rCV-htNrLRkEUe_CW5-qxziT0PDXI67zr",
+  "file_id": "5475",
+  "ground_truth": {
+    "title": "Men's Work & Office Wear",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Men's Work & Office Wear\n\nLook professional, comfortable, and effortlessly stylish for every work occasion with UNIQLO's easy-care, perfect-for-work essentials.",
+    "with": [
+      "Look professional, comfortable, and effortlessly stylish for every work occasion"
+    ],
+    "without": [
+      "UNIQLO US",
+      "WOMEN"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "collection",
+    "verdict": "ok"
+  }
+}

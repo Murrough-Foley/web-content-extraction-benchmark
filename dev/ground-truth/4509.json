@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.peacetarget.com/product-category/electronics-and-gadgets/",
+  "file_id": "4509",
+  "ground_truth": {
+    "title": "Electronics and gadgets",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Home Appliance (1)\n\nRadios (4)\n\nPower Banks (158)\n\nBluetooth Speakers (44)\n\nCamera Accessories (10)\n\nComputer Accessories (51)\n\nPhone Accessories (44)",
+    "with": [
+      "Power Banks",
+      "Bluetooth Speakers",
+      "Computer Accessories"
+    ],
+    "without": [
+      "New products",
+      "Camp Kitchen",
+      "Powered by WordPress",
+      "Outdoor items",
+      "Click here to Log-in"
+    ],
+    "main_content_markdown": "[Home Appliance](https://www.peacetarget.com/product-category/electronics-and-gadgets/home-appliance/) (1)\n\n[Radios](https://www.peacetarget.com/product-category/electronics-and-gadgets/radios/) (4)\n\n[Power Banks](https://www.peacetarget.com/product-category/electronics-and-gadgets/power-banks/) (158)\n\n[Bluetooth Speakers](https://www.peacetarget.com/product-category/electronics-and-gadgets/bluetooth-speakers/) (44)\n\n[Camera Accessories](https://www.peacetarget.com/product-category/electronics-and-gadgets/camera-accessories/) (10)\n\n[Computer Accessories](https://www.peacetarget.com/product-category/electronics-and-gadgets/computer-accessories/) (51)\n\n[Phone Accessories](https://www.peacetarget.com/product-category/electronics-and-gadgets/phone-accessories/) (44)"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "collection"
+  }
+}

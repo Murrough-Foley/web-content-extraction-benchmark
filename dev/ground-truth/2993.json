@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://developer.mozilla.org/en-US/docs/Web/API/WebSocket",
+  "file_id": "2993",
+  "ground_truth": {
+    "title": "WebSocket",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Baseline Widely available *\n\nThis feature is well established and works across many devices and browser versions. It’s been available across browsers since July 2015.\n\n* Some parts of this feature may have varying levels of support.\n- Learn more\n- See full compatibility\n- Report feedback\n\nNote: This feature is available in Web Workers .\n\nThe WebSocket object provides the API for creating and managing a WebSocket connection to a server, as well as for sending and receiving data on the connection.\n\nTo construct a WebSocket , use the WebSocket() constructor.\n\nNote: The WebSocket API has no way to apply backpressure , therefore when messages arrive faster than the application can process them, the application will either fill up the device's memory by buffering those messages, become unresponsive due to 100% CPU usage, or both. For an alternative that provides backpressure automatically, see WebSocketStream .\n\nConstructor\n\nWebSocket()\n\nReturns a newly created WebSocket object.\n\nInstance properties\n\nWebSocket.binaryType\n\nThe binary data type used by the connection.\n\nWebSocket.bufferedAmount Read only\n\nThe number of bytes of queued data.\n\nWebSocket.extensions Read only\n\nThe extensions selected by the server.\n\nWebSocket.protocol Read only\n\nThe sub-protocol selected by the server.\n\nWebSocket.readyState Read only\n\nThe current state of the connection.\n\nWebSocket.url Read only\n\nThe absolute URL of the WebSocket.\n\nInstance methods\n\nWebSocket.close()\n\nCloses the connection.\n\nWebSocket.send()\n\nEnqueues data to be transmitted.\n\nEvents\n\nListen to these events using addEventListener() or by assigning an event listener to the oneventname property of this interface.\n\nclose\n\nFired when a connection with a WebSocket is closed.\nAlso available via the onclose property\n\nerror\n\nFired when a connection with a WebSocket has been closed because of an error, such as when some data couldn't be sent.\nAlso available via the onerror property.\n\nmessage\n\nFired when data is received through a WebSocket .\nAlso available via the onmessage property.\n\nopen\n\nFired when a connection with a WebSocket is opened.\nAlso available via the onopen property.\n\nExamples\n\nSpecifications\n\nBrowser compatibility\n\nSee also\n\n- Writing WebSocket client applications",
+    "with": [
+      "Baseline Widely available *",
+      "Note: The WebSocket API has no way to apply backpressure , therefore when messages arrive faster than the application can process them, the application will either fill up the device's memory by buffering those messages, become unresponsive due to 100% CPU usage, or both.",
+      "The extensions selected by the server.",
+      "The absolute URL of the WebSocket.",
+      "Fired when data is received through a WebSocket ."
+    ],
+    "without": [
+      "HTML: Markup language",
+      "Global attributes",
+      "Responsive images",
+      "HTML cheatsheet"
+    ],
+    "main_content_markdown": "Baseline Widely available *\n\nThis feature is well established and works across many devices and browser versions. It’s been available across browsers since July 2015.\n\n* Some parts of this feature may have varying levels of support.\n- [Learn more](https://developer.mozilla.org/en-US/docs/Glossary/Baseline/Compatibility)\n- See full compatibility\n- [Report feedback](https://survey.alchemer.com/s3/7634825/MDN-baseline-feedback?page=%2Fen-US%2Fdocs%2FWeb%2FAPI%2FWebSocket&level=high)\n\n**Note:** This feature is available in [Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API) .\n\nThe [WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API) object provides the API for creating and managing a `WebSocket` connection to a server, as well as for sending and receiving data on the connection.\n\nTo construct a `WebSocket` , use the [WebSocket()](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket/WebSocket) constructor.\n\n**Note:** The `WebSocket` API has no way to apply [backpressure](https://developer.mozilla.org/en-US/docs/Web/API/Streams_API/Concepts#backpressure) , therefore when messages arrive faster than the application can process them, the application will either fill up the device's memory by buffering those messages, become unresponsive due to 100% CPU usage, or both. For an alternative that provides backpressure automatically, see [WebSocketStream](https://developer.mozilla.org/en-US/docs/Web/API/WebSocketStream) .\n\n## Constructor\n\n[WebSocket()](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket/WebSocket)\n\nReturns a newly created `WebSocket` object.\n\n## Instance properties\n\n[WebSocket.binaryType](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket/binaryType)\n\nThe binary data type used by the connection.\n\n[WebSocket.bufferedAmount](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket/bufferedAmount) Read only\n\nThe number of bytes of queued data.\n\n[WebSocket.extensions](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket/extensions) Read only\n\nThe `extensions` selected by the server.\n\n[WebSocket.protocol](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket/protocol) Read only\n\nThe sub-`protocol` selected by the server.\n\n[WebSocket.readyState](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket/readyState) Read only\n\nThe current state of the connection.\n\n[WebSocket.url](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket/url) Read only\n\nThe absolute URL of the `WebSocket`.\n\n## Instance methods\n\n[WebSocket.close()](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket/close)\n\nCloses the connection.\n\n[WebSocket.send()](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket/send)\n\nEnqueues data to be transmitted.\n\n## Events\n\nListen to these events using `addEventListener()` or by assigning an event listener to the `oneventname` property of this interface.\n\n`close`\n\nFired when a connection with a `WebSocket` is closed.\nAlso available via the `onclose` property\n\n`error`\n\nFired when a connection with a `WebSocket` has been closed because of an `error`, such as when some data couldn't be sent.\nAlso available via the `onerror` property.\n\n`message`\n\nFired when data is received through a `WebSocket` .\nAlso available via the `onmessage` property.\n\nopen\n\nFired when a connection with a `WebSocket` is opened.\nAlso available via the onopen property.\n\n## Examples\n\n## Specifications\n\n## Browser compatibility\n\n## See also\n\n- [Writing WebSocket client applications](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_client_applications)"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

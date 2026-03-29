@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.mccollisters.com/services/mccollisters-fitness-equipment-repair/",
+  "file_id": "0377",
+  "downloaded_at": "2025-12-20T23:26:47.472430",
+  "ground_truth": {
+    "title": "McCollister’s Fitness Equipment Repair",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Full-Service Exercise Equipment Repair\n\nMcCollister’s expert technicians provide full-service fixes and repairs for your gym’s fitness equipment, including cardio and strength machines. We come to you for repairs at local gyms, studios, and residential and commercial gyms. With over 20 years of experience supporting fitness system transportation, installation, equipment repairs, and preventative maintenance, no fitness equipment is too complex for our specialist team.\n\nCardio Equipment\n- Treadmills\n- Elliptical\n- Bike\n- Rower\n- Climber\n- Stair Climber\n- Stepmill\n- Spin Bikes\n- Non-motorized\n- Self-Propelled\n- Functional\n- Self-Powered\n- Ladder\n- Ergometer\n- AMT\n\nStrength Equipment\n- Selectorizers\n- Racks\n- Power Racks\n- Smith Machine\n- Olympic Plates\n- Rigs\n- Wall mount\n- Cable Machine\n- Multi-Functional\n- Dual Adjustable Pulley\n- Jungle Gym\n- Multi Stack\n- Platform & Bench\n- Plate Loaded\n- Multi-Purpose\n\nRepairs for Local Commercial Gyms & Cycle Studios\n\nAre you looking for nearby exercise equipment repair? Our services are convenient for local gyms and cycle studios. Trust our passionate and highly trained fitness machine technicians to handle your gym equipment carefully and get your equipment back up and functioning quickly.\n\nOur full-service fitness equipment repairs can be utilized by commercial gyms, gyms housed within commercial office settings, and residential apartments and condominium community gyms. However, our services are not available for at-home gym fixes.\n\nGym Maintenance for Residential Buildings\n\nAt McCollister, we work with numerous exercise equipment brand types and have the technical knowledge and expertise to keep your fitness equipment clean and functional. Never leave customers or residents waiting to enjoy your gym again. Ensure your fitness machines consistently perform well with our professional services and preventative maintenance. Our services extend to HOAs, condo buildings, and common area gyms, but we do not service home gyms.\n\nEquipment Repair for Corporate Gyms\n\nOur equipment repair and maintenance services benefit corporate gyms, ensuring the safety of fitness equipment for employees and preventing unexpected repair costs. We provide full-service fixes for companies and leased buildings with corporate gyms. Get your free quote today!",
+    "with": [
+      "McCollister’s expert technicians provide full-service fixes and repairs for your gym’s fitness equipment, including cardio and strength machines.",
+      "With over 20 years of experience supporting fitness system transportation, installation, equipment repairs, and preventative maintenance, no fitness equipment is too complex for our specialist team.",
+      "Our full-service fitness equipment repairs can be utilized by commercial gyms, gyms housed within commercial office settings, and residential apartments and condominium community gyms.",
+      "Our equipment repair and maintenance services benefit corporate gyms, ensuring the safety of fitness equipment for employees and preventing unexpected repair costs."
+    ],
+    "without": [
+      "CONTACT US FOR MORE DETAILS",
+      "Toggle Menu",
+      "Privacy Policy",
+      "Driver Login"
+    ],
+    "main_content_markdown": "## Full-Service Exercise Equipment Repair\n\nMcCollister's expert technicians provide full-service fixes and repairs for your gym's fitness equipment, including cardio and strength machines. We come to you for repairs at local gyms, studios, and residential and commercial gyms. With over 20 years of experience supporting [fitness system](https://www.mccollisters.com/services/mccollisters-fitness-systems/) transportation, installation, equipment repairs, and preventative maintenance, no fitness equipment is too complex for our specialist team.\n\n**Cardio Equipment**\n- Treadmills\n- Elliptical\n- Bike\n- Rower\n- Climber\n- Stair Climber\n- Stepmill\n- Spin Bikes\n- Non-motorized\n- Self-Propelled\n- Functional\n- Self-Powered\n- Ladder\n- Ergometer\n- AMT\n\n**Strength Equipment**\n- Selectorizers\n- Racks\n- Power Racks\n- Smith Machine\n- Olympic Plates\n- Rigs\n- Wall mount\n- Cable Machine\n- Multi-Functional\n- Dual Adjustable Pulley\n- Jungle Gym\n- Multi Stack\n- Platform & Bench\n- Plate Loaded\n- Multi-Purpose\n\n## Repairs for Local Commercial Gyms & Cycle Studios\n\nAre you looking for nearby exercise equipment repair? Our services are convenient for local gyms and cycle studios. Trust our passionate and highly trained fitness machine technicians to handle your gym equipment carefully and get your equipment back up and functioning quickly.\n\nOur full-service fitness equipment repairs can be utilized by commercial gyms, gyms housed within commercial office settings, and residential apartments and condominium community gyms. However, our services are not available for at-home gym fixes.\n\n## Gym Maintenance for Residential Buildings\n\nAt McCollister, we work with numerous exercise equipment brand types and have the technical knowledge and expertise to keep your fitness equipment clean and functional. Never leave customers or residents waiting to enjoy your gym again. Ensure your fitness machines consistently perform well with our professional services and preventative maintenance. Our services extend to HOAs, condo buildings, and common area gyms, but we do not service home gyms.\n\n## Equipment Repair for Corporate Gyms\n\nOur equipment repair and maintenance services benefit corporate gyms, ensuring the safety of fitness equipment for employees and preventing unexpected repair costs. We provide full-service fixes for companies and leased buildings with corporate gyms. Get your free quote today!"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": []
+    }
+  }
+}

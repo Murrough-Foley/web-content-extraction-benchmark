@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.outdoorsgeek.com/product/osprey-atmos-65-backpack-rental/",
+  "file_id": "4200",
+  "ground_truth": {
+    "title": "Osprey Atmos AG 65 Backpack Rental",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Description\n\nOsprey Atmos 65 Backpack Rental\n\nThe Osprey Atmos 65 Backpack Rental has the Anti-Gravity suspension system—a seamless back panel composed of lightweight mesh extending from the top of the back panel to the hipbelt that contours to the body to deliver outstanding fit and unrestricted movement. The Fit-on-the-Fly hipbelt and easily adjustable torso length optimizes comfort on the trail.\n\nYou can access your gear through the top of the pack or via a zippered front panel. The versatile floating top-lid is removable to shave weight but an integrated FlapJacket is always onboard to protect your gear from the elements. There are also two front panel pockets to keep essentials from going astray.\n\nFinal touches on this state-of-the-art pack include the Stow-on-the-Go trekking pole attachment system and ice axe loops for winter ascents.\n\nSPECS:\n\n- Load Range: 30 – 50 lbs.\n- Main Fabric: 100D X 630D Nylon Dobby\n- Accent Fabric: 210D High Tenacity Nylon\n- Bottom Fabric: 420HD Nylon Packcloth\n- SM Volume: 3783 IN3 / 62 L\n- MD Volume: 3967 IN3 / 65 L\n- LG Volume: 4150 IN3 / 68 L\n- SM Dimensions: 32.28H X 15.35W X 16.14D IN.\n- MD Dimensions: 34.25H X 15.35W X 16.14D IN.\n- LG Dimensions: 36.22H X 15.35W X 16.14D IN.\n- SM Weight: 4.48 LBS.\n- MD Weight: 4.56 LBS.\n- LG Weight: 4.64 LBS.",
+    "with": [
+      "The Fit-on-the-Fly hipbelt and easily adjustable torso length optimizes comfort on the trail.",
+      "You can access your gear through the top of the pack or via a zippered front panel.",
+      "Final touches on this state-of-the-art pack include the Stow-on-the-Go trekking pole attachment system and ice axe loops for winter ascents.",
+      "MD Dimensions: 34.25H X 15.35W X 16.14D IN.",
+      "LG Dimensions: 36.22H X 15.35W X 16.14D IN."
+    ],
+    "without": [
+      "All Rental Gear",
+      "Snowshoe & Winter Rentals",
+      "All Osprey Gear",
+      "Osprey - Rental Products"
+    ],
+    "main_content_markdown": "## Description\n\n## Osprey Atmos 65 Backpack Rental\n\nThe Osprey Atmos 65 Backpack Rental has the Anti-Gravity suspension system—a seamless back panel composed of lightweight mesh extending from the top of the back panel to the hipbelt that contours to the body to deliver outstanding fit and unrestricted movement. The Fit-on-the-Fly hipbelt and easily adjustable torso length optimizes comfort on the trail.\n\nYou can access your gear through the top of the pack or via a zippered front panel. The versatile floating top-lid is removable to shave weight but an integrated FlapJacket is always onboard to protect your gear from the elements. There are also two front panel pockets to keep essentials from going astray.\n\nFinal touches on this state-of-the-art pack include the Stow-on-the-Go trekking pole attachment system and ice axe loops for winter ascents.\n\n###### **SPECS:**\n\n- Load Range: 30 – 50 lbs.\n- Main Fabric: 100D X 630D Nylon Dobby\n- Accent Fabric: 210D High Tenacity Nylon\n- Bottom Fabric: 420HD Nylon Packcloth\n- SM Volume: 3783 IN3 / 62 L\n- MD Volume: 3967 IN3 / 65 L\n- LG Volume: 4150 IN3 / 68 L\n- SM Dimensions: 32.28H X 15.35W X 16.14D IN.\n- MD Dimensions: 34.25H X 15.35W X 16.14D IN.\n- LG Dimensions: 36.22H X 15.35W X 16.14D IN.\n- SM Weight: 4.48 LBS.\n- MD Weight: 4.56 LBS.\n- LG Weight: 4.64 LBS."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "high",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  }
+}

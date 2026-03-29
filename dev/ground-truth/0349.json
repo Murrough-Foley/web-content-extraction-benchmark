@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0",
+  "url": "http://www.osha.gov/electrical",
+  "file_id": "0349",
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "safety",
+        "government",
+        "electrical",
+        "workplace-hazards",
+        "osha"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Electrical - Overview",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Overview\n\nArc Flash Focus\n\nAre you working energized? Are you working deenergized but not locked out?\n\nWorking with electricity can be dangerous. Engineers, electricians, and other professionals work with electricity directly, including working on overhead lines, cable harnesses, and circuit assemblies. Others, such as office workers and sales people, work with electricity indirectly and may also be exposed to electrical hazards.\n\nElectricity has long been recognized as a serious workplace hazard. OSHA's electrical standards are designed to protect employees exposed to dangers such as electric shock, electrocution, fires, and explosions.\n\nStandards\n\nElectrical is addressed in specific OSHA standards for general industry and maritime.\n\nConstruction\n\nElectricity has long been recognized as a serious workplace hazard. OSHA's electrical standards are designed to protect employees exposed to dangers such as electric shock, electrocution, fires, and explosions. Includes references that provide information related to electrical in construction including OSHA's electrical construction regulations, hazard recogition, possible solutions and additional resources.\n\nHazard Recognition\n\nMany workers are unaware of the potential electrical hazards present in their work environment, which makes them more vulnerable to the danger of electrocution. The following hazards are the most frequent causes of electrical injuries: contact with power lines, lack of ground-fault protection, path to ground missing or discontinuous, equipment not used in manner prescribed, and improper use of extension and flexible cords.\n\nPossible Solutions\n\nA variety of possible solutions may be implemented to reduce or eliminate the risk of injury associated with electrical work. Examples of solutions include the use of insulation, guarding, grounding, electrical protective devices, and safe work practices. This page provides information that may aid in controlling electrical hazards in the workplace.\n\nTraining\n\nWhen employees are trained to work safely, through the requirements, they should be able to anticipate and avoid injury from job related hazards.\n\nAdditional Resources\n\nSources that provide helpful information about electrical in the workplace.",
+    "with": [
+      "Working with electricity can be dangerous. Engineers, electricians, and other professionals work with electricity directly, including working on overhead lines, cable harnesses, and circuit assemblies.",
+      "Electricity has long been recognized as a serious workplace hazard. OSHA's electrical standards are designed to protect employees exposed to dangers such as electric shock, electrocution, fires, and explosions.",
+      "Many workers are unaware of the potential electrical hazards present in their work environment, which makes them more vulnerable to the danger of electrocution.",
+      "The following hazards are the most frequent causes of electrical injuries: contact with power lines, lack of ground-fault protection, path to ground missing or discontinuous, equipment not used in manner prescribed, and improper use of extension and flexible cords.",
+      "A variety of possible solutions may be implemented to reduce or eliminate the risk of injury associated with electrical work. Examples of solutions include the use of insulation, guarding, grounding, electrical protective devices, and safe work practices."
+    ],
+    "without": [
+      "An official website of the United States government",
+      "Here’s how you know",
+      "Select Target Language",
+      "Connect With OSHA"
+    ],
+    "main_content_markdown": "#### Overview\n\n##### Arc Flash Focus\n\n***Are you working energized? Are you working deenergized but not locked out?***\n\nWorking with electricity can be dangerous. Engineers, electricians, and other professionals work with electricity directly, including working on overhead lines, cable harnesses, and circuit assemblies. Others, such as office workers and sales people, work with electricity indirectly and may also be exposed to electrical hazards.\n\nElectricity has long been recognized as a serious workplace hazard. OSHA's electrical standards are designed to protect employees exposed to dangers such as electric shock, electrocution, fires, and explosions.\n\n##### Standards\n\nElectrical is addressed in specific OSHA standards for general industry and maritime.\n\n##### Construction\n\nElectricity has long been recognized as a serious workplace hazard. OSHA's electrical standards are designed to protect employees exposed to dangers such as electric shock, electrocution, fires, and explosions. Includes references that provide information related to electrical in construction including OSHA's electrical construction regulations, hazard recogition, possible solutions and additional resources.\n\n##### Hazard Recognition\n\nMany workers are unaware of the potential electrical hazards present in their work environment, which makes them more vulnerable to the danger of electrocution. The following hazards are the most frequent causes of electrical injuries: contact with power lines, lack of ground-fault protection, path to ground missing or discontinuous, equipment not used in manner prescribed, and improper use of extension and flexible cords.\n\n##### Possible Solutions\n\nA variety of possible solutions may be implemented to reduce or eliminate the risk of injury associated with electrical work. Examples of solutions include the use of insulation, guarding, grounding, electrical protective devices, and safe work practices. This page provides information that may aid in controlling electrical hazards in the workplace.\n\n##### Training\n\nWhen employees are trained to work safely, through the requirements, they should be able to anticipate and avoid injury from job related hazards.\n\n##### Additional Resources\n\nSources that provide helpful information about electrical in the workplace."
+  }
+}

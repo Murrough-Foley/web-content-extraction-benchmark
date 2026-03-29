@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://pll.harvard.edu/subject/data-science",
+  "file_id": "4343",
+  "ground_truth": {
+    "title": "Data Science Courses",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Future Proof with AI\n\nMaster how to use AI in your everyday work and drive impact at your organization. Access on-demand learning modules, expert-led sessions, and Harvard insights that help you apply AI to real business challenges—join today for access through September 2026.\n\nData Science: Probability\n\nLearn probability theory — essential for a data scientist — using a case study on the financial crisis of 2007–2008.\n\nFundamentals of TinyML\n\nFocusing on the basics of machine learning and embedded systems, such as smartphones, this course will introduce you to the \"language\" of TinyML.\n\nBusiness Analytics\n\nDevelop a data mindset and the analytical skills to interpret and communicate data while applying concepts to real business problems in this course from Harvard Business School (HBS) Online.\n\nAI Essentials for Business\n\nBuild a foundational understanding of AI concepts with this course from Harvard Business School (HBS) Online.\n\nAdvanced Bioconductor\n\nLearn advanced approaches to genomic visualization, reproducible analysis, data architecture, and exploration of cloud-scale consortium-generated genomic data.\n\nCORe\n\nThis three-course program from Harvard Business School (HBS) Online will teach you the fundamental skills to confidently contribute to business decisions and decision-making.\n\nSafety, Quality, Informatics and Leadership\n\nThis Harvard Medical School one-year, application-based certificate program helps leaders effect positive change by learning to turn patient data into actionable, transformable knowledge.",
+    "with": [
+      "Learn probability theory — essential for a data scientist — using a case study o",
+      "Develop a data mindset and the analytical skills to interpret and communicate da",
+      "Learn advanced approaches to genomic visualization, reproducible analysis, data ",
+      "Safety, Quality, Informatics and Leadership"
+    ],
+    "without": [
+      "View All Courses",
+      "Professional and Lifelong Learning | Harvard University",
+      "Art & Design",
+      "Current page1",
+      "Last pagelast"
+    ],
+    "main_content_markdown": "### [Future Proof with AI](https://pll.harvard.edu/course/future-proof-ai)\n\nMaster how to use AI in your everyday work and drive impact at your organization. Access on-demand learning modules, expert-led sessions, and Harvard insights that help you apply AI to real business challenges—join today for access through September 2026.\n\n### [Data Science: Probability](https://pll.harvard.edu/course/data-science-probability)\n\nLearn probability theory — essential for a data scientist — using a case study on the financial crisis of 2007–2008.\n\n### [Fundamentals of TinyML](https://pll.harvard.edu/course/fundamentals-tinyml)\n\nFocusing on the basics of machine learning and embedded systems, such as smartphones, this course will introduce you to the \"language\" of TinyML.\n\n### [Business Analytics](https://pll.harvard.edu/course/business-analytics)\n\nDevelop a data mindset and the analytical skills to interpret and communicate data while applying concepts to real business problems in this course from Harvard Business School (HBS) Online.\n\n### [AI Essentials for Business](https://pll.harvard.edu/course/ai-essentials-business)\n\nBuild a foundational understanding of AI concepts with this course from Harvard Business School (HBS) Online.\n\n### [Advanced Bioconductor](https://pll.harvard.edu/course/data-analysis-life-sciences-6-high-performance-computing-reproducible-genomics)\n\nLearn advanced approaches to genomic visualization, reproducible analysis, data architecture, and exploration of cloud-scale consortium-generated genomic data.\n\n### [CORe](https://pll.harvard.edu/course/core)\n\nThis three-course program from Harvard Business School (HBS) Online will teach you the fundamental skills to confidently contribute to business decisions and decision-making.\n\n### [Safety, Quality, Informatics and Leadership](https://pll.harvard.edu/course/safety-quality-informatics-and-leadership)\n\nThis Harvard Medical School one-year, application-based certificate program helps leaders effect positive change by learning to turn patient data into actionable, transformable knowledge."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "high",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

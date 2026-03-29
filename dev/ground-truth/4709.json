@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.pikenursery.com/garden-guides/houseplants-for-low-light2",
+  "file_id": "4709",
+  "ground_truth": {
+    "title": "Houseplants for Low Light",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Video: Houseplants for Low Light\n\nIf you are unsure of what kind of light an area receives try this simple sheet of paper test. Hold your hand about 8 inches above a sheet of white paper. If you can see a clearly defined shadow, then you have high light. Here is the perfect collection of houseplants for the high, indirect lit places of your home.\n\nPothos\nOne of the easiest houseplants to grow, even if you occasionally forget to water your plants. This trailing vine has pointed, heart-shaped green leaves, sometimes variegated with white, yellow, or pale green. Pothos can thrive in areas that don't get a lot of sunlight or have only fluorescent lighting or even high light.\n\nSansevieria\nAlso known as Snake Plants, this hardy plant features stiff, succulent-like leaves that range from six inches to eight feet tall, depending on the variety. They usually have green banded leaves or variegated with yellow and green.\n\nPhilodendron\nTheir glossy, trailing leaves add a touch of indoor jungle to your home. They are gorgeous when used in hanging baskets, trained along a trellis or on shelf or mantle. They can handle high to low light and even clean the air indoors.\n\nPeace Lily\nThese striking white flowers bloom throughout the year and are accented by dark, glossy foliage. Keep soil moist and place in low to medium light.\n\nZZ Plant\nThis easy to grow houseplant can live almost anywhere! It's dark green shiny foliage adds amazing texture and interest to your indoor space. Place in low to medium light.\n\nCalathea\nThis gorgeous houseplant comes in many different colors and varieties. From dark green, glossy leaves with pale pink stripes to variegated leaves with burgundy undertones, there's a style for everyone! Place in low to medium light.",
+    "with": [
+      "One of the easiest houseplants to grow, even if you occasionally forget to water your plants.",
+      "Also known as Snake Plants, this hardy plant features stiff, succulent-like leaves that range from six inches to eight feet tall",
+      "These striking white flowers bloom throughout the year and are accented by dark, glossy foliage.",
+      "This easy to grow houseplant can live almost anywhere!"
+    ],
+    "without": [
+      "Guarantee & Services",
+      "Play in the Dirt Club",
+      "Find my store",
+      "Garden Guides"
+    ],
+    "main_content_markdown": "## Video: Houseplants for Low Light\n\nIf you are unsure of what kind of light an area receives try this simple sheet of paper test. Hold your hand about 8 inches above a sheet of white paper. If you can see a clearly defined shadow, then you have high light. Here is the perfect collection of houseplants for the high, indirect lit places of your home.\n\n**Pothos**\nOne of the easiest houseplants to grow, even if you occasionally forget to water your plants. This trailing vine has pointed, heart-shaped green leaves, sometimes variegated with white, yellow, or pale green. Pothos can thrive in areas that don't get a lot of sunlight or have only fluorescent lighting or even high light.\n\n**Sansevieria**\nAlso known as Snake Plants, this hardy plant features stiff, succulent-like leaves that range from six inches to eight feet tall, depending on the variety. They usually have green banded leaves or variegated with yellow and green.\n\n**Philodendron**\nTheir glossy, trailing leaves add a touch of indoor jungle to your home. They are gorgeous when used in hanging baskets, trained along a trellis or on shelf or mantle. They can handle high to low light and even clean the air indoors.\n\n**Peace Lily**\nThese striking white flowers bloom throughout the year and are accented by dark, glossy foliage. Keep soil moist and place in low to medium light.\n\n**ZZ Plant**\nThis easy to grow houseplant can live almost anywhere! It's dark green shiny foliage adds amazing texture and interest to your indoor space. Place in low to medium light.\n\n**Calathea**\nThis gorgeous houseplant comes in many different colors and varieties. From dark green, glossy leaves with pale pink stripes to variegated leaves with burgundy undertones, there's a style for everyone! Place in low to medium light."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "article"
+  }
+}

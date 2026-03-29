@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.runningwarehouse.com/catpage-SDMONITORS.html?srsltid=AfmBOoqk05eglsoxIDdswfZ53BK9yN8_7TB7jmXG80ZoA4xgmalKE0po",
+  "file_id": "4071",
+  "ground_truth": {
+    "title": "GPS Running Watches",
+    "author": null,
+    "publish_date": null,
+    "main_content": "ASICS SUPERBLAST 3: Make Every Run Fun\n\n\nShop Now\n\n \n \n\n \n \n\n \n\n \n New Balance Ellipse v1: Daily Runs Now Softer\n\n\nShop Now\n\n \n \n\n \n \n\n \n\n \n HOKA Mach 7: Make Every Run Fast\n\n\nShop Now\n\n \n \n\n \n \n\n \n\n \n Deviate Nitro Elite 4: Top-Tier Racing Shoe\n\n\nShop Now\n\n \n \n\n \n \n\n \n\n \n Brooks Cascadia Elite: An Ultramarathon Workhorse\n\n\nShop Now\n\n \n \n\n \n \n\n \n\n \n Saucony Endorphin Azura: A Do-It-All Shoe\n\n\nShop Now\n\n \n \n\n \n \n\n \n\n \n Terrex Agravic TT: Bold Traction, Cushioned Ride\n\n\nShop Now\n\n \n \n\n \n \n\n \n\n \n Discover our top trail picks for the season.\n\n\nExplore Now",
+    "with": [
+      "Deviate Nitro Elite 4: Top-Tier Racing Shoe",
+      "Brooks Cascadia Elite: An Ultramarathon Workhorse",
+      "Terrex Agravic TT: Bold Traction, Cushioned Ride",
+      "Terrex Agravic TT: Bold Traction, Cushioned Ride"
+    ],
+    "without": [
+      "Running WarehouseRunning Warehouse",
+      "Checkout Cart",
+      "Jump to Content",
+      "Men's ShoesView List",
+      "Garmin GPS Running Watches"
+    ],
+    "main_content_markdown": "ASICS SUPERBLAST 3: Make Every Run Fun\n\n\n[Shop Now](https://www.runningwarehouse.com/catpage-ASBPP.html)\n\n \n \n\n \n \n\n \n\n \n New Balance Ellipse v1: Daily Runs Now Softer\n\n\n[Shop Now](https://www.runningwarehouse.com/catpage-NBELLIPSE.html)\n\n \n \n\n \n \n\n \n\n \n HOKA Mach 7: Make Every Run Fast\n\n\n[Shop Now](https://www.runningwarehouse.com/catpage-MACH.html)\n\n \n \n\n \n \n\n \n\n \n Deviate Nitro Elite 4: Top-Tier Racing Shoe\n\n\n[Shop Now](https://www.runningwarehouse.com/catpage-PDNEPP.html)\n\n \n \n\n \n \n\n \n\n \n Brooks Cascadia Elite: An Ultramarathon Workhorse\n\n\n[Shop Now](https://www.runningwarehouse.com/descpage-BRCAEU1.html)\n\n \n \n\n \n \n\n \n\n \n Saucony Endorphin Azura: A Do-It-All Shoe\n\n\n[Shop Now](https://www.runningwarehouse.com/catpage-SAPP.html)\n\n \n \n\n \n \n\n \n\n \n Terrex Agravic TT: Bold Traction, Cushioned Ride\n\n\n[Shop Now](https://www.runningwarehouse.com/catpage-ATTPP.html)\n\n \n \n\n \n \n\n \n\n \n Discover our top trail picks for the season.\n\n\n[Explore Now](https://www.runningwarehouse.com/catpage-2026TGPP.html)"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  }
+}

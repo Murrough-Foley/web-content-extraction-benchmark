@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.jefftk.com/p/backup-strategy",
+  "file_id": "0495",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "technology",
+        "backup",
+        "data",
+        "personal"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Backup Strategy",
+    "author": "Kaufman, Jeff T.",
+    "publish_date": "2019-01-22",
+    "main_content": "After reading a post from someone who nearly lost all their data to a joint NAS and external hard drive failure I decided to think through my data durability.\n\nMost of my stuff lives in the cloud: email on Gmail, docs in Google Docs, photos in Google Photos, data in Google Drive. I trust Google a lot for this sort of thing, both given their public reputation and as an employee. I think Google is extremely unlikely to lose or corrupt my data.\n\nThe next biggest place where I have things is on the server that runs jefftk.com. I back this up to my laptop with a cronjob that looks like:\n\nrsync -t -l -r -c ps:jtk/ www-jefftk-com/ --delete-after\nrsync -t -l -r -c ps:tc/ www-trycontra-com/ --delete-after\nrsync -t -l -r -c ps:fr/ www-freeraisins-com/ --delete-after\n...\nrsync -t -l -r -c ps:kf/ www-kingfisherband-com/ --delete-after\nrsync -t -l -r -c ps: ps-rest/ --delete-after\nrsync -t -l -r -c ps:/etc/ ps-etc/ --delete-after\n\nThis copies each of my websites, the rest of my home directory, and the contents of /etc. It's set to run once a day, if my laptop is on then, which it is more often than not. It copies them into a subdirectory of ~/Google Drive, which means it then all gets synced to Drive.\n\nI also have a cronjob set up to run twice a month that backs up the comments on my blog posts. It pulls out the /wsgi/json-comments/ urls from my blog posts, fetches them all, and saves them. When Google Plus gets turned off I'm planning to configure my comment system to serve those comments from my backup.\n\nFinally, code lives on GitHub plus local checkouts on my server, laptop, or both.\n\nEverything on my laptop is temporary, and anything important is under ~/Google Drive. All my dotfiles, including my ~/.full_history, are symlinks to into ~/Google Drive.\n\nThe main weakness in this setup is its dependency on Drive. Specifically:\n\n- For the portion of Google Drive synced to my laptop, if I accidentally deleted or changed things locally that could be synced up. If I noticed right away there's the Drive Trash which keeps things for 30 days, or I could contact support. Something that corrupted files in a subtle way could be pretty bad.\n\n- Very occasionally people have lost access to their Google accounts. For example, by forgetting your password or getting mistaken for a fake account. If this happened to me it would be a disaster: so much of what I use is a Google service.\n\nI think both of these are too unlikely to be worth mitigating though. They could happen, but they're much less likely than the sort of failure (~1%/year) that you're trying to avoid by backing things up.\n\nUpdate 2019-01-26: the day after posting this I spilled water on my laptop, but it was actually fine.",
+    "with": [
+      "After reading a post from someone who nearly lost all their data to a joint NAS and external hard drive failure I decided to think through my data durability.",
+      "Most of my stuff lives in the cloud: email on Gmail, docs in Google Docs, photos in Google Photos, data in Google Drive.",
+      "Everything on my laptop is temporary, and anything important is under ~/Google Drive."
+    ],
+    "without": [
+      "Jeff Kaufman",
+      "January 22nd, 2019",
+      "RSS",
+      "Comment via:"
+    ],
+    "main_content_markdown": "After reading a post from someone who nearly lost all their data to a joint [NAS and external hard drive](https://kevq.uk/i-nearly-lost-all-of-my-data/) failure I decided to think through my data durability.\n\nMost of my stuff lives in the cloud: email on Gmail, docs in Google Docs, photos in Google Photos, data in Google Drive. I trust Google a lot for this sort of thing, both given their public reputation and as an employee. I think Google is extremely unlikely to lose or corrupt my data.\n\nThe next biggest place where I have things is on the server that runs `jefftk.com`. I back this up to my laptop with a cronjob that looks like:\n\nrsync -t -l -r -c ps:jtk/ www-jefftk-com/ --delete-after\nrsync -t -l -r -c ps:tc/ www-trycontra-com/ --delete-after\nrsync -t -l -r -c ps:fr/ www-freeraisins-com/ --delete-after\n...\nrsync -t -l -r -c ps:kf/ www-kingfisherband-com/ --delete-after\nrsync -t -l -r -c ps: ps-rest/ --delete-after\nrsync -t -l -r -c ps:`/etc`/ ps-etc/ --delete-after\n\nThis copies each of my websites, the rest of my home directory, and the contents of `/etc`. It's set to run once a day, if my laptop is on then, which it is more often than not. It copies them into a subdirectory of ~/Google Drive, which means it then all gets synced to Drive.\n\nI also have a cronjob set up to run twice a month that backs up the comments on my blog posts. It pulls out the `/wsgi/json-comments/` urls from my blog posts, fetches them all, and saves them. When Google Plus gets turned off I'm planning to configure my comment system to serve those comments from my backup.\n\nFinally, code lives [on GitHub](https://github.com/jeffkaufman) plus local checkouts on my server, laptop, or both.\n\nEverything on my laptop is temporary, and anything important is under ~/Google Drive. All my dotfiles, including my [`~/.full_history`](https://www.jefftk.com/p/you-should-be-logging-shell-history), are symlinks to into ~/Google Drive.\n\nThe main weakness in this setup is its dependency on Drive. Specifically:\n\n- For the portion of Google Drive synced to my laptop, if I accidentally deleted or changed things locally that could be synced up. If I noticed right away there's the [Drive Trash](https://drive.google.com/drive/trash) which keeps things for 30 days, or I could contact support. Something that corrupted files in a subtle way could be pretty bad.\n\n- Very occasionally people have lost access to their Google accounts. For example, by [forgetting your password](https://techcrunch.com/2017/12/22/that-time-i-got-locked-out-of-my-google-account-for-a-month/) or [getting mistaken for a fake account](https://www.theguardian.com/technology/2016/nov/18/google-reverses-decision-ban-pixel-phone-resellers). If this happened to me it would be a disaster: so much of what I use is a Google service.\n\nI think both of these are too unlikely to be worth mitigating though. They could happen, but they're much less likely than the sort of failure (~1%/year) that you're trying to avoid by backing things up.\n\n**Update 2019-01-26**: the day after posting this I spilled water on my laptop, but it was actually fine."
+  }
+}

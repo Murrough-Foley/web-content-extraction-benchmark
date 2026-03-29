@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://travel.stackexchange.com/questions/1703/is-there-any-online-resource-that-can-tell-me-what-visa-rules-are-for-passport-h",
+  "file_id": "5176",
+  "ground_truth": {
+    "title": "Is there any online resource that can tell me what visa rules are for passport holders of a specific country?",
+    "author": null,
+    "publish_date": "2011-08-25",
+    "main_content": "When thinking about travelling, I often have to think about a place to visit, and then look up visa rules for that particular country. This can be a fairly painful process because official government sites can often be hard to find, and advice on (say) guidebooks or Wikitravel tends to be generic.\n\nIs there any resource where I can enter my nationality/residency, and then look up a list of visa rules for various countries?\n\n11 Answers\n\nA resource that I find useful:\n\nIATA TravelCentre: A comprehensive listing of visa, health, customs (in its British English, not American English, definition) for different destinations compiled by IATA. I have found this is fairly accurate. The form, however, is cumbersome as it asks you to fill in far too many details than required.\n\nOn TSE itself, related questions include:\n\nIATA provides just such a resource.\n\nIt is incredibly thorough, and takes care of transit visa requirements as well as cases where you live in a country different from your citizenship (this may affect visa requirements for third countries).\n\nThe information provided is based on IATA's Timatic database which is used by nearly every airline in the world for determining passenger travel document requirements.\n\nYes! I found projectvisa.com relatively recently.\n\nSeems pretty accurate. It links to duration of landing visas by country, as well as general info.\n\nOne of the most reliable options is to query the Timatic database:\n\nYou enter your nationality, your destination and (optionally) other details such as your transit airports and duration of stay. The next page will then show if you need a visa or not, as well as additional requirements:\n\nAirline agents will use the same information to decide if you can be allowed on-board, so if the Timatic website says you're okay to go, you can also be sure the airline won't have any issues.\n\nFor the UK, the Foreign and Commonwealth Office retains a page on traveller advice, including entry requirements. This is obviously not as broadly useful as the IATA site, but helpful for those with British passports.\n\nWikipedia has extensive updated information on this. However make sure to double-check their information as all of it is sourced by volunteers.\n\nHere is the page for visa requirements for Indian passport holders.\n\nAlso, other users may want to check the visa requirements for most nationalities and visa policy by country.\n\nA bonus is their visual maps, such as this one for visa requirements for Australian nationals:\n\nBeyond the websites listed already, of which IATA Travel Centre seems to be the most useful, I am aware of two airline websites that allow indirect access to the Timatic:\n\nKLM\n\nand\n\nEmirates\n\nas well as one very detailed interface (shared by @MichaelHampton in chat)\n\nFlightworx\n\nCopa Airlines also allows indirect access to Timatic\n\nVisaHQ is the best website I have found for that. Go to the \"Visas\" part, select your destination, then choose your citizenship and country of residence. Or just go to their \"citizens\" page and youl'll have a list of every country and if it requires a visa or not based on your citizenship.\n\nI think it depends. If your nationality is from a big country like US, Canada, Australia, Germany, etc. then there are quite a few good sites.\n\nBut I always have the problem that I can't find any resource at all, even if I check the homepage of each country to see if a Visa is required. Small countries are often just not mentioned.\n\nSo I think the answer to this question really depends on your nationality.\n\nTraveldoc has uptodate information, including covid related restrictions and additional documents.\n\nhttps://www.traveldoc.aero/\n\nFollowing a link on the delta page you gave, I found visacentral.com, and I tried some examples and it told me correctly if I need or not a visa regarding my nationality and the target country (I didn't go further).\n\nOtherwise, you should look for info on the website of embassies of your country in the country you want to visit.\n\nWhat is your nationality?\n\n(In France we have a governmental website which give info about every country.)",
+    "with": [
+      "Is there any resource where I can enter my nationality/residency, and then look ",
+      "You enter your nationality, your destination and (optionally) other details such",
+      "Copa Airlines also allows indirect access to Timatic",
+      "(In France we have a governmental website which give info about every country.)"
+    ],
+    "without": [
+      "Hot Network Questions",
+      "Featured on Meta",
+      "Highest score",
+      "Sorted by:"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "forum"
+  }
+}

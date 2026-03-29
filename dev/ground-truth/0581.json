@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.gymshark.com",
+  "file_id": "0581",
+  "ground_truth": {
+    "title": "Gymshark Arrival T-Shirt",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Arrival T-Shirt\n\nREDEFINING YOUR POTENTIAL\n\nThe Arrival T-Shirt is your admission to a new, purposeful approach to training. Created to encourage you to aspire more, perform more and achieve more, this gym top boasts fundamental performance technology for next-level results, with sweat-wicking technology and a lightweight material that enables maximum movement and exertion.\n\n- Slim fit\n- Lightweight material\n- Physique-accentuating flatlock seam lines\n- Sweat-wicking\n- Straight hem\n- Set-in sleeves\n- Crew neck\n- Heat-sealed Gymshark logo to chest\n- 100% Polyester\n- Model is 6'0\" and wears size M\n- SKU: A2A1K-BBBB",
+    "with": [
+      "sweat-wicking technology and a lightweight material",
+      "Physique-accentuating flatlock seam lines",
+      "100% Polyester",
+      "REDEFINING YOUR POTENTIAL"
+    ],
+    "without": [
+      "Add to bag",
+      "Select a size",
+      "Unlock Access to Exclusive Rewards"
+    ],
+    "main_content_markdown": "# Arrival T-Shirt\n\nREDEFINING YOUR POTENTIAL\n\nThe Arrival T-Shirt is your admission to a new, purposeful approach to training. Created to encourage you to aspire more, perform more and achieve more, this gym top boasts fundamental performance technology for next-level results, with sweat-wicking technology and a lightweight material that enables maximum movement and exertion.\n\nSlim fit\nLightweight material\nPhysique-accentuating flatlock seam lines\nSweat-wicking\nStraight hem\nSet-in sleeves\nCrew neck\nHeat-sealed Gymshark logo to chest\n100% Polyester\nModel is 6'0\" and wears size M\nSKU: A2A1K-BBBB"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": []
+    }
+  }
+}

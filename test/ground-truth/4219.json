@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.samsung.com/levant/tablets/galaxy-tab-s/galaxy-tab-s9-fe-wifi-gray-128gb-sm-x510nzaamea/",
+  "file_id": "4219",
+  "ground_truth": {
+    "title": "Galaxy Tab S9 FE (Wi-Fi)",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Galaxy Tab S9 FE (Wi-Fi)\n\nSM-X510NZAAMEA\n\nFashionable Colors\n\nSmooth Display\n\nLow Blue Light\n\nIP68\n\nCircle it, find it. Just like that\n\nExperience Circle to Search with Google and search like never before. Simply circle around an object to get Google Search results. It's a new visual way to find what you're looking for.\n\nColorful design that lets you shine\n\nStep into a world of fun creative possibilities and entertainment with Galaxy Tab S9 FE and Tab S9 FE+. View, create and share what you love in vivid detail on the bright, immersive screen. Both models come in Gray, Mint, Silver or Lavender to effortlessly match your unique vibe.\n\nPower up your notetaking with S Pen\n\nWrite, sketch, draw on your favorite notetaking app with the redesigned water and dust-resistant inbox S Pen. Now in four trendy colors, it attaches magnetically to the back of your device and matches its style. Galaxy Tab S9 FE and Tab S9 FE+ even support S Pen Creator Edition to unleash your full creative potential.\n\nVibrant hues. Stunning views.\n\nEverything on screen is lifelike with the high-resolution 12.4-inch or 10.9-inch display. Details are crisp and clear with a wide range of vivid colors thanks to the DCI-P3 color gamut and enhanced brightness, so you can always enjoy a spectacular viewing experience.\n\nAll your media, super-smooth\n\nImmerse your senses in the smooth picture thanks to the screen's adaptive refresh rate of up to 90Hz. Whether you're binge-watching your favorite series, scrolling through social feeds or editing your latest video, the screen adjusts to make every motion look fluid and true-to-life.\n\nExpansive, bright views even outdoors with Vision Booster\n\nVision Booster lets you see your Tab's spacious screen clearly in brightly lit areas thanks to an intelligent outdoor algorithm that detects the sun's glow and shifts to match. Go between the studio and patio with ease thanks to contrast and color enhancements to keep things vibrant.\n\nEye care for you and your loved ones\n\nView content, create and play as long as you like, knowing your eyes are well protected. The display on Galaxy Tab S9 FE and Tab S9 FE+ is engineered with reduced blue light emission to safeguard your eyesight, providing a comfortable viewing experience while you stay in your fun zone.\n\nStay creative on the move with a long-lasting battery\n\nKeep the creative juices flowing with the long-lasting battery. It's got power to get you through most of your day and perhaps even spare some in case your phone needs a boost, too. Plug in your Samsung Galaxy smartphone with a USB-C cable and Fast Charging takes care of the rest.\n\nElevate your creativity, optimized for the big screen\n\nLet your imagination run wild on pro-level notetaking with Samsung Notes and Goodnotes — optimized to provide a seamless S Pen experience and feel of writing on actual paper. Sketch in portrait view and edit in horizontal view, or vice versa.\n\nThe first water and dust-resistant Galaxy S FE tablet\n\nWhen the day gets tough, Tab and S Pen stay sturdy and durable. The smooth tablet design is suited up with a strong full-metal frame and the IP68 rating means it's our first water and dust-resistant Galaxy S FE tablet with S Pen ever.\n\nSpeed up your productivity, bump up your storage\n\nEquipped with our high-performing Exynos 1380 chipset, Galaxy Tab S9 FE and Tab S9 FE+ keep multitasking, streaming and gaming smooth and fast. Choose up to 256GB internal storage, then grab your microSD to add on more storage in case you need even more room for your videos, compositions, hi-res photos and more.\n\nDouble your connectivity with an extra eSIM\n\nStay connected on the go and swap networks easily with Dual SIM on the Galaxy Tab S9 FE and Tab S9 FE+. Activate your eSIM and set it up as primary with just a few taps. When switching devices, your eSIM contacts move, too, so no friends get left behind.\n\nTab enters the family circle\n\nCreate and add Samsung account IDs to your Tab and let other family members share the experience. When you create an account for your child, you can set up parental controls such as managing the apps and services they can access, as well as activate location tracking to secure your peace of mind.\n\nGet a PC-like experience with a single snap\n\nAttach the Book Cover Keyboard to topple your to-do lists with ease. Featuring function keys and a trackpad, it supports DeX mode for a seamless PC-like experience. Assign app shortcuts to up your efficiency and connect wirelessly to other Samsung Galaxy devices to type on any screen.\n\nSpecifications\n\nProcessor: 2.4GHz, 2GHz Octa-Core\nDisplay: 10.9\" (277.0mm), 2304 x 1440 (WUXGA+)\nMain Camera: 8.0 MP with Auto Focus\nFront Camera: 12.0 MP\nVideo Recording Resolution: UHD 4K (3840 x 2160) @30fps\nExternal Storage: MicroSD (Up to 1TB)\nUSB: USB 2.0, USB Type-C\nLocation: GPS, Glonass, Beidou, Galileo, QZSS\nWi-Fi: 802.11 a/b/g/n/ac/ax 2.4G+5GHz, HE80, MIMO, 1024-QAM\nBluetooth: v5.3\nSensors: Accelerometer, Fingerprint Sensor, Gyro Sensor, Geomagnetic Sensor, Hall Sensor, Light Sensor\nDimension: 165.8 x 254.3 x 6.5 mm\nInternet Usage Time (Wi-Fi): Up to 16 Hours\nVideo Playback Time: Up to 18 Hours\nAudio Playback Time: Up to 113 Hours",
+    "with": [
+      "Step into a world of fun creative possibilities and entertainment with Galaxy Tab S9 FE and Tab S9 FE+.",
+      "Write, sketch, draw on your favorite notetaking app with the redesigned water and dust-resistant inbox S Pen.",
+      "Vision Booster lets you see your Tab's spacious screen clearly in brightly lit areas",
+      "Equipped with our high-performing Exynos 1380 chipset, Galaxy Tab S9 FE and Tab S9 FE+ keep multitasking",
+      "Dimension: 165.8 x 254.3 x 6.5 mm"
+    ],
+    "without": [
+      "Skip to content",
+      "Samsung and Cookies",
+      "Choose your location and language.",
+      "Exclusive Benefits with a Samsung Account"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.express.com/clothing/women/clearance/cat1920001",
+  "file_id": "4577",
+  "ground_truth": {
+    "title": "Women's Clearance Clothing",
+    "author": null,
+    "publish_date": null,
+    "main_content": "",
+    "with": [],
+    "without": [
+      "SKIP TO CONTENT",
+      "Sign In",
+      "Shopping Bag",
+      "Customer Service",
+      "Gift Cards"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "spa": true,
+    "notes": "Client-side rendered React SPA. HTML contains only empty div#root. No extractable content without JS execution."
+  }
+}

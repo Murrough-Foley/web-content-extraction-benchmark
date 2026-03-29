@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "url": "https://ohioartisancollective.com/",
+  "file_id": "4855",
+  "ground_truth": {
+    "title": "Home - Ohio Artisan Collective",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Support Small, Buy Artisan\n\nShopping an Artisan brand supports small businesses and their families. When you buy from Ohio Artisan Collective you are supporting over 95 small businesses and their dreams.\n\nShop Local\n\nBuying local keeps inspiration alive in the next generation and local community.\n\nCorporate Gifting\n\nThank your clients by giving them a handmade personal Artisan product. These carefully crafted pieces will symbolize the care and dedication you have to them.\n\nPersonal Gifting\n\nWhen finding the perfect gift seems impossible, Ohio Artisan Collective makes it possible. Our perfectly curated gifts provide a sense of home to that special someone.\n\nSee what people are saying about us!\n\n\"Welcoming and knowledgeable staff, awesome collection of artists from around the area, bought a few things a few weeks ago from this shop. Great quality stuff!! Definitely will be returning!\"\n\nTARA\n\n\"Thanks for all the great signs and other gifts we got this year from your aurora farms store.  Everyone felt extra special with handmade and handpicked gifts from you and other vendors.\"\n\nJENNY\n\n“Love supporting local Artisans. My favorite “gift” store in town for years!”\n\nPATRICIA",
+    "with": [
+      "Support Small, Buy Artisan",
+      "Shopping an Artisan brand supports small businesses and their families. When you buy from Ohio Artisan Collective you are supporting over 95 small businesses and their dreams.",
+      "Thank your clients by giving them a handmade personal Artisan product."
+    ],
+    "without": [
+      "Shop Now",
+      "Contact Us"
+    ],
+    "main_content_markdown": "# Support Small, Buy Artisan\n\nShopping an Artisan brand supports small businesses and their families. When you buy from Ohio Artisan Collective you are supporting over 95 small businesses and their dreams.\n\n## Shop Local\n\nBuying local keeps inspiration alive in the next generation and local community.\n\n#### Corporate Gifting\n\nThank your clients by giving them a handmade personal Artisan product. These carefully crafted pieces will symbolize the care and dedication you have to them.\n\n#### Personal Gifting\n\nWhen finding the perfect gift seems impossible, Ohio Artisan Collective makes it possible. Our perfectly curated gifts provide a sense of home to that special someone.\n\nSee what people are saying about us!\n\n\"Welcoming and knowledgeable staff, awesome collection of artists from around the area, bought a few things a few weeks ago from this shop. Great quality stuff!! Definitely will be returning!\"\n\nTARA\n\n\"Thanks for all the great signs and other gifts we got this year from your aurora farms store.  Everyone felt extra special with handmade and handpicked gifts from you and other vendors.\"\n\nJENNY\n\n“Love supporting local Artisans. My favorite “gift” store in town for years!”\n\nPATRICIA"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  }
+}

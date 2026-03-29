@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.ghostwares.com.au/shop/p/white-speckle-mug",
+  "file_id": "0610",
+  "ground_truth": {
+    "title": "white speckle mug",
+    "author": null,
+    "publish_date": null,
+    "main_content": "white speckle mug\n\n$60.00\n\nsold out\n\nMake each cup of tea or coffee feel special with a Ghost Wares ceramic mug. A wheel thrown, matte textured vessel in our white speckle finish with a clear glazed interior.\n\nHandmade stoneware.\n\nSize: approx. 9.5 x 13 x 7cm\n\nVolume: approx. 350ml\n\nSuitable for use in dishwashers and microwave ovens. Care should be taken when stacking and washing ceramics. Avoid thermal shock from rapid heating and cooling.",
+    "with": [
+      "Make each cup of tea or coffee feel special with a Ghost Wares ceramic mug.",
+      "Size: approx. 9.5 x 13 x 7cm",
+      "Volume: approx. 350ml",
+      "Suitable for use in dishwashers and microwave ovens."
+    ],
+    "without": [
+      "Skip to Content",
+      "Folder:projects",
+      "shipping and returns",
+      "Added!"
+    ],
+    "main_content_markdown": "# white speckle mug\n\n$60.00\n\nsold out\n\nMake each cup of tea or coffee feel special with a Ghost Wares ceramic mug. A wheel thrown, matte textured vessel in our white speckle finish with a clear glazed interior.\n\nHandmade stoneware.\n\nSize: approx. 9.5 x 13 x 7cm\n\nVolume: approx. 350ml\n\nSuitable for use in dishwashers and microwave ovens. Care should be taken when stacking and washing ceramics. Avoid thermal shock from rapid heating and cooling."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": []
+    }
+  }
+}

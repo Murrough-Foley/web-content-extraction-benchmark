@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://buy.glossier.com/glossier-you-duo?product=shopify://glossier-admin/8035305128181?tile=68dbf8ac-4c68-473c-a958-8bb0cc483042",
+  "file_id": "4762",
+  "ground_truth": {
+    "title": "Glossier",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Glossier You Duo\n\n€88\n€114\n\nGlossier You Fleur Duo\n\n€88\n€114\n\nMini Cloud Paint Trio\n\n€26\n\nMini Ultralip Trio\n\n€28\n\nGlossier You Wardrobe\n\n€15\n\nHand Cream\n\n€20\n\nGlossier Candles\n\n€45\n\nBody Spritz\n\n€35\n\nBalm Dotcom\n\n€16",
+    "with": [
+      "Glossier You Duo",
+      "Mini Cloud Paint Trio",
+      "Body Spritz"
+    ],
+    "without": [
+      "fermatcommerce.com",
+      "Marketplace for AI Agents",
+      "Type to search products",
+      "Save $26 with the Limited Edition Holiday Set"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  }
+}

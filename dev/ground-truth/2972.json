@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://netflixtechblog.com/",
+  "file_id": "2972",
+  "ground_truth": {
+    "title": "Netflix TechBlog",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Netflix TechBlog\n\n181K followers\n\nScaling Global Storytelling: Modernizing Localization Analytics at Netflix\n\nValentin Geffrier, Tanguy Cornuau\n\nNetflix Technology Blog\n\n1d ago\n\n3 min read\n\nOptimizing Recommendation Systems with JDK's Vector API\n\nBy Harshad Sane\n\nNetflix Technology Blog\n\n5d ago\n\n9 min read\n\nMount Mayhem at Netflix: Scaling Containers on Modern CPUs\n\nAuthors: Harshad Sane, Andrew Halaney\n\nNetflix Technology Blog\n\nNov 7, 2025\n\n11 min read",
+    "with": [
+      "Scaling Global Storytelling: Modernizing Localization Analytics at Netflix",
+      "Optimizing Recommendation Systems with JDK's Vector API",
+      "Mount Mayhem at Netflix: Scaling Containers on Modern CPUs",
+      "Netflix Technology Blog",
+      "181K followers"
+    ],
+    "without": [
+      "Open in app",
+      "Sign up",
+      "Sign in"
+    ],
+    "main_content_markdown": "## Netflix TechBlog\n\n[181K followers](/followers?source=collection_home_page----2615bd06b42e----------------------------------------)\n\n## Scaling Global Storytelling: Modernizing Localization Analytics at Netflix\n\n### Valentin Geffrier, Tanguy Cornuau\n\n[Netflix Technology Blog](https://netflixtechblog.medium.com/?source=collection_home_page----2615bd06b42e-----0-----------------------------------)\n\n1d ago\n\n3 min read\n\n## Optimizing Recommendation Systems with JDK's Vector API\n\n### By Harshad Sane\n\n[Netflix Technology Blog](https://netflixtechblog.medium.com/?source=collection_home_page----2615bd06b42e-----0-----------------------------------)\n\n5d ago\n\n9 min read\n\n## Mount Mayhem at Netflix: Scaling Containers on Modern CPUs\n\n### Authors: Harshad Sane, Andrew Halaney\n\n[Netflix Technology Blog](https://netflixtechblog.medium.com/?source=collection_home_page----2615bd06b42e-----0-----------------------------------)\n\nNov 7, 2025\n\n11 min read"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

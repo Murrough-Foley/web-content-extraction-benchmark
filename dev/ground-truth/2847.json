@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.cloudflare.com/waf/",
+  "file_id": "2847",
+  "ground_truth": {
+    "title": "Cloud Web Application Firewall (WAF)",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Block the latest attacks with our industry-leading web application firewall (WAF)\n\nThe Cloudflare WAF uses threat intelligence and machine learning powered by platform intelligence from the Cloudflare connectivity cloud to stop the newest threats, including zero-days.\n\nBenefits of Cloudflare WAF\n\nGlobal threat intelligence\n\nThe Cloudflare global network processes 126 million HTTP requests per second at peak, providing unparalleled protection against the latest attacks, including zero-day exploits.\n\nMachine learning-based detection\n\nThe Cloudflare WAF uses machine learning to automatically block emerging threats in real time.\n\nFast deployment and easy management\n\nCustomers can set up the WAF with just a few clicks, and our WAF integrates with the rest of our application security for full coverage. No training or professional services needed.\n\nManaged and custom rulesets\n\nOn top of OWASP rules, Cloudflare-managed rules offer fast zero-day protection, and custom rulesets enable organizations to tailor their WAF to implement organization-specific policies.\n\nHow it works\n\nThe Cloudflare WAF runs on the Cloudflare global network and sits in front of web applications to stop a wide range of real-time attacks using powerful rulesets, advanced rate limiting, exposed credential checks, uploaded content scanning, and other security measures.\n\nThe WAF integrates with our analyst-recognized, industry-leading application security portfolio for comprehensive protection.\n\nWhat our customers are saying\n\n\"With the Cloudflare platform, we're getting very high-powered, very technical [application security] detection and protections that take little to no effort to deploy — that's especially important for our organizations that already struggle with limited resources.\"\n\nDeputy Director and Interim State CISO\n\nTop WAF use cases\n\nBlock common attacks like SQL injection and cross-site scripting\n\nCloudflare uses core OWASP Top 10 rules to block the most widespread layer 7 attacks.\n\nStop credential stuffing attacks\n\nOur WAF prevents account takeover by detecting and blocking the use of stolen or exposed user login credentials.\n\nDetect malware in uploaded files\n\nWAF content scanning protects your web servers and enterprise network from malware by scanning files as they are uploaded to your application.\n\nPricing\n\nUpgrade your website security and performance with WAF and so much more\n\nPro\n\n$20 per month when billed annually or $25 / mo if billed monthly\n\nFor professional websites that aren't business-critical.\n\nBusiness\n\n$200 per month when billed annually or $250 / mo if billed monthly\n\nFor small businesses operating online.\n\nContract\n\nCustom, billed annually\n\nFor mission-critical applications that are core to your business.",
+    "with": [
+      "The Cloudflare WAF runs on the Cloudflare global network and sits in front of web applications",
+      "Customers can set up the WAF with just a few clicks",
+      "WAF content scanning protects your web servers and enterprise network from malware",
+      "The Cloudflare global network processes 126 million HTTP requests per second at peak",
+      "For mission-critical applications that are core to your business"
+    ],
+    "without": [
+      "See case studies",
+      "Get started",
+      "See plans",
+      "Contact sales"
+    ],
+    "main_content_markdown": "**Block the latest attacks with our industry-leading web application firewall (WAF)**\n\nThe Cloudflare WAF uses threat intelligence and machine learning powered by platform intelligence from the Cloudflare connectivity cloud to stop the newest threats, including zero-days.\n\n## Benefits of Cloudflare WAF\n\n###### Global threat intelligence\n\nThe Cloudflare global network processes 126 million HTTP requests per second at peak, providing unparalleled protection against the latest attacks, including zero-day exploits.\n\n###### Machine learning-based detection\n\nThe Cloudflare WAF uses machine learning to automatically block emerging threats in real time.\n\n###### Fast deployment and easy management\n\nCustomers can set up the WAF with just a few clicks, and our WAF integrates with the rest of our application security for full coverage. No training or professional services needed.\n\n###### Managed and custom rulesets\n\nOn top of OWASP rules, Cloudflare-managed rules offer fast zero-day protection, and custom rulesets enable organizations to tailor their WAF to implement organization-specific policies.\n\n## How it works\n\nThe Cloudflare WAF runs on the Cloudflare global network and sits in front of web applications to stop a wide range of real-time attacks using powerful rulesets, advanced rate limiting, exposed credential checks, uploaded content scanning, and other security measures.\n\nThe WAF integrates with our analyst-recognized, industry-leading application security portfolio for comprehensive protection.\n\n## What our customers are saying\n\n\"With the Cloudflare platform, we're getting very high-powered, very technical [application security] detection and protections that take little to no effort to deploy - that's especially important for our organizations that already struggle with limited resources.\"\n\n**Deputy Director and Interim State CISO**\n\nTop WAF use cases\n\n###### Block common attacks like SQL injection and cross-site scripting\n\nCloudflare uses core [OWASP Top 10](https://www.cloudflare.com/learning/security/threats/owasp-top-10/) rules to block the most widespread layer 7 attacks.\n\n###### Stop credential stuffing attacks\n\nOur WAF [prevents account takeover](https://www.cloudflare.com/sase/use-cases/account-takeover-prevention/) by detecting and blocking the use of stolen or exposed user login credentials.\n\n###### Detect malware in uploaded files\n\nWAF content scanning protects your web servers and enterprise network from malware by scanning files as they are uploaded to your application.\n\nPricing\n\n## Upgrade your website security and performance with WAF and so much more\n\nPro\n\n$20 per month when billed annually or $25 / mo if billed monthly\n\nFor professional websites that aren't business-critical.\n\nBusiness\n\n$200 per month when billed annually or $250 / mo if billed monthly\n\nFor small businesses operating online.\n\nContract\n\nCustom, billed annually\n\nFor mission-critical applications that are core to your business."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

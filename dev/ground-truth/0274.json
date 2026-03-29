@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.bluecollarelectricians.com/coupons/",
+  "file_id": "0274",
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "coupons",
+        "electrical-services",
+        "discounts"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Residential Electrician Coupons",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Coupons\n\nPrice Match Guarantee\n\nWe will match competitors pricing. As long as the other companies are using the same materials and doing the same work. The other companies must be licensed and insured. Must be presented before start of work. Not valid with other offers or coupons, some restrictions may apply.\n\n10% Off Electrical Panel Upgrade\n\nMust be presented before start of work. Not valid with other offers or coupons, some restrictions may apply.\n\n$25.00 Off Any Electrical Troubleshooting\n\nMust be presented before start of work. Not valid with other offers or coupons, some restrictions may apply.\n\n$50.00 Off Any Whole House Surge Protector\n\nMust be presented before start of work. Not valid with other offers or coupons, some restrictions may apply.\n\n$50.00 Off Any Electrical Repair\n\nMust be presented before start of work. Not valid with other offers or coupons, some restrictions may apply.\n\n$25.00 Off INSTALL OF ANY ONE CUSTOMER PROVIDED CEILING FAN\n\nMust be presented before start of work. Not valid with other offers or coupons, some restrictions may apply.",
+    "with": [
+      "Price Match Guarantee",
+      "We will match competitors pricing.",
+      "10% Off Electrical Panel Upgrade",
+      "$25.00 Off Any Electrical Troubleshooting",
+      "$50.00 Off Any Whole House Surge Protector"
+    ],
+    "without": [
+      "About Us",
+      "CONTACT US",
+      "Home",
+      "MENU"
+    ],
+    "main_content_markdown": "# Coupons\n\n# Price Match Guarantee\n\n**We will match competitors pricing**. As long as the other companies are using the same materials and doing the same work. The other companies must be licensed and insured. Must be presented before start of work. Not valid with other offers or coupons, some restrictions may apply.\n\n# 10% Off Electrical Panel Upgrade\n\nMust be presented before start of work. Not valid with other offers or coupons, some restrictions may apply.\n\n# $25.00 Off Any Electrical Troubleshooting\n\nMust be presented before start of work. Not valid with other offers or coupons, some restrictions may apply.\n\n# $50.00 Off Any Whole House Surge Protector\n\nMust be presented before start of work. Not valid with other offers or coupons, some restrictions may apply.\n\n# $50.00 Off Any Electrical Repair\n\nMust be presented before start of work. Not valid with other offers or coupons, some restrictions may apply.\n\n# $25.00 Off INSTALL OF ANY ONE CUSTOMER PROVIDED CEILING FAN\n\nMust be presented before start of work. Not valid with other offers or coupons, some restrictions may apply."
+  }
+}

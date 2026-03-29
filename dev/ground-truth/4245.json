@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://howertonwhite.com/",
+  "file_id": "4245",
+  "ground_truth": {
+    "title": "Howerton+White",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Marketing made to meet your business goals.\n\nUniversal Appeal\n\nIncreasing attendance and awareness of a world-class space museum in small-town Kansas.\n\nThe Picture of Health\n\nA collaborative approach brought leadership into the creative process as we evolved the brand expression for a health clinic.\n\nLift Off: Launching a Beer Brand\n\nBranding a beer on a mission to benefit a museum and stand out in a crowded space.\n\nWell-Distilled Product Design\n\nIntroducing a revamped pre-WWII classic bourbon brand now found on top shelves throughout Kentucky.\n\nChoose Wichita: The Talent Brand\n\nA data-driven approach brings a #RelentlesslyOriginal community together to attract and retain talent.",
+    "with": [
+      "Increasing attendance and awareness of a world-class space museum in small-town ",
+      "A collaborative approach brought leadership into the creative process as we evol",
+      "Introducing a revamped pre-WWII classic bourbon brand now found on top shelves t",
+      "A data-driven approach brings a #RelentlesslyOriginal community together to attr"
+    ],
+    "without": [
+      "GO ABOVE AND BEYOND",
+      "THE CREATIVE CURE",
+      "BEYOND THE LABEL",
+      "Explore the Brand",
+      "Beyond the Bottle"
+    ],
+    "main_content_markdown": "# Marketing made to meet your business goals.\n\nUniversal Appeal\n\nIncreasing attendance and awareness of a world-class space museum in small-town Kansas.\n\nThe Picture of Health\n\nA collaborative approach brought leadership into the creative process as we evolved the brand expression for a health clinic.\n\nLift Off: Launching a Beer Brand\n\nBranding a beer on a mission to benefit a museum and stand out in a crowded space.\n\nWell-Distilled Product Design\n\nIntroducing a revamped pre-WWII classic bourbon brand now found on top shelves throughout Kentucky.\n\nChoose Wichita: The Talent Brand\n\nA data-driven approach brings a #RelentlesslyOriginal community together to attract and retain talent."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "service"
+  }
+}

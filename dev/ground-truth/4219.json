@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.samsung.com/levant/tablets/galaxy-tab-s/galaxy-tab-s9-fe-wifi-gray-128gb-sm-x510nzaamea/",
+  "file_id": "4219",
+  "ground_truth": {
+    "title": "Galaxy Tab S9 FE (Wi-Fi)",
+    "author": null,
+    "publish_date": "2023-11-02",
+    "main_content": "Free delivery with 0% interest with our bank partners for all orders.\n\nSM-X510NZAAMEA\n\nFashionable Colors\n\nSmooth Display\n\nLow Blue Light\n\nIP68\n\nCircle it, find it. Just like that\n\nExperience Circle to Search with Google and search like never before. Simply circle around an object to get Google Search results. It’s a new visual way to find what you're looking for.\n\nSearch like never before with Circle to Search with Google.\n\nColorful design that lets you shine\n\nStep into a world of fun creative possibilities and entertainment with Galaxy Tab S9 FE and Tab S9 FE+. View, create and share what you love in vivid detail on the bright, immersive screen. Both models come in Gray, Mint, Silver or Lavender to effortlessly match your unique vibe.",
+    "with": [
+      "Free delivery with 0% interest with our bank partners for all orders.",
+      "Step into a world of fun creative possibilities and entertainment with Galaxy Ta"
+    ],
+    "without": [
+      "CartNumber of Products :",
+      "Open My Menu",
+      "ShopExplore Shop",
+      "MobileMobile",
+      "TabletsTablets"
+    ],
+    "main_content_markdown": "## Free delivery with 0% interest with our bank partners for all orders.\n\nSM-X510NZAAMEA\n\nFashionable Colors\n\nSmooth Display\n\nLow Blue Light\n\nIP68\n\n## Circle it, find it. Just like that\n\nExperience Circle to Search with Google and search like never before. Simply circle around an object to get Google Search results. It’s a new visual way to find what you're looking for.\n\nSearch like never before with Circle to Search with Google.\n\n## Colorful design that lets you shine\n\nStep into a world of fun creative possibilities and entertainment with Galaxy Tab S9 FE and Tab S9 FE+. View, create and share what you love in vivid detail on the bright, immersive screen. Both models come in Gray, Mint, Silver or Lavender to effortlessly match your unique vibe."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  }
+}

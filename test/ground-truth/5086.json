@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://thehikingforum.com/threads/hiking-trail-recommendations-in-california-san-diego.201/",
+  "file_id": "5086",
+  "ground_truth": {
+    "title": "Hiking Trail Recommendations in California & San Diego",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Hello Everyone!\n\nI'm planning a trip to California next year, and I’m particularly excited to explore the San Diego area. I Would love some recommendations on the best hiking trails around California, with a focus on the San Diego region.\n\nI’m looking for a variety of trails, easy scenic walks and more challenging hikes. It would be great to get suggestions for hikes with beautiful views, interesting landscapes, and possibly some wildlife. Also, any tips for hidden gems would be amazing!\n\nI’ll be in San Diego for a few weeks, so I’m also open to day trips from there. If you’ve hiked any great trails in California, I’d love to hear your thoughts!\n\nThanks in advance for your help!\n\nI've never hiked in California. If I could, I'd definitely want to hike Mt. Whitney and Mt. Shasta. Yosemite NP looks really nice too!\n\nMaybe @neidholdt has some ideas!\n\nThanks for your response! Those are definitely some great suggestions. I'll look into the trails you mentioned, Yosemite NP is also on my list, so I appreciate the insight!\n\nI looked up San Diego on Alltrails, it looks like a hiker's paradise! I think you'll enjoy it wherever you end up going.\n\nAre there any good 14ers over that way?\n\nThat might be too rugged though!\n\nMt. Whitney is the highest mountain in the contiguous United States, Mt. Shasta is a 14er too. I've heard class 3 is harder in California than in Colorado.\n\nBeen out in the woods this last week. So it’s why I have been quite\n\nDid my first trip to California back in March. I am biased because I love the desert. First the bad, gas was well over $6 a gallon- just shocked. That aside I did Joshua Tree NP and area. Just gorgeous. But don’t behave personal experience in California other than that. Sorry.\n\nIn about 6 weeks I am going to spend about 5 5 days in Death Valley.\n\nI figured you were on a trip\n\nWas out 7 days, did 38 trails ranging from.2 miles to 8, in 6 states - main destination was Georgia. I always hike in route to my main destination to break up the drive but more importantly to hit some remote special scenic areas i otherwise would never see.\n\nI always look forward to seeing your adventures!!",
+    "with": [
+      "I’m looking for a variety of trails, easy scenic walks and more challenging hike",
+      "Thanks for your response! Those are definitely some great suggestions. I'll look",
+      "Did my first trip to California back in March. I am biased because I love the de",
+      "Was out 7 days, did 38 trails ranging from.2 miles to 8, in 6 states - main dest"
+    ],
+    "without": [
+      "Search forums",
+      "Terms and rules",
+      "Privacy policy",
+      "This site uses cookies to help personalise content"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "forum"
+  }
+}

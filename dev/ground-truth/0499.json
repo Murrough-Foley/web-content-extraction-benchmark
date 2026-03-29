@@ -1,0 +1,38 @@
+{
+  "schema_version": "2.0",
+  "url": "https://sdiehl.github.io/zero-to-qed/01_introduction.html",
+  "file_id": "0499",
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "technical",
+        "programming",
+        "lean",
+        "theorem-proving"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Introduction",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Welcome to From Zero to QED, an informal introduction to formality in Lean 4. This article series teaches the language from first principles. Lean is expressive but the learning resources remain scattered and incomplete. This series is a best effort to fill that gap.\n\nThis is the beta release. There are bound to be typos, errors, and rough edges. If you spot something, send a PR on GitHub.\n\nThis article is itself a giant checkable theorem. Every code sample, every proof, every definition is extracted from source files that the Lean compiler typechecks on every build. If the article compiles, the theorems are valid. The full source lives in the GitHub repository.\n\nWhat This Series Covers\n\nThe series divides into two arcs. The first arc treats Lean as a programming language. You will learn the syntax, type system, control flow, polymorphism, monads, and IO. By the end of this arc you can write real programs in Lean.\n\nThe second arc treats Lean as a theorem prover. You will learn to write proofs, understand type theory and dependent types, master tactics, and eventually prove classic mathematical results. The series concludes with the emerging intersection of theorem proving with artificial intelligence, and why formal methods may matter more in the coming decade than they have in the previous five.\n\nNo prior experience with theorem provers is assumed. Familiarity with a typed functional language like Haskell, OCaml, or Scala helps but is not required.\n\nGetting Started\n\nThe full source code is available on GitHub: github.com/sdiehl/zero-to-qed\n\nTo run the examples locally, install Lean 4 and clone the repository.\n\nYou can also serve the documentation locally with just serve if you have mdBook installed.\n\nAdditional learning resources are collected in the References appendix. This series is an informal introduction to formality. If you want the stuffy formal introduction to formality, see Theorem Proving in Lean 4, Functional Programming in Lean, Mathematics in Lean, or university courses from CMU, Imperial, and Brown. They are more rigorous.",
+    "with": [
+      "Welcome to From Zero to QED, an informal introduction to formality in Lean 4.",
+      "This article series teaches the language from first principles.",
+      "The series divides into two arcs. The first arc treats Lean as a programming language.",
+      "The second arc treats Lean as a theorem prover.",
+      "No prior experience with theorem provers is assumed."
+    ],
+    "without": [
+      "Search this book ...",
+      "Print this book",
+      "Git repository",
+      "Copyright"
+    ],
+    "main_content_markdown": "Welcome to **From Zero to QED**, an informal introduction to formality in Lean 4. This article series teaches the language from first principles. Lean is expressive but the learning resources remain scattered and incomplete. This series is a best effort to fill that gap.\n\nThis is the beta release. There are bound to be typos, errors, and rough edges. If you spot something, send a PR on [GitHub](https://github.com/sdiehl/zero-to-qed).\n\nThis article is itself a giant checkable theorem. Every code sample, every proof, every definition is extracted from source files that the Lean compiler typechecks on every build. If the article compiles, the theorems are valid. The full source lives in the [GitHub repository](https://github.com/sdiehl/zero-to-qed).\n\n## What This Series Covers\n\nThe series divides into two arcs. The first arc treats Lean as a programming language. You will learn the syntax, type system, control flow, polymorphism, monads, and IO. By the end of this arc you can write real programs in Lean.\n\nThe second arc treats Lean as a theorem prover. You will learn to write proofs, understand type theory and dependent types, master tactics, and eventually prove classic mathematical results. The series concludes with the emerging intersection of theorem proving with artificial intelligence, and why formal methods may matter more in the coming decade than they have in the previous five.\n\nNo prior experience with theorem provers is assumed. Familiarity with a typed functional language like Haskell, OCaml, or Scala helps but is not required.\n\n## Getting Started\n\nThe full source code is available on GitHub: [github.com/sdiehl/zero-to-qed](https://github.com/sdiehl/zero-to-qed)\n\nTo run the examples locally, [install Lean 4](https://lean-lang.org/install/) and clone the repository.\n\nYou can also serve the documentation locally with just serve if you have [mdBook](https://rust-lang.github.io/mdBook/) installed.\n\nAdditional learning resources are collected in the [References](https://sdiehl.github.io/zero-to-qed/19_references.html) appendix. This series is an informal introduction to formality. If you want the stuffy formal introduction to formality, see [Theorem Proving in Lean 4](https://lean-lang.org/theorem_proving_in_lean4/), [Functional Programming in Lean](https://lean-lang.org/functional_programming_in_lean/), [Mathematics in Lean](https://leanprover-community.github.io/mathematics_in_lean/), or university courses from [CMU](https://www.cs.cmu.edu/~mheule/15217-f21/), [Imperial](https://www.ma.imperial.ac.uk/~buzzard/xena/formalising-mathematics-2024/), and [Brown](https://browncs1951x.github.io/). They are more rigorous."
+  }
+}

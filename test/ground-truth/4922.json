@@ -1,0 +1,23 @@
+{
+  "schema_version": "2.0",
+  "url": "https://outschool.com/online-classes/math-tutoring?srsltid=AfmBOor-7tYSPNQEJ20YOZp7uiyRRxNse7Bxcui2Jy9ihyvMdga48WpI",
+  "file_id": "4922",
+  "ground_truth": {
+    "title": "Set Learning Free: Let kids’ curiosity run wild with classes and groups on any topic you can imagine.",
+    "author": null,
+    "publish_date": null,
+    "main_content": "",
+    "with": [],
+    "without": []
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "hint",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "service",
+    "spa": true
+  }
+}

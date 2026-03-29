@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://artistcraftsman.com/?srsltid=AfmBOoq2-6l8ggHpSKtPARsOav6O3nMy-nQFERf62JTJxfjzEQhBgRIB",
+  "file_id": "4419",
+  "ground_truth": {
+    "title": "Artist & Craftsman Supply",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Watercolors & Sets Ends 4/30 Explore Winsor & Newton Watercolors Watercolors & Sets Ends 4/30 Discover Daniel Smith Watercolors Watercolors & Sets Ends 4/30 Shop Van Gogh Watercolors Koi Watercolor Sets QoR Watercolor Sets Dive Into Golden QOR Watercolors",
+    "with": [
+      "Winsor & Newton",
+      "Koi Watercolor",
+      "QOR Watercolors"
+    ],
+    "without": [
+      "Canvas and Stretcher Bars",
+      "Wood Panels and Boards",
+      "Call a Store Near you",
+      "Contact Customer Service"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "collection"
+  }
+}

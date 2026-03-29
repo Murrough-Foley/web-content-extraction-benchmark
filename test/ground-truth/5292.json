@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://hbkcpa.com/insights/nonprofit-ratings-do-make-a-difference/",
+  "file_id": "5292",
+  "ground_truth": {
+    "title": "Nonprofit Ratings Do Make a Difference",
+    "author": "Kathleen M. Clayton",
+    "publish_date": "2024-03-20",
+    "main_content": "As many donors are tightening their belts, they are looking for ways to differentiate nonprofits. Many rely on rating and information from charity review sites, such as Charity Navigator, Give Well and Guidestar, now known as Candid.\n\nCandid is about data.\n\nMost of us were familiar with Guidestar because we have used its 990Finder. In 2019, GuideStar merged with Foundation Center to become Candid. Candid itself is a nonprofit and an information service specializing in reporting on U.S. nonprofit organizations. It provides comprehensive data and insights about the social sector: where dollars come from, what dollars go to, and why it all matters.\n\nCandid offers a widely used online profile that can be updated at no cost. When a tax-exempt organization claims its profile and earns a Seal of Transparency, it becomes more visible not just on Candid’s website, but also on more than 200 partner platforms including Facebook, Network for Good, and many donor-advised funds. Candid is not a rating system. Rather, organizations earn Seals of Transparency by contributing information about their mission, staff and leadership, programs, goals, and more.\n\nSeals of Transparency\n\nCandid ratings, or Seals of Transparency, are assigned at four levels: Bronze, Silver, Gold, and Platinum. A Seal of Transparency is a nonprofit’s first step to becoming eligible for Apple Pay for donations. Best practices suggest organizations begin by qualifying for a Bronze Seal and work up through the levels to Platinum. Each level requires the disclosure of additional information. Gold Seal ratings require information from 2022 and 2023; Platinum Seals require at least one submitted metric from 2023. All levels have required information and optional information.\n\nBronze: The Bronze Seal provides basic information that allows donors to find your organization. Four pieces of information are required to earn a Bronze Seal:\n\nContact information\n\nDonation information\n\nMission statement\n\nLeadership information \n\nSilver: The Silver Seal allows organizations to showcase their programs and activities for donors. Three elements are required to obtain a Silver Seal:\n\nProgram details: name, brief description, and geographic area served \n\nGrant-maker status: Does your organization make grants or donations to others?\n\nBranding: logo, tagline, website, and social media account handles\n\nGold: The Gold Seal requires the disclosure of financial information. Two core details are required to secure a Gold Seal:\n\n2022 or 2023 financials: Audited financials are not required; basic financial data can be self-disclosed.\n\nBoard chair’s name and leadership demographics \n\nPlatinum: The Platinum Seal allows the organization to showcase itself and its mission-driven goals at a high level. Two key components are required to achieve a Platinum Seal:\n\nStrategy and goals: Upload your strategic plan or briefly answer two questions.\n\nMetrics: Share at least one impact-based metric from 2023.\n\nSeals expire annually, so information must be updated each year.\n\nCandid Seals allow organizations to “opt in” and share additional data including:\n\nOrganizational data:\n\nInformation on the leader, board members, senior staff and staff\n\nEquity strategies\n\nBoard leadership practices:\n\nBoard education and orientation\n\nOversight of the CEO\n\nEthics including conflict-of-interest practices\n\nBoard makeup and recruitment\n\nFormal board assessment measures\n\nFeedback practices:\n\nCollection of constituent feedback\n\nAdditional “permanent” documents can also be provided through the Candid Seal process.\n\nWhat should charities do now?\n\nClaim your Candid profile if you don’t already have one. If you have one, update your existing profile.\n\nReview the information necessary for each Seal level and gather current information as needed.\n\nThe information to earn Bronze and Silver Seals is readily available. Earn these to get started and work toward Gold and Platinum Seals.\n\nUse the many Candid tools available to help gather data. These tools can provide new ways to demonstrate the impact of your organization.\n\nFinally, obtain the shareable link profile that Candid provides to use in your own development activities.\n\nWant more information? Go to www.Candid.org or www.Guidestar.org.\n\nWhy this matters\n\nOrganizations build trust and attract funding by being transparent and proving their effectiveness and efficiency. Donors want to be able to gather current information on a nonprofit easily in order to make informed decisions. As opposed to searching through more than 200 platforms, a donor can go to Candid for comprehensive information.\n\nWatch for the Spring 2024 issue of HBK Nonprofit Solutions newsletter Insights and an article by HBK Principal Sean Kocan, CPA, on Charity Navigator, a platform that assesses and rates the financial health and accountability of charitable organizations.",
+    "with": [
+      "Most of us were familiar with Guidestar because we have used its 990Finder. In 2",
+      "Gold: The Gold Seal requires the disclosure of financial information. Two core d",
+      "Additional “permanent” documents can also be provided through the Candid Seal pr",
+      "Watch for the Spring 2024 issue of HBK Nonprofit Solutions newsletter Insights a"
+    ],
+    "without": [
+      "Client Portal Signup",
+      "Online Payment",
+      "All Services",
+      "Financial Benchmarking and Performance Measurement"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

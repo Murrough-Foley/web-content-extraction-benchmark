@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.bhphotovideo.com/c/product/1825729-REG/portman_lights_p1_retro_or_evo_lrc_4_units_p1_retro_or_evo.html",
+  "file_id": "3039",
+  "ground_truth": {
+    "title": "Portman Lights P1 Retro Or EVO",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Portman Lights P1 Retro Or EVO - 4 Units Roadcase\n\nBH # POP1REEVLRC4 • MFR # P1 RETRO OR EVO - LRC 4 UNITS\n\nExpected availability: 2-4 Weeks\n\nFree Standard Shipping\n\nPortman Lights P1 RETRO or EVO Roadcase Q&A\n\nBe the first to ask a question about this item",
+    "with": [
+      "Portman Lights P1 Retro Or EVO - 4 Units Roadcase",
+      "BH # POP1REEVLRC4",
+      "MFR # P1 RETRO OR EVO - LRC 4 UNITS",
+      "Expected availability: 2-4 Weeks",
+      "Free Standard Shipping",
+      "Be the first to ask a question about this item"
+    ],
+    "without": [
+      "for Accessibility for blind people",
+      "who use screen readers",
+      "B2B, Gov, Students & More",
+      "Video Chat with a Lighting Expert"
+    ],
+    "main_content_markdown": "# Portman Lights P1 Retro Or EVO - 4 Units Roadcase\n\nBH # POP1REEVLRC4 • MFR # P1 RETRO OR EVO - LRC 4 UNITS\n\nExpected availability: 2-4 Weeks\n\nFree Standard Shipping\n\n## Portman Lights P1 RETRO or EVO Roadcase Q&A\n\nBe the first to ask a question about this item"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

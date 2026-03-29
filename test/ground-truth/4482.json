@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.campaignmonitor.com/",
+  "file_id": "4482",
+  "ground_truth": {
+    "title": "Campaign Monitor: Email Marketing Platform & Services",
+    "author": null,
+    "publish_date": null,
+    "main_content": null,
+    "with": [],
+    "without": [
+      "Features overview",
+      "Integrations",
+      "Deliverability",
+      "Stay ahead in email marketing"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "reviewed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "service",
+    "notes": "HTML body content is missing (sanitization stripped main sections). Page unsuitable for benchmark - only nav/footer remain.",
+    "remove": true,
+    "remove_reason": "sanitization_stripped"
+  }
+}

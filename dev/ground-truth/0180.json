@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://ml.gatech.edu/agency",
+  "file_id": "0180",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "university",
+        "organization",
+        "student-club"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "ML (Machine Learning) at Georgia Tech",
+    "author": null,
+    "publish_date": null,
+    "main_content": "The AI/Machine Learning Club at Georgia Tech\n\nThe Agency is Georgia Tech's student machine learning and artificial intelligence club. Founded in 2014 by passionate Georgia Tech students, the club has continued to grow. The club is a great resource for those interested in undergraduate research and looking to connect with others who are interested in machine learning. The Agency looks to enhance the student experience through collaborative research projects, partnering with other campus organizations, and hosting events like machine learning workshops and a graduate school interest dinner.\n\nLearn More",
+    "with": [
+      "The AI/Machine Learning Club at Georgia Tech",
+      "The Agency is Georgia Tech's student machine learning and artificial intelligence club.",
+      "Founded in 2014 by passionate Georgia Tech students, the club has continued to grow.",
+      "The club is a great resource for those interested in undergraduate research and looking to connect with others who are interested in machine learning."
+    ],
+    "without": [
+      "Georgia Tech Home",
+      "Skip to content",
+      "Emergency Information",
+      "Legal & Privacy Information"
+    ],
+    "main_content_markdown": "#### The AI/Machine Learning Club at Georgia Tech\n\nThe Agency is Georgia Tech's student machine learning and artificial intelligence club. Founded in 2014 by passionate Georgia Tech students, the club has continued to grow. The club is a great resource for those interested in undergraduate research and looking to connect with others who are interested in machine learning. The Agency looks to enhance the student experience through collaborative research projects, partnering with other campus organizations, and hosting events like machine learning workshops and a graduate school interest dinner.\n\n[Learn More](https://gtagency.github.io/)"
+  }
+}

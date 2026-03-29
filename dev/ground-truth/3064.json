@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.apple.com/watch/",
+  "file_id": "3064",
+  "ground_truth": {
+    "title": "Apple Watch",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Apple Watch\n\nExplore the lineup.\n\nApple Watch Series 11\n\n- Space Gray\n- Silver\n- Rose Gold\n- Jet Black\n- Natural\n- Gold\n- Slate\n\nThe ultimate way to watch your health.\n\nFrom $399 or $33.25/mo. for 12 mo. *\n\nApple Watch SE 3\n\n- Midnight\n- Starlight\n\nEssential health features at a great value.\n\nFrom $249 or $20.75/mo. for 12 mo. *\n\nApple Watch Ultra 3\n\n- Natural\n- Black\n\nThe ultimate sports and adventure watch.\n\nFrom $799 or $66.58/mo. for 12 mo. *\n\nGet to know Apple Watch.\n\nHealth\n\nKnows you. Insights and out.\n\nFitness\n\nMiles of motivation.\n\nSafety\n\nKeep help close at hand.\n\nApple Watch Ultra 3\n\nThe ultimate sports and adventure watch.\n\nConnectivity\n\nThe right call for staying in touch.\n\nPersonalization\n\nMake it you-nique.\n\nApple Watch For Your Kids\n\nIndependence for them. Peace of mind for you.\n\nApple Watch + iPhone\n\nDynamic duo.\n\nApple Watch essentials.\n\nColor the moment.\n\nExplore the latest bands in fresh shades, styles, and materials.\n\nMade for each other.\n\nApple Watch and iPhone\n\nCombining Apple Watch and iPhone opens up a world of features that make each device better. You can do things like create a custom route with Maps on your iPhone, then download it to your watch to use anytime. Or start a cycling workout on your watch and see your metrics automatically appear as a Live Activity on your iPhone.\n\nApple Watch and AirPods\n\nYou can do so much with just Apple Watch and AirPods — all without your iPhone. Take calls, stream music and podcasts, hear incoming notifications. Even respond to messages with Siri.\n\nApple Watch and Apple Fitness+\n\nApple Watch supercharges your Fitness+ experience with real-time, personalized metrics onscreen, like your heart rate, calories burned, and Activity rings. And you get the freedom of audio-guided walks, runs, and meditations with just your watch and AirPods.",
+    "with": [
+      "The ultimate way to watch your health.",
+      "The ultimate sports and adventure watch.",
+      "The right call for staying in touch.",
+      "Combining Apple Watch and iPhone opens up a world of features that make each device better.",
+      "Independence for them. Peace of mind for you."
+    ],
+    "without": [
+      "Shop the Latest",
+      "Apple Vision Pro",
+      "Find a Store",
+      "Privacy Policy"
+    ],
+    "main_content_markdown": "# Apple Watch\n\n## Explore the lineup.\n\n[Apple Watch Series 11](/apple-watch-series-11/)\n\n- Space Gray\n- Silver\n- Rose Gold\n- Jet Black\n- Natural\n- Gold\n- Slate\n\nThe ultimate way to watch your health.\n\nFrom $399 or $33.25/mo. for 12 mo. *\n\n[Apple Watch SE 3](/apple-watch-se-3/)\n\n- Midnight\n- Starlight\n\nEssential health features at a great value.\n\nFrom $249 or $20.75/mo. for 12 mo. *\n\n[Apple Watch Ultra 3](/apple-watch-ultra-3/)\n\n- Natural\n- Black\n\nThe ultimate sports and adventure watch.\n\nFrom $799 or $66.58/mo. for 12 mo. *\n\nGet to know Apple Watch.\n\n### Health\n\nKnows you. Insights and out.\n\n### Fitness\n\nMiles of motivation.\n\n### Safety\n\nKeep help close at hand.\n\n### Apple Watch Ultra 3\n\nThe ultimate sports and adventure watch.\n\n### Connectivity\n\nThe right call for staying in touch.\n\n### Personalization\n\nMake it you-nique.\n\n[Apple Watch For Your Kids](/apple-watch-for-your-kids/)\n\nIndependence for them. Peace of mind for you.\n\n### Apple Watch + iPhone\n\nDynamic duo.\n\nApple Watch essentials.\n\n### Color the moment.\n\nExplore the latest bands in fresh shades, styles, and materials.\n\nMade for each other.\n\n### Apple Watch and iPhone\n\nCombining Apple Watch and iPhone opens up a world of features that make each device better. You can do things like create a custom route with Maps on your iPhone, then download it to your watch to use anytime. Or start a cycling workout on your watch and see your metrics automatically appear as a Live Activity on your iPhone.\n\n### Apple Watch and AirPods\n\nYou can do so much with just Apple Watch and AirPods - all without your iPhone. Take calls, stream music and podcasts, hear incoming notifications. Even respond to messages with Siri.\n\n### Apple Watch and Apple Fitness+\n\nApple Watch supercharges your Fitness+ experience with real-time, personalized metrics onscreen, like your heart rate, calories burned, and Activity rings. And you get the freedom of audio-guided walks, runs, and meditations with just your watch and AirPods."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

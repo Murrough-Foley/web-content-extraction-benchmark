@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.austintexas.gov/department/go-repair-grant-program",
+  "file_id": "4552",
+  "ground_truth": {
+    "title": "GO REPAIR! Grant Program",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Helping to fix serious structural issues for Austin homeowners.\n\nGO REPAIR! addresses substandard housing conditions to make safe and barrier-free homes for Austinites. Low-income families struggling to make required home repairs may be eligible. Grants are up to $20,000 to fix structural issues for homeowners.\n\nThe GO REPAIR! Grant is to help fix dangerous conditions, such as collapsing floors, decaying roofs, and faulty electric and plumbing leaks.\n\nHome modifications can ensure Austinites can get around their home safely. The grant also makes homes more accessible for homeowners with disabilities.\n\nAustin nonprofits administer the grants and repairs. Eligible homeowners do not need to pay for any of the grant-approved repairs.\n\nWho is Eligible?\n\n- Austin homeowners living within Austin's full-purpose city limits.\n- Austinites must have a gross annual income at/below 80% Median Family Income (MFI). The table below shows the income limits by number of persons living in the home.\n\nNumber of people living in household 1person 2people 3 people 4people 5people 6people\nAnnual income at 80% MFI or less $72,950 $83,400 $93,800 $104,200 $112,550 $120,900\n\nFor example: a 4-person household would need to earn an annual income of $104,200 or less to qualify.\n\nApplication Process\n\n1. If you are eligible, fill out and submit the new short and easy-to-use online Home Repairs Request More Information form (available in English and Spanish).\n2. You will be contacted about the next steps.\n3. Construction scheduling varies based on need, project size, and repairs needed.\n\nGO REPAIR! Partners\n\nThe Housing Department contracts with non-profit organizations to make the repairs. They are happy to answer your questions.\n\n- Rebuilding Together Austin (Web) (512) 993-8230\n- Meals on Wheels and More (Web) (512) 476-6325\n- Interfaith Action of Central Texas (Web) (512) 386-9145\n- Easter Seals Central Texas, Inc. (Web) (512) 710-6044\n- Austin Area Urban League (Web) (512) 478-7176\n- American YouthWorks (Web) (512) 744-1900\n- Austin Habitat for Humanity (Web) (512) 472-8788, ext. 100\n\nFunding is provided by the City of Austin and Austin Housing Finance Corporation.\n\nCall 512-974-3100 OR email hpdcs@austintexas.gov with questions. The City receives and accepts Video Relay Service (VRS) calls from people who are Deaf or hard of hearing.",
+    "with": [
+      "GO REPAIR! addresses substandard housing conditions to make safe and barrier-fre",
+      "Number of people living in household 1person 2people 3 people 4people 5people 6p",
+      "- Rebuilding Together Austin (Web) (512) 993-8230",
+      "Funding is provided by the City of Austin and Austin Housing Finance Corporation"
+    ],
+    "without": [
+      "Open the Resident page",
+      "Get information or assistance",
+      "Give feedback on our website",
+      "Public Records",
+      "City Council Message Board"
+    ],
+    "main_content_markdown": "#### Helping to fix serious structural issues for Austin homeowners.\n\nGO REPAIR! addresses substandard housing conditions to make safe and barrier-free homes for Austinites. Low-income families struggling to make required home repairs may be eligible. **Grants are up to $20,000 to fix structural issues for homeowners.**\n\nThe GO REPAIR! Grant is to help fix dangerous conditions, such as collapsing floors, decaying roofs, and faulty electric and plumbing leaks.\n\nHome modifications can ensure Austinites can get around their home safely. The grant also makes homes more accessible for homeowners with disabilities.\n\nAustin nonprofits administer the grants and repairs. Eligible homeowners do not need to pay for any of the grant-approved repairs.\n\n### Who is Eligible?\n\n- Austin homeowners living within Austin's full-purpose city limits.\n- Austinites must have a gross annual income at/below 80% Median Family Income (MFI). The table below shows the income limits by number of persons living in the home.\n\n| Number of people living in household | 1person | 2people | 3 people | 4people | 5people | 6people |\n| --- | --- | --- | --- | --- | --- | --- |\n| Annual income at 80% MFI or less | $72,950 | $83,400 | $93,800 | $104,200 | $112,550 | $120,900 |\n\n*For example: a 4-person household would need to earn an annual income of $104,200 or less to qualify.*\n\n### Application Process\n\n1. If you are eligible, fill out and submit the new short and easy-to-use online [Home Repairs Request More Information form](https://bit.ly/3He579b) (available in English and Spanish).\n2. You will be contacted about the next steps.\n3. Construction scheduling varies based on need, project size, and repairs needed.\n\nGO REPAIR! Partners\n\nThe Housing Department contracts with non-profit organizations to make the repairs. They are happy to answer your questions.\n\n- [Rebuilding Together Austin (Web)](http://www.rebuildingtogetheraustin.org/) (512) 993-8230\n- [Meals on Wheels and More (Web)](http://www.mealsonwheelsandmore.org/) (512) 476-6325\n- [Interfaith Action of Central Texas (Web)](http://www.interfaithtexas.org/) (512) 386-9145\n- [Easter Seals Central Texas, Inc. (Web)](http://www.easterseals.com/centraltx/) (512) 710-6044\n- [Austin Area Urban League (Web)](http://www.aaul.org/) (512) 478-7176\n- [American YouthWorks (Web)](http://www.americanyouthworks.org/) (512) 744-1900\n- [Austin Habitat for Humanity (Web)](http://www.austinhabitat.org/Austin%20Habitat%20for%20Humanity) (512) 472-8788, ext. 100\n\nFunding is provided by the City of Austin and Austin Housing Finance Corporation.\n\nCall 512-974-3100 OR email [hpdcs@austintexas.gov](mailto:nhcdcs@austintexas.gov) with questions. The City receives and accepts Video Relay Service (VRS) calls from people who are Deaf or hard of hearing."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "collection"
+  }
+}

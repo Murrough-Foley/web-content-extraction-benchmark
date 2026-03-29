@@ -1,0 +1,38 @@
+{
+  "schema_version": "2.0",
+  "url": "https://ai.google.dev/gemma/docs/functiongemma",
+  "file_id": "2393",
+  "verified": true,
+  "ground_truth": {
+    "title": "FunctionGemma model overview",
+    "author": null,
+    "publish_date": null,
+    "main_content": "FunctionGemma is a specialized version of our Gemma 3 270M model tuned for function calling. It is designed as a strong base for further training into custom, fast, private, local agents that translate natural language into executable API actions.\n\nWhen to choose FunctionGemma\n\nFunctionGemma is the bridge between natural language and software execution. It is the right tool if:\n\n- You have a defined API surface: Your application has a defined set of actions (e.g., smart home, media, navigation).\n- You are ready to fine-tune: You need the consistent, deterministic behavior that comes from fine-tuning on specific data, rather than the variability of zero-shot prompting.\n- You prioritize local-first deployment: Your application requires near-instant latency and total data privacy, running efficiently within the compute and battery limits of edge devices.\n- You are building compound systems: You need a lightweight edge model to handle local actions, allowing your system to process common commands on-device and only query larger models (like Gemma 3 27B) for more complex tasks.\n\nAs with other Gemma models, FunctionGemma is provided with open weights and licensed for responsible commercial use, allowing you to fine tune and deploy it in your own projects and applications.",
+    "with": [
+      "FunctionGemma is a specialized version of our Gemma 3 270M model tuned for function calling",
+      "designed as a strong base for further training into custom, fast, private, local agents",
+      "translate natural language into executable API actions",
+      "FunctionGemma is the bridge between natural language and software execution",
+      "You have a defined API surface"
+    ],
+    "without": [
+      "Skip to main content",
+      "Send feedback",
+      "Get it on Hugging Face",
+      "Get it on Kaggle"
+    ],
+    "main_content_markdown": "FunctionGemma is a specialized version of our Gemma 3 270M model tuned for function calling. It is designed as a strong base for further training into custom, fast, private, local agents that translate natural language into executable API actions.\n\n## When to choose FunctionGemma\n\nFunctionGemma is the bridge between natural language and software execution. It is the right tool if:\n\n- **You have a defined API surface:** Your application has a defined set of actions (e.g., smart home, media, navigation).\n- **You are ready to fine-tune:** You need the consistent, deterministic behavior that comes from fine-tuning on specific data, rather than the variability of zero-shot prompting.\n- **You prioritize local-first deployment:** Your application requires near-instant latency and total data privacy, running efficiently within the compute and battery limits of edge devices.\n- **You are building compound systems:** You need a lightweight edge model to handle local actions, allowing your system to process common commands on-device and only query larger models (like Gemma 3 27B) for more complex tasks.\n\nAs with other Gemma models, FunctionGemma is provided with open weights and licensed for responsible [commercial use](https://ai.google.dev/gemma/terms), allowing you to fine tune and deploy it in your own projects and applications."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "ai-model",
+        "function-calling",
+        "google-gemma"
+      ]
+    }
+  }
+}

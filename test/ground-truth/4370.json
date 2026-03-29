@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.theguardian.com/books/2025/dec/05/best-science-fiction-books-2025-ej-swift-jacek-dukaj-silvia-park",
+  "file_id": "4370",
+  "ground_truth": {
+    "title": "Five of the best science fiction books of 2025",
+    "author": "Adam Roberts",
+    "publish_date": "2025-12-05",
+    "main_content": "An eco-masterpiece, icy intrigue, cyberpunkish cyborgs, memory-eating aliens and super-fast travel sends the world spinning out of control\n\nCircular Motion\nAlex Foster (Grove )\n\nAlex Foster’s novel treats climate catastrophe through high-concept satire. A new technology of super-fast pods revolutionises travel: launched into low orbit from spring-loaded podiums, they fly west and land again in minutes, regardless of distance. Since every action has an equal and opposite reaction, our globe starts to spin faster. Days contract, first by seconds, then minutes, and eventually hours. It’s a gonzo conceit, and Foster spells out the consequences, his richly rendered characters caught up in their own lives as the world spirals out of control. As days become six hours long, circadian rhythms go out of the window and oceans start to bulge at the equator. The increasing whirligig of the many strands of storytelling converge on their inevitable conclusion, with Foster’s sparky writing, clever plotting and biting wit spinning an excellent tale.\n\nWhen There Are Wolves Again\nEJ Swift (Arcadia)\n\nThere are few more pressing issues with which fiction can engage than the climate crisis, and SF, with its capacity to extrapolate into possible futures and dramatise the realities, is particularly well placed to do so. Swift’s superb novel is an eco-masterpiece. Its near-future narrative of collapse and recovery takes us from the rewilding of Chornobyl and the return of wolves to Europe, through setback and challenge, to 2070, a story by turns tragic, alarming, uplifting, poetic and ultimately hopeful. Swift’s accomplished prose and vivid characterisation connect large questions of the planet’s destiny with human intimacy and experience, and she avoids either a too-easy doomsterism or a facile techno-optimism. We can bring the world back from the brink, but it will require honesty, commitment, hard work and a proper sense of stewardship.\n\nLuminous\nSilvia Park (Magpie )\n\nThis debut features humans with robotic body parts and robots with human consciousness in a vibrantly realised unified Korea. Ruijie, a schoolgirl afflicted with a degenerative disease, augments her human body with robot limbs scavenged from junk yards, where she meets a robot boy, Yoyo. We discover that Yoyo has two younger human siblings – but he is for ever 12 years old, and they are now adults. One is Detective Cho Jun, who is investigating the case of a missing robot: Jun, maimed in the course of duty, has had his body rebuilt as a cyborg. What starts as a YA school adventure grows into a more sophisticated piece of cyberpunk futurism that explores what it means to be human. An instant classic.\n\nIce\nJacek Dukaj, translated by Ursula Phillips (Head of Zeus )\nPublished in Dukaj’s native Poland in 2007 to great acclaim, Ice has now been translated fluently into English by Ursula Phillips. And what a giant of a book it is: 1,200 pages of alternative history in which a mysterious alien incursion during the Tunguska event – the asteroid impact that hit Siberia in 1908 with a force about 1,000 times more powerful than the atomic bombs dropped on Hiroshima and Nagasaki – has changed the direction of history. As the titular ice, a strange mutation of ordinary frozen water, spreads across a Russian empire that was never toppled by Communist revolution, Benedykt Gierosławski, a gambling addict and mathematical genius, must travel on the Trans-Siberian Express from Poland into Siberia. He is in search of the father he believed he had lost, who it seems is able to communicate with the ice. Capacious, packed with invention and incident, set in a baroquely detailed world with a brilliantly chilly atmosphere, and featuring stimulating metaphysical exposition and kinetic and thrilling set pieces, this is a marvellous ice-palace of a novel.\n\nThere Is No Antimemetics Division\nqntm (Del Rey )\n\nDonald Rumsfeld once distinguished between things we know, things we know we don’t know, and things we don’t know we don’t know, his “unknown unknowns”. qntm, the pseudonym of the British writer Sam Hughes, extrapolates this last idea into a blisteringly good, genuinely unnerving novel. “Memetics”, perhaps alien life forms, manifest in various ways in our world. They feed off our memories and devour information, making it impossible for anyone to remember encountering them. Their depredations upon humanity are countered by the titular Antimemetics Division, though it struggles against the near-impossible challenge. The author furnishes the story with a wealth of spookily weird creatures and episodes, and the sense of dread grows marvellously as it builds towards its startling ending. It’s the kind of novel that makes you reassess the actual world: after all, how can we be sure it isn’t actually true?",
+    "with": [
+      "Alex Foster’s novel treats climate catastrophe through high-concept satire. A ne",
+      "There are few more pressing issues with which fiction can engage than the climat",
+      "Published in Dukaj’s native Poland in 2007 to great acclaim, Ice has now been tr",
+      "Donald Rumsfeld once distinguished between things we know, things we know we don"
+    ],
+    "without": [
+      "Europe edition",
+      "Australia edition",
+      "International edition"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

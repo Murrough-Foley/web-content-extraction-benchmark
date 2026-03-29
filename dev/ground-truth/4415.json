@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://wiki.postgresql.org/wiki/Performance_Optimization",
+  "file_id": "4415",
+  "ground_truth": {
+    "title": "Performance Optimization",
+    "author": null,
+    "publish_date": null,
+    "main_content": "How to Effectively Ask Questions Regarding Performance on Postgres Lists\n\nSlow_Query_Questions\n\nGeneral Setup and Optimization\n\nTuning Your PostgreSQL Server by Greg Smith, Robert Treat, and Christopher Browne\n\nPostgreSQL Query Profiler in dbForge Studio by Devart\n\nPerformance Tuning PostgreSQL by Frank Wiles\n\nQuickStart Guide to Tuning PostgreSQL by Christopher Browne\n\nPerformance Tuning by Josh Berkus and Shridhar Daithankar\n\nReplacing Slow Loops in PostgreSQL by Joel Burton\n\nPostgreSQL Hardware Performance Tuning by Bruce Momjian\n\nThe effects of data fragmentation in a mixed load database by Dmitry Dvoinikov\n\nUnderstanding Postgres Performance by Craig Kerstiens\n\nMore on Postgres Performance by Craig Kerstiens\n\nFaster PostgreSQL counting by Joe Nelson\n\nRow count estimates in Postgres by David Conlin\n\nIndex-only scans in Postgres by David Conlin\n\nOptimize PostgreSQL Server Performance Through Configuration by Tom Swartz\n\nPerformance courses are available from a number of companies. Check events and trainings for further details.\n\nCritical maintenance for performance\n\nIntroduction to VACUUM, ANALYZE, EXPLAIN, and COUNT by Jim Nasby.\n\nPostgreSQL EXPLAIN for Analyzing Query Execution Plans by Devart\n\nVACUUM FULL and why you should avoid it\n\nPlanner Statistics\n\nUsing EXPLAIN\n\nLogging Difficult Queries\n\nLogging Checkpoints\n\nBulk Loading and Restores\n\nPerformance Analysis Tools by Craig Ringer\n\nDatabase architecture\n\nLimiting and prioritizing user/query/database resource usage by Craig Ringer\n\nPrioritizing databases by separating into multiple clusters by Craig Ringer\n\nClustering\n\nShared Storage\n\nDatabase Hardware Selection and Setup\n\nDatabase Hardware\n\nReliable Writes\n\nBenchmark Workloads\n\nCategory:Benchmarking",
+    "with": [
+      "Tuning Your PostgreSQL Server by Greg Smith, Robert Treat, and Christopher Browne",
+      "Replacing Slow Loops in PostgreSQL by Joel Burton",
+      "Optimize PostgreSQL Server Performance Through Configuration by Tom Swartz",
+      "Limiting and prioritizing user/query/database resource usage by Craig Ringer",
+      "Reliable Writes",
+      "Category:Benchmarking"
+    ],
+    "without": [
+      "Contents",
+      "Page actions",
+      "Personal tools",
+      "Navigation",
+      "Want to edit"
+    ],
+    "main_content_markdown": "## How to Effectively Ask Questions Regarding Performance on Postgres Lists\n\n[Slow_Query_Questions](https://wiki.postgresql.org/wiki/Slow_Query_Questions)\n\n## General Setup and Optimization\n\n[Tuning Your PostgreSQL Server](https://wiki.postgresql.org/wiki/Tuning_Your_PostgreSQL_Server) by Greg Smith, Robert Treat, and Christopher Browne\n\n[PostgreSQL Query Profiler in dbForge Studio](https://www.devart.com/dbforge/postgresql/studio/query-profiler.html) by Devart\n\n[Performance Tuning PostgreSQL](http://www.revsys.com/writings/postgresql-performance.html) by Frank Wiles\n\n[QuickStart Guide to Tuning PostgreSQL](http://linuxfinances.info/info/quickstart.html) by Christopher Browne\n\n[Performance Tuning](http://www.varlena.com/GeneralBits/Tidbits/perf.html) by Josh Berkus and Shridhar Daithankar\n\n[Replacing Slow Loops in PostgreSQL](http://old.zope.org/Members/pupq/pg_in_aggregates/howto_view) by Joel Burton\n\n[PostgreSQL Hardware Performance Tuning](http://momjian.us/main/writings/pgsql/hw_performance/) by Bruce Momjian\n\n[The effects of data fragmentation in a mixed load database](http://www.targeted.org/articles/databases/fragmentation.html) by Dmitry Dvoinikov\n\n[Understanding Postgres Performance](http://www.craigkerstiens.com/2012/10/01/understanding-postgres-performance/) by Craig Kerstiens\n\n[More on Postgres Performance](http://www.craigkerstiens.com/2013/01/10/more-on-postgres-performance/) by Craig Kerstiens\n\n[Faster PostgreSQL counting](https://www.citusdata.com/blog/2016/10/12/count-performance/) by Joe Nelson\n\n[Row count estimates in Postgres](https://www.pgmustard.com/blog/2018/12/14/row-count-estimates-in-postgres/) by David Conlin\n\n[Index-only scans in Postgres](https://www.pgmustard.com/blog/2019/03/04/index-only-scans-in-postgres/) by David Conlin\n\n[Optimize PostgreSQL Server Performance Through Configuration](https://info.crunchydata.com/blog/optimize-postgresql-server-performance) by Tom Swartz\n\nPerformance courses are available from a number of companies. Check [events and trainings](http://www.postgresql.org/about/eventarchive) for further details.\n\n## Critical maintenance for performance\n\n[Introduction to VACUUM, ANALYZE, EXPLAIN, and COUNT](https://wiki.postgresql.org/wiki/Introduction_to_VACUUM,_ANALYZE,_EXPLAIN,_and_COUNT) by Jim Nasby.\n\n[PostgreSQL EXPLAIN for Analyzing Query Execution Plans](https://www.devart.com/dbforge/postgresql/studio/postgresql-explain.html) by Devart\n\n[VACUUM FULL](https://wiki.postgresql.org/wiki/VACUUM_FULL) and why you should avoid it\n\n[Planner Statistics](https://wiki.postgresql.org/wiki/Planner_Statistics)\n\n[Using EXPLAIN](https://wiki.postgresql.org/wiki/Using_EXPLAIN)\n\n[Logging Difficult Queries](https://wiki.postgresql.org/wiki/Logging_Difficult_Queries)\n\n[Logging Checkpoints](https://wiki.postgresql.org/wiki/Logging_Checkpoints)\n\n[Bulk Loading and Restores](https://wiki.postgresql.org/wiki/Bulk_Loading_and_Restores)\n\n[Performance Analysis Tools](https://wiki.postgresql.org/wiki/Performance_Analysis_Tools) by Craig Ringer\n\n## Database architecture\n\n[Limiting and prioritizing user/query/database resource usage](https://wiki.postgresql.org/wiki/Priorities) by Craig Ringer\n\n[Prioritizing databases by separating into multiple clusters](https://wiki.postgresql.org/wiki/Prioritizing_databases_by_separating_into_multiple_clusters) by Craig Ringer\n\n[Clustering](https://wiki.postgresql.org/wiki/Clustering)\n\n[Shared Storage](https://wiki.postgresql.org/wiki/Shared_Storage)\n\n## Database Hardware Selection and Setup\n\n[Database Hardware](https://wiki.postgresql.org/wiki/Database_Hardware)\n\n[Reliable Writes](https://wiki.postgresql.org/wiki/Reliable_Writes)\n\n## Benchmark Workloads\n\n[Category:Benchmarking](https://wiki.postgresql.org/wiki/Category:Benchmarking)"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "documentation"
+  }
+}

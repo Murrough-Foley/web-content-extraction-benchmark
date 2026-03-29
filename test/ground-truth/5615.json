@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.theminimalists.com/tips/",
+  "file_id": "5615",
+  "ground_truth": {
+    "title": "5 Decluttering Tips",
+    "author": null,
+    "publish_date": "2019-05-26",
+    "main_content": "The Minimalists are not fans of so-called “listicles” because lists skew toward trite, vapid, or overly simplistic. Despite our allergic reaction, the media frequently asks for “The Minimalists top decluttering tips.” Although we don’t hand them a list, we usually answer with the following advice.\n\n1. Question. Start your process by asking the most important question: “How might my life be better with less?” By answering this question, you identify the benefits of letting go—not just the how-to, but the more important why-to. The benefits are different for each of us. For some, it’s improved health or relationships; for others, the benefits are financial freedom or more time to create. Understanding the purpose of decluttering will grant you the leverage to keep going.\n\n2. Start Small. Once you understand why you’re decluttering, get momentum by starting small. We recommend the 30-Day Minimalism Game, which makes decluttering fun by injecting some friendly competition.\n\n3. Packing Party. Once you have momentum, let go of more stuff by throwing a Packing Party. Do it in one room—or if you’re feeling adventurous, your entire house!\n\n4. Rules. If you need guidance along the way, consider the Just-in-Case Rule, the 90/90 Rule, and the 10/10 Material Possessions Theory to help you stay on track.\n\n5. Organize. No matter where you are on your journey, always remember: the easiest way to organize your stuff is to get rid of most of it.\n\nTo dive deeper, visit our “ Start Here ” page or listen to our favorite audiobook, Everything That Remains.",
+    "with": [
+      "The Minimalists are not fans of so-called “listicles” because lists skew toward trite, vapid, or",
+      "1. Question. Start your process by asking the most important question",
+      "3. Packing Party. Once you have momentum, let go of more stuff by throwing a Pac",
+      "1. Question. Start your process by asking the most important question: “How might my life"
+    ],
+    "without": [
+      "Subscribe to The Minimalists via",
+      "The Minimalists are Emmy-nominated Netflix stars",
+      "Email Newsletter",
+      "Free Ebook"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "article"
+  }
+}

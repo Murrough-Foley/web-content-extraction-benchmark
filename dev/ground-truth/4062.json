@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.logitech.com/en-us/shop/p/mx-vertical-ergonomic-mouse",
+  "file_id": "4062",
+  "ground_truth": {
+    "title": "Logitech MX Vertical Ergonomic Wireless Mouse",
+    "author": null,
+    "publish_date": null,
+    "main_content": "MX Vertical\n\nAdvanced Ergonomic Mouse\n\nMX Vertical is an advanced ergonomic mouse that combines science-driven design with the elevated performance of Logitech’s MX series. Rise above discomfort with a mouse designed to reduce muscle strain, decrease wrist pressure, and improve posture.\n\nNATURAL HANDSHAKE POSITION\n\nMX Vertical’s natural handshake position reduces muscular strain by 10 percent and promotes a more ergonomic posture.\n\n57° VERTICAL ANGLE FOR IMPROVED WRIST POSTURE\n\nMX Vertical’s unique 57° vertical angle reduces the pressure on your wrist, while your thumb is positioned comfortably on the thumb rest.\n\nGREAT FIT FOR LARGE TO MEDIUM HANDS\n\nMX Vertical is great for large to medium hands, specially designed and sculpted by Logitech’s team of ergonomic and design experts.\n\nUSER TESTED. ERGONOMIST-APPROVED.\n\nMX Vertical has been designed and tested with criteria set out by leading ergonomists – improving posture, lowering muscle strain, and reducing wrist pressure.",
+    "with": [
+      "science-driven design with the elevated performance of Logitech",
+      "natural handshake position reduces muscular strain by 10 percent",
+      "57° vertical angle reduces the pressure on your wrist",
+      "designed and tested with criteria set out by leading ergonomists"
+    ],
+    "without": [
+      "Logitech G",
+      "Shop by category",
+      "Legal Trademark Statement",
+      "Add to cart",
+      "You may also like"
+    ],
+    "main_content_markdown": "# MX Vertical\n\nAdvanced Ergonomic Mouse\n\nMX Vertical is an advanced ergonomic mouse that combines science-driven design with the elevated performance of Logitech’s MX series. Rise above discomfort with a mouse designed to reduce muscle strain, decrease wrist pressure, and improve posture.\n\n## NATURAL HANDSHAKE POSITION\n\nMX Vertical’s natural handshake position reduces muscular strain by 10 percent and promotes a more ergonomic posture.\n\n57° VERTICAL ANGLE FOR IMPROVED WRIST POSTURE\n\nMX Vertical’s unique 57° vertical angle reduces the pressure on your wrist, while your thumb is positioned comfortably on the thumb rest.\n\nGREAT FIT FOR LARGE TO MEDIUM HANDS\n\nMX Vertical is great for large to medium hands, specially designed and sculpted by Logitech’s team of ergonomic and design experts.\n\nUSER TESTED. ERGONOMIST-APPROVED.\n\nMX Vertical has been designed and tested with criteria set out by leading ergonomists – improving posture, lowering muscle strain, and reducing wrist pressure."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  }
+}

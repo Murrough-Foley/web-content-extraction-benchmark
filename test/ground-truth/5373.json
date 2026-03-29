@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://docs.flutter.dev/ui/widgets",
+  "file_id": "5373",
+  "ground_truth": {
+    "title": "Widget catalog",
+    "author": null,
+    "publish_date": null,
+    "main_content": "A catalog of some of Flutter's rich set of widgets.\n\nCreate beautiful apps faster with Flutter's collection of visual, structural,\nplatform, and interactive widgets. In addition to browsing widgets by category,\nyou can also see all the widgets in the widget index.\n\nDesign systems\n\nFlutter ships with two design systems as part of the SDK.\n\nCupertino\n\nBeautiful and high-fidelity widgets that align with\nApple's Human Interface Guidelines for iOS and macOS.\n\nMaterial design\n\nVisual, behavioral, and motion-rich widgets implementing\nthe Material 3 design specification.\n\nYou can find many more design systems created by the Flutter community\non pub.dev, the package repository for Dart and Flutter.\nFor example, the Windows-inspired fluent_ui,\nmacOS-inspired macos_ui,\nand the Ubuntu-inspired yaru widgets.\n\nBase widgets\n\nBase widgets support a range of common rendering options\nlike input, layout, and text.\n\nAccessibility\n\nMake your app accessible.\n\nAnimation and motion\n\nBring animations to your app.\n\nAssets, images, and icons\n\nManage assets, display images, and show icons.\n\nAsync\n\nWidgets supporting async patterns in your Flutter apps.\n\nBasics\n\nWidgets to know before building your first Flutter app.\n\nInput\n\nTake user input in addition to input widgets in Material components and Cupertino.\n\nInteraction models\n\nRespond to touch events and route users to different views.\n\nLayout\n\nArrange other widgets columns, rows, grids, and many other layouts.\n\nPainting and effects\n\nThese widgets apply visual effects to the children without changing their layout, size, or position.\n\nScrolling\n\nScroll multiple widgets as children of the parent.\n\nStyling\n\nManage the theme of your app, make your app responsive to screen sizes, or add padding.\n\nText\n\nDisplay and style text.\n\n100+ short, 1-minute explainer videos to\nhelp you quickly get started with Flutter widgets.\n\nWatch more widget of the week videos",
+    "with": [
+      "Create beautiful apps faster with Flutter's collection of visual, structural,",
+      "Visual, behavioral, and motion-rich widgets implementing",
+      "Take user input in addition to input widgets in Material components and Cupertin",
+      "help you quickly get started with Flutter widgets."
+    ],
+    "without": [
+      "Flutter Docs",
+      "Flutter Blog",
+      "Quick start",
+      "Custom setup"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "documentation"
+  }
+}

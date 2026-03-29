@@ -1,0 +1,23 @@
+{
+  "schema_version": "2.0",
+  "url": "https://boardgamegeek.com/geeklist/366833/2025-in-review-my-favorite-new-to-me-games",
+  "file_id": "4681",
+  "ground_truth": {
+    "title": "2025 in Review: My favorite new-to-me games",
+    "author": null,
+    "publish_date": null,
+    "main_content": "",
+    "with": [],
+    "without": []
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "article",
+    "spa": true
+  }
+}

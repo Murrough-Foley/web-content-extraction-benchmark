@@ -1,0 +1,29 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.contractortalk.com/threads/general-discussion.460778/",
+  "file_id": "5153",
+  "ground_truth": {
+    "title": "General Discussion",
+    "author": null,
+    "publish_date": "2025-05-22",
+    "main_content": "I'm excited to join this community. I'm currently involved in a home renovation project and looking to learn more from experienced professionals and fellow DIY enthusiasts. While I'm not a contractor myself, I have a strong interest in construction, interior design, and hands-on work. I appreciate the knowledge and support shared here and look forward to contributing wherever I can, and learning along the way. Thanks for having me!\n\nThis is a site for professional contractors to discuss industry specific issues, hence the name www.CONTRACTORtalk.com, but the good news is there is a sister site that will serve your needs better and where some of the pro's from this site also participate and answer homeowner questions like the ones you may have for your renovation...\n\nwww.DIYchatroom.com\n\nBest of Luck... 8^)",
+    "with": [
+      "I'm excited to join this community. I'm currently involved in a home renovation",
+      "This is a site for professional contractors to discuss industry specific issues,"
+    ],
+    "without": [
+      "Reactions:",
+      "38,391 posts",
+      "Log in"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "forum"
+  }
+}

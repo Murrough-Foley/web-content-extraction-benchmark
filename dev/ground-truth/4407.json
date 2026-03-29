@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://docs.github.com/en/actions/how-tos/write-workflows",
+  "file_id": "4407",
+  "ground_truth": {
+    "title": "Writing workflows",
+    "author": null,
+    "publish_date": null,
+    "main_content": "GitHub Actions workflows can automate tasks throughout the software development lifecycle.\n\nUsing workflow templates\n\nGitHub provides workflow templates for a variety of languages and tooling.\n\nChoosing when your workflow runs\n\nYou can configure workflows to run on a schedule or to run when certain events happen.\n\nChoosing where your workflow runs\n\nYou can specify the compute environment your jobs and workflows run in.\n\nChoosing what your workflow does\n\nWorkflows automate tasks in your software development lifecycle. Many tasks that you manually complete can be converted to a GitHub Actions workflow.",
+    "with": [
+      "GitHub Actions workflows can automate tasks throughout the software development lifecycle.",
+      "GitHub provides workflow templates for a variety of languages and tooling.",
+      "You can configure workflows to run on a schedule or to run when certain events happen.",
+      "You can specify the compute environment your jobs and workflows run in."
+    ],
+    "without": [
+      "Write workflows",
+      "Understand GitHub Actions",
+      "Continuous integration",
+      "Continuous deployment"
+    ],
+    "main_content_markdown": "GitHub Actions workflows can automate tasks throughout the software development lifecycle.\n\n## [Using workflow templates](/en/actions/how-tos/write-workflows/use-workflow-templates)\n\nGitHub provides workflow templates for a variety of languages and tooling.\n\n## [Choosing when your workflow runs](/en/actions/how-tos/write-workflows/choose-when-workflows-run)\n\nYou can configure workflows to run on a schedule or to run when certain events happen.\n\n## [Choosing where your workflow runs](/en/actions/how-tos/write-workflows/choose-where-workflows-run)\n\nYou can specify the compute environment your jobs and workflows run in.\n\n## [Choosing what your workflow does](/en/actions/how-tos/write-workflows/choose-what-workflows-do)\n\nWorkflows automate tasks in your software development lifecycle. Many tasks that you manually complete can be converted to a GitHub Actions workflow."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "article"
+  }
+}

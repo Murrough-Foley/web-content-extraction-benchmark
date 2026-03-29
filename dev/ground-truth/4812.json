@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.ovt.com/applications/iot-emerging/robotic-vacuums/",
+  "file_id": "4812",
+  "ground_truth": {
+    "title": "Robotic Vacuum | Slam Mapping Technology",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Robotic Vacuums\n\nDynamic Sensing and Slam Mapping Technology Solutions\n\nRobotic Vacuums\n\nTo say that vacuum technology has come a long way would be a huge understatement. Today’s modern vacuum cleaner has taken a huge leap into the future with fully autonomous operation, like the Roomba.\n\nUsing SLAM (simultaneous localization and mapping) technology in conjunction with OMNIVISION’s dynamic, compact sensor solutions and global shutter (GS) technology, Roomba has proven to be an industry leader in home cleaning solutions. OMNIVISION’s aim is to always provide high-quality sensing and imaging solutions that provide safety, convenience and assurance to both OEMs end users.\n\nFeatured Use Cases\n\nProduct Solutions\n\nOMNIVISION places its customers at the leading edge of imaging technology with its commitment to innovative, forward-thinking solutions.",
+    "with": [
+      "Dynamic Sensing and Slam Mapping Technology Solutions",
+      "To say that vacuum technology has come a long way would be a huge understatement. Today’s modern vacuum cleaner has taken a huge leap into the future with fully autonomous operation, like the Roomba.",
+      "OMNIVISION places its customers at the leading edge of imaging technology with its commitment to innovative, forward-thinking solutions."
+    ],
+    "without": [
+      "Image Sensors",
+      "CameraCubeChip®",
+      "Open toolbar",
+      "Increase Text",
+      "Decrease Text"
+    ],
+    "main_content_markdown": "# Robotic Vacuums\n\n## Dynamic Sensing and Slam Mapping Technology Solutions\n\n# Robotic Vacuums\n\nTo say that vacuum technology has come a long way would be a huge understatement. Today’s modern vacuum cleaner has taken a huge leap into the future with fully autonomous operation, like the Roomba.\n\nUsing SLAM (simultaneous localization and mapping) technology in conjunction with OMNIVISION’s dynamic, compact sensor solutions and global shutter (GS) technology, Roomba has proven to be an industry leader in home cleaning solutions. OMNIVISION’s aim is to always provide high-quality sensing and imaging solutions that provide safety, convenience and assurance to both OEMs end users.\n\n# Featured Use Cases\n\n#### Product Solutions\n\nOMNIVISION places its customers at the leading edge of imaging technology with its commitment to innovative, forward-thinking solutions."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  }
+}

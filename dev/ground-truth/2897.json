@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.headphones.com/products/sennheiser-hd-600",
+  "file_id": "2897",
+  "ground_truth": {
+    "title": "Sennheiser",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Collection: Sennheiser\n\n20 products\n\nSennheiser HD 800S Headphones\nSold out\n$1,999.95\n4.9 / 5.0 (21 reviews)\n\nSennheiser HD 560S\n$279.95\n5.0 / 5.0 (1 review)\n\nSennheiser HDB 630 Wireless Headphones\n$499.95\n4.7 / 5.0 (22 reviews)\n\nSennheiser HD 600 Headphones\n$499.95\n4.8 / 5.0 (19 reviews)\n\nSennheiser IE 600 In-Ear Headphones\n$899.95\n\nSennheiser IE 200 In-Ear Headphones\n$159.95\n\nSennheiser Momentum 4 Headphones\n$449.95\n\nSennheiser HD 650 Headphones\nOn sale\n$399.95\n\nSennheiser IE 900 In-Ear Headphones\n$1,699.96\n\nSennheiser HD 660S2 Headphones\n$679.95\n\nSennheiser MOMENTUM True Wireless 4\n$349.95\n\nSennheiser HD 620S Headphones\n$399.95\n\nSennheiser RS 175 Headphones\n$349.95\n\nSennheiser HD 450BT Headphones\nSold out\n$199.95\n\nSennheiser HD 599 Headphones\n$239.95\n\nSennheiser HD 820 Headphones\n$2,199.95\n5.0 / 5.0 (6 reviews)\n\nSennheiser HD 550 Headphones\n$349.95\n\nSennheiser HD 569 Headphones\nSold out\n$179.95\n\nSennheiser AMBEO Max Soundbar\n$2,999.95\n\nSennheiser HDV 820 Headphone Amplifier\nSold out\nFrom $2,749.95",
+    "main_content_markdown": "Collection: Sennheiser\n\n20 products\n\n### Sennheiser HD 800S Headphones\nSold out\n$1,999.95\n4.9 / 5.0 (21 reviews)\n\n### Sennheiser HD 560S\n$279.95\n5.0 / 5.0 (1 review)\n\n### Sennheiser HDB 630 Wireless Headphones\n$499.95\n4.7 / 5.0 (22 reviews)\n\n### Sennheiser HD 600 Headphones\n$499.95\n4.8 / 5.0 (19 reviews)\n\n### Sennheiser IE 600 In-Ear Headphones\n$899.95\n\n### Sennheiser IE 200 In-Ear Headphones\n$159.95\n\n### Sennheiser Momentum 4 Headphones\n$449.95\n\n### Sennheiser HD 650 Headphones\nOn sale\n$399.95\n\n### Sennheiser IE 900 In-Ear Headphones\n$1,699.96\n\n### Sennheiser HD 660S2 Headphones\n$679.95\n\n### Sennheiser MOMENTUM True Wireless 4\n$349.95\n\n### Sennheiser HD 620S Headphones\n$399.95\n\n### Sennheiser RS 175 Headphones\n$349.95\n\n### Sennheiser HD 450BT Headphones\nSold out\n$199.95\n\n### Sennheiser HD 599 Headphones\n$239.95\n\n### Sennheiser HD 820 Headphones\n$2,199.95\n5.0 / 5.0 (6 reviews)\n\n### Sennheiser HD 550 Headphones\n$349.95\n\n### Sennheiser HD 569 Headphones\nSold out\n$179.95\n\n### Sennheiser AMBEO Max Soundbar\n$2,999.95\n\n### Sennheiser HDV 820 Headphone Amplifier\nSold out\nFrom $2,749.95",
+    "with": [
+      "Sennheiser HD 800S Headphones\nSold out\n$1,999.95\n4.9 / 5.0 (21 reviews)",
+      "Sennheiser HD 560S\n$279.95\n5.0 / 5.0 (1 review)",
+      "Sennheiser HDB 630 Wireless Headphones\n$499.95\n4.7 / 5.0 (22 reviews)",
+      "Sennheiser HD 600 Headphones\n$499.95\n4.8 / 5.0 (19 reviews)"
+    ],
+    "without": [
+      "Track Order",
+      "Over-Ear & On-Ear Headphones",
+      "Earbuds & In-Ear Headphones",
+      "All DACs & amplifiers"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

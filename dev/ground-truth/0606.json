@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.hellyhansen.com/en_us/loke-jacket-20-63396",
+  "file_id": "0606",
+  "ground_truth": {
+    "title": "Men's Loke Jacket",
+    "author": null,
+    "publish_date": null,
+    "main_content": "We've built our Men's Loke Jacket to withstand changeable weather conditions on your mountain adventures. This 2.5-layer, seam-sealed jacket features our waterproof/breathable and windproof HELLY TECH® Performance technology. It's lightweight and packable so you can stow it away in your pack. The underarm ventilation and adjustable hood offer comfort in varying conditions. Plus, this updated style has a repairable front zip to extend its longevity.\n\nUse for\nCamping\nHiking\nRaining\n\nDetails\n\nNo. 63396\n\nFiber content:\nShell: 100% Polyamide (Recycled)\n\nCare Instructions:\nClose zippers before washing. Do not use fabric softener. Wash with similar colours. Do not iron on print. Close hook and loop before washing. Use mild soap.\n\nFeatures\n\nHELLY TECH® PERFORMANCE\nRECCO®\nFully seam sealed\n2.5-layer construction\nDurable Water Repellency (DWR) treatment\nFront placket/storm flap\nAdjustable hood\nExternal hanging loop\nUnder arm ventilation zippers\nAdjustable bottom hem\nAdjustable cuffs\nHand pockets\nHH® printed logo\nbluesign® main material\n\nRecycled Content\nThis product contains at least 50% Recycled Claim Standard fibers, certified by IDFL (TE-99972454).\n\nPerformance\n\nWindproof 6/6\nWaterproofness 5/6\nInsulation 1/6\nBreathability 5/6\nDurability 5/6",
+    "with": [
+      "We've built our Men's Loke Jacket to withstand changeable weather conditions on your mountain adventures.",
+      "This 2.5-layer, seam-sealed jacket features our waterproof/breathable and windproof HELLY TECH® Performance technology.",
+      "It's lightweight and packable so you can stow it away in your pack.",
+      "The underarm ventilation and adjustable hood offer comfort in varying conditions.",
+      "this updated style has a repairable front zip to extend its longevity."
+    ],
+    "without": [
+      "Add to cart",
+      "Free standard shipping on orders over $99.",
+      "End of Season Sale",
+      "Sign in"
+    ],
+    "main_content_markdown": "We've built our Men's Loke Jacket to withstand changeable weather conditions on your mountain adventures. This 2.5-layer, seam-sealed jacket features our waterproof/breathable and windproof HELLY TECH® Performance technology. It's lightweight and packable so you can stow it away in your pack. The underarm ventilation and adjustable hood offer comfort in varying conditions. Plus, this updated style has a repairable front zip to extend its longevity.\n\n### Use for\nCamping\nHiking\nRaining\n\n### Details\n\nNo. 63396\n\nFiber content:\nShell: 100% Polyamide (Recycled)\n\nCare Instructions:\nClose zippers before washing. Do not use fabric softener. Wash with similar colours. Do not iron on print. Close hook and loop before washing. Use mild soap.\n\n### Features\n\nHELLY TECH® PERFORMANCE\nRECCO®\nFully seam sealed\n2.5-layer construction\nDurable Water Repellency (DWR) treatment\nFront placket/storm flap\nAdjustable hood\nExternal hanging loop\nUnder arm ventilation zippers\nAdjustable bottom hem\nAdjustable cuffs\nHand pockets\nHH® printed logo\nbluesign® main material\n\nRecycled Content\nThis product contains at least 50% Recycled Claim Standard fibers, certified by IDFL (TE-99972454).\n\n### Performance\n\nWindproof 6/6\nWaterproofness 5/6\nInsulation 1/6\nBreathability 5/6\nDurability 5/6"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": []
+    }
+  }
+}

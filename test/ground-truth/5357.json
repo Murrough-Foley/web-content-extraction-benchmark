@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://tccl.libnet.info/event/7538072",
+  "file_id": "5357",
+  "ground_truth": {
+    "title": "Build A Reader Storytime: Family",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Build A Reader Storytime: Family\n\nTuesday, January 10\n10:30am - 11:00am\n\nCharles Page Library\nMeeting Room\n\nBring the whole family for this 0-to-5 storytime! There's something for everyone – simple songs and books for the little ones, more interactive stories and activities for your older children.",
+    "with": [
+      "Bring the whole family for this 0-to-5 storytime!",
+      "Charles Page Library",
+      "Tuesday, January 10"
+    ],
+    "without": [
+      "Font size options",
+      "Privacy and cookie policy",
+      "Careers",
+      "Tulsa Library Trust"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

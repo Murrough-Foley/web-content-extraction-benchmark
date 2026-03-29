@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.cityofsouthfield.com/departments/building-department/building-southfield/ship",
+  "file_id": "4553",
+  "ground_truth": {
+    "title": "SHIP",
+    "author": null,
+    "publish_date": null,
+    "main_content": "The Southfield Home Improvement Program\n\nThe Southfield Home Improvement Program (SHIP) is a 0% interest loan program for income qualified homeowners. The focus of the program concentrates on maintaining the existing structure as it relates to health and safety issues and minimum housing standards. It does not get involved with remodeling or updating for cosmetic purposes, additions or new construction projects. Typical improvements include roofs, windows, doors, siding, insulation, heating, electrical and plumbing repairs. The program is funded by the Department of Housing and Urban Development (HUD) through the Community Development Block Grant (CDBG) Program.\n\nQualifications include the following guidelines:\n\n- You must be a homeowner/occupant.\n- You must have owned the home for at least one year.\n- The home must be covered by homeowners insurance.\n- The property taxes must be current.\n- Only one lien currently existing on the property.\n- The combined annual household gross income must not exceed the low-income limits as determined by HUD.\n\nTo obtain more information or to request a brochure and/or application, please contact Nina Greenstein, Operations Specialist at (248) 796-5119\n\nSHIP Program Brochure (PDF)",
+    "with": [
+      "Southfield Home Improvement Program (SHIP) is a 0% interest loan program",
+      "You must have owned the home for at least one year.",
+      "Only one lien currently existing on the property.",
+      "Community Development Block Grant (CDBG) Program",
+      "Nina Greenstein, Operations Specialist at (248) 796-5119"
+    ],
+    "without": [
+      "Building Department News",
+      "Inspections",
+      "Certificate of Occupancy",
+      "Permit Applications",
+      "Skip to Main Content",
+      "Residents"
+    ],
+    "main_content_markdown": "## The Southfield Home Improvement Program\n\nThe Southfield Home Improvement Program (SHIP) is a 0% interest loan program for income qualified homeowners. The focus of the program concentrates on maintaining the existing structure as it relates to health and safety issues and minimum housing standards. It does not get involved with remodeling or updating for cosmetic purposes, additions or new construction projects. Typical improvements include roofs, windows, doors, siding, insulation, heating, electrical and plumbing repairs. The program is funded by the Department of Housing and Urban Development (HUD) through the Community Development Block Grant (CDBG) Program.\n\n## Qualifications include the following guidelines:\n\n- You must be a homeowner/occupant.\n- You must have owned the home for at least one year.\n- The home must be covered by homeowners insurance.\n- The property taxes must be current.\n- Only one lien currently existing on the property.\n- The combined annual household gross income must not exceed the low-income limits as determined by HUD.\n\n***To obtain more information or to request a brochure and/or application, please contact Nina Greenstein, Operations Specialist at (248) 796-5119***\n\n[SHIP Program Brochure (PDF)](https://www.cityofsouthfield.com/sites/default/files/2024-04/SHIP%20trifold%20flyer%204%2015%202024.pdf)"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "verified-draft"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://hyosilver.com/shop/buckles/texan-series-buckles/engraved-silver-fashion-belt-buckle/",
+  "file_id": "0598",
+  "ground_truth": {
+    "title": "Engraved Silver Fashion Belt Buckle",
+    "author": null,
+    "publish_date": null,
+    "main_content": "$ 335.00\n\nSKU: TXSB06\n\nColor\n\nCrystal Clear\n\nBlue Topaz\n\nAdd Gift Wrapping? (+$5)\n\nNone\nTextured White ($ 5.00)\nRetro Floral ($ 5.00)\nDelicate Floral ($ 5.00)\nBlack Swirl ($ 5.00)\n\nYou'll love the shimmering accent stone against the Simply Silver look on the Engraved Silver Fashion Belt Buckle featuring engraved and oxidized silver scrolls with twisted silver rope border and Hook Back with Swivel Bar.\n\nLike this buckle shape but want to make it your own? Follow the link to the Youth Oval with Rope Belt Buckle.",
+    "with": [
+      "SKU: TXSB06",
+      "Like this buckle shape but want to make it your own?",
+      "engraved and oxidized silver scrolls with twisted silver rope border",
+      "Add Gift Wrapping? (+$5)",
+      "Crystal Clear"
+    ],
+    "without": [
+      "Primary Menu",
+      "Added to your cart! Complete the set?",
+      "Recommended for You",
+      "Toggle Submenu for Shop"
+    ],
+    "main_content_markdown": "$ 335.00\n\nSKU: TXSB06\n\nColor\n\nCrystal Clear\n\nBlue Topaz\n\nAdd Gift Wrapping? (+$5)\n\nNone\nTextured White ($ 5.00)\nRetro Floral ($ 5.00)\nDelicate Floral ($ 5.00)\nBlack Swirl ($ 5.00)\n\nYou'll love the shimmering accent stone against the Simply Silver look on the Engraved Silver Fashion Belt Buckle featuring engraved and oxidized silver scrolls with twisted silver rope border and Hook Back with Swivel Bar.\n\nLike this buckle shape but want to make it your own? Follow the link to the [Youth Oval with Rope Belt Buckle](https://hyosilver.com/shop/custom-gallery/custom-buckles/youth-oval-with-rope-belt-buckle/)."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": []
+    }
+  }
+}

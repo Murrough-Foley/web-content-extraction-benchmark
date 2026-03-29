@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.famousfootwear.com/browse/featured/crocs-classic-clogs",
+  "file_id": "4190",
+  "ground_truth": {
+    "title": "Crocs Classic Clogs",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Shop Crocs Classic Clogs\n\nShop All Crocs\n\nExperience iconic comfort with Crocs Classic Clogs at Famous Footwear! These timeless favorites redefine casual footwear. You can find Crocs Clogs and just about every color, ensuring your footwear not only feels fantastic but effortlessly complements any outfit. As your go-to Crocs store, Famous Footwear is proud to offer the latest styles and colors of Crocs Classic Clogs to enhance your everyday style.\n\nIt's no secret why Crocs shoes have an enduring appeal, they offer ultimate comfort and ease of wear for every member of the family. Whether you're embracing the timeless style of black Crocs or opting for a fresh, clean look with white Crocs, our selection has the perfect pair to complement your own individual style. Famous Footwear is the ultimate destination for Crocs Clogs for the family. Find your new favorite pair of Crocs and experience the unmatched comfort that has made Crocs a closet staple.\n\nShop Crocs by Category:\n\n- Sale Crocs\n- Women's Crocs\n- Men's Crocs\n- Boys' Crocs\n- Girls' Crocs\n- Fuzzy Crocs",
+    "with": [
+      "Experience iconic comfort with Crocs Classic Clogs at Famous Footwear! These timeless favorites redefine casual footwear.",
+      "It's no secret why Crocs shoes have an enduring appeal, they offer ultimate comfort and ease of wear for every member of the family.",
+      "Famous Footwear is the ultimate destination for Crocs Clogs for the family.",
+      "Find your new favorite pair of Crocs and experience the unmatched comfort that has made Crocs a closet staple."
+    ],
+    "without": [
+      "Some exclusions apply. See details.",
+      "Free Shipping for Members",
+      "FAMOUSLY YOU REWARDS",
+      "Buy Online or Pick Up In-Store"
+    ],
+    "main_content_markdown": "## Shop Crocs Classic Clogs\n\n[Shop All Crocs](https://www.famousfootwear.com/browse/brands/crocs)\n\nExperience iconic comfort with Crocs Classic Clogs at Famous Footwear! These timeless favorites redefine casual footwear. You can find Crocs Clogs and just about every color, ensuring your footwear not only feels fantastic but effortlessly complements any outfit. As your go-to Crocs store, Famous Footwear is proud to offer the latest styles and colors of Crocs Classic Clogs to enhance your everyday style.\n\nIt's no secret why Crocs shoes have an enduring appeal, they offer ultimate comfort and ease of wear for every member of the family. Whether you're embracing the timeless style of black Crocs or opting for a fresh, clean look with white Crocs, our selection has the perfect pair to complement your own individual style. Famous Footwear is the ultimate destination for Crocs Clogs for the family. Find your new favorite pair of Crocs and experience the unmatched comfort that has made Crocs a closet staple.\n\n### Shop Crocs by Category:\n\n- [Sale Crocs](https://www.famousfootwear.com/browse/sale/crocs)\n- [Women's Crocs](https://www.famousfootwear.com/browse/brands/crocs/womens)\n- [Men's Crocs](https://www.famousfootwear.com/browse/brands/crocs/mens)\n- [Boys' Crocs](https://www.famousfootwear.com/browse/brands/crocs/boys)\n- [Girls' Crocs](https://www.famousfootwear.com/browse/brands/crocs/girls)\n- [Fuzzy Crocs](https://www.famousfootwear.com/browse/featured/fuzz-lined-crocs)"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  }
+}

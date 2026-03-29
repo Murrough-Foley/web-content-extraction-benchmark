@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://vercel.com/",
+  "file_id": "2837",
+  "ground_truth": {
+    "title": "Build and deploy on the AI Cloud.",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Vercel provides the developer tools and cloud infrastructure to build, scale, and secure a faster, more personalized web.\n\nbuild times went from 7m to 40s.\n\nsaw a 95% reduction in page load times.\n\nsaw 24x faster builds.\n\nGet started using our pre-built templates. Easily stream long-running LLM responses for a better user experience with zero-config infrastructure that's always globally performant.\n\nFast load times, zero overhead with Vercel's highly optimized infrastructure and CDN, reducing bounce rates and improving SEO. Streamline content creation & publishing with built-in previews.\n\nDeploy AI Apps in seconds\n\nYour product, delivered.\n\nSecurity, speed, and AI included, so you can focus on your user.\n\nAgents\n\nDeliver more value to users by executing complex workflows.\n\nAI Apps\n\nEnrich any product or feature with the latest models and tools.\n- Fluid\n- AI SDK\n- AI Gateway\n- Workflow\n- Sandbox\n- BotID\n\nWeb Apps\n\nShip beautiful interfaces that don't compromise speed or functionality.\n\nComposable Commerce\n\nIncrease conversion with fast, branded storefronts.\n\nMulti-tenant Platform\n\nServe millions securely across isolated environments.\n\nFramework-Defined Infrastructure\n\nFrom code to infrastructure in one git push. Vercel deeply understands your app to provision the right resources and optimize for high-performance apps.\n\nDeploy once, deliver everywhere.\n\nWhen you push code to Vercel, we make it instantly available across the globe.\n\nFluid Compute\n\nA compute model for all workloads. With Active CPU pricing.\n\nAI Gateway\n\nThe AI Gateway For Developers. Effortlessly access and deploy hundreds of AI models from one interface.\n\nTop models on Mar 8, 2026\n\n- Claude Opus 4.6 27.6%\n- KAT-Coder-Pro V1 14.3%\n- Gemini 3 Flash 13.1%\n- Claude Sonnet 4.6 9.6%\n- MiniMax M2.5 7.1%\n- Claude Haiku 4.5 3.3%\n- Gemini 2.5 Flash Lite 2.9%\n- GLM 5 2.8%\n- Kimi K2.5 2.7%\n- GPT 5.4 2.1%\n\nDeploy your first app in seconds.\n\n- Deploy automatically from git or with our CLI\n- Wide range support for the most popular frameworks\n- Previews for every push\n- Automatic HTTPS for all your domains",
+    "with": [
+      "Vercel provides the developer tools and cloud infrastructure to build, scale, and secure a faster, more personalized web.",
+      "Fast load times, zero overhead with Vercel's highly optimized infrastructure and CDN, reducing bounce rates and improving SEO.",
+      "Multi-tenant Platform",
+      "Top models on Mar 8, 2026",
+      "Deploy automatically from git or with our CLI"
+    ],
+    "without": [
+      "Start Deploying",
+      "Get a Demo",
+      "Talk to an Expert",
+      "Privacy Policy"
+    ],
+    "main_content_markdown": "Vercel provides the developer tools and cloud infrastructure to build, scale, and secure a faster, more personalized web.\n\nbuild times went from 7m to 40s.\n\nsaw a 95% reduction in page load times.\n\nsaw 24x faster builds.\n\nGet started using our pre-built templates. Easily stream long-running LLM responses for a better user experience with zero-config infrastructure that's always globally performant.\n\nFast load times, zero overhead with Vercel's highly optimized infrastructure and CDN, reducing bounce rates and improving SEO. Streamline content creation & publishing with built-in previews.\n\n[Deploy AI Apps in seconds](https://vercel.com/ai)\n\n### Your product, delivered.\n\nSecurity, speed, and AI included, so you can focus on your user.\n\n### Agents\n\nDeliver more value to users by executing complex workflows.\n\n### AI Apps\n\nEnrich any product or feature with the latest models and tools.\n- Fluid\n- AI SDK\n- AI Gateway\n- Workflow\n- Sandbox\n- BotID\n\n### Web Apps\n\nShip beautiful interfaces that don't compromise speed or functionality.\n\n### Composable Commerce\n\nIncrease conversion with fast, branded storefronts.\n\n### Multi-tenant Platform\n\nServe millions securely across isolated environments.\n\n## Framework-Defined Infrastructure\n\nFrom code to infrastructure in one git push. Vercel deeply understands your app to provision the right resources and optimize for high-performance apps.\n\n## Deploy once, deliver everywhere.\n\nWhen you push code to Vercel, we make it instantly available across the globe.\n\n## Fluid Compute\n\nA compute model for all workloads. With Active CPU pricing.\n\n## AI Gateway\n\nThe AI Gateway For Developers. Effortlessly access and deploy hundreds of AI models from one interface.\n\nTop models on Mar 8, 2026\n\n- Claude Opus 4.6 27.6%\n- KAT-Coder-Pro V1 14.3%\n- Gemini 3 Flash 13.1%\n- Claude Sonnet 4.6 9.6%\n- MiniMax M2.5 7.1%\n- Claude Haiku 4.5 3.3%\n- Gemini 2.5 Flash Lite 2.9%\n- GLM 5 2.8%\n- Kimi K2.5 2.7%\n- GPT 5.4 2.1%\n\n## Deploy your first app in seconds.\n\n- Deploy automatically **from git** or with **our CLI**\n- **Wide range** support for the most popular frameworks\n- **Previews** for every push\n- **Automatic HTTPS** for all your domains"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

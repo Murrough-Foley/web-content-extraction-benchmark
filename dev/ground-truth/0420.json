@@ -1,0 +1,38 @@
+{
+  "schema_version": "2.0",
+  "url": "https://backofmind.substack.com/p/what-is-once-sprung-cannot-necessarily",
+  "file_id": "0420",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "politics",
+        "analysis",
+        "opinion",
+        "substack"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "what is once sprung cannot necessarily be unsprunged",
+    "author": "Dan Davies",
+    "publish_date": "2025-12-12",
+    "main_content": "Just a thought on the general subject of All Of This Stuff, occasioned by a conversation on social media and by leafing through \"The Unaccountability Machine\" in the hope of remembering how to stretch my poor old head around a book-sized set of concepts to hold the entire structure all at once.\n\nIn that book, I diagnosed the problem of populism as being that people had got tired of not being listened to by the systems that governed them, and responded by using the only remaining communication channel they had. To take the title of my post on the US elections, the gap between governance and governed had got so big that the only signal that channel could carry was a scream. This was (and is) my theory of Trump, Farage, Meloni, etc etc.\n\nBut there's an obvious objection; paying attention to these voters doesn't actually seem to help. The British Labour Party, for example, does nothing other than performatively listen to the concerns of the post-working class in post-industrial regions, abandoning the socially liberal middle class part of its coalition to do so. The electoral results have been ... pretty bad.\n\nWhy? I think back to the concept of \"hysteresis\", which was very big in econometrics when I was an undergraduate. The word comes from engineering; it describes the state of, say, a spring which you've stretched too much so it won't spring back anymore. In economic concept, it refers to a similar well-observed property of unemployment, that long or deep recessions produce a \"scarring\" effect which reduces the capacity of the economy so that you can't just reverse the shock that took you into recession.\n\nThere are a lot of reasons why this happens, but a significant research program seemed to find that there are genuine bad consequences at the individual level from being unemployed. People get demoralised, they lose skills, they just \"get out of the habit\" and become less employable. It's pretty tragic, and one of the best reasons to try as hard as you can to not have major episodes of unemployment.\n\nSomething similar might be going on with the angry popilists of the world. Over the course of the events described in my \"cybernetic history of the neoliberal era\", people just got out of the habit of being voters. They forgot what it was like to be involved in politics, they got used to the emotional charge of not being listened to and lost the skill of communicating politically themselves. Now, the political system is listening to them – my god, it's listening too much to them – but they don't feel like it is, because they no longer recognise the sensation of being listened to.\n\nWhat do you do in a situation like this? In any other context, from a bad marriage to a failing brand, the expert advice would be \"it can't be saved, move on\". But of course, the government is a unique entity in our system, because it can't do that.",
+    "with": [
+      "The word comes from engineering; it describes the state of, say, a spring which you've stretched too much so it won't spring back anymore.",
+      "Something similar might be going on with the angry popilists of the world.",
+      "They forgot what it was like to be involved in politics, they got used to the emotional charge of not being listened to and lost the skill of communicating politically themselves.",
+      "But of course, the government is a unique entity in our system, because it can't do that."
+    ],
+    "without": [
+      "Subscribe to newsletter",
+      "Copyright 2025 Dan Davies",
+      "Sign in button",
+      "Search icon"
+    ],
+    "main_content_markdown": "Just a thought on the general subject of All Of This Stuff, occasioned by a conversation on social media and by leafing through \"The Unaccountability Machine\" in the hope of remembering how to stretch my poor old head around a book-sized set of concepts to hold the entire structure all at once.\n\nIn that book, I diagnosed the problem of populism as being that people had got tired of not being listened to by the systems that governed them, and responded by using the only remaining communication channel they had. To take the title of my [post on the US elections](https://backofmind.substack.com/p/the-only-message-the-channel-can), the gap between governance and governed had got so big that the only signal that channel could carry was a scream. This was (and is) my theory of Trump, Farage, Meloni, etc etc.\n\nBut there's an obvious objection; paying attention to these voters doesn't actually seem to help. The British Labour Party, for example, does nothing other than performatively listen to the concerns of the post-working class in post-industrial regions, abandoning the socially liberal middle class part of its coalition to do so. The electoral results have been ... pretty bad.\n\nWhy? I think back to the concept of \"hysteresis\", which was very big in econometrics when I was an undergraduate. The word comes from engineering; it describes the state of, say, a spring which you've stretched too much so it won't spring back anymore. In economic concept, it refers to a similar well-observed property of unemployment, that long or deep recessions produce a \"scarring\" effect which reduces the capacity of the economy so that you can't just reverse the shock that took you into recession.\n\nThere are a lot of reasons why this happens, but a significant research program seemed to find that there are genuine bad consequences at the individual level from being unemployed. People get demoralised, they lose skills, they just \"get out of the habit\" and become less employable. It's pretty tragic, and one of the best reasons to try as hard as you can to not have major episodes of unemployment.\n\nSomething similar might be going on with the angry popilists of the world. Over the course of the events described in my \"cybernetic history of the neoliberal era\", people just got out of the habit of being voters. They forgot what it was like to be involved in politics, they got used to the emotional charge of not being listened to and lost the skill of communicating politically themselves. Now, the political system is listening to them - my god, it's listening too much to them - but they don't feel like it is, because they no longer recognise the sensation of being listened to.\n\nWhat do you do in a situation like this? In any other context, from a bad marriage to a failing brand, the expert advice would be \"it can't be saved, move on\". But of course, the government is a unique entity in our system, because it can't do that."
+  }
+}

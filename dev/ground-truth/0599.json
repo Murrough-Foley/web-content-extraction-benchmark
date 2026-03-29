@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.newtwist.com/product/latelier-nawbar-warrior-princess-diamond-drop-necklace-small-handmade-18k-gold-bracelet-inlaid-with-0-18-ct-diamond-drop-and-encrusted-in-0-07-ct-of-round-white-diamonds/",
+  "file_id": "0599",
+  "ground_truth": {
+    "title": "Warrior Princess Diamond Drop Necklace",
+    "author": null,
+    "publish_date": null,
+    "main_content": "L’atelier Nawbar\n\nWarrior Princess Diamond Drop Necklace\n\n$ 3,665.00\n\nThis version of L’atelier’s warrior design features the signature industrial-vibe gold bar, wrapped in yellow and silver toned half rings, and adorned by twinkling diamonds to frame a larger, tear-shaped diamond drop. L’atelier recommends wearing this necklace layered with your other favorite chains.\n\n- 18K gold\n- Diamonds, .07 TCW\n- Pendant measures 5/16″ x 3/4″\n- Adjustable chain measures 15 1/2″ – 16 1/4″ in length\n\nSKU: N667FD",
+    "with": [
+      "Warrior Princess Diamond Drop Necklace",
+      "$ 3,665.00",
+      "signature industrial-vibe gold bar",
+      "tear-shaped diamond drop",
+      "Adjustable chain measures 15 1/2"
+    ],
+    "without": [
+      "Free Returns & Free shipping on orders $50+",
+      "Shop tax free from anywhere in the U.S.",
+      "Related products",
+      "Add to cart"
+    ],
+    "main_content_markdown": "[L'atelier Nawbar](https://www.newtwist.com/designers/latelier-nawbar/)\n\n# Warrior Princess Diamond Drop Necklace\n\n$ 3,665.00\n\nThis version of L'atelier's warrior design features the signature industrial-vibe gold bar, wrapped in yellow and silver toned half rings, and adorned by twinkling diamonds to frame a larger, tear-shaped diamond drop. L'atelier recommends wearing this necklace layered with your other favorite chains.\n\n- 18K gold\n- Diamonds, .07 TCW\nPendant measures 5/16′′ x 3/4′′\nAdjustable chain measures 15 1/2′′ - 16 1/4′′ in length\n\nSKU: N667FD"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": []
+    }
+  }
+}

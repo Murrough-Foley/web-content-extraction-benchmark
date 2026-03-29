@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.ncsc.gov.uk/collection/small-business-guide",
+  "file_id": "4105",
+  "ground_truth": {
+    "title": "Small Business Guide: Cyber Security",
+    "author": null,
+    "publish_date": "2018-11-15",
+    "main_content": "How to improve your cyber security; affordable, practical advice for businesses.\n\nSmall organisations will find this guidance useful, but should refer to the NCSC's Cyber Action Toolkit beforehand.\n\nCyber security needn't be a daunting challenge for small business owners. Following the five quick and easy steps outlined in the guide below could save time, money and even your business' reputation. This guide can't guarantee protection from all types of cyber attack, but the steps outlined below can significantly reduce the chances of your business becoming a victim of cyber crime.\n\nIf you want to improve your cyber security further, then you can also seek certification under the Cyber Essentials scheme, which has the benefit of demonstrating to your clients (or prospective clients) that you take the protection of their data seriously.\n\nIn this guide\n\nStep 1 - Backing up your data\n\n5 things to consider when backing up your data.\n\nStep 2 - Protecting your organisation from malware\n\n5 free and easy-to-implement tips that can help prevent malware damaging your organisation.\n\nStep 3 - Keeping your smartphones (and tablets) safe\n\n5 quick tips that can help keep your mobile devices (and the information stored on them) secure.\n\nStep 4 - Using passwords to protect your data\n\n5 things to keep in mind when using passwords.\n\nStep 5 - Avoiding phishing attacks\n\nSteps to help you identify the most common phishing attacks.\n\nActions to take\n\nOrganisations can carry out certain actions in accordance with the guidance contained in the Small Business Guide.\n\nVideo collection\n\nA series of videos that introduce the NCSC's cyber security guidance for small businesses.\n\nAssets to download\n\nDownload a Small Business Guide infographic or a PDF version of the guidance.",
+    "with": [
+      "Small organisations will find this guidance useful, but should refer to the NCSC",
+      "five quick and easy steps outlined in the guide below could save time, money",
+      "Step 2 - Protecting your organisation from malware",
+      "Steps to help you identify the most common phishing attacks.",
+      "Download a Small Business Guide infographic or a PDF version of the guidance."
+    ],
+    "without": [
+      "Report an incident",
+      "Share and print this article",
+      "Publish date",
+      "Written for",
+      "Page 1 of 8"
+    ],
+    "main_content_markdown": "How to improve your cyber security; affordable, practical advice for businesses.\n\nSmall organisations will find this guidance useful, but should refer to [the NCSC's Cyber Action Toolkit](https://cybertoolkit.service.ncsc.gov.uk/?utm_source=NCSCWebsite&utm_medium=Website&utm_campaign=PublicBeta) beforehand.\n\nCyber security needn't be a daunting challenge for small business owners. Following the five quick and easy steps outlined in the guide below could save time, money and even your business' reputation. This guide can't guarantee protection from all types of cyber attack, but the steps outlined below can significantly reduce the chances of your business becoming a victim of cyber crime.\n\nIf you want to improve your cyber security further, then you can also seek certification under the [Cyber Essentials](https://www.ncsc.gov.uk/cyberessentials/overview) scheme, which has the benefit of demonstrating to your clients (or prospective clients) that you take the protection of their data seriously.\n\n## In this guide\n\n### Step 1 - [Backing up your data](https://www.ncsc.gov.uk/collection/small-business-guide/backing-your-data)\n\n5 things to consider when backing up your data.\n\n### Step 2 - [Protecting your organisation from malware](https://www.ncsc.gov.uk/collection/small-business-guide/protecting-your-organisation-malware)\n\n5 free and easy-to-implement tips that can help prevent malware damaging your organisation.\n\n### Step 3 - [Keeping your smartphones (and tablets) safe](https://www.ncsc.gov.uk/collection/small-business-guide/keeping-your-smartphones-and-tablets-safe)\n\n5 quick tips that can help keep your mobile devices (and the information stored on them) secure.\n\n### Step 4 - [Using passwords to protect your data](https://www.ncsc.gov.uk/collection/small-business-guide/using-passwords-protect-your-data)\n\n5 things to keep in mind when using passwords.\n\n### Step 5 - [Avoiding phishing attacks](https://www.ncsc.gov.uk/collection/small-business-guide/avoiding-phishing-attacks)\n\nSteps to help you identify the most common phishing attacks.\n\n### [Actions to take](https://www.ncsc.gov.uk/collection/small-business-guide/small-business-guide-actions)\n\nOrganisations can carry out certain actions in accordance with the guidance contained in the Small Business Guide.\n\n### [Video collection](https://www.ncsc.gov.uk/collection/small-business-guide/resources#section_2)\n\nA series of videos that introduce the NCSC's cyber security guidance for small businesses.\n\n### [Assets to download](https://www.ncsc.gov.uk/collection/small-business-guide/resources#section_4)\n\nDownload a Small Business Guide infographic or a PDF version of the guidance."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "article"
+  }
+}

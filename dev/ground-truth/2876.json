@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://tailwindcss.com/docs/installation",
+  "file_id": "2876",
+  "ground_truth": {
+    "title": "Get started with Tailwind CSS",
+    "author": null,
+    "publish_date": null,
+    "main_content": "⌘K Ctrl K Docs Blog Showcase Sponsor Plus\nInstallation\n\nGet started with Tailwind CSS\n\nTailwind CSS works by scanning all of your HTML files, JavaScript components, and any other templates for class names, generating the corresponding styles and then writing them to a static CSS file.\n\nIt's fast, flexible, and reliable — with zero-runtime.\nInstalling Tailwind CSS as a Vite plugin\n\nInstalling Tailwind CSS as a Vite plugin is the most seamless way to integrate it with frameworks like Laravel, SvelteKit, React Router, Nuxt, and SolidJS.\n\nCreate your project\n\nStart by creating a new Vite project if you don’t have one set up already. The most common approach is to use Create Vite .\n\nnpm create vite@latest my-project cd my-project\n\nnpm create vite@latest my-project\n\nInstall Tailwind CSS\n\nInstall tailwindcss and @tailwindcss/vite via npm.\n\nnpm install tailwindcss @tailwindcss/vite\n\nConfigure the Vite plugin\n\nAdd the @tailwindcss/vite plugin to your Vite configuration.\n\nimport { defineConfig } from 'vite' import tailwindcss from '@tailwindcss/vite' export default defineConfig ( { plugins : [ tailwindcss () , ] , } )\n\nimport { defineConfig } from 'vite'\n\nimport tailwindcss from '@tailwindcss/vite'\n\nexport default defineConfig ( {\n\nImport Tailwind CSS\n\nAdd an @import to your CSS file that imports Tailwind CSS.\n\n@import \"tailwindcss\" ;\n\nStart your build process\n\nRun your build process with npm run dev or whatever command is configured in your package.json file.\n\nnpm run dev\n\nStart using Tailwind in your HTML\n\nMake sure your compiled CSS is included in the <head> (your framework might handle this for you) , then start using Tailwind’s utility classes to style your content.\n\n<! doctype html > < html > < head > < meta charset = \"UTF-8\" > < meta name = \"viewport\" content = \"width=device-width, initial-scale=1.0\" > < link href = \"/src/style.css\" rel = \"stylesheet\" > </ head > < body > < h1 class = \"text-3xl font-bold underline\" > Hello world! </ h1 > </ body > </ html >\n\n< meta charset = \"UTF-8\" >\n\n< meta name = \"viewport\" content = \"width=device-width, initial-scale=1.0\" >\n\n\"width=device-width, initial-scale=1.0\"\n\n< link href = \"/src/style.css\" rel = \"stylesheet\" >\n\n< h1 class = \"text-3xl font-bold underline\" >\n\n\"text-3xl font-bold underline\"\n\nAre you stuck? Setting up Tailwind with Vite can be a bit different across different build tools. Check our framework guides to see if we have more specific instructions for your particular setup.\n\nExplore our framework guides",
+    "with": [
+      "Start by creating a new Vite project if you don’t have one set up already.",
+      "Add the @tailwindcss/vite plugin to your Vite configuration.",
+      "@import \"tailwindcss\" ;",
+      "< meta charset = \"UTF-8\" >"
+    ],
+    "without": [
+      "Documentation",
+      "Editor setup",
+      "Compatibility",
+      "Upgrade guide"
+    ],
+    "main_content_markdown": "⌘K Ctrl K Docs [Blog](https://tailwindcss.com/blog) Showcase [Sponsor](https://tailwindcss.com/sponsor) Plus\n\n## Installation\n\n# Get started with Tailwind CSS\n\nTailwind CSS works by scanning all of your HTML files, JavaScript components, and any other templates for class names, generating the corresponding styles and then writing them to a static CSS file.\n\nIt's fast, flexible, and reliable - with zero-runtime.\n\n### Installing Tailwind CSS as a Vite plugin\n\nInstalling Tailwind CSS as a Vite plugin is the most seamless way to integrate it with frameworks like Laravel, SvelteKit, React Router, Nuxt, and SolidJS.\n\n#### Create your project\n\nStart by creating a new Vite project if you don't have one set up already. The most common approach is to use [Create Vite](https://vite.dev/guide/#scaffolding-your-first-vite-project) .\n\nnpm create vite@latest my-project cd my-project\n\nnpm create vite@latest my-project\n\n#### Install Tailwind CSS\n\nInstall `tailwindcss` and `@tailwindcss/vite` via npm.\n\nnpm install `tailwindcss` `@tailwindcss/vite`\n\n#### Configure the Vite plugin\n\nAdd the `@tailwindcss/vite` plugin to your Vite configuration.\n\nimport { defineConfig } from 'vite' import `tailwindcss` from '`@tailwindcss/vite`' export default defineConfig ( { plugins : [ tailwindcss () , ] , } )\n\nimport { defineConfig } from 'vite'\n\nimport `tailwindcss` from '`@tailwindcss/vite`'\n\nexport default defineConfig ( {\n\n#### Import Tailwind CSS\n\nAdd an `@import` to your CSS file that imports Tailwind CSS.\n\n`@import` \"`tailwindcss`\" ;\n\n#### Start your build process\n\nRun your build process with `npm run dev` or whatever command is configured in your `package.json` file.\n\n`npm run dev`\n\n#### Start using Tailwind in your HTML\n\nMake sure your compiled CSS is included in the `<head>` *(your framework might handle this for you)* , then start using Tailwind's utility classes to style your content.\n\n<! doctype html > < html > < head > < meta charset = \"UTF-8\" > < meta name = \"viewport\" content = \"width=device-width, initial-scale=1.0\" > < link href = \"/src/style.css\" rel = \"stylesheet\" > </ head > < body > < h1 class = \"text-3xl font-bold underline\" > Hello world! </ h1 > </ body > </ html >\n\n< meta charset = \"UTF-8\" >\n\n< meta name = \"viewport\" content = \"width=device-width, initial-scale=1.0\" >\n\n\"width=device-width, initial-scale=1.0\"\n\n< link href = \"/src/style.css\" rel = \"stylesheet\" >\n\n< h1 class = \"text-3xl font-bold underline\" >\n\n\"text-3xl font-bold underline\"\n\n**Are you stuck?** Setting up Tailwind with Vite can be a bit different across different build tools. Check our framework guides to see if we have more specific instructions for your particular setup.\n\n[Explore our framework guides](https://tailwindcss.com/docs/installation/framework-guides)"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

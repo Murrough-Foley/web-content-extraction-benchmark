@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://alittleadrift.com/solo-asia/",
+  "file_id": "5559",
+  "ground_truth": {
+    "title": "A Little Confession… Facing Fears of Traveling Solo in Southeast Asia",
+    "author": "Shannon",
+    "publish_date": "2009-01-13",
+    "main_content": "At the crack of dawn tomorrow I leave on a flight bound for Bangkok. After two months traveling Australia, I’m excited to take the next big step on this one year round the world trip. But, tingeing the excitement are licks of fear about what is coming.\n\nTraveling solo in Southeast Asia is a different beast to tackle compared to solo travels in Australia. Travelers here in Oz rave about backpacking SEA. I’ve met many others on long-term trips, and as such most are heading in the opposite direction. Whereas I am heading West back toward home, many Europeans travel East. They visit Southeast Asia in route to their Aussie work visa situation. For two months, the majority of the stories are overwhelming positive. And then sometimes they aren’t. Like the backpacker with a huge skin graft healing on his leg—the snake in Thailand that bit him had a flesh-eating bacteria on it.\n\nEven with the horror of the skin graft story, I can look at that as an isolated incident that is unlikely to befall me as well. The fears are more abstract. Australia was unknown for me, but it also had a built-in crutch. I speak English, and no matter what happened when I landed, I had the comfort of knowing that I could communicate.\n\nTomorrow, however, when my plane touches down at Suvarnabhumi Bangkok Airport in Thailand, it’s impossible to imagine what I will find. While no longer fear traveling as a solo female, I do have a range of other fears winging through my brain at warp speed.\n\nThe language is different. However, backpackers assure me I can still communicate easily.\n\nThe culture is foreign. However, I have done my homework and read a few books to acclimate to the Thai cultural norms.\n\nThe style of travel is unknown. I traveled through Europe in college, and I am just leaving months in Australia. I can’t help but wonder what it will be like to navigate in a culture and country so foreign to what I have yet done before. I know that I can figure out most anything that comes my way, but I also think that I am wise to have a healthy amount of caution about what comes next. That caution will keep me on my toes as I learn how to fit into Thai culture.\n\nOne upside is that I can finally replace my worn, nubby clothes once I arrive in Thailand. Australia has been such a drain on my budget that I used my tiny sewing kit to make my shirts and pants last throughout my trip. Backpacking has been harder on my clothes than I anticipated. With just a handful of things in my wardrobe, they didn’t hold up well to constant wear.\n\nLastly, I have some serious travel woe in the electronics department. My travel camera took a bath last week complements of a loosely screwed water bottle top in my purse. Once I land in Bangkok I will need to find a good camera shop and buy a new one! (Then I’ll post a photo of my freshly dyed black hair; I decided that I’d fit in better if I ditched my bright red locks).\n\nWish me luck, I have a few hours to get some sleep and then head to the airport!",
+    "with": [
+      "Traveling solo in Southeast Asia is a different beast to tackle compared to solo",
+      "Tomorrow, however, when my plane touches down at Suvarnabhumi Bangkok Airport in",
+      "The style of travel is unknown. I traveled through Europe in college, and I am j",
+      "Lastly, I have some serious travel woe in the electronics department. My travel "
+    ],
+    "without": [
+      "Around the World Itinerary",
+      "How to Work Remotely",
+      "Packing List",
+      "Are Packing Cubes Worth It?"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "article"
+  }
+}

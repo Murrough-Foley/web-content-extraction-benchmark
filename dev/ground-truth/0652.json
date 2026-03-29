@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.ifixit.com/Parts/iPhone",
+  "file_id": "0652",
+  "ground_truth": {
+    "title": "iPhone Parts",
+    "author": null,
+    "publish_date": null,
+    "main_content": "iPhone Parts\n\nReplacement parts for DIY iPhone repair and maintenance\n\niFixit's high-quality iPhone replacement parts are strictly tested and backed by our Quality Guarantee. We've spent over a decade scrutinizing component manufacturers and aftermarket suppliers so that you can trust the parts you receive.\n\niPhone 16 Parts\n\niPhone 16 Plus Parts\n\niPhone 16 Pro Parts\n\niPhone 16 Pro Max Parts\n\niPhone 15 Parts\n\niPhone 15 Plus Parts\n\niPhone 15 Pro Max Parts\n\niPhone 15 Pro Parts\n\niPhone 14 Parts\n\niPhone 14 Plus Parts\n\niPhone 14 Pro Max Parts\n\niPhone 14 Pro Parts\n\niPhone SE 2022 Parts\n\niPhone 13 mini Parts\n\niPhone 13 Parts\n\niPhone 13 Pro Max Parts\n\niPhone 13 Pro Parts\n\niPhone 12 mini Parts\n\niPhone 12 Parts\n\niPhone 12 Pro Max Parts\n\niPhone 12 Pro Parts\n\niPhone 11 Parts\n\niPhone 11 Pro Max Parts\n\niPhone 11 Pro Parts\n\niPhone SE 2020 Parts\n\niPhone XR Parts\n\niPhone XS Max Parts\n\niPhone XS Parts\n\niPhone X Parts\n\niPhone 8 Parts\n\niPhone 8 Plus Parts\n\niPhone 7 Parts\n\niPhone 7 Plus Parts\n\niPhone SE (1st Gen) Parts\n\niPhone 6 Parts\n\niPhone 6 Plus Parts\n\niPhone 6s Parts\n\niPhone 6s Plus Parts\n\niPhone 5 Parts\n\niPhone 5c Parts\n\niPhone 5s Parts\n\niPhone 4 (CDMA) Parts\n\niPhone 4 Parts\n\niPhone 4S Parts\n\niPhone 3G Parts\n\niPhone 3GS Parts\n\niPhone 1st Gen Parts\n\niPhone 16e Parts\n\niPhone 13 Battery\n$39.99\n\niPhone 13 Pro Battery\n$29.99\n\niPhone 13 mini Battery\n$39.99\n\niPhone 11 Battery\n$39.99\n\niPhone 14 Pro Battery\n$44.99\n\niPhone 12/12 Pro Battery\n$46.99\n\niPhone SE 2020 Battery\n$31.99\n\niPhone 13 Screen\n$64.99\n\niPhone 13 Pro Max Battery\n$44.99\n\niPhone 11 Screen\n$74.99\n\niPhone 14 Pro Max Screen\n$99.99\n\niPhone SE 2020/SE 2022 Screen\n$44.99\n\niPhone 14 Pro Max Battery\n$54.99\n\niPhone SE 2022 Battery\n$34.99\n\niPhone SE (1st Gen) Battery\n$29.99\n\niPhone 12 mini Battery\n$44.99\n\niPhone 12 Pro Max Battery\n$44.99\n\niPhone 6s Battery\n$29.99\n\niPhone 14 Screen\n$64.99\n\niPhone 14 Pro Screen\n$89.99\n\niPhone 12/12 Pro Screen\n$62.99\n\niPhone 3GS Battery\n$14.99\n\niPhone 14 Battery\n$59.99\n\niPhone 15 Pro Screen\n$99.99\n\niFixit Buying Guide\n\nHow can I be sure that iFixit parts are reliable?\n\nWhat tools are required for my repair?\n\nQuality Guaranteed\n\nWe've spent more than a decade vetting sources and suppliers, and all of our parts and tools are backed by our quality guarantee.",
+    "with": [
+      "Replacement parts for DIY iPhone repair and maintenance",
+      "iFixit's high-quality iPhone replacement parts are strictly tested and backed by our Quality Guarantee.",
+      "iPhone 6s Battery",
+      "iPhone SE (1st Gen) Battery"
+    ],
+    "without": [
+      "Fix Your Stuff",
+      "Repair Guides",
+      "Add to cart"
+    ],
+    "main_content_markdown": "# iPhone Parts\n\n## Replacement parts for DIY iPhone repair and maintenance\n\niFixit's high-quality iPhone replacement parts are strictly tested and backed by our Quality Guarantee. We've spent over a decade scrutinizing component manufacturers and aftermarket suppliers so that you can trust the parts you receive.\n\n### iPhone 16 Parts\n\n### iPhone 16 Plus Parts\n\n### iPhone 16 Pro Parts\n\n### iPhone 16 Pro Max Parts\n\n### iPhone 15 Parts\n\n### iPhone 15 Plus Parts\n\n### iPhone 15 Pro Max Parts\n\n### iPhone 15 Pro Parts\n\n### iPhone 14 Parts\n\n### iPhone 14 Plus Parts\n\n### iPhone 14 Pro Max Parts\n\n### iPhone 14 Pro Parts\n\n### iPhone SE 2022 Parts\n\n### iPhone 13 mini Parts\n\n### iPhone 13 Parts\n\n### iPhone 13 Pro Max Parts\n\n### iPhone 13 Pro Parts\n\n### iPhone 12 mini Parts\n\n### iPhone 12 Parts\n\n### iPhone 12 Pro Max Parts\n\n### iPhone 12 Pro Parts\n\n### iPhone 11 Parts\n\n### iPhone 11 Pro Max Parts\n\n### iPhone 11 Pro Parts\n\n### iPhone SE 2020 Parts\n\n### iPhone XR Parts\n\n### iPhone XS Max Parts\n\n### iPhone XS Parts\n\n### iPhone X Parts\n\n### iPhone 8 Parts\n\n### iPhone 8 Plus Parts\n\n### iPhone 7 Parts\n\n### iPhone 7 Plus Parts\n\n### iPhone SE (1st Gen) Parts\n\n### iPhone 6 Parts\n\n### iPhone 6 Plus Parts\n\n### iPhone 6s Parts\n\n### iPhone 6s Plus Parts\n\n### iPhone 5 Parts\n\n### iPhone 5c Parts\n\n### iPhone 5s Parts\n\n### iPhone 4 (CDMA) Parts\n\n### iPhone 4 Parts\n\n### iPhone 4S Parts\n\n### iPhone 3G Parts\n\n### iPhone 3GS Parts\n\n### iPhone 1st Gen Parts\n\n### iPhone 16e Parts\n\n### iPhone 13 Battery\n$39.99\n\n### iPhone 13 Pro Battery\n$29.99\n\n### iPhone 13 mini Battery\n$39.99\n\n### iPhone 11 Battery\n$39.99\n\n### iPhone 14 Pro Battery\n$44.99\n\n### iPhone 12/12 Pro Battery\n$46.99\n\n### iPhone SE 2020 Battery\n$31.99\n\n### iPhone 13 Screen\n$64.99\n\n### iPhone 13 Pro Max Battery\n$44.99\n\n### iPhone 11 Screen\n$74.99\n\n### iPhone 14 Pro Max Screen\n$99.99\n\n### iPhone SE 2020/SE 2022 Screen\n$44.99\n\n### iPhone 14 Pro Max Battery\n$54.99\n\n### iPhone SE 2022 Battery\n$34.99\n\n### iPhone SE (1st Gen) Battery\n$29.99\n\n### iPhone 12 mini Battery\n$44.99\n\n### iPhone 12 Pro Max Battery\n$44.99\n\n### iPhone 6s Battery\n$29.99\n\n### iPhone 14 Screen\n$64.99\n\n### iPhone 14 Pro Screen\n$89.99\n\n### iPhone 12/12 Pro Screen\n$62.99\n\n### iPhone 3GS Battery\n$14.99\n\n### iPhone 14 Battery\n$59.99\n\n### iPhone 15 Pro Screen\n$99.99\n\n## iFixit Buying Guide\n\n### How can I be sure that iFixit parts are reliable?\n\n### What tools are required for my repair?\n\n## Quality Guaranteed\n\nWe've spent more than a decade vetting sources and suppliers, and all of our parts and tools are backed by our quality guarantee."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": []
+    }
+  }
+}

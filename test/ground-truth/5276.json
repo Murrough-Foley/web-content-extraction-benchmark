@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.erieartmuseum.org/current",
+  "file_id": "5276",
+  "ground_truth": {
+    "title": "Current Exhibitions",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Current Exhibitions\n\nThe Golden Record\nRACHEL LIBESKIND\n\nThe Making of an Artist, Part III\nJOSEPH PLAVCAN\n\nReflections\nSARAH JACOBS\n\nSculpture in Bronze: Highlights From The Permanent Collection\n\nKids as Curators\n\nDrawing from Within: The Sketchbooks of Frank Novel",
+    "with": [
+      "The Golden Record",
+      "RACHEL LIBESKIND",
+      "The Making of an Artist, Part III",
+      "Reflections"
+    ],
+    "without": [
+      "info@erieartmuseum.org",
+      "Pennsylvania Council on the Arts",
+      "Erie, PA",
+      "Skip to Content"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

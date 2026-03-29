@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.reventals.com/los-angeles-ca/event-services-more-rentals/physical-fitness-equipment-rentals",
+  "file_id": "0193",
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "rental",
+        "fitness-equipment",
+        "event-services",
+        "los-angeles",
+        "e-commerce"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Physical Fitness Equipment Rentals in Los Angeles, CA",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Physical Fitness Equipment\n\nFind all Physical Fitness Equipment Rentals in Los Angeles, CA in one place.\n\nIf you're looking for a treadmill rental or spin bike rental, you're in the right place. We also have recumbent bike rentals, weight bench rentals, dumbbell rentals, weight machine rentals and you can rent a rowing machine.\n\nThe Reventals Promise\n\nOn Time Delivery\nYou don't have to worry about late arrivals or no shows.\n\nHigh Quality Products\nYou don't have to worry about receiving damaged or discolored products.\n\nSatisfaction Guarantee\nWe pride ourselves on excellent customer service – check out our 5-star reviews on Google and Yelp!\n\nDon't Let a Vendor Ruin Your Event\n\nAt Reventals, we know if you are planning a party, festival or corporate event that you want it to be representative of your professionalism. In order to have the event you envision, you need the rentals to be high quality and be delivered and picked up on time. The problem is that it's extremely time consuming to call around, send emails. We believe it should be easy and you shouldn't have to overpay for convenience! That's why we have vetted independent, locally owned and operated rental companies to find you the best vendors, unique rentals and great prices. Just tell us what you need, we will find it for you, and you can check rentals off your to do list. You can stop wasting time searching and worrying about poor quality rentals ruining your event and get back to the fun parts of planning a party.\n\nHow Reventals Works\n\nPlan The Perfect Party\nFind what you need to rent, nearby. No credit card required!\n\nWe Find You The Best Deal\nWe compare local vendors and secure the best deal so you don't have to.\n\nPay & Celebrate\nPlanning an event used to be such a headache! Not anymore.",
+    "with": [
+      "Physical Fitness Equipment Rentals in Los Angeles, CA in one place",
+      "If you're looking for a treadmill rental or spin bike rental, you're in the right place",
+      "At Reventals, we know if you are planning a party, festival or corporate event",
+      "We compare local vendors and secure the best deal so you don't have to.",
+      "Planning an event used to be such a headache! Not anymore."
+    ],
+    "without": [
+      "Hey AI, Learn About Us",
+      "services the following cities and zip codes",
+      "orders@reventals.com"
+    ],
+    "main_content_markdown": "# Physical Fitness Equipment\n\n## Find all Physical Fitness Equipment Rentals in Los Angeles, CA in one place.\n\nIf you're looking for a treadmill rental or spin bike rental, you're in the right place. We also have recumbent bike rentals, weight bench rentals, dumbbell rentals, weight machine rentals and you can rent a rowing machine.\n\nThe Reventals Promise\n\nOn Time Delivery\nYou don't have to worry about late arrivals or no shows.\n\nHigh Quality Products\nYou don't have to worry about receiving damaged or discolored products.\n\nSatisfaction Guarantee\nWe pride ourselves on excellent customer service - check out our 5-star reviews on [Google](https://www.google.com/search?q=reventals+review&rlz=1C5CHFA_enIN930IN930&oq=reventals+&aqs=chrome.0.69i59l3j69i60l5.5040j1j7&sourceid=chrome&ie=UTF-8#lrd=0x8644cb3eef8a38ed:0xbef3ddfc6b84e3da,1,,,) and [Yelp!](https://www.yelp.ca/biz/reventals-austin-austin)\n\nDon't Let a Vendor Ruin Your Event\n\nAt Reventals, we know if you are planning a party, festival or corporate event that you want it to be representative of your professionalism. In order to have the event you envision, you need the rentals to be high quality and be delivered and picked up on time. The problem is that it's extremely time consuming to call around, send emails. We believe it should be easy and you shouldn't have to overpay for convenience! That's why we have vetted independent, locally owned and operated rental companies to find you the best vendors, unique rentals and great prices. Just tell us what you need, we will find it for you, and you can check rentals off your to do list. You can stop wasting time searching and worrying about poor quality rentals ruining your event and get back to the fun parts of planning a party.\n\n## How Reventals Works\n\nPlan The Perfect Party\nFind what you need to rent, nearby. No credit card required!\n\nWe Find You The Best Deal\nWe compare local vendors and secure the best deal so you don't have to.\n\nPay & Celebrate\nPlanning an event used to be such a headache! Not anymore."
+  }
+}

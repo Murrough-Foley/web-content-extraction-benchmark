@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.startupmke.org/coworking",
+  "file_id": "5261",
+  "ground_truth": {
+    "title": "Coworking Space Directory",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Are you looking for a place for your startup to work in Southeast Wisconsin? Here are a few places…\n\nMilwaukee Unbound Coworking -- Milwaukee, WI\nA space for Creative Entrepreneurs\n347 E. Ward Street, Milwaukee, WI\nContact: Zachary Lifton, unbound@binderymke.com Phone: 414-482-3630\n\nAtmosphere Collaborative Space – Racine, WI\n829 Wisconsin Avenue, Racine, Wisconsin 53403\nContact: Jessica Omelian, Hello@atmosphereracine.com\n\nIronwood - Glendale, WI\n 5215 N. Ironwood Rd, Glendale, WI 53217\nContact: Paul Smith, Paul@outlookmgmt.com, Phone: 414-418-4595\n\nLaunch Box Coworking - Racine, WI\n901 Pershing Park Drive, Racine, WI\nContact: Thalia Mendez, mendezt@gtc.edu, Phone: 262-898-7404\n\nMalama Doe - Shorewood, WI\nA coworking space for women located in Shorewood.\n4465 N. Oakland, Suite 201, Shorewood, WI 53211\nContact: Sheila Long, sheila@malamadoe.com, Phone: 414-491-8238\n\nMKE Studio Share - Milwaukee, WI\nA co-working space for photographers.\n2018 S. 1st St., Suite 422, Milwaukee, WI 53207\nContact: Danielle Stoddard, info@mkestudioshare.com\n\nMKE Co-Work - West Allis, WI\nA coworking space for Entrepreneurs.\n7311 W Greenfield Ave, West Allis, WI 53214\nContact: Matt Maurice, Hello@mkecowork.com, Phone: (414) 301-1183\n\nSerendipity Labs – Wauwatosa – Wauwatosa, WI\n11220 West Burleigh Street, Suite 100, Wauwatosa, WI 53222\nContact: Brittany Dubinsky, wauwatosa@serendipitylabs.com, Phone: 262.204.0877\n\nSpaces – Milwaukee, WI\n1433 North Water Street, Suite 400 and 500, Milwaukee, WI 53202\nContact: Jarrod Mikulecky, Jarrod.Mikulecky@regus.com, Phone: 414-629-2867\n\nTHE HIVE\n720 N Milwaukee St., Suite 300 & 770 N Jefferson St., Suite 230, Milwaukee, WI\nContact: Alexis Henningsen, lhenningsen@thehivemke.com\n\nTHE VIBE – Milwaukee, WI\nA community-oriented affordable, entrepreneurial co-working office space.\n518 E. Concordia Ave., Milwaukee, WI 53212\nContact: Temo Rodriguez, TheVIBE@riverworksmke.org, Phone: 414.882.7432\n\nWARD 4 - Milwaukee, WI\n333 N Plankinton, 2nd Floor, Milwaukee, WI 53203\nContact: Kenzi Enright, kenzi@ward4mke.com\n\nWorkLofts - Milwaukee, WI\n2140 North Prospect Avenue, Milwaukee, WI 53202\nContact: Joyce Smyth Keehn, manager@workloftsmke.com, Phone: 414-385-9200\n\nWorkspace @ Bishop Woods - Brookfield, WI\n250 N Sunnyslope Rd; Suite 200, Brookfield, WI 53005\nContact: Sean Mannion, sean@workspaces.us, Phone: 414-737-3644",
+    "with": [
+      "Milwaukee Unbound Coworking -- Milwaukee, WI",
+      "Contact: Sheila Long, sheila@malamadoe.com, Phone: 414-491-8238",
+      "Contact: Alexis Henningsen, lhenningsen@thehivemke.com",
+      "250 N Sunnyslope Rd; Suite 200, Brookfield, WI 53005"
+    ],
+    "without": [
+      "Startup Funding Guide",
+      "Back to Top",
+      "Startup Milwaukee",
+      "Coworking Space Directory"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.kroll.com/en/reports/m-and-a/cybersecurity-sector-ma-industry-insights-fall-2025",
+  "file_id": "0079",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "m-and-a",
+        "cybersecurity",
+        "industry-report"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Cybersecurity Sector Update–Fall 2025",
+    "author": "Nicholas Collins, Scott Munro, Matt De La O, Vineet Asthana, Rory O'Sullivan, Corey Maurer, Hamish Shah, Philipp Bose",
+    "publish_date": "2025-11-14",
+    "main_content": "Cybersecurity M&A activity accelerated markedly in Q3 2025, with 70 deals totaling $27.1 billion in disclosed deal value and pushing the year-to-date deal count to a record 234. Deal value in the quarter was dominated by Palo Alto Network’s $24.1-billion acquisition of CyberArk, bringing the year-to-date deal value to $63.3 billion, and just $13.8 billion below the record of $77.1 billion set in 2021.\n\nThe CyberArk acquisition underscored identity management’s strategic importance to CISOs, particularly as agentic AI and IoT adoption propel machine and device identities to the center of enterprise risk management. Several major deals spotlighted the sector’s shift to AI-first security solutions, including Check Point’s acquisition of Lakera, F5’s buyout of Calypso AI, and Sentinel One’s purchases of Prompt Security and Observo.ai. The other notable theme in the quarter was IoT coming to the fore in the wake of expanding device deployments with Mitsubishi’s acquisition of OT security leader Nozomi Networks.",
+    "with": [
+      "Cybersecurity M&A activity accelerated markedly in Q3 2025, with 70 deals totaling $27.1 billion in disclosed deal value and pushing the year-to-date deal count to a record 234.",
+      "The CyberArk acquisition underscored identity management’s strategic importance to CISOs, particularly as agentic AI and IoT adoption propel machine and device identities to the center of enterprise risk management.",
+      "Several major deals spotlighted the sector’s shift to AI-first security solutions, including Check Point’s acquisition of Lakera, F5’s buyout of Calypso AI, and Sentinel One’s purchases of Prompt Security and Observo.ai.",
+      "The other notable theme in the quarter was IoT coming to the fore in the wake of expanding device deployments with Mitsubishi’s acquisition of OT security leader Nozomi Networks."
+    ],
+    "without": [
+      "newsletter for the latest risk and financial trend analysis in your industry",
+      "© 2025 Kroll, LLC. All rights reserved.",
+      "Kroll is not affiliated with Kroll Bond Rating Agency,"
+    ],
+    "main_content_markdown": "Cybersecurity M&A activity accelerated markedly in Q3 2025, with 70 deals totaling $27.1 billion in disclosed deal value and pushing the year-to-date deal count to a record 234. Deal value in the quarter was dominated by Palo Alto Network’s $24.1-billion acquisition of CyberArk, bringing the year-to-date deal value to $63.3 billion, and just $13.8 billion below the record of $77.1 billion set in 2021.\n\nThe CyberArk acquisition underscored identity management’s strategic importance to CISOs, particularly as agentic AI and IoT adoption propel machine and device identities to the center of enterprise risk management. Several major deals spotlighted the sector’s shift to AI-first security solutions, including Check Point’s acquisition of Lakera, F5’s buyout of Calypso AI, and Sentinel One’s purchases of Prompt Security and Observo.ai. The other notable theme in the quarter was IoT coming to the fore in the wake of expanding device deployments with Mitsubishi’s acquisition of OT security leader Nozomi Networks."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://digital-photography-school.com/welcome-to-the-newly-updated-dps-forum/comment-page-1/",
+  "file_id": "5013",
+  "ground_truth": {
+    "title": "Welcome to the Newly Updated dPS Forum",
+    "author": "Darren Rowse",
+    "publish_date": "2013-02-17",
+    "main_content": "A Post By: Darren Rowse\n\nWithin days of starting dPS – back in April 2006 – I began to get requests from readers that they wanted a forum area on the site where they could:\n\nShare photos that they were taking\n\nGet critiques from other readers on their shots\n\nAsk (and answer) questions of other photographers\n\nShare their own tips\n\nMeet, network with and have a little fun with other photographers\n\nA few months later we did add a little forum to the site. It started very small with just a few sections and members but from day 1 was a place where dPS readers could do all of the above – and more.\n\nSince that time our forums have continued to grow and evolve. We have over 235,000 members and our categories of discussion have grown from just a handful to cover many topics including:\n\nAssignments – where we give members a weekly assigment to shoot\n\nHow I Took it – share a shot and give the behind the scenes info on how it was taken\n\nBefore and After – show off your post processing sculls\n\nEarning with Photography – an area for discussion of monetization of photography\n\nShare Your Shots – how off some of your best shots (in a range of categories)\n\nCritique – submit an image and get feedback from other members\n\nLighting – discussion on how to light your images\n\nTutorials – share and read tutorials from other members\n\nPhotography Equipment and Gear – discussion, reviews and questions on different brands of cameras and gear\n\nThere is a lot more than that too!\n\nOver the last few months we’ve been planning a forum upgrade as a result of some broken features and an inundation of spammers and in the last week have completed the upgrade to a new version of the forum software.\n\nIt took an enormous effort from our developers (who are still working to iron out a few bugs) but things are much more stable now and if you’re looking for a place to ask a question, interact with other photographer or share your own tips we’d love to welcome you to the dPS forum.\n\nOver the coming months we intend to roll out more changes both to the forum and blog part of dPS – so stay tuned for some more fun developments that we hope will make our site even more useful to you.\n\nJoin here today!",
+    "with": [
+      "Get critiques from other readers on their shots",
+      "Assignments – where we give members a weekly assigment to shoot",
+      "Lighting – discussion on how to light your images",
+      "It took an enormous effort from our developers (who are still working to iron ou"
+    ],
+    "without": [
+      "Post-Processing",
+      "Tips for Beginners",
+      "About dPS"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "forum"
+  }
+}

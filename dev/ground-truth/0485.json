@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.inria.fr/en/internet-of-things",
+  "file_id": "0485",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "research",
+        "internet-of-things",
+        "inria"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Internet of Things",
+    "author": null,
+    "publish_date": null,
+    "main_content": "The Internet of Things (IoT) is the interconnection between the Internet and objects, places and physical environments. It assigns a unique digital identity to objects, places and even environmental phenomena (a sudden rise in temperature, a volcanic eruption, a deterioration in air or water quality), giving them a life in the digital world. It is made up of \"objects\", means of communication, servers and various entities capable of processing, storing and restoring data related to \"objects\". The objects are very diverse. They can be composed of any everyday object to which an identifier has been assigned or any \"sensor\" and are connected to the Internet via communication technologies that are just as varied, ranging from a wired connection to any type of short-range wireless communication (Wi-Fi, Bluetooth) or long-range such as 5G.\n\nConnected objects and other sensor networks enable the capture, transmission and collection of a wide range of data, which is used in an ever-increasing number of applications, from precision agriculture to logistics, including smart cities. These applications face many challenges in terms of hardware and software. The objects are materially constrained (limited memory and computing capacity), they rely on batteries with limited energy and are potentially mobile. If they communicate wirelessly, data transmission is also a challenge, as bandwidth is limited and nearby objects can potentially interfere with each other if they communicate on the same frequencies at the same time.\n\nHow to make more and more different objects communicate, following different mobility patterns (trajectory, speed, etc.) using different technologies with a minimum of energy? What data should be transmitted to whom, when and how so that it makes sense and that its transmission does not consume too much energy or bandwidth? How to ensure the security of the data and these objects and guarantee privacy?\n\nAnd finally, what to do with these data? How to store, process and share it efficiently? These last challenges are linked to data science, artificial intelligence and high performance computing.",
+    "main_content_markdown": "The Internet of Things (IoT) is the interconnection between the Internet and objects, places and physical environments. It assigns a unique digital identity to objects, places and even environmental phenomena (a sudden rise in temperature, a volcanic eruption, a deterioration in air or water quality), giving them a life in the digital world. It is made up of \"objects\", means of communication, servers and various entities capable of processing, storing and restoring data related to \"objects\". The objects are very diverse. They can be composed of any everyday object to which an identifier has been assigned or any \"sensor\" and are connected to the Internet via communication technologies that are just as varied, ranging from a wired connection to any type of short-range wireless communication (Wi-Fi, Bluetooth) or long-range such as 5G.\n\nConnected objects and other sensor networks enable the capture, transmission and collection of a wide range of data, which is used in an ever-increasing number of applications, from precision agriculture to logistics, including smart cities. These applications face many challenges in terms of hardware and software. The objects are materially constrained (limited memory and computing capacity), they rely on batteries with limited energy and are potentially mobile. If they communicate wirelessly, data transmission is also a challenge, as bandwidth is limited and nearby objects can potentially interfere with each other if they communicate on the same frequencies at the same time.\n\nHow to make more and more different objects communicate, following different mobility patterns (trajectory, speed, etc.) using different technologies with a minimum of energy? What data should be transmitted to whom, when and how so that it makes sense and that its transmission does not consume too much energy or bandwidth? How to ensure the security of the data and these objects and guarantee privacy?\n\nAnd finally, what to do with these data? How to store, process and share it efficiently? These last challenges are linked to data science, artificial intelligence and high performance computing.",
+    "with": [
+      "The Internet of Things (IoT) is the interconnection between the Internet and objects, places and physical environments.",
+      "The objects are materially constrained (limited memory and computing capacity), they rely on batteries with limited energy and are potentially mobile.",
+      "These last challenges are linked to data science, artificial intelligence and high performance computing."
+    ],
+    "without": [
+      "Skip to main content",
+      "All content about Internet of Things",
+      "Follow us",
+      "Sitemap"
+    ]
+  }
+}

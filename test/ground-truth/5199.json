@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://redwoodrvowners.com/community/forum-help-faq/possible-broken-link-on-the-common-problems-solutions-page/",
+  "file_id": "5199",
+  "ground_truth": {
+    "title": "Possible broken link on the Common Problems & Solutions page",
+    "author": null,
+    "publish_date": "2018-08-19",
+    "main_content": "Possible broken link on the Common Problems & Solutions page\n\nFirst, I would like to say that I really like the way information is being organized by topic!\n\nI clicked Common Solutions and Problems from the sidebar. It took me to a page that has Inside the coach and Outside the Coach. When I tried to access the Outside the Coach I received an error. But it works just fine if you access Outside the Coach from the sidebar. I don't mean to nitpick, just wanted to give someone a heads up.\n\nPosted: August 19, 2018 12:33 PM\n\nApologies and thanks for the heads up. Unfortunately, I have tried all ways to access the menu and can't replicate the error. When you access the Inside & Outside the Coach sub-menus, I am unable to get rid of the lines of text at the top.\n\nSpent many days with lots of trial and error trying to improve the menus, but this is the best I could accomplish. Unfortunately for non-web design or computer pros, this software package is far from intuitive or user friendly.\n\nHas anybody else experienced this error?\n\nPosted: August 19, 2018 7:29 PM\n\nWhat browser were you using at the time you received this error?\n\nPosted: August 20, 2018 6:57 AM\n\nHas anybody else experienced this error?\n\nSame problem using Google Chrome Browser.\n\nPosted: August 20, 2018 1:39 PM\n\nHi Terry - that interesting, as I also use Chrome, but don't see the error.\n\nPosted: August 20, 2018 5:06 PM\n\nI am using Firefox and received an error also.\n\nChris\n\nPosted: August 20, 2018 6:31 PM\n\nI am using Firefox 61.0.2 64-bit.\n\nPosted: August 20, 2018 9:27 PM\n\nPlease don't misunderstand. I really appreciate all the effort that you all have put into this. I know how frustrating things like this can be.\n\nPosted: August 20, 2018 9:30 PM\n\nHopefully having identified the error and a work around everyone can at least access the files we have uploaded.\n\nI'm very apprehensive to go in and work on the menu structure, especially as it works for some and not others. With my very limited experience, one wrong click with the mouse and it could shut down the entire website.\n\nAppreciate the understanding and accepting our limitations\n\nWe will shortly begin looking at alternative software that is more user friendly, so hopefully we can get a fix in the not too distance future.\n\nPosted: August 21, 2018 12:59 AM\n\nI use chrome and I am able to access the information without errors\n\nPosted: August 21, 2018 9:00 AM\n\nDon't overlook going back to Tony Lane's original website/forum. It was easy and well liked. I still use it for finding info.\n\nPosted: August 21, 2018 12:14 PM",
+    "with": [
+      "I clicked Common Solutions and Problems from the sidebar",
+      "Same problem using Google Chrome Browser.",
+      "I'm very apprehensive to go in and work on the menu structure",
+      "I use chrome and I am able to access the information without errors"
+    ],
+    "without": [
+      "Benefits of Paid Membership",
+      "Notifications",
+      "(@j_a_wolfe)",
+      "Super Globals"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "forum"
+  }
+}

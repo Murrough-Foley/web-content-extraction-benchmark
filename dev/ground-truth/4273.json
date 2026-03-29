@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.icebergwebdesign.com/portfolio/",
+  "file_id": "4273",
+  "ground_truth": {
+    "title": "Website Development Portfolio",
+    "author": null,
+    "publish_date": null,
+    "main_content": "At Iceberg Web Design, we don’t just build good-looking websites. We build business tools that generate real results. Our in-house team of developers, designers, marketers, and content writers work together to create WordPress websites that attract more leads, convert more customers, and support long-term growth.\n\nEvery project in our portfolio is backed by strategy, collaboration, and decades of experience. And we don’t disappear after launch. Our ongoing SEO and digital marketing services keep your website performing, adapting, and evolving with your business needs.\n\nThis is why so many of our clients return again and again, trusting Iceberg to lead their online presence with reliability, creativity, and unmatched customer service.\n\nCall 763-350-8762 today – We Are Website Developers Who Answer the Phone!®",
+    "with": [
+      "Every project in our portfolio is backed by strategy, collaboration, and decades",
+      "This is why so many of our clients return again and again, trusting Iceberg to l",
+      "We build business tools that generate real results",
+      "Our in-house team of developers, designers, marketers, and content writers"
+    ],
+    "without": [
+      "Michael Rudh",
+      "Iceberg Web Design are a great company to work with",
+      "Jacqui Schleeter"
+    ],
+    "main_content_markdown": "At **Iceberg Web Design**, we don’t just build good-looking websites. We build business tools that generate real results. Our in-house team of developers, designers, marketers, and content writers work together to create WordPress websites that attract more leads, convert more customers, and support long-term growth.\n\nEvery project in our portfolio is backed by strategy, collaboration, and decades of experience. And we don’t disappear after launch. Our ongoing SEO and digital marketing services keep your website performing, adapting, and evolving with your business needs.\n\nThis is why so many of our clients return again and again, trusting Iceberg to lead their online presence with reliability, creativity, and unmatched customer service.\n\n[Call 763-350-8762](tel:763-350-8762) today – We Are Website Developers Who Answer the Phone!®"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "verified",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "service"
+  }
+}

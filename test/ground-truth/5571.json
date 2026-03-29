@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "url": "https://pinabresciani.com/",
+  "file_id": "5571",
+  "ground_truth": {
+    "title": "Authentic Recipes for the Italian Food Lover",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Browse dozens of incredible authentic Italian recipes that will transport you and your family to new culinary heights! From soup and salads to pasta and desserts, find something that inspires you and get cooking!\n\nTrending Recipes\n\nThe most popular Italian recipes that readers are loving\n\nKitchenAid Pasta Recipe (Foolproof Homemade Pasta)\n\nHow To Make An Authentic Cacio e Pepe Like A Roman\n\nPasta Amatriciana - The Real Roman Recipe!\n\nPasta With Ricotta And Tomato Sauce\n\n3-Ingredient Nutella Milkshake with Ice Cream\n\nHow To Make An Authentic Carbonara Like A Roman\n\nClassic Aperol Spritz - Easy 3 Ingredient Cocktail\n\nPistachio Cream-Filled Castagnole\n\nGet Inspired!\n\nPasta Recipes\n\nAll the best Italian pasta recipes! From ravioli to gnocchi and stuffed shells, to easy 30-minute pasta dishes, there's something here for you!\n\nSee more pasta recipes →\n\nItalian Desserts\n\nFrom traditional Italian dessert recipes, to more modern, these sweet treats all have one thing in common: you'll keep coming back for more!\n\nSee more dessert recipes →\n\nHi! I'm Pina\n\nHello! My name is Pina and I love Italian food and culture! Here you'll find delicious Italian-inspired recipes, sometimes traditional, sometimes with a modern spin. Buon Appetito!\n\nLearn more about me →\n\nItalian Cocktails and Drinks\n\nWho can say no to a delicious cocktail? Make one of these Italian drinks and it will transport you to an Italian terrace overlooking the Mediterranean.\n\nSee more cocktail recipes →\n\nRecent Recipes\n\nMy latest recipes - give them a try!\n\nRecently Updated\n\nI'm constantly updating my recipes so they contain the most up-to date and relevant information - check them out!",
+    "with": [
+      "The most popular Italian recipes that readers are loving",
+      "Pasta Amatriciana - The Real Roman Recipe!",
+      "All the best Italian pasta recipes! From ravioli to gnocchi and stuffed shells, ",
+      "Who can say no to a delicious cocktail? Make one of these Italian drinks and it "
+    ],
+    "without": [
+      "pinabresciani.com",
+      "Privacy Policy"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "article"
+  }
+}

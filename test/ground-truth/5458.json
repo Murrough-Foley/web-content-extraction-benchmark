@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://use.docs.page/configuration",
+  "file_id": "5458",
+  "ground_truth": {
+    "title": "Configuration",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Configure your documentation with a docs.json file.\n\nAdd a docs.json file to the root of your GitHub repository to configure your documentation.\nBelow is a list of all available configuration options, which can be used to modify the logos, theme, analytics and more.\n\nIf your IDE supports JSON Schemas, you can add a $schema property to your docs.json file to enable autocompletion and validation:\n\ndocs.json\n\n{\n\"$schema\": \"https://docs.page/schema.json\"\n}\n\nTop-level properties\n\nname string\n\nThe name of your project. This will be displayed in the header of your documentation and used for other aspects such as automatic social preview images.\n\ndescription string\n\nA short description of your project. This will be used in meta tags and social preview images.\n\nfavicon string | Favicon\n\nDefines the favicon to show in the browser tab.\n\nSee Asset URLs for more information on how to add assets to your documentation.\n\nThe favicon can either be a string value which will be used for both light and dark modes, or a Favicon object to define separate favicons for light and dark modes.\n\nsocialPreview string\n\nAn asset URL to use as the default social preview image for your documentation.\n\nIf not provided, a social preview image will be automatically generated. Individual pages can override this social preview URL by specifying a socialPreview property in their frontmatter.\n\nSee Asset URLs for more information on how to add assets to your documentation.\n\nLogo\n\nlogo Logo\n\nConfigures the logo of your documentation, which will be displayed in the header and used for social preview images.\n\nThe minimum height of the logo should be 24px. Note that if only a light or dark logo is provided, it will be used for both light and dark modes.\n\nSee Asset URLs for more information on how to add assets to your documentation.\n\nTheme\n\ntheme Theme\n\nConfigures the theme of your documentation. If not provided, a default theme will be used.\n\nHeader\n\nheader Header\n\nConfigures the header of your documentation.\n\nAnchors\n\nanchors Anchor[]\n\nConfigures the anchor links of your documentation.\n\nSocial Links\n\nsocial object\n\nAn object of key value pairs where the key is the social platform and the value is the username/ID to link to:\n\n{\n\"social\": {\n\"x\": \"@invertaseio\",\n\"github\": \"invertase\"\n}\n}\n\nSEO\n\nseo SEO\n\nConfigures the SEO settings of your documentation.\n\nVariables\n\nvariables object\n\nAn object of common variables which can be replaced in your documentation content using the {{ variableName }} syntax. For example, the following:\n\n{\n\"variables\": {\n\"versions\": {\n\"default\": \"1.0.0\",\n}\n}\n}\n\nCan be replaced via the {{ versions.default }} syntax in your documentation content.\n\nSearch\n\nsearch Search\n\nConfigures the search settings of your documentation.\n\nScripts\n\nscripts Scripts\n\nConfigures the scripts to include in your documentation.\n\nContent\n\ncontent Content\n\nConfigures how the content of your documentation is displayed.\n\nTabs\n\ntabs Tab[]\n\nAn array of Tab objects to display at the top of your documentation. See Navigation for more information on how to configure tabs.\n\nSidebar\n\nsidebar Sidebar[] | Record<string, Sidebar>\n\nAn array or object of Sidebar objects to display in the sidebar of your documentation. See Navigation for more information on how to configure the sidebar.",
+    "with": [
+      "Add a docs.json file to the root of your GitHub repository to configure your doc",
+      "Defines the favicon to show in the browser tab.",
+      "See Asset URLs for more information on how to add assets to your documentation.",
+      "sidebar Sidebar[] | Record<string, Sidebar>"
+    ],
+    "without": [
+      "Getting Started",
+      "Previews",
+      "Edit this page on GitHub",
+      "On this page"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "reviewed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "documentation"
+  }
+}

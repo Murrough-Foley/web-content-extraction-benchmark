@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.ifixit.com/products/jimmy",
+  "file_id": "2982",
+  "ground_truth": {
+    "title": "Jimmy",
+    "author": null,
+    "publish_date": null,
+    "main_content": "The Ultimate Device Opener\n\nFlexible blade for opening tough devices\n\nJimmy\n\n$7.95\n358 reviews\nCondition: New\n\n- Purchase with purpose! Repair makes a global impact, reduces e-waste, and saves you money.\n- All our products meet rigorous quality standards and are backed by industry-leading guarantees.\n- Same day shipping if ordered by 4PM Eastern.\n- 30-day returns\n\nDescription\n\nThe ultimate device opener.\n\nWords are powerful--and Jimmy's got an extensive vocabulary: slide, cut, twist, poke, slice, part, uproot, divide, lift, dissect, separate, and pry. Whatever your word is for opening up an electronic device, he can do it.\n\n- Jimmy's high-quality steel blade easily slips between the tightest gaps in the toughest devices.\n- The ergonomic handle and flexible steel blade make it easy to open devices -- with the nimble precision of a repair surgeon's scalpel.\n\nSpecifications\n\nHandle Material\nPolymer Core with Rubberized Grip\nMaterial\n301 Stainless Steel\nDimensions\n8.25\" x 2.4\" x 2.4\" / 21 x 6.1 x .6 cm\niFixit Part Number\nIF145-259-1\nLifetime Guarantee\n\nDesigned for Precision\n\nThe ergonomic handle and nimble steel blade of the Jimmy give you precise control for delicate electronic repairs.\n\nStrength and Flexibility\n\nCrafted from high-quality 301 Stainless Steel, Jimmy's blade combines strength and flexibility to effortlessly slip into tight spaces.\n\nESD-Safe for Delicate Tasks\n\nFrom prying devices open to aiding in soldering, Jimmy's versatile design and anti-static properties make it the go-to tool for a variety of precision repair jobs.\n\nWhat makes the iFixit Jimmy unique compared to other prying tools?\n\nCan Jimmy be used for all types of electronics?\n\nWhat materials are used in the Jimmy?\n\nCustomer Reviews\n\n5 star reviews: 326\n4 star reviews: 26\n3 star reviews: 2\n2 star reviews: 2\n1 star reviews: 2\n358 ratings",
+    "with": [
+      "Designed for Precision",
+      "Crafted from high-quality 301 Stainless Steel",
+      "Words are powerful",
+      "Lifetime Guarantee"
+    ],
+    "without": [
+      "Fix Your Stuff",
+      "Repair Guides",
+      "Answers Forum"
+    ],
+    "main_content_markdown": "## The Ultimate Device Opener\n\nFlexible blade for opening tough devices\n\n# Jimmy\n\n$7.95\n358 reviews\nCondition: New\n\n- Purchase with purpose! Repair makes a global impact, reduces e-waste, and saves you money.\n- All our products meet rigorous quality standards and are backed by industry-leading guarantees.\n- Same day shipping if ordered by 4PM Eastern.\n- 30-day returns\n\n### Description\n\nThe ultimate device opener.\n\nWords are powerful--and Jimmy's got an extensive vocabulary: slide, cut, twist, poke, slice, part, uproot, divide, lift, dissect, separate, and pry. Whatever your word is for opening up an electronic device, he can do it.\n\n- Jimmy's high-quality steel blade easily slips between the tightest gaps in the toughest devices.\n- The ergonomic handle and flexible steel blade make it easy to open devices -- with the nimble precision of a repair surgeon's scalpel.\n\n### Specifications\n\n| Handle Material | Polymer Core with Rubberized Grip |\n| --- | --- |\n| Material | 301 Stainless Steel |\n| Dimensions | 8.25\" x 2.4\" x 2.4\" / 21 x 6.1 x .6 cm |\n| iFixit Part Number | IF145-259-1 |\n\nLifetime Guarantee\n\n## Designed for Precision\n\nThe ergonomic handle and nimble steel blade of the Jimmy give you precise control for delicate electronic repairs.\n\n## Strength and Flexibility\n\nCrafted from high-quality 301 Stainless Steel, Jimmy's blade combines strength and flexibility to effortlessly slip into tight spaces.\n\n## ESD-Safe for Delicate Tasks\n\nFrom prying devices open to aiding in soldering, Jimmy's versatile design and anti-static properties make it the go-to tool for a variety of precision repair jobs.\n\n### What makes the iFixit Jimmy unique compared to other prying tools?\n\n### Can Jimmy be used for all types of electronics?\n\n### What materials are used in the Jimmy?\n\n## Customer Reviews\n\n5 star reviews: 326\n4 star reviews: 26\n3 star reviews: 2\n2 star reviews: 2\n1 star reviews: 2\n358 ratings"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

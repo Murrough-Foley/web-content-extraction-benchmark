@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.charitynavigator.org/about-us/our-methodology/ratings/",
+  "file_id": "5286",
+  "ground_truth": {
+    "title": "Ratings",
+    "author": null,
+    "publish_date": null,
+    "main_content": "We only rate 501(c)(3) tax-exempt organizations — these are US-based organizations commonly referred to as public charities that work all around the world. With a few exceptions, organizations must have an Accountability & Finance score or an Impact program evaluation to be eligible for a Zero to Four-Star rating.\n\nOur site also includes basic information on charities that don't meet our rating eligibility criteria. Our goal is to give you as much information as possible to guide your giving decisions.\n\nCharities can earn ratings by logging into the Charity Navigator Nonprofit Portal and providing the necessary data.\n\nEligible charities receive a zero to four-star star rating — this is determined by the weighted sum of the organization’s individual beacon scores (0-100).\n\nRating Score Assessment Description\n90+ Great Exceeds or meets best practices and industry standards across almost all areas. Likely to be a highly-effective charity.\n75 - 89 Good Exceeds or meets best practices and industry standards across some areas.\n60 - 74 Needs improvement Meets or nearly meets industry standards in a few areas and underperforms most charities.\n50 - 59 Poor Fails to meet industry standards in most areas and underperforms almost all charities.\n< 50 Very poor Performs below industry standards and well underperforms nearly all charities.\n\nWe recognize that not all metrics and beacons equally predict a charity’s success. The percentage each beacon contributes to the organization’s overall rating depends on the number of beacons an organization has earned.\n\nCharities can earn beacons by logging into the Charity Navigator Nonprofit Portal and providing the necessary data.\n\nProviding Guidance Through Beacons\n\nOur Encompass Rating System™ provides a comprehensive analysis of charity performance across four key domains, which we call \"beacons.\" These beacons and their individual ratings can be seen for each of the charities you search. Learn more about each beacon below.\n\nWe are continually developing new methodologies to deliver a more robust and comprehensive evaluation of charity effectiveness and efficiency. Our team not only relies on research and analysis, but also engages donors, sector leaders, charity executives, academics, and many other stakeholders to identify, develop, and validate new metrics and approaches. For more information, visit our methodology guidebook.",
+    "with": [
+      "Our site also includes basic information on charities that don't meet our rating",
+      "75 - 89 Good Exceeds or meets best practices and industry standards across some ",
+      "Charities can earn beacons by logging into the Charity Navigator Nonprofit Port",
+      "We are continually developing new methodologies"
+    ],
+    "without": [
+      "EIN 13-4148824",
+      "Sign in/Create an account",
+      "Bridge ID"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "reviewed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "article"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://raleighnc.gov/community/services/volunteer-raleigh",
+  "file_id": "5341",
+  "ground_truth": {
+    "title": "Volunteer Raleigh",
+    "author": null,
+    "publish_date": null,
+    "main_content": "How to Get Started\n\nOrientation and Training\n\nBenefits\n\nVolunteer Opportunities\n\nAre you interested in serving your community, but you’re not sure where to start? Are you currently involved in service, but are interested in knowing what other ways you can help? Are you an organization that is looking for ways to recognize your current volunteers or would like to recruit more?\n\nVolunteer Raleigh connects people to volunteer opportunities within City departments, City-funded agencies and organizations that provide services to enhance the quality of life for our neighborhoods and communities.\n\nVolunteers provide more than 118,000 hours of service to over 50 nonprofit and public agencies, which saves the community approximately $2.6 million.\n\nHow to Get Started\n\nVolunteer Raleigh offers volunteer opportunities for people 18 years and older.\n\nWe are currently updating our volunteer registration system. While we work on this, signing up to volunteer is on hold.\n\nWant to Stay Updated?\nYou can sign up to be notified when volunteer registration resumes.\n\nAre you part of an organization?\nIf your organization wants to join the program, please fill out the interest form to be notified when registration for organizations resumes.\n\nIf you need immediate assistance, please email volunteer.raleigh@raleighnc.gov.\n\nOrientation and Training\n\nDepending on the site you are interested in serving with, that site will have specific requirements for orientation and training. Some sites require you shadow current volunteers, while others do require a background check before you can start volunteering.\n\nBe sure to check with the Volunteer Coordinator at your site or with Volunteer Raleigh to be sure of the requirements.\n\nYou will receive the training you need before you volunteer! Volunteer Raleigh and our partners are dedicated to ensuring volunteers are trained to fulfill their roles effectively.\n\nBenefits\n\nHere are a few things volunteering can help you do:\n\nMeet new people and expand your network\n\nImprove your health and happiness\n\nGive back to your community\n\nDiscover your goals and aspirations\n\nLearn and grow new skills\n\nHelp advance your career by adding to your resume\n\nVolunteering allows the organizations to expand services and reach greater need that they would not be able to offer without the help from volunteers. Volunteering leads you to find the joy of serving others and helping to improve your community.\n\nWhen you register to be part of the Volunteer Raleigh program, you also receive:\n\nT-Shirt and Volunteer Raleigh gear based on the number of hours you serve\n\nConnection to a growing network of volunteers and opportunities around the City of Raleigh and Wake County\n\nInvitation to the Annual Volunteer Awards Banquet in the Spring, based on how many hours you serve\n\nVolunteer Opportunities\n\nMany volunteer opportunities exist with local organizations that support a variety of focus areas such as community, crisis support, economic, youth/education, food security, health, homelessness/housing, and seniors. View a comprehensive list of volunteer opportunities available through various local organizations in Raleigh.",
+    "with": [
+      "Volunteer Raleigh connects people to volunteer opportunities within City departm",
+      "If your organization wants to join the program, please fill out the interest for",
+      "Help advance your career by adding to your resume",
+      "Invitation to the Annual Volunteer Awards Banquet in the Spring, based on how ma"
+    ],
+    "without": [
+      "Service categories",
+      "Ask Raleigh - Fix,  Report, Request",
+      "Apps, Maps, and Open Data",
+      "Careers, Jobs, and Volunteering"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "preprocessed",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "listing"
+  }
+}

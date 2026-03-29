@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.denverhealth.org/services/behavioral-health/mental-health-services",
+  "file_id": "1087",
+  "ground_truth": {
+    "title": "Mental Health Services",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Denver Health provides therapy and programs to patients of all ages who are struggling with mental health issues in both an inpatient and outpatient setting. Denver Health’s inpatient programs are for people with mental health problems that require hospitalization. After inpatient assistance, you may be able to transfer to an outpatient program. Denver Health’s outpatient programs are for people who do not require hospitalization.\n\nAdult Mental Health Services\n\nDenver Health provides both inpatient and outpatient mental health services to adults, from age 18 and older.\n\nAdult Inpatient Mental Health Services\nThe Adult Inpatient Behavioral Health unit at Denver Health has 45 beds and serves adult patients experiencing behavioral problems requiring hospitalization, or those having difficulty meeting basic living needs due to a combination of mental, physical or substance abuse problems.\n\nAdult Outpatient Mental Health Services\nThe Adult Outpatient Behavioral Health unit at Denver Health offers individual therapy, couples therapy and group psychotherapy, along with medication evaluation and treatment. Outpatient mental health focuses on improving self-care, social, and emotional functioning.\n\nAdolescent and Child Mental Health Services\n\nDenver Health offers a variety of mental health programs, services and resources for children and adolescents suffering from emotional difficulties.\n\nAdolescent and Child Inpatient Mental Health Services\nThe Adolescent Psychiatry Inpatient Unit at Denver Health is a 16-bed unit for children and adolescents, ages 8-17 years, with significant emotional and behavioral health issues.\n\nAdolescent and Child Outpatient Mental Health Services\nThe Adolescent and Child Outpatient program at Denver Health helps children between the ages of 2-17 years on a wide variety of behavioral and emotional disorders, ranging from adjustment issues to major mental illnesses.",
+    "with": [
+      "Denver Health provides therapy and programs to patients of all ages who are struggling with mental health issues in both an inpatient and outpatient setting.",
+      "Denver Health’s inpatient programs are for people with mental health problems that require hospitalization.",
+      "Denver Health’s outpatient programs are for people who do not require hospitalization.",
+      "Denver Health provides both inpatient and outpatient mental health services to adults, from age 18 and older.",
+      "Denver Health offers a variety of mental health programs, services and resources for children and adolescents suffering from emotional difficulties."
+    ],
+    "without": [
+      "Skip to main content",
+      "Careers",
+      "Do I need a referral to see a specialist?",
+      "Integrated Medical and Psychiatric Care Unit Opens"
+    ],
+    "main_content_markdown": "Denver Health provides therapy and programs to patients of all ages who are struggling with mental health issues in both an inpatient and outpatient setting. Denver Health's **inpatient programs** are for people with mental health problems that require hospitalization. After inpatient assistance, you may be able to transfer to an outpatient program. Denver Health's **outpatient programs** are for people who do not require hospitalization.\n\n### Adult Mental Health Services\n\nDenver Health provides both inpatient and outpatient mental health services to adults, from age 18 and older.\n\n[Adult Inpatient Mental Health Services](http://www.denverhealth.org/medical-services/mental-health-and-addiction-services/our-services/adult-mental-health-services)\nThe Adult Inpatient Behavioral Health unit at Denver Health has 45 beds and serves adult patients experiencing behavioral problems requiring hospitalization, or those having difficulty meeting basic living needs due to a combination of mental, physical or substance abuse problems.\n\n[Adult Outpatient Mental Health Services](http://www.denverhealth.org/medical-services/mental-health-and-addiction-services/our-services/adult-mental-health-services)\nThe Adult Outpatient Behavioral Health unit at Denver Health offers individual therapy, couples therapy and group psychotherapy, along with medication evaluation and treatment. Outpatient mental health focuses on improving self-care, social, and emotional functioning.\n\n### Adolescent and Child Mental Health Services\n\nDenver Health offers a variety of mental health programs, services and resources for children and adolescents suffering from emotional difficulties.\n\n[Adolescent and Child Inpatient Mental Health Services](http://www.denverhealth.org/medical-services/mental-health-and-addiction-services/our-services/adolescent-and-child-mental-health-services)\nThe Adolescent Psychiatry Inpatient Unit at Denver Health is a 16-bed unit for children and adolescents, ages 8-17 years, with significant emotional and behavioral health issues.\n\n[Adolescent and Child Outpatient Mental Health Services](http://www.denverhealth.org/medical-services/mental-health-and-addiction-services/our-services/adolescent-and-child-mental-health-services)\nThe Adolescent and Child Outpatient program at Denver Health helps children between the ages of 2-17 years on a wide variety of behavioral and emotional disorders, ranging from adjustment issues to major mental illnesses."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "verified",
+      "needs_review": false,
+      "tags": [
+        "pool-import",
+        "verified"
+      ]
+    }
+  }
+}

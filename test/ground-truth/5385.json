@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://vuex.vuejs.org/guide/composition-api",
+  "file_id": "5385",
+  "ground_truth": {
+    "title": "Composition API",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Composition API\n\nTo access the store within the setup hook, you can call the useStore function. This is the equivalent of retrieving this.$store within a component using the Option API.\n\nimport { useStore } from 'vuex'\n\nexport default {\nsetup ( ) {\nconst store = useStore ( )\n}\n}\n\nAccessing State and Getters\n\nIn order to access state and getters, you will want to create computed references to retain reactivity. This is the equivalent of creating computed properties using the Option API.\n\nimport { computed } from 'vue'\nimport { useStore } from 'vuex'\n\nexport default {\nsetup ( ) {\nconst store = useStore ( )\n\nreturn {\n\ncount: computed ( ( ) => store. state. count ),\n\ndouble: computed ( ( ) => store. getters. double )\n}\n}\n}\n\nAccessing Mutations and Actions\n\nWhen accessing mutations and actions, you can simply provide the commit and dispatch method inside the setup hook.\n\nimport { useStore } from 'vuex'\n\nexport default {\nsetup ( ) {\nconst store = useStore ( )\n\nreturn {\n\nincrement: ( ) => store. commit ( 'increment' ),\n\nasyncIncrement: ( ) => store. dispatch ( 'asyncIncrement' )\n}\n}\n}\n\nExamples\n\nCheck out the Composition API example to see example applications utilizing Vuex and Vue's Composition API.",
+    "with": [
+      "In order to access state and getters, you will want to create computed reference",
+      "count: computed ( ( ) => store. state. count ),",
+      "increment: ( ) => store. commit ( 'increment' ),",
+      "asyncIncrement: ( ) => store. dispatch ( 'asyncIncrement' )"
+    ],
+    "without": [
+      "API Reference",
+      "Release Notes",
+      "Edit this page on GitHub"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "preprocessed",
+      "needs_review": true
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "documentation"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.typescriptlang.org/docs/handbook/2/types-from-types.html",
+  "file_id": "0669",
+  "ground_truth": {
+    "title": "Documentation",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Creating Types from Types\nTypeScript’s type system is very powerful because it allows expressing types\nin terms of other types\n.\nThe simplest form of this idea is generics. Additionally, we have a wide variety of\ntype operators\navailable to use.\nIt’s also possible to express types in terms of\nvalues\nthat we already have.\nBy combining various type operators, we can express complex operations and values in a succinct, maintainable way.\nIn this section we’ll cover ways to express a new type in terms of an existing type or value.\nGenerics\n- Types which take parameters\nKeyof Type Operator\n- Using the\nkeyof\noperator to create new types\nTypeof Type Operator\n- Using the\ntypeof\noperator to create new types\nIndexed Access Types\n- Using\nType['a']\nsyntax to access a subset of a type\nConditional Types\n- Types which act like if statements in the type system\nMapped Types\n- Creating types by mapping each property in an existing type\nTemplate Literal Types\n- Mapped types which change properties via template literal strings\nThe TypeScript docs are an open source project. Help us improve these pages\nby sending a Pull Request\n❤\nContributors to this page:\nOT\nGF\nAP\nPC\nLast updated: Mar 06, 202",
+    "with": [
+      "Creating Types from Types\nTypeScript’s type system is very powerful because it allows expressing types\nin terms of other types\n.",
+      "The simplest form of this idea is generics.",
+      "Additionally, we have a wide variety of\ntype operators\navailable to use.",
+      "It’s also possible to express types in terms of\nvalues\nthat we already have.",
+      "By combining various type operators, we can express complex operations and values in a succinct, maintainable way."
+    ],
+    "without": [
+      "On this page",
+      "Skip to main content",
+      "Get Started",
+      "Everyday Types"
+    ],
+    "main_content_markdown": "# Creating Types from Types\nTypeScript's type system is very powerful because it allows expressing types\n*in terms of other types*\n.\nThe simplest form of this idea is generics. Additionally, we have a wide variety of\n*type operators*\navailable to use.\nIt's also possible to express types in terms of\n*values*\nthat we already have.\nBy combining various type operators, we can express complex operations and values in a succinct, maintainable way.\nIn this section we'll cover ways to express a new type in terms of an existing type or value.\n[Generics](https://www.typescriptlang.org/docs/handbook/2/generics.html)\n- Types which take parameters\n[Keyof Type Operator](https://www.typescriptlang.org/docs/handbook/2/`keyof`-types.html)\n- Using the\n`keyof`\noperator to create new types\n[Typeof Type Operator](https://www.typescriptlang.org/docs/handbook/2/`typeof`-types.html)\n- Using the\n`typeof`\noperator to create new types\n[Indexed Access Types](https://www.typescriptlang.org/docs/handbook/2/indexed-access-types.html)\n- Using\n`Type['a']`\nsyntax to access a subset of a type\n[Conditional Types](https://www.typescriptlang.org/docs/handbook/2/conditional-types.html)\n- Types which act like if statements in the type system\n[Mapped Types](https://www.typescriptlang.org/docs/handbook/2/mapped-types.html)\n- Creating types by mapping each property in an existing type\n[Template Literal Types](https://www.typescriptlang.org/docs/handbook/2/template-literal-types.html)\n- Mapped types which change properties via template literal strings\nThe TypeScript docs are an open source project. Help us improve these pages\n[by sending a Pull Request](https://github.com/microsoft/TypeScript-Website/blob/v2/packages/documentation/copy/en/handbook-v2/Type Manipulation/_Creating Types from Types.md)\n❤\nContributors to this page:\nOT\nGF\nAP\nPC\nLast updated: Mar 06, 202"
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": []
+    }
+  }
+}

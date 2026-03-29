@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.louiestuxshop.com/tuxedo-shoes",
+  "file_id": "1371",
+  "ground_truth": {
+    "title": "Louie's Tux Shop offers the best selection of…",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Formal Shoe Gallery\n\nLouie's Tux Shop offers the best selection of shoes for your rental. Complimentary socks are included with every shoe rental.\n\nClassic Black Tie - Individual Rental Price - $30.00, With Rental Package - $20.00.\n\nBlack Miami Slip On - Individual Rental Price - $30.00, With Rental Package - $25.00.\n\nSaddle Brown Monaco - Individual Rental Price - $30.00, With Rental Package - $25.00.\n\nMatte Black Monaco - Individual Rental Price - $30.00, With Rental Package - $25.00.\n\nSaddle Brown Burnt Toe - Individual Rental Price - $30.00, With Rental Package - $25.00.\n\nBlack Rockefeller - Individual Rental Price - $30.00, With Rental Package - $25.00.\n\nClassic White Tie - Individual Rental Price - $30.00, With Rental Package - $20.00.\n\nClassic Ivory Tie - Individual Rental Price - $30.00, With Rental Package - $20.00.\n\nIndividual Rental Price is applicable when you do not order a jacket and pant together. The a la carte price does not include the mandatory $12 damage and handling fee or applicable sales tax.",
+    "with": [
+      "Louie's Tux Shop offers the best selection of shoes for your rental.",
+      "Complimentary socks are included with every shoe rental.",
+      "Classic Black Tie - Individual Rental Price - $30.00, With Rental Package - $20.00.",
+      "Individual Rental Price is applicable when you do not order a jacket and pant together.",
+      "The a la carte price does not include the mandatory $12 damage and handling fee or applicable sales tax."
+    ],
+    "without": [
+      "Register Now",
+      "Our Locations",
+      "Contact Us",
+      "Wedding Invitations"
+    ],
+    "main_content_markdown": "# Formal Shoe Gallery\n\nLouie's Tux Shop offers the best selection of shoes for your rental. Complimentary socks are included with every shoe rental.\n\n[Classic Black Tie](https://www.louiestuxshop.com/rental-shoes/21-black-tie-shoe) - Individual Rental Price - $30.00, With Rental Package - $20.00.\n\n[Black Miami Slip On](https://www.louiestuxshop.com/rental-shoes/23-black-miami-slip-on-shoe) - Individual Rental Price - $30.00, With Rental Package - $25.00.\n\n[Saddle Brown Monaco](https://www.louiestuxshop.com/rental-shoes/35-saddle-brown-moc-toe-shoe) - Individual Rental Price - $30.00, With Rental Package - $25.00.\n\n[Matte Black Monaco](https://www.louiestuxshop.com/rental-shoes/34-matte-black-monaco) - Individual Rental Price - $30.00, With Rental Package - $25.00.\n\n[Saddle Brown Burnt Toe](https://www.louiestuxshop.com/rental-shoes/37-saddle-burnt-toe-shoe) - Individual Rental Price - $30.00, With Rental Package - $25.00.\n\n[Black Rockefeller](https://www.louiestuxshop.com/rental-shoes/33-black-rockefeller-tuxedo-shoe) - Individual Rental Price - $30.00, With Rental Package - $25.00.\n\n[Classic White Tie](https://www.louiestuxshop.com/rental-shoes/28-white-classic-tie-tuxedo-shoe) - Individual Rental Price - $30.00, With Rental Package - $20.00.\n\n[Classic Ivory Tie](https://www.louiestuxshop.com/rental-shoes/24-ivory-classic-tie-shoe) - Individual Rental Price - $30.00, With Rental Package - $20.00.\n\nIndividual Rental Price is applicable when you do not order a jacket and pant together. The a la carte price does not include the mandatory $12 damage and handling fee or applicable sales tax."
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "verified",
+      "needs_review": false,
+      "review_reason": "",
+      "tags": [
+        "pool-import"
+      ]
+    }
+  }
+}

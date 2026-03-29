@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.vivint.com/resources/article/how-much-money-a-smart-thermostat-will-actually-save-you",
+  "file_id": "4241",
+  "ground_truth": {
+    "title": "Can a Smart Thermostat Save You Money? Yes—Right Now",
+    "author": null,
+    "publish_date": "2025-12-29",
+    "main_content": "Yes—smart thermostat energy savings can add up fast. According to Energy Star, they cut annual heating and cooling energy costs by about 8%, or roughly $50 per year. With incentives and additional savings built into their algorithms, a smart thermostat typically pays for itself in just a few years.\n\nExplore Vivint’s Smart Thermostat pricing and packages.\n\nWhat is a smart thermostat?\n\nA smart thermostat combines features from programmable thermostats, energy-efficient thermostat setups, and intelligent automation. Unlike traditional thermostats, the Vivint Smart Thermostat learns your preferences, has temperature settings that can be adjusted from anywhere, interfaces with your HVAC system, and connects via Wi‑Fi for remote control via the Vivint app or voice control, if you have a smart assistant like Google.\n\nCompared to traditional models, smart thermostats will save you more money than manual thermostats, which require you to do it all. If you want the thermostat to run at a lower temperature while you’re asleep, you’ll have to remember to turn the temperature settings down before you go to bed. Otherwise, the heating system will continue to kick on throughout the night.\n\nProgrammable thermostats are slightly better in that once you program them, you can put your thermostat completely out of your mind. However, you’ll need to remember to actually program it. Consumer Reports found that as many as 70% of programmable thermostat users don’t actually use the programming feature at all. Programmable thermostats also don’t take into account anything that may come up during the day that changes your routine; for example, if you end up working late, you can’t change the settings remotely to cut down on your energy usage while you’re away.\n\nHow do smart thermostats boost energy efficiency?\n\nHeating and air conditioning are the main culprits of high utility bills. Smart thermostats reduce energy usage by optimizing when heating or cooling runs, without sacrificing comfort.\n\nEnergy Star-approved units typically yield 10-12% savings on heating and 15% on cooling. That could translate to $100-$200 in annual savings, depending on your local energy costs and system type (e.g., heat pumps, central air conditioners).\n\nHow do smart thermostats drive cost savings?\n\nThe average electric bill in the United States is $136 each month, with the average gas bill adding another $69 to that—an amount that adds up to over $2,000 each year. Smart thermostats can help chip away at these costs. Here’s how:\n\nLearning algorithms and scheduling. Machine learning algorithms track your preferred temperature settings. For example, maybe you like the temperature around 72 degrees during the day, but 68 degrees at night while you sleep. Or, during the summer, you prefer your air conditioning to be on during the day and off at night. Your thermostat will memorize these settings.\n\nGeofencing and occupancy detection. Vivint’s system includes geofencing. When you arm your smart home to “Away,” the thermostat lowers or raises temperatures automatically to save energy.\n\nRemote Wi‑Fi control. Manage the system via the Vivint app or voice commands to Google Assistant.\n\nDemand response and utility rebates. Some customers benefit from utility rebates, demand response programs, or custom energy-saving incentives, which offset initial costs.\n\nCost‑cutting heating and cooling system control. Optimizing HVAC operation minimizes stress on your heat pumps, air conditioners, and heating systems, lowering energy costs.\n\nAre smart thermostats worth it if you’re home often?\n\nAbsolutely. Even homeowners who stay in most of the day can benefit. Smart thermostats still make small, continuous adjustments—like lowering temperatures while you’re cooking or out for errands—adding up to substantial annual savings.\n\nWhy choose the Vivint Smart Thermostat?\n\nThe Vivint Smart Thermostat isn’t just about adjusting the temperature—it’s about creating a home that thinks for you. Seamlessly integrated with your security system, it automatically adjusts settings when you arm to “Away,” cutting energy waste without lifting a finger, as well as offering you these great features:\n\nAdjusts settings in sync with your security system—arming to “Away” triggers smart energy-saving automation.\n\nLearns and optimizes over time for ideal comfort and efficiency.\n\nConnects seamlessly through Wi‑Fi connectivity, the Vivint app, and voice assistants.\n\nAvailable with professional installation and setup from certified technicians. See details: Vivint Installation Services.\n\nFinal take: Energy-efficient living starts with Vivint\n\nSmart thermostats are more than gadgets—they’re central to energy-saving automation for your home. By combining geofencing, learning algorithms, and Wi‑Fi thermostat capabilities, the Vivint thermostat delivers comfort, convenience, and annual savings.\n\nReady to start? Book your professional installation or give us a call at 855.822.1220 today.",
+    "with": [
+      "Explore Vivint’s Smart Thermostat pricing and packages.",
+      "Remote Wi‑Fi control. Manage the system via the Vivint app or voice commands to Google Assistant.",
+      "Ready to start? Book your professional installation or give us a call at 855.822.1220 today."
+    ],
+    "without": [
+      "Home Security Systems",
+      "View Account",
+      "Get a free quote today.",
+      "You may also like:"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false
+    },
+    "source": "rs-trafilatura-draft",
+    "serper_hint": "product"
+  }
+}
