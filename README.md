@@ -1,10 +1,10 @@
-# WCEB: Web Content Extraction Benchmark
+# WCXB: Web Content Extraction Benchmark
 
 **The largest open benchmark for evaluating web content extraction, boilerplate removal, and main content detection across diverse page types.**
 
-WCEB provides 2,008 human-reviewed web pages spanning 7 page types and 1,613 domains, with ground truth annotations, HTML source files, and baseline results from 14 extraction systems. Unlike existing benchmarks that focus exclusively on news articles, WCEB evaluates extraction across the full diversity of the modern web — product pages, forums, documentation, service pages, listings, and collections — where current extractors fail most.
+WCXB provides 2,008 human-reviewed web pages spanning 7 page types and 1,613 domains, with ground truth annotations, HTML source files, and baseline results from 14 extraction systems. Unlike existing benchmarks that focus exclusively on news articles, WCXB evaluates extraction across the full diversity of the modern web — product pages, forums, documentation, service pages, listings, and collections — where current extractors fail most.
 
-## Why WCEB?
+## Why WCXB?
 
 Existing web content extraction benchmarks have critical blind spots:
 
@@ -16,9 +16,9 @@ Existing web content extraction benchmarks have critical blind spots:
 | ScrapingHub | 2019 | 181 | articles only | yes |
 | Google-Trends | 2017 | 180 | mixed (untyped) | yes |
 | WebMainBench | 2025 | 7,809 | mixed (untyped) | no |
-| **WCEB** | **2026** | **2,008** | **7 labeled types** | **yes** |
+| **WCXB** | **2026** | **2,008** | **7 labeled types** | **yes** |
 
-On articles, top extraction systems converge within 2-3 F1 points (0.91-0.93). But on forums, products, and collections, the gap widens to **20-30 F1 points** — a difference invisible to article-only benchmarks. WCEB is designed to reveal these blind spots.
+On articles, top extraction systems converge within 2-3 F1 points (0.91-0.93). But on forums, products, and collections, the gap widens to **20-30 F1 points** — a difference invisible to article-only benchmarks. WCXB is designed to reveal these blind spots.
 
 ## Dataset Overview
 
@@ -43,7 +43,7 @@ On articles, top extraction systems converge within 2-3 F1 points (0.91-0.93). B
 ## Directory Structure
 
 ```
-wceb/
+wcxb/
 dev/
   ground-truth/       # 1,497 JSON ground truth files
   html/               # 1,497 gzipped HTML source files (.html.gz)
@@ -192,7 +192,7 @@ Ground truth was produced through a multi-stage pipeline:
 
 ## Page Type Taxonomy
 
-WCEB defines page types by **HTML structural differences that affect extraction behavior**, not by semantic content:
+WCXB defines page types by **HTML structural differences that affect extraction behavior**, not by semantic content:
 
 - **Article**: Single content container with sequential paragraphs. Standard extraction works well.
 - **Forum**: Multiple user posts in sequence. Extractors that filter `class="comment"` elements lose the primary content.
@@ -204,7 +204,7 @@ WCEB defines page types by **HTML structural differences that affect extraction 
 
 ## Use Cases
 
-WCEB is designed for:
+WCXB is designed for:
 
 - **Benchmarking web content extractors** — main content extraction, boilerplate removal, text extraction from HTML
 - **Evaluating web scraping quality** — how well does your scraper extract the actual content?
@@ -217,11 +217,11 @@ WCEB is designed for:
 ## Citation
 
 ```bibtex
-@article{foley2026wceb,
-  title={{WCEB}: A Multi-Type Web Content Extraction Benchmark},
+@article{foley2026wcxb,
+  title={{WCXB}: A Multi-Type Web Content Extraction Benchmark},
   author={Foley, Murrough},
   year={2026},
-  url={https://github.com/murroughfoley/wceb}
+  url={https://github.com/murroughfoley/wcx}
 }
 ```
 
