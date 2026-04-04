@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-WCEB Evaluation Script
+WCXB Evaluation Script
 
 Evaluate a web content extraction system against the WCEB benchmark.
 
