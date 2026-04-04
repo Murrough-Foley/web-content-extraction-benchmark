@@ -1,4 +1,4 @@
-# WCXB: Web Content Extraction Benchmark
+# WCXB: Web Content eXtraction Benchmark
 
 **The largest open benchmark for evaluating web content extraction, boilerplate removal, and main content detection across diverse page types.**
 
